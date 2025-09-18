@@ -36,7 +36,7 @@ model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
 min_pixels = 256 * 28 * 28
 max_pixels = 1280 * 28 * 28
 processor = AutoProcessor.from_pretrained(
-    model_name, min_pixels=min_pixels, max_pixels=max_pixels
+    model_name,# min_pixels=min_pixels, max_pixels=max_pixels
 )
 
 print(f"Total rows: {len(dataset)} | Batch size: {BATCH_SIZE}")
