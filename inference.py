@@ -11,7 +11,7 @@ BATCH_SIZE = 1
 PROMPT_SYSTEM = (
     "You are a careful paleography assistant for historical handwriting."
 )
-PROMPT_USER = "TASK: Transcribe the line. The language is in norwegian"
+PROMPT_USER = "TASK: Transcribe the line. The language is in danish or norwegian"
 
 # Load the dataset - has columns: file, textline, bbox
 dataset_filename = 'norhand/test_data/textlines.csv'
