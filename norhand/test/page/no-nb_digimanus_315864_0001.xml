@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:28:14.387+02:00</Created>
+        <LastChange>2023-05-09T14:32:29.507+02:00</LastChange>
+        <TranskribusMetadata docId="1026719" pageId="43161714" pageNr="1" tsid="121321588" status="GT" userId="69942" imgUrl="https://files.transkribus.eu/Get?id=LBHQZIJHBGJRECOIFLVLXTFH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QWJUGMFORIVHEBZTDTPNUBCK" imageId="35401421"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_315864_0001.jpg" imageWidth="2548" imageHeight="3913">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770917583" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="542,375 548,3069 2302,3056 2296,362"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1108,580 1259,563 1323,558 1403,553 1809,536 1961,540 2140,526 2179,511 2175,420 1964,395 1853,432 1786,393 1588,468 1344,411 1102,452"/>
+                <Baseline points="1115,522 1167,523 1220,524 1272,524 1325,524 1378,523 1430,522 1483,521 1536,518 1588,516 1641,514 1694,510 1746,509 1799,504 1852,501 1904,497 1957,495 2010,491 2062,487 2115,483 2168,479"/>
+                <TextEquiv>
+                    <Unicode>Kristiania 16/2/03</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="608,1030 1091,1053 1945,1002 1941,883 1880,881 1718,936 1496,869 1362,885 1309,940 1204,897 604,910"/>
+                <Baseline points="617,1005 681,1004 746,1002 811,1001 876,999 941,997 1005,995 1070,992 1135,990 1200,987 1265,986 1329,982 1394,980 1459,977 1524,975 1589,972 1653,971 1718,968 1783,966 1848,964 1933,960"/>
+                <TextEquiv>
+                    <Unicode>Kjære hr. Vigeland!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="863,1292 1149,1327 1552,1275 2113,1293 2266,1261 2260,1163 2135,1193 2050,1145 1878,1189 1702,1134 1512,1186 862,1195"/>
+                <Baseline points="872,1274 941,1275 1010,1277 1079,1277 1148,1275 1217,1274 1286,1272 1355,1268 1424,1265 1493,1262 1562,1258 1631,1255 1700,1251 1769,1247 1838,1245 1907,1242 1976,1239 2045,1239 2114,1238 2183,1239 2253,1241"/>
+                <TextEquiv>
+                    <Unicode>Mens jeg husker på</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="578,1471 743,1496 927,1494 1033,1501 1346,1474 1419,1496 1559,1492 1802,1453 1952,1477 2099,1416 2098,1348 1755,1354 1235,1371 980,1401 796,1366 577,1406"/>
+                <Baseline points="587,1446 662,1449 737,1451 812,1451 887,1452 962,1452 1037,1452 1113,1451 1188,1451 1263,1449 1338,1448 1413,1446 1488,1444 1563,1442 1639,1440 1714,1437 1789,1436 1864,1433 1939,1431 2014,1428 2090,1425"/>
+                <TextEquiv>
+                    <Unicode>det, sender jeg Dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="602,1649 1007,1631 1187,1676 1356,1621 1454,1678 1874,1599 1977,1651 2089,1614 2087,1512 1689,1546 1336,1514 1199,1579 1044,1545 600,1594"/>
+                <Baseline points="611,1625 684,1625 757,1623 831,1622 904,1621 977,1620 1051,1619 1124,1617 1197,1616 1271,1614 1344,1613 1417,1611 1491,1610 1564,1608 1637,1607 1711,1604 1784,1602 1857,1599 1931,1598 2004,1595 2078,1592"/>
+                <TextEquiv>
+                    <Unicode>omtalte fotografi af</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="571,1805 637,1814 701,1870 791,1867 915,1806 1012,1821 1091,1815 1138,1807 1138,1752 1073,1757 1043,1739 990,1737 893,1724 843,1724 805,1733 742,1694 606,1727 570,1708"/>
+                <Baseline points="581,1805 608,1804 635,1803 663,1802 690,1801 717,1800 745,1799 772,1799 799,1798 827,1797 854,1797 881,1797 909,1797 936,1797 963,1797 991,1797 1018,1797 1045,1797 1073,1797 1100,1797 1128,1797"/>
+                <TextEquiv>
+                    <Unicode>Sigbjørn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="912,2005 1072,1991 1206,2036 2018,1953 2230,1963 2252,1850 910,1881"/>
+                <Baseline points="921,1965 989,1965 1057,1965 1126,1964 1194,1962 1262,1960 1331,1958 1399,1955 1467,1952 1536,1949 1604,1945 1673,1943 1741,1939 1809,1937 1878,1934 1946,1932 2014,1932 2083,1932 2151,1932 2220,1934"/>
+                <TextEquiv>
+                    <Unicode>Tak for beskeden til</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="603,2179 812,2163 1179,2211 1434,2147 2061,2135 2062,2037 1720,2028 1169,2070 937,2029 841,2087 776,2052 600,2092"/>
+                <Baseline points="611,2141 683,2141 755,2141 827,2141 899,2139 971,2137 1043,2135 1115,2130 1187,2127 1259,2123 1331,2118 1403,2115 1475,2111 1547,2106 1619,2103 1691,2099 1763,2096 1835,2093 1907,2091 1979,2090 2051,2088"/>
+                <TextEquiv>
+                    <Unicode>hr. Væring om at la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="595,2315 810,2375 1137,2334 1257,2362 1452,2298 1628,2348 1921,2311 2158,2301 2155,2202 1981,2191 1300,2224 593,2250"/>
+                <Baseline points="605,2300 682,2301 759,2303 836,2303 913,2301 990,2300 1067,2297 1144,2295 1221,2292 1298,2288 1376,2285 1453,2280 1530,2277 1607,2274 1684,2271 1761,2270 1838,2267 1915,2267 1992,2265 2069,2267 2147,2268"/>
+                <TextEquiv>
+                    <Unicode>mig få fotografiet af</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="597,2519 1837,2494 2095,2509 2195,2464 2194,2389 592,2414"/>
+                <Baseline points="606,2490 685,2486 764,2481 843,2479 922,2475 1001,2473 1080,2471 1159,2468 1238,2466 1317,2465 1396,2463 1475,2462 1554,2460 1633,2459 1712,2459 1791,2457 1870,2457 1949,2456 2028,2454 2107,2454 2186,2453"/>
+                <TextEquiv>
+                    <Unicode>Deres "Abel", som nu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="611,2687 775,2700 906,2643 2000,2649 1997,2560 1714,2543 1277,2558 608,2584"/>
+                <Baseline points="620,2643 688,2643 756,2642 825,2640 893,2639 962,2637 1030,2636 1098,2633 1167,2631 1235,2628 1304,2627 1372,2624 1440,2621 1509,2619 1577,2617 1646,2615 1714,2613 1782,2612 1851,2611 1919,2610 1988,2610"/>
+                <TextEquiv>
+                    <Unicode>pryder mit kammer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="1259,2853 1284,2843 1360,2848 1383,2832 1421,2850 1435,2844 1456,2862 1512,2865 1542,2889 1591,2885 1590,2778 1563,2770 1497,2774 1434,2753 1381,2781 1347,2773 1326,2789 1258,2799"/>
+                <Baseline points="1269,2835 1295,2832 1321,2832 1347,2831 1373,2829 1399,2829 1425,2829 1451,2829 1477,2829 1503,2830 1529,2831 1555,2831 1581,2832"/>
+                <TextEquiv>
+                    <Unicode>Deres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="1256,3045 1405,2989 1743,3043 1906,3019 1999,3008 2121,2999 2226,2989 2224,2912 1479,2936 1366,2888 1252,2905"/>
+                <Baseline points="1265,2993 1309,2994 1353,2994 1397,2994 1441,2994 1485,2993 1529,2991 1573,2990 1617,2988 1661,2988 1706,2985 1750,2984 1794,2982 1838,2980 1882,2978 1926,2977 1970,2976 2014,2975 2058,2975 2102,2975 2210,2971"/>
+                <TextEquiv>
+                    <Unicode>H. Obstfelder.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kristiania 16/2/03&#13;
+Kjære hr. Vigeland!&#13;
+Mens jeg husker på&#13;
+det, sender jeg Dem&#13;
+omtalte fotografi af&#13;
+Sigbjørn.&#13;
+Tak for beskeden til&#13;
+hr. Væring om at la&#13;
+mig få fotografiet af&#13;
+Deres "Abel", som nu&#13;
+pryder mit kammer.&#13;
+Deres&#13;
+H. Obstfelder.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

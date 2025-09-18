@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:25:09.894+02:00</Created>
+        <LastChange>2023-05-09T14:31:08.589+02:00</LastChange>
+        <TranskribusMetadata docId="1026693" pageId="43161653" pageNr="1" tsid="121321447" status="GT" userId="69942" imgUrl="https://files.transkribus.eu/Get?id=RMVFALZACKJEONWQNBDYHIQH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JKFROFBVNHYPCCDEEFDNKTAY" imageId="35401364"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_209189_0001.jpg" imageWidth="4793" imageHeight="3924">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770924302" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662373295607_289"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1662373295607_289" custom="readingOrder {index:0;}">
+            <Coords points="2491,330 4605,330 4605,3428 2491,3428"/>
+            <TextLine id="region_1662373295607_289l4" custom="readingOrder {index:0;}">
+                <Coords points="2783,876 2903,834 3004,862 3253,838 3311,871 3851,844 3850,657 3478,661 3284,766 3038,619 2782,760"/>
+                <Baseline points="2795,842 2844,839 2894,836 2943,833 2993,831 3042,830 3092,830 3141,830 3191,830 3240,830 3290,831 3339,831 3389,831 3438,831 3488,831 3537,831 3587,831 3636,830 3686,828 3735,827 3826,824"/>
+                <TextEquiv>
+                    <Unicode>Gode Ven!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373295607_289l5" custom="readingOrder {index:1;}">
+                <Coords points="2862,1186 3069,1183 3264,1099 3581,1139 3711,1101 3807,1169 3994,1107 4587,1123 4587,1049 4388,1051 4185,923 3975,1030 3841,993 3589,1060 3450,978 3123,972 2952,1031"/>
+                <Baseline points="2964,1095 3044,1097 3125,1097 3205,1098 3286,1098 3366,1098 3447,1100 3527,1100 3608,1100 3688,1100 3769,1100 3850,1100 3930,1100 4011,1100 4091,1100 4172,1101 4252,1101 4333,1101 4413,1102 4494,1103 4575,1104"/>
+                <TextEquiv>
+                    <Unicode>Jeg beder Dig herved om,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373295607_289l6" custom="readingOrder {index:2;}">
+                <Coords points="2700,1235 3327,1252 3411,1310 4282,1240 4436,1303 4590,1270 4578,1148 4371,1162 3148,1151 3000,1148 2700,1192"/>
+                <Baseline points="2712,1226 2804,1230 2897,1233 2989,1236 3082,1238 3175,1238 3267,1239 3360,1239 3453,1239 3545,1239 3638,1238 3731,1238 3823,1236 3916,1236 4009,1236 4101,1236 4194,1236 4287,1237 4379,1239 4472,1241 4565,1244"/>
+                <TextEquiv>
+                    <Unicode>at Du vil gjøre mig den Tje-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373295607_289l7" custom="readingOrder {index:3;}">
+                <Coords points="2679,1397 4612,1398 4606,1303 4295,1271 4158,1334 3798,1260 3572,1297 2911,1284 2679,1333"/>
+                <Baseline points="2690,1373 2785,1373 2880,1371 2976,1371 3071,1371 3167,1370 3262,1370 3358,1370 3453,1368 3549,1368 3644,1367 3739,1367 3835,1367 3930,1367 4026,1367 4121,1367 4217,1368 4312,1370 4408,1371 4503,1373 4599,1374"/>
+                <TextEquiv>
+                    <Unicode>neste, at staa Fadder til min</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373295607_289l8" custom="readingOrder {index:4;}">
+                <Coords points="2670,1559 3116,1504 3431,1586 3580,1509 3753,1574 3837,1514 4587,1522 4598,1442 4286,1471 3916,1396 3621,1471 3313,1401 3119,1475 3052,1425 2670,1456"/>
+                <Baseline points="2681,1497 2776,1500 2871,1501 2966,1502 3062,1503 3157,1503 3252,1503 3348,1503 3443,1503 3538,1502 3634,1502 3729,1502 3824,1500 3919,1500 4015,1500 4110,1500 4205,1500 4301,1502 4396,1502 4491,1503 4587,1506"/>
+                <TextEquiv>
+                    <Unicode>yngste Søn paa førstkommende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373295607_289l9" custom="readingOrder {index:5;}">
+                <Coords points="2666,1650 3014,1704 3117,1646 3581,1642 3766,1709 3971,1659 4611,1648 4606,1607 4335,1530 4193,1597 4107,1530 3828,1580 3571,1551 3442,1594 3343,1533 3180,1608 2957,1550 2666,1590"/>
+                <Baseline points="2678,1634 2774,1635 2870,1635 2966,1635 3062,1637 3158,1637 3254,1637 3350,1637 3446,1637 3542,1637 3638,1635 3734,1635 3830,1635 3926,1635 4022,1635 4118,1637 4214,1637 4310,1637 4406,1638 4502,1638 4598,1640"/>
+                <TextEquiv>
+                    <Unicode>Søndag. De andre, jeg har bedt, er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373295607_289l10" custom="readingOrder {index:6;}">
+                <Coords points="2684,1812 2919,1769 3154,1830 3299,1778 3490,1865 3719,1777 4499,1784 4491,1748 4262,1699 3478,1703 3270,1665 3187,1689 2683,1707"/>
+                <Baseline points="2696,1767 2785,1769 2875,1770 2964,1770 3054,1772 3143,1772 3233,1772 3322,1772 3412,1772 3501,1772 3591,1772 3681,1772 3770,1772 3860,1772 3949,1772 4039,1772 4128,1773 4218,1773 4307,1775 4397,1776 4487,1779"/>
+                <TextEquiv>
+                    <Unicode>M. Aarflot og Seminarilærer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373295607_289l11" custom="readingOrder {index:7;}">
+                <Coords points="2718,1927 2785,1906 2927,1923 3004,1908 3064,1931 3150,1910 3220,1936 3343,1909 3344,1847 3232,1797 3101,1859 3003,1802 2931,1830 2845,1790 2752,1867 2719,1864"/>
+                <Baseline points="2730,1901 2760,1901 2790,1901 2820,1901 2850,1901 2880,1901 2910,1901 2940,1902 2970,1902 3000,1902 3030,1902 3060,1903 3090,1904 3120,1904 3150,1905 3180,1906 3210,1907 3240,1908 3270,1910 3300,1911 3330,1913"/>
+                <TextEquiv>
+                    <Unicode>Kobberstad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373295607_289l12" custom="readingOrder {index:8;}">
+                <Coords points="2764,2215 3528,2175 4006,2223 4088,2212 4422,2211 4392,2057 4097,2068 3938,2041 3619,2093 3424,2053 3275,2107 2984,2005 2764,2088"/>
+                <Baseline points="2775,2184 2855,2180 2935,2175 3015,2173 3096,2170 3176,2168 3256,2167 3336,2166 3417,2165 3497,2165 3577,2165 3657,2165 3738,2166 3818,2166 3898,2166 3978,2168 4059,2168 4139,2168 4219,2168 4299,2168 4380,2166"/>
+                <TextEquiv>
+                    <Unicode>Kristiania den 26. Mai 1875</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373295607_289l13" custom="readingOrder {index:9;}">
+                <Coords points="3829,2434 3858,2444 3976,2430 4023,2446 4110,2431 4175,2445 4207,2432 4223,2450 4244,2446 4248,2367 4161,2361 4086,2379 3961,2268 3836,2280"/>
+                <Baseline points="3843,2408 3869,2405 3895,2405 3921,2405 3947,2406 3973,2407 3999,2408 4025,2409 4051,2411 4077,2412 4103,2414 4129,2416 4155,2417 4181,2418 4207,2418 4233,2417"/>
+                <TextEquiv>
+                    <Unicode>Din</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373295607_289l14" custom="readingOrder {index:10;}">
+                <Coords points="3539,2946 3998,2701 4115,2725 4197,2701 4295,2729 4425,2702 4516,2720 4519,2631 4476,2637 4258,2490 4128,2492 4057,2533 3942,2463 3884,2514 3626,2487"/>
+                <Baseline points="3804,2699 3839,2692 3874,2684 3909,2680 3944,2678 3979,2676 4014,2676 4049,2678 4084,2681 4119,2684 4155,2687 4190,2690 4225,2694 4260,2697 4295,2700 4330,2703 4365,2703 4400,2705 4435,2703 4470,2701 4506,2696"/>
+                <TextEquiv>
+                    <Unicode>J. Welle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gode Ven!&#13;
+Jeg beder Dig herved om,&#13;
+at Du vil gjøre mig den Tje-&#13;
+neste, at staa Fadder til min&#13;
+yngste Søn paa førstkommende&#13;
+Søndag. De andre, jeg har bedt, er&#13;
+M. Aarflot og Seminarilærer&#13;
+Kobberstad.&#13;
+Kristiania den 26. Mai 1875&#13;
+Din&#13;
+J. Welle.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

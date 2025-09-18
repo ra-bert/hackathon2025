@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:37:29.650+02:00</Created>
+        <LastChange>2023-10-16T11:37:50.359+02:00</LastChange>
+        <TranskribusMetadata docId="1027183" pageId="43172139" pageNr="1" tsid="137472757" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=HPBLXZWVHAMCUJPAHCOPOVSF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YIINRIQLVLEEEVPYWIQGGIEQ" imageId="35411725"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_65922_0001.jpg" imageWidth="2392" imageHeight="3640">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770791975" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="227,262 228,3375 2208,3378 2207,265"/>
+            <TextLine id="r1l4" custom="readingOrder {index:0;}">
+                <Coords points="501,827 614,804 834,840 885,805 996,835 1141,801 1289,850 1412,809 1576,821 1560,703 1405,735 1347,700 1243,735 964,720 901,757 751,698 702,721 502,681"/>
+                <Baseline points="512,785 564,786 617,788 669,789 722,789 775,789 827,789 880,789 933,789 985,789 1038,789 1091,789 1143,789 1196,788 1249,788 1301,789 1354,789 1407,789 1459,791 1512,792 1565,795"/>
+                <TextEquiv>
+                    <Unicode>Hr. bokreidar Olaf Norli,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:1;}">
+                <Coords points="1441,945 1529,946 1547,963 1599,947 1635,971 1710,947 1746,977 1793,946 1850,961 1924,950 1925,902 1877,910 1854,891 1826,912 1801,890 1773,902 1674,851 1637,876 1588,869 1549,838 1501,840 1444,813"/>
+                <Baseline points="1454,932 1479,932 1505,933 1530,933 1556,935 1581,935 1607,935 1632,936 1658,936 1683,936 1709,936 1734,936 1760,938 1785,938 1811,938 1836,938 1862,939 1887,939 1913,939"/>
+                <TextEquiv>
+                    <Unicode>Kristiania.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:2;}">
+                <Coords points="649,1508 2119,1536 2121,1388 1944,1451 1875,1402 1513,1396 1223,1461 993,1382 651,1381"/>
+                <Baseline points="662,1487 734,1487 806,1488 879,1488 951,1488 1023,1490 1096,1490 1168,1490 1240,1490 1313,1491 1385,1491 1457,1491 1530,1493 1602,1493 1674,1494 1747,1494 1819,1496 1891,1497 1964,1499 2036,1500 2109,1503"/>
+                <TextEquiv>
+                    <Unicode>Hermed sender eg Dykk det eine expl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="309,1653 2015,1667 2038,1549 1837,1586 1409,1531 1319,1600 1032,1556 843,1607 603,1533 309,1563"/>
+                <Baseline points="320,1634 405,1632 490,1631 576,1631 661,1631 746,1631 832,1631 917,1631 1002,1631 1088,1632 1173,1632 1258,1632 1344,1632 1429,1634 1514,1634 1600,1634 1685,1632 1770,1632 1856,1632 1941,1631 2027,1629"/>
+                <TextEquiv>
+                    <Unicode>av kontrakten imillom oss. Samstundes sender</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="322,1841 933,1768 1242,1822 1638,1789 1790,1857 2063,1803 2063,1738 1835,1677 1735,1744 1606,1701 1300,1744 1030,1669 323,1730"/>
+                <Baseline points="333,1775 423,1772 513,1772 604,1770 694,1770 785,1770 875,1770 966,1770 1056,1771 1147,1772 1237,1773 1328,1773 1418,1775 1509,1776 1599,1776 1690,1776 1780,1778 1871,1778 1961,1776 2052,1776"/>
+                <TextEquiv>
+                    <Unicode>eg det 4de ark korrektur attende. - Eg har</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="325,1949 1983,1926 1823,1833 1567,1828 1476,1883 1275,1830 843,1887 582,1811 478,1866 326,1843"/>
+                <Baseline points="338,1914 419,1914 501,1914 582,1914 664,1914 746,1916 827,1916 909,1916 990,1916 1072,1916 1154,1916 1235,1916 1317,1916 1398,1916 1480,1917 1562,1917 1643,1916 1725,1916 1806,1916 1888,1916 1970,1916"/>
+                <TextEquiv>
+                    <Unicode>vore i tvil um ymse maalformer hittil, - er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="317,2085 2190,2105 2176,1985 1822,2014 1693,1957 895,2028 734,1963 318,1976"/>
+                <Baseline points="330,2051 422,2053 514,2055 607,2055 699,2057 792,2057 884,2057 976,2057 1069,2057 1161,2055 1254,2055 1346,2055 1438,2054 1531,2054 1623,2054 1716,2054 1808,2054 1900,2055 1993,2057 2085,2058 2178,2060"/>
+                <TextEquiv>
+                    <Unicode>ikkje so heilt einig i den "aasenske maalform" -,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="317,2245 2065,2213 1995,2144 1780,2159 1721,2108 1082,2169 895,2108 606,2154 523,2109 317,2157"/>
+                <Baseline points="329,2192 415,2193 501,2195 587,2195 674,2196 760,2196 846,2196 932,2196 1019,2196 1105,2196 1191,2196 1277,2196 1364,2196 1450,2196 1536,2196 1622,2196 1709,2198 1795,2198 1881,2199 1967,2199 2054,2201"/>
+                <TextEquiv>
+                    <Unicode>men har no teke ei avgjerdsla. Som De ser, er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="319,2381 2047,2369 2017,2279 1816,2263 1338,2316 1091,2258 952,2302 811,2251 319,2284"/>
+                <Baseline points="330,2337 415,2339 500,2339 585,2339 671,2339 756,2340 841,2340 927,2340 1012,2340 1097,2340 1183,2340 1268,2340 1353,2340 1438,2340 1524,2340 1609,2340 1694,2339 1780,2339 1865,2339 1950,2339 2036,2339"/>
+                <TextEquiv>
+                    <Unicode>det vanleg landsmaalsform med smaa brigde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="344,2497 580,2548 985,2489 1713,2543 1930,2493 2036,2544 2193,2512 2194,2375 1858,2426 1581,2383 1419,2441 1043,2380 781,2431 638,2375 553,2426 345,2390"/>
+                <Baseline points="356,2475 447,2475 538,2477 630,2477 721,2477 812,2477 904,2477 995,2477 1086,2477 1178,2477 1269,2477 1360,2477 1452,2477 1543,2477 1634,2477 1726,2477 1817,2478 1908,2478 2000,2480 2091,2480 2183,2481"/>
+                <TextEquiv>
+                    <Unicode>her og kvar. Men De maa orsaka at De fekk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683704827608_377" custom="readingOrder {index:10;}">
+                <Coords points="351,2533 711,2593 851,2537 851,2671 351,2642"/>
+                <Baseline points="362,2625 454,2624 546,2622 638,2621 731,2621 823,2619 851,2619"/>
+                <TextEquiv>
+                    <Unicode>kladden aa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683704825800_372" custom="readingOrder {index:11;}">
+                <Coords points="1007,2531 1305,2573 1467,2520 1645,2591 1786,2506 1918,2580 2221,2559 2221,2686 2075,2635 1303,2691 1218,2635 1084,2686 1007,2681"/>
+                <Baseline points="1007,2619 1008,2619 1100,2619 1192,2619 1285,2619 1377,2621 1469,2621 1561,2621 1654,2621 1746,2622 1838,2622 1931,2622 2023,2622 2115,2622 2208,2621"/>
+                <TextEquiv>
+                    <Unicode>prenta; det var ikkje meininga.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="677,2778 1553,2772 1691,2827 2152,2777 2152,2693 2069,2674 1967,2718 1681,2669 1015,2718 923,2662 678,2642"/>
+                <Baseline points="689,2747 761,2750 834,2751 906,2753 979,2754 1052,2756 1124,2756 1197,2756 1269,2756 1342,2756 1415,2756 1487,2756 1560,2756 1632,2756 1705,2757 1778,2757 1850,2757 1923,2759 1995,2760 2068,2762 2141,2763"/>
+                <TextEquiv>
+                    <Unicode>Vil De so vera so venleg aa merka</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:13;}">
+                <Coords points="362,2949 1548,2914 1737,2963 2211,2933 2201,2826 1406,2823 1241,2876 901,2795 713,2840 364,2808"/>
+                <Baseline points="374,2897 453,2898 533,2900 612,2900 692,2900 771,2900 851,2900 930,2898 1010,2898 1089,2898 1169,2900 1248,2900 1328,2901 1407,2903 1487,2905 1566,2908 1646,2912 1725,2918 1805,2924 1884,2931 2207,2929"/>
+                <TextEquiv>
+                    <Unicode>Dykk, at tilskrifta mi no er Kotsøien st.,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:14;}">
+                <Coords points="369,3066 898,3065 986,3109 1985,3065 1985,3003 1807,2958 1178,3014 813,2930 624,2941 540,3004 369,2978"/>
+                <Baseline points="380,3039 459,3038 539,3038 619,3038 698,3038 778,3038 858,3038 937,3038 1017,3039 1097,3039 1177,3039 1256,3041 1336,3041 1416,3041 1495,3041 1575,3041 1655,3041 1734,3041 1814,3041 1894,3041 1974,3039"/>
+                <TextEquiv>
+                    <Unicode>ikkje Faksdal lenger, so gaar det fortare.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:15;}">
+                <Coords points="1384,3206 1495,3234 1530,3207 1666,3198 1765,3238 1828,3206 1967,3200 2168,3228 2168,3124 2134,3110 2039,3142 1986,3114 1916,3128 1872,3097 1697,3150 1595,3098 1385,3095"/>
+                <Baseline points="1395,3179 1433,3180 1471,3180 1509,3182 1547,3182 1585,3182 1623,3183 1661,3183 1699,3183 1737,3183 1775,3183 1813,3183 1851,3183 1889,3183 1927,3183 1965,3183 2003,3183 2041,3183 2079,3184 2117,3185 2156,3186"/>
+                <TextEquiv>
+                    <Unicode>Dykkar vyrdsame</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:16;}">
+                <Coords points="1535,3385 1692,3387 1739,3358 1803,3382 1956,3352 2023,3367 2053,3360 2054,3319 2032,3271 1983,3265 1943,3270 1835,3248 1721,3282 1650,3234 1537,3235"/>
+                <Baseline points="1547,3339 1573,3342 1599,3344 1625,3346 1651,3348 1677,3348 1703,3349 1729,3350 1755,3350 1781,3350 1807,3350 1833,3350 1859,3350 1885,3350 1911,3350 1937,3350 1963,3350 1989,3350 2015,3350 2042,3350"/>
+                <TextEquiv>
+                    <Unicode>Olav Duun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hr. bokreidar Olaf Norli,
+Kristiania.
+Hermed sender eg Dykk det eine expl.
+av kontrakten imillom oss. Samstundes sender
+eg det 4de ark korrektur attende. - Eg har
+vore i tvil um ymse maalformer hittil, - er
+ikkje so heilt einig i den "aasenske maalform" -,
+men har no teke ei avgjerdsla. Som De ser, er
+det vanleg landsmaalsform med smaa brigde
+her og kvar. Men De maa orsaka at De fekk
+kladden aa
+prenta; det var ikkje meininga.
+Vil De so vera so venleg aa merka
+Dykk, at tilskrifta mi no er Kotsøien st.,
+ikkje Faksdal lenger, so gaar det fortare.
+Dykkar vyrdsame
+Olav Duun</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

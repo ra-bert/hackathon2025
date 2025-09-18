@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:46:16.026+02:00</Created>
+        <LastChange>2023-10-16T11:02:35.068+02:00</LastChange>
+        <TranskribusMetadata docId="1026823" pageId="43163297" pageNr="1" tsid="137467177" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=PAGORZKUNGWBWRHYSIMJJYCR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XXUSJGNQPSTNZCGOMQJUWPFD" imageId="35403000"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_293848_0001.jpg" imageWidth="3540" imageHeight="4511">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770895377" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="172,325 173,4382 3386,4382 3385,325"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="634,422 765,423 805,447 829,423 1159,426 1191,418 1192,342 997,353 929,336 869,352 790,328 730,347 635,315"/>
+                <Baseline points="654,404 679,404 705,405 731,405 757,405 783,405 809,405 835,405 861,406 887,407 913,407 938,407 964,407 990,407 1016,407 1042,407 1068,407 1094,407 1120,407 1146,407 1172,408"/>
+                <TextEquiv>
+                    <Unicode>AKTIESELSKABET</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="340,511 1128,519 1203,571 1363,512 1478,541 1478,449 1359,425 722,453 603,405 340,447"/>
+                <Baseline points="360,497 415,497 470,498 525,498 580,498 635,500 690,500 745,500 800,500 855,500 910,500 965,500 1020,500 1075,501 1130,501 1185,501 1240,501 1295,501 1350,503 1405,503 1460,504"/>
+                <TextEquiv>
+                    <Unicode>DET NORSKE KVÆLSTOFKOMPAGNI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="640,614 720,599 779,620 800,600 911,618 951,598 990,627 1042,604 1181,618 1182,550 1079,521 1047,544 1004,524 836,549 749,516 641,542"/>
+                <Baseline points="659,585 684,584 709,584 734,584 759,584 785,585 810,585 835,585 860,585 885,585 911,586 936,587 961,587 986,587 1011,588 1037,588 1062,588 1087,590 1112,590 1137,590 1163,591"/>
+                <TextEquiv>
+                    <Unicode>(FORSØGSSTATIONEN)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="544,732 608,744 763,710 827,746 1026,703 1233,753 1288,741 1289,658 1218,637 987,648 872,603 800,650 545,637"/>
+                <Baseline points="563,692 598,692 633,692 668,692 704,692 739,693 774,693 810,693 845,693 880,693 916,695 951,695 986,695 1021,695 1057,695 1092,696 1127,696 1163,696 1198,696 1233,695 1269,695"/>
+                <TextEquiv>
+                    <Unicode>RIGSTELEFON 274 ARENDAL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="693,811 943,825 1107,811 1138,823 1139,763 1083,739 992,758 952,730 884,765 809,744 765,712 694,719"/>
+                <Baseline points="714,797 739,798 764,798 789,798 815,798 840,799 865,800 891,800 916,800 941,800 967,800 992,801 1017,801 1043,801 1068,801 1093,801 1119,800"/>
+                <TextEquiv>
+                    <Unicode>TELEGRAFADRESSE:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="626,917 730,878 797,918 849,922 905,894 1040,915 1076,879 1116,895 1199,875 1200,823 714,818 626,794"/>
+                <Baseline points="645,857 671,858 698,858 724,860 751,860 778,861 804,861 831,861 858,861 884,861 911,861 938,861 964,861 991,861 1018,861 1044,861 1071,860 1098,860 1124,860 1151,860 1178,861"/>
+                <TextEquiv>
+                    <Unicode>KVÆLSTOF, ARENDAL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="314,994 525,989 577,1013 644,989 708,1012 748,992 808,1000 807,885 763,897 743,877 696,893 644,877 612,901 512,862 469,894 314,906"/>
+                <Baseline points="332,983 357,982 382,980 407,979 432,978 458,977 483,977 508,977 533,977 559,977 584,977 609,977 634,977 659,977 685,978 710,978 735,978 760,980 786,981"/>
+                <TextEquiv>
+                    <Unicode>J. No. 860.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:7;}">
+                <Coords points="1894,698 2391,731 2495,699 2658,783 2873,711 3092,755 3171,720 3172,560 1894,615"/>
+                <Baseline points="1913,690 1975,692 2037,693 2099,693 2161,695 2223,695 2285,695 2347,693 2409,693 2471,693 2533,693 2595,692 2657,692 2719,692 2781,692 2843,692 2905,692 2967,693 3029,695 3091,696 3153,698"/>
+                <TextEquiv>
+                    <Unicode>Vasmoen pr. Arendal den 6/5 06. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="373,1553 673,1535 926,1562 1099,1558 1204,1537 1522,1487 1602,1525 1721,1503 1719,1387 1659,1361 1525,1419 1116,1300 930,1359 746,1307 655,1353 543,1311 369,1342"/>
+                <Baseline points="393,1485 458,1493 523,1498 589,1502 654,1503 719,1505 785,1503 850,1502 915,1499 981,1496 1046,1493 1111,1490 1177,1487 1242,1484 1307,1481 1373,1479 1438,1478 1503,1478 1569,1479 1634,1482 1700,1488"/>
+                <TextEquiv>
+                    <Unicode>Hr. Prof. Birkeland</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="1783,1590 2018,1596 2057,1625 2157,1588 2188,1613 2309,1584 2395,1618 2675,1593 2677,1502 2518,1494 2377,1390 2197,1434 2022,1417 1983,1380 1788,1379"/>
+                <Baseline points="1803,1535 1845,1537 1888,1538 1930,1539 1973,1539 2016,1539 2058,1539 2101,1539 2143,1538 2186,1538 2229,1538 2271,1539 2314,1539 2356,1540 2399,1542 2442,1545 2484,1547 2527,1551 2569,1557 2612,1562 2655,1569"/>
+                <TextEquiv>
+                    <Unicode>Christiania.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="422,1805 3109,1796 3108,1617 2806,1698 2587,1596 1972,1651 408,1631"/>
+                <Baseline points="441,1766 573,1767 705,1767 838,1769 970,1769 1103,1769 1235,1769 1368,1769 1500,1767 1633,1767 1765,1766 1897,1764 2030,1764 2162,1763 2295,1761 2427,1761 2560,1760 2692,1759 2825,1758 2957,1758 3090,1758"/>
+                <TextEquiv>
+                    <Unicode>Hermed har jeg den fornøielse at fremsende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="233,1956 615,1932 719,1990 1176,1921 1276,1984 1558,1913 1690,2007 1988,1976 1987,1837 1294,1812 1239,1861 1075,1795 960,1844 796,1790 231,1828"/>
+                <Baseline points="252,1920 337,1920 423,1922 509,1920 595,1920 681,1919 766,1917 852,1915 938,1913 1024,1911 1110,1910 1195,1907 1281,1905 1367,1905 1453,1904 1539,1904 1624,1904 1710,1905 1796,1907 1882,1908 1968,1913"/>
+                <TextEquiv>
+                    <Unicode>2 plader, hver med 5 optagelser.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="285,2063 736,2169 1893,2045 2451,2119 3151,2061 3169,1960 3005,1882 2740,1985 2035,1929 1685,2008 1537,1922 441,1979 283,1939"/>
+                <Baseline points="303,2057 445,2058 587,2060 730,2060 872,2060 1014,2058 1157,2058 1299,2057 1441,2054 1584,2052 1726,2051 1868,2049 2011,2046 2153,2045 2295,2042 2438,2040 2580,2039 2722,2037 2865,2036 3007,2034 3150,2034"/>
+                <TextEquiv>
+                    <Unicode>De er begge tagne paa den maade, at apparatet, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="221,2261 2301,2196 3089,2255 3087,2119 2788,2047 2009,2087 1657,2069 1436,2115 213,2115"/>
+                <Baseline points="236,2202 377,2202 519,2201 660,2201 802,2199 944,2198 1085,2195 1227,2193 1368,2192 1510,2190 1652,2188 1793,2186 1935,2184 2076,2181 2218,2180 2360,2178 2501,2177 2643,2175 2784,2174 2926,2172 3068,2172"/>
+                <TextEquiv>
+                    <Unicode>var stillet midt foran vinduet, blev dreiet til begge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663141745323_94" custom="readingOrder {index:14;}">
+                <Coords points="193,2255 782,2296 782,2361 775,2361 657,2441 540,2359 305,2345 195,2402"/>
+                <Baseline points="215,2346 303,2348 391,2348 479,2348 567,2346 656,2345 744,2344 782,2343"/>
+                <TextEquiv>
+                    <Unicode>sider noget</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="767,2293 799,2288 807,2296 819,2287 851,2298 886,2281 898,2288 910,2276 918,2283 949,2258 978,2281 1017,2272 1015,2212 975,2202 959,2210 931,2199 908,2212 851,2194 808,2220 800,2212 789,2225 765,2222"/>
+                <Baseline points="785,2271 811,2270 838,2267 865,2265 892,2264 918,2262 945,2261 972,2263 999,2267"/>
+                <TextEquiv>
+                    <Unicode>efter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663141744347_88" custom="readingOrder {index:16;}">
+                <Coords points="1033,2239 1076,2226 1280,2296 1498,2230 1996,2253 1997,2381 1889,2330 1496,2417 1033,2381"/>
+                <Baseline points="1033,2338 1097,2337 1185,2336 1273,2334 1361,2334 1449,2333 1538,2333 1626,2333 1714,2333 1802,2334 1890,2337 1979,2340"/>
+                <TextEquiv>
+                    <Unicode>hver exponering.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="261,2548 1757,2510 1943,2567 2077,2485 3069,2499 3059,2313 2784,2318 2642,2380 2021,2400 1903,2369 1085,2406 262,2355"/>
+                <Baseline points="282,2465 419,2469 557,2472 695,2475 833,2477 971,2477 1109,2477 1246,2477 1384,2475 1522,2474 1660,2472 1798,2471 1936,2469 2074,2466 2211,2465 2349,2463 2487,2462 2625,2460 2763,2459 2901,2459 3039,2459"/>
+                <TextEquiv>
+                    <Unicode>Elektroderne er noget vanskeligere at se paa disse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663141757246_103" custom="readingOrder {index:18;}">
+                <Coords points="200,2502 2147,2493 2892,2483 3322,2560 3346,2605 577,2651 342,2649 199,2643"/>
+                <Baseline points="219,2627 252,2624 285,2621 318,2619 351,2618 384,2616 417,2615 451,2613 484,2613 517,2613 550,2613 583,2613 616,2613 649,2613 683,2615 716,2616 749,2618 782,2621 815,2624 848,2626 882,2628 1148,2600 1255,2601 1363,2603 1471,2604 1579,2606 1686,2606 1794,2604 1902,2604 2010,2603 2117,2601 2225,2600 2333,2598 2441,2597 2548,2595 2656,2594 2764,2594 2872,2594 2979,2594 3087,2594 3195,2596 3303,2598"/>
+                <TextEquiv>
+                    <Unicode>fotografier. Det var ikke muligt at faa flammen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:19;}">
+                <Coords points="188,2792 2234,2838 3368,2785 3371,2669 186,2653"/>
+                <Baseline points="209,2759 366,2757 523,2757 680,2757 837,2757 995,2756 1152,2756 1309,2754 1466,2753 1623,2751 1781,2750 1938,2748 2095,2747 2252,2745 2409,2744 2567,2742 2724,2739 2881,2738 3038,2736 3195,2733 3353,2732"/>
+                <TextEquiv>
+                    <Unicode>hverken tyndere eller mere i midten af flammerummet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:20;}">
+                <Coords points="182,2920 3406,2939 3404,2768 181,2789"/>
+                <Baseline points="203,2900 362,2900 521,2900 680,2898 839,2897 998,2895 1157,2894 1317,2891 1476,2889 1635,2886 1794,2885 1953,2883 2112,2880 2271,2879 2431,2879 2590,2879 2749,2879 2908,2879 3067,2880 3226,2883 3386,2886"/>
+                <TextEquiv>
+                    <Unicode>der er 8 cm bredt. Elektroderne er nu - efter at kapperne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:21;}">
+                <Coords points="153,3098 3369,3047 3367,2935 3148,2887 151,2951"/>
+                <Baseline points="173,3056 331,3054 490,3054 649,3053 807,3050 966,3048 1125,3045 1283,3043 1442,3041 1601,3038 1760,3035 1918,3032 2077,3029 2236,3026 2394,3024 2553,3021 2712,3020 2870,3018 3029,3017 3188,3015 3347,3015"/>
+                <TextEquiv>
+                    <Unicode>næsten er vækbrændte - 17 mm tykke. Optagelserne bliver</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:22;}">
+                <Coords points="152,3221 447,3200 574,3249 1060,3197 1214,3282 1302,3235 1357,3283 1497,3272 1682,3220 1678,3068 1133,3097 480,3061 268,3135 153,3098"/>
+                <Baseline points="173,3194 243,3194 314,3192 385,3192 456,3191 527,3189 597,3188 668,3186 739,3185 810,3183 881,3183 951,3183 1022,3183 1093,3185 1164,3186 1235,3189 1305,3192 1376,3197 1447,3204 1518,3211 1659,3214"/>
+                <TextEquiv>
+                    <Unicode>saaledes næsten nøiagtig 1/10.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:23;}">
+                <Coords points="194,3365 3325,3337 3345,3213 192,3206"/>
+                <Baseline points="212,3323 367,3324 523,3326 679,3326 835,3326 990,3326 1146,3326 1302,3324 1458,3323 1613,3321 1769,3320 1925,3317 2081,3314 2236,3312 2392,3309 2548,3306 2704,3303 2859,3300 3015,3297 3171,3294 3327,3291"/>
+                <TextEquiv>
+                    <Unicode>Plade mærket I er exponeret i 1/100 sek. KW. = 80, volt 1800</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:24;}">
+                <Coords points="182,3492 369,3496 426,3547 831,3508 948,3574 1340,3467 1587,3475 1585,3387 1449,3346 1212,3390 550,3362 384,3416 180,3368"/>
+                <Baseline points="201,3479 269,3479 337,3479 405,3479 474,3477 542,3477 610,3476 678,3474 747,3471 815,3470 883,3468 951,3467 1020,3465 1088,3463 1156,3462 1224,3461 1293,3461 1361,3459 1429,3460 1497,3461 1566,3462"/>
+                <TextEquiv>
+                    <Unicode>amp. 45 magnetisme 38.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:25;}">
+                <Coords points="169,3656 3201,3642 3196,3506 167,3497"/>
+                <Baseline points="188,3602 337,3604 486,3606 636,3606 785,3608 935,3608 1084,3608 1233,3606 1383,3605 1532,3603 1682,3602 1831,3599 1980,3597 2130,3594 2279,3591 2429,3588 2578,3585 2727,3582 2877,3579 3026,3576 3176,3575"/>
+                <TextEquiv>
+                    <Unicode>Plade mærket II er exponeret i 1/50 sek. KW. = 90, volt 2200</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:26;}">
+                <Coords points="197,3774 333,3824 493,3779 922,3817 1259,3748 1503,3783 1500,3644 1436,3629 1242,3678 1023,3656 864,3703 545,3645 351,3708 298,3661 195,3671"/>
+                <Baseline points="215,3752 278,3755 341,3758 405,3759 468,3761 531,3761 595,3759 658,3759 721,3758 785,3756 848,3754 911,3752 975,3750 1038,3747 1101,3746 1165,3744 1228,3743 1291,3741 1355,3741 1418,3741 1482,3743"/>
+                <TextEquiv>
+                    <Unicode>amp. 45, magnetisme 38.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:27;}">
+                <Coords points="193,3923 1598,3996 3357,3895 3369,3759 2767,3820 1887,3741 1647,3787 1223,3828 192,3772"/>
+                <Baseline points="213,3884 369,3887 525,3890 681,3891 838,3893 994,3893 1150,3893 1306,3893 1463,3893 1619,3891 1775,3890 1931,3887 2088,3885 2244,3883 2400,3881 2556,3878 2713,3876 2869,3873 3025,3872 3181,3869 3338,3867"/>
+                <TextEquiv>
+                    <Unicode>Den sidste lille optagelse paa plade nr. II er taget umiddelbart</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:28;}">
+                <Coords points="158,4066 273,4087 357,4044 608,4090 807,4049 981,4158 1081,4088 1185,4101 1162,3973 1082,4008 959,3967 803,3957 681,3940 569,3987 458,3926 358,3980 283,3932 159,3970"/>
+                <Baseline points="177,4049 226,4044 275,4041 325,4040 374,4037 423,4035 473,4035 522,4035 571,4035 621,4035 670,4035 719,4037 769,4038 818,4040 867,4042 917,4044 966,4046 1015,4047 1065,4050 1114,4052 1164,4053"/>
+                <TextEquiv>
+                    <Unicode>efter tændningen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:29;}">
+                <Coords points="1876,4160 1972,4176 2012,4161 2145,4222 2206,4176 2453,4182 2458,4050 2403,4044 2353,4078 2217,4001 2119,4066 1998,3993 1883,3985"/>
+                <Baseline points="1899,4140 1925,4143 1952,4144 1979,4146 2005,4146 2032,4148 2059,4149 2085,4149 2112,4151 2139,4151 2166,4152 2192,4153 2219,4154 2246,4155 2272,4155 2299,4157 2326,4158 2352,4158 2379,4160 2406,4162 2433,4163"/>
+                <TextEquiv>
+                    <Unicode>Ærbødigst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:30;}">
+                <Coords points="2187,4336 2458,4344 2513,4373 2573,4339 2616,4368 2844,4343 2887,4380 3128,4381 3134,4190 2900,4217 2766,4138 2634,4190 2567,4144 2450,4188 2192,4165"/>
+                <Baseline points="2207,4322 2245,4324 2284,4326 2322,4328 2361,4329 2400,4329 2438,4331 2477,4331 2515,4331 2554,4331 2593,4332 2631,4332 2670,4334 2708,4334 2747,4335 2786,4337 2824,4340 2863,4342 2901,4344 2940,4348 3107,4367"/>
+                <TextEquiv>
+                    <Unicode>A. Bretteville.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>AKTIESELSKABET
+DET NORSKE KVÆLSTOFKOMPAGNI
+(FORSØGSSTATIONEN)
+RIGSTELEFON 274 ARENDAL
+TELEGRAFADRESSE:
+KVÆLSTOF, ARENDAL
+J. No. 860.
+Vasmoen pr. Arendal den 6/5 06. 
+Hr. Prof. Birkeland
+Christiania.
+Hermed har jeg den fornøielse at fremsende
+2 plader, hver med 5 optagelser.
+De er begge tagne paa den maade, at apparatet, der
+var stillet midt foran vinduet, blev dreiet til begge
+sider noget
+efter
+hver exponering.
+Elektroderne er noget vanskeligere at se paa disse
+fotografier. Det var ikke muligt at faa flammen
+hverken tyndere eller mere i midten af flammerummet,
+der er 8 cm bredt. Elektroderne er nu - efter at kapperne
+næsten er vækbrændte - 17 mm tykke. Optagelserne bliver
+saaledes næsten nøiagtig 1/10.
+Plade mærket I er exponeret i 1/100 sek. KW. = 80, volt 1800
+amp. 45 magnetisme 38.
+Plade mærket II er exponeret i 1/50 sek. KW. = 90, volt 2200
+amp. 45, magnetisme 38.
+Den sidste lille optagelse paa plade nr. II er taget umiddelbart
+efter tændningen.
+Ærbødigst
+A. Bretteville.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

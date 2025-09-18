@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:33:52.366+02:00</Created>
+        <LastChange>2023-10-30T11:08:55.030+01:00</LastChange>
+        <TranskribusMetadata docId="1027152" pageId="43171959" pageNr="1" tsid="138448141" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=MWNZJADUYLOPVVKZBJXQNHPN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XDHJUVRZXWUHJEEGFHCWWLAL" imageId="35411546"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_198109_0001.jpg" imageWidth="4743" imageHeight="3843">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770808232" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1661938441493_633"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1661938441493_633" custom="readingOrder {index:0;}">
+            <Coords points="2435,316 4564,316 4564,3621 2435,3621"/>
+            <TextLine id="region_1661938441493_633l5" custom="readingOrder {index:0;}">
+                <Coords points="3047,1236 3160,1218 3267,1222 3302,1241 3470,1214 3569,1240 3569,1128 3472,1137 3400,1122 3346,1086 3185,1099 3122,1056 3047,1080"/>
+                <Baseline points="3056,1200 3081,1201 3106,1204 3131,1205 3156,1206 3182,1208 3207,1208 3232,1209 3257,1209 3282,1209 3308,1209 3333,1209 3358,1209 3383,1209 3408,1208 3434,1208 3459,1207 3484,1206 3509,1205 3534,1204 3560,1203"/>
+                <TextEquiv>
+                    <Unicode>Ivar Aasen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938441493_633l6" custom="readingOrder {index:1;}">
+                <Coords points="3034,1434 3302,1435 3458,1509 3640,1432 3730,1485 3895,1416 4516,1429 4541,1315 4299,1374 3946,1292 3633,1363 3032,1332"/>
+                <Baseline points="3042,1418 3116,1419 3191,1421 3265,1421 3340,1421 3414,1419 3489,1418 3563,1416 3638,1415 3712,1413 3787,1410 3862,1409 3936,1407 4011,1406 4085,1404 4160,1404 4234,1404 4309,1406 4383,1407 4458,1409 4533,1413"/>
+                <TextEquiv>
+                    <Unicode>Kunde De gjera meg den Tenesta å senda</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938441493_633l7" custom="readingOrder {index:2;}">
+                <Coords points="3037,1625 3168,1654 3281,1578 3531,1586 3615,1656 3859,1576 4449,1598 4478,1502 4007,1459 3685,1529 3569,1461 3467,1517 3273,1465 3171,1545 3036,1528"/>
+                <Baseline points="3045,1578 3116,1578 3187,1578 3258,1578 3329,1578 3401,1578 3472,1577 3543,1575 3614,1575 3685,1574 3757,1572 3828,1572 3899,1571 3970,1571 4041,1569 4113,1569 4184,1569 4255,1569 4326,1571 4397,1572 4469,1574"/>
+                <TextEquiv>
+                    <Unicode>meg "Müllers Saga-Bibliothek" 1ste Bind,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938441493_633l8" custom="readingOrder {index:3;}">
+                <Coords points="3052,1779 3269,1814 3430,1747 3605,1826 3717,1751 4099,1715 4305,1787 4533,1719 4532,1650 4417,1684 4285,1616 3878,1689 3642,1638 3276,1717 3050,1682"/>
+                <Baseline points="3060,1749 3133,1748 3206,1746 3279,1743 3352,1741 3426,1739 3499,1736 3572,1734 3645,1731 3718,1728 3792,1727 3865,1725 3938,1724 4011,1722 4084,1721 4158,1721 4231,1721 4304,1721 4377,1721 4450,1723 4524,1725"/>
+                <TextEquiv>
+                    <Unicode>um eg skulde freista med eitt Fyreord</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938441493_633l9" custom="readingOrder {index:4;}">
+                <Coords points="3063,1927 3222,1915 3315,1975 3416,1904 3658,1898 3858,2005 3974,1930 4082,1980 4179,1911 4550,1920 4550,1855 4397,1794 3063,1826"/>
+                <Baseline points="3072,1910 3145,1908 3218,1907 3292,1905 3365,1903 3439,1902 3512,1900 3586,1898 3659,1896 3733,1895 3806,1895 3879,1894 3953,1893 4026,1895 4100,1895 4173,1897 4247,1899 4320,1903 4394,1907 4467,1912 4541,1917"/>
+                <TextEquiv>
+                    <Unicode>til "Viglund"? Takk fyr Dykkar Råder;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938441493_633l10" custom="readingOrder {index:5;}">
+                <Coords points="3058,2138 3242,2103 3418,2186 3651,2066 3998,2058 4309,2123 4410,2066 4558,2078 4557,2007 4388,1961 4147,2012 3973,1930 3856,2023 3670,1978 3537,2016 3428,1962 3376,2013 3056,2022"/>
+                <Baseline points="3066,2078 3140,2078 3214,2078 3288,2076 3362,2075 3436,2073 3510,2070 3584,2068 3658,2066 3732,2063 3807,2060 3881,2058 3955,2055 4029,2054 4103,2054 4177,2054 4251,2054 4325,2055 4399,2058 4473,2061 4548,2066"/>
+                <TextEquiv>
+                    <Unicode>eg skal fylgja deim. Med venleg Helsing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938441493_633l11" custom="readingOrder {index:6;}">
+                <Coords points="3988,2302 4105,2317 4183,2289 4205,2305 4315,2314 4356,2297 4447,2306 4452,2211 4412,2184 4365,2188 4328,2152 4242,2189 4099,2179 4050,2141 3996,2142"/>
+                <Baseline points="3999,2271 4024,2271 4050,2271 4076,2271 4102,2271 4128,2273 4154,2273 4180,2274 4206,2274 4231,2276 4257,2277 4283,2279 4309,2281 4335,2283 4361,2285 4387,2286 4413,2290 4439,2292"/>
+                <TextEquiv>
+                    <Unicode>Matias Skar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938441493_633l12" custom="readingOrder {index:7;}">
+                <Coords points="3488,2439 3532,2452 3555,2437 3594,2439 3672,2412 3691,2423 3704,2416 3738,2438 3753,2344 3720,2329 3707,2337 3682,2331 3649,2310 3603,2326 3587,2317 3534,2322 3510,2305"/>
+                <Baseline points="3507,2378 3532,2383 3557,2386 3582,2391 3607,2394 3632,2398 3657,2403 3682,2406 3707,2411 3732,2415"/>
+                <TextEquiv>
+                    <Unicode>30/5 74.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938441493_633l13" custom="readingOrder {index:8;}">
+                <Coords points="2937,2507 3025,2492 3064,2515 3103,2496 3221,2513 3241,2499 3256,2510 3284,2501 3285,2404 3244,2418 3156,2390 3089,2416 3065,2401 3052,2408 3001,2371 2938,2378"/>
+                <Baseline points="2946,2483 2971,2483 2996,2483 3021,2483 3047,2483 3072,2483 3097,2483 3123,2483 3148,2484 3173,2484 3199,2484 3224,2484 3249,2484 3275,2484"/>
+                <TextEquiv>
+                    <Unicode>Bustad:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938441493_633l14" custom="readingOrder {index:9;}">
+                <Coords points="3129,2733 3221,2769 3240,2761 3275,2772 3372,2692 3424,2694 3421,2605 3380,2600 3321,2559 3280,2574 3222,2560 3165,2529 3123,2543"/>
+                <Baseline points="3135,2658 3160,2660 3185,2661 3210,2661 3236,2661 3261,2660 3286,2660 3311,2658 3337,2657 3362,2655 3387,2653 3413,2651"/>
+                <TextEquiv>
+                    <Unicode>Ulefos,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938441493_633l15" custom="readingOrder {index:10;}">
+                <Coords points="3491,2783 3545,2791 3624,2761 3663,2777 3721,2757 3737,2765 3779,2758 3779,2728 3757,2730 3723,2712 3705,2720 3666,2695 3655,2698 3612,2673 3548,2614 3494,2626"/>
+                <Baseline points="3500,2751 3527,2753 3554,2754 3581,2754 3608,2756 3635,2757 3662,2759 3689,2759 3716,2757 3743,2756 3770,2753"/>
+                <TextEquiv>
+                    <Unicode>Skien.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ivar Aasen.
+Kunde De gjera meg den Tenesta å senda
+meg "Müllers Saga-Bibliothek" 1ste Bind,
+um eg skulde freista med eitt Fyreord
+til "Viglund"? Takk fyr Dykkar Råder;
+eg skal fylgja deim. Med venleg Helsing
+Matias Skar.
+30/5 74.
+Bustad:
+Ulefos,
+Skien.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

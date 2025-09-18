@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:13:09.562+02:00</Created>
+        <LastChange>2023-10-16T08:46:20.376+02:00</LastChange>
+        <TranskribusMetadata docId="1027024" pageId="43169753" pageNr="1" tsid="137456135" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=PHCZTVKZSXIOXHEJVYVWDNWP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GNVGGUESJPODKUDTCKCPOLIW" imageId="35409416"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_127298_0001.jpg" imageWidth="4032" imageHeight="4826">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770838649" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1661945333004_859"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1661945333004_859" custom="readingOrder {index:0;}">
+            <Coords points="269,327 3710,327 3710,4615 269,4615"/>
+            <TextLine id="region_1661945333004_859l4" custom="readingOrder {index:0;}">
+                <Coords points="1001,1404 1260,1540 1461,1446 1798,1518 1949,1399 2202,1346 2533,1466 2709,1360 2864,1401 2940,1164 2744,1246 2535,1082 2204,1288 1914,1180 1742,1304 1431,1313 1164,1155 997,1189"/>
+                <Baseline points="1018,1362 1109,1369 1200,1373 1292,1376 1383,1378 1475,1377 1566,1375 1657,1372 1749,1368 1840,1364 1932,1359 2023,1355 2114,1351 2206,1348 2297,1344 2389,1342 2480,1342 2571,1344 2663,1346 2754,1352 2846,1360"/>
+                <TextEquiv>
+                    <Unicode>Evige og kjære Inga!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945333004_859l5" custom="readingOrder {index:1;}">
+                <Coords points="1397,1777 1543,1683 1731,1637 1861,1653 1986,1775 2210,1639 2580,1646 2648,1458 2419,1526 2250,1488 2145,1548 1771,1503 1638,1573 1521,1540 1395,1603"/>
+                <Baseline points="1412,1644 1469,1644 1527,1644 1584,1644 1642,1643 1700,1642 1757,1642 1815,1640 1872,1638 1930,1638 1988,1636 2045,1636 2103,1634 2160,1634 2218,1634 2276,1634 2333,1634 2391,1634 2448,1636 2506,1637 2564,1640"/>
+                <TextEquiv>
+                    <Unicode>godt Nytaar!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945333004_859l6" custom="readingOrder {index:2;}">
+                <Coords points="959,1961 2684,1908 2760,1995 2892,1914 3107,2033 3286,1902 3642,1891 3639,1754 3278,1686 2736,1812 2539,1737 2251,1857 2070,1744 1319,1857 1091,1773 956,1859"/>
+                <Baseline points="976,1942 1108,1934 1241,1928 1373,1921 1506,1916 1638,1911 1771,1907 1903,1903 2036,1900 2168,1898 2301,1895 2433,1892 2566,1890 2698,1888 2831,1886 2963,1884 3096,1884 3228,1881 3361,1880 3493,1877 3626,1874"/>
+                <TextEquiv>
+                    <Unicode>Maatte alle Dine dristigste Ønsker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945333004_859l7" custom="readingOrder {index:3;}">
+                <Coords points="979,2238 1298,2138 1368,2185 2890,2127 2934,1937 2650,1912 2403,2048 2136,1938 1998,2047 1732,2098 1121,2033 975,2087"/>
+                <Baseline points="994,2132 1088,2134 1182,2136 1276,2136 1370,2136 1464,2136 1558,2133 1652,2130 1746,2127 1840,2124 1935,2120 2029,2116 2123,2112 2217,2109 2311,2106 2405,2104 2499,2104 2593,2102 2687,2104 2781,2106 2876,2108"/>
+                <TextEquiv>
+                    <Unicode>gaa i en sikker Laas!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945333004_859l8" custom="readingOrder {index:4;}">
+                <Coords points="928,2466 1096,2368 1866,2322 2136,2423 2355,2295 3490,2350 3670,2296 3664,2104 3418,2243 3178,2134 2770,2223 2284,2140 1604,2188 1060,2195 923,2316"/>
+                <Baseline points="942,2372 1077,2363 1213,2354 1348,2344 1484,2337 1620,2329 1755,2322 1891,2315 2026,2310 2162,2304 2298,2300 2433,2294 2569,2292 2704,2288 2840,2286 2976,2284 3111,2282 3247,2282 3382,2280 3518,2282 3654,2282"/>
+                <TextEquiv>
+                    <Unicode>Og tusin Takker for Dine altid rund-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945333004_859l9" custom="readingOrder {index:5;}">
+                <Coords points="929,2592 1595,2523 1790,2641 2047,2521 2433,2607 2585,2574 2903,2512 3262,2612 3595,2524 3592,2408 3342,2298 3168,2426 2953,2325 2736,2417 2309,2343 2113,2440 1963,2331 1754,2436 1625,2368 1269,2490 1057,2397 926,2486"/>
+                <Baseline points="944,2558 1075,2549 1207,2540 1338,2533 1470,2528 1602,2521 1733,2515 1865,2510 1996,2504 2128,2500 2260,2497 2391,2494 2523,2492 2654,2489 2786,2488 2918,2486 3049,2486 3181,2484 3312,2484 3444,2485 3576,2486"/>
+                <TextEquiv>
+                    <Unicode>hændede Aftenselskaper, Vin og Piger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945333004_859l10" custom="readingOrder {index:6;}">
+                <Coords points="919,2781 1145,2795 1240,2760 1361,2858 1472,2746 1557,2722 1768,2837 1843,2768 1892,2787 1979,2738 2021,2567 1844,2624 1660,2646 1502,2553 1378,2631 1301,2589 1165,2695 914,2668"/>
+                <Baseline points="934,2728 985,2730 1036,2732 1088,2732 1139,2732 1191,2730 1242,2728 1293,2726 1345,2723 1396,2718 1448,2716 1499,2711 1550,2709 1602,2704 1653,2702 1705,2700 1756,2698 1807,2698 1859,2698 1910,2698 1962,2702"/>
+                <TextEquiv>
+                    <Unicode>und Gesang!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945333004_859l11" custom="readingOrder {index:7;}">
+                <Coords points="949,3024 2646,2933 2816,3054 3115,2939 3550,2935 3549,2839 3354,2873 3222,2776 2967,2894 2488,2878 2280,2748 1687,2905 1544,2788 1193,2866 945,2788"/>
+                <Baseline points="966,2970 1094,2966 1222,2964 1350,2960 1479,2958 1607,2956 1735,2952 1864,2950 1992,2946 2120,2944 2249,2942 2377,2940 2505,2938 2633,2936 2762,2934 2890,2932 3018,2930 3147,2930 3275,2928 3403,2928 3532,2926"/>
+                <TextEquiv>
+                    <Unicode>Beret, Barna hilser, men jeg skriver</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945333004_859l12" custom="readingOrder {index:8;}">
+                <Coords points="869,3191 2956,3130 3211,3254 3638,3149 3636,2985 3030,2978 2850,3073 2725,2985 2569,3083 2071,2962 1723,3086 1075,3014 868,3123"/>
+                <Baseline points="884,3154 1020,3150 1157,3146 1294,3141 1431,3138 1568,3134 1705,3132 1842,3130 1979,3128 2116,3126 2253,3124 2389,3124 2526,3122 2663,3122 2800,3122 2937,3120 3074,3120 3211,3120 3348,3120 3485,3120 3622,3120"/>
+                <TextEquiv>
+                    <Unicode>ikke mere, da Du kan tænke Dig hele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945333004_859l13" custom="readingOrder {index:9;}">
+                <Coords points="892,3336 1539,3343 1668,3453 1857,3322 2292,3306 2415,3332 2465,3179 2278,3159 2173,3199 2066,3160 1969,3248 1383,3271 1282,3184 1166,3214 1097,3161 890,3234"/>
+                <Baseline points="910,3324 984,3322 1058,3320 1132,3318 1206,3316 1281,3313 1355,3312 1429,3309 1503,3308 1577,3306 1652,3304 1726,3302 1800,3300 1874,3298 1948,3298 2023,3296 2097,3296 2171,3294 2245,3294 2319,3294 2394,3294"/>
+                <TextEquiv>
+                    <Unicode>Resten, mye bedre!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945333004_859l14" custom="readingOrder {index:10;}">
+                <Coords points="1416,3533 1676,3504 1863,3627 2258,3499 2424,3592 2607,3472 3641,3540 3634,3314 3283,3414 2798,3307 2170,3409 1840,3336 1683,3414 1546,3356 1414,3434"/>
+                <Baseline points="1434,3506 1543,3504 1652,3502 1762,3500 1871,3496 1981,3493 2090,3490 2199,3486 2309,3482 2418,3478 2528,3474 2637,3471 2746,3468 2856,3466 2965,3464 3075,3464 3184,3464 3293,3466 3403,3469 3512,3473 3622,3478"/>
+                <TextEquiv>
+                    <Unicode>Din Dig i dette og tilkommende Liv,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945333004_859l15" custom="readingOrder {index:11;}">
+                <Coords points="2354,3785 2683,3774 3441,3736 3436,3630 3275,3639 3196,3569 3071,3607 2924,3502 2725,3620 2604,3541 2434,3577 2276,3649"/>
+                <Baseline points="2378,3750 2430,3752 2482,3750 2534,3749 2587,3746 2639,3744 2691,3740 2744,3735 2796,3731 2848,3727 2901,3724 2953,3718 3005,3714 3057,3711 3110,3707 3162,3705 3214,3703 3267,3702 3319,3703 3371,3704 3424,3708"/>
+                <TextEquiv>
+                    <Unicode>Chr. Skredsvig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945333004_859l16" custom="readingOrder {index:12;}">
+                <Coords points="670,4003 925,4085 1058,3948 1166,3918 1380,4071 1653,3915 1911,3987 2029,3960 2017,3744 1687,3718 1615,3667 1276,3860 972,3753 662,3853"/>
+                <Baseline points="672,3956 738,3950 804,3944 870,3939 936,3936 1003,3931 1069,3928 1135,3924 1201,3920 1267,3918 1334,3914 1400,3912 1466,3908 1532,3906 1598,3902 1665,3898 1731,3895 1797,3891 1863,3886 1929,3881 1996,3874"/>
+                <TextEquiv>
+                    <Unicode>Hagan 31/12.1919.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Evige og kjære Inga!
+godt Nytaar!
+Maatte alle Dine dristigste Ønsker
+gaa i en sikker Laas!
+Og tusin Takker for Dine altid rund-
+hændede Aftenselskaper, Vin og Piger
+und Gesang!
+Beret, Barna hilser, men jeg skriver
+ikke mere, da Du kan tænke Dig hele
+Resten, mye bedre!
+Din Dig i dette og tilkommende Liv,
+Chr. Skredsvig
+Hagan 31/12-1919.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

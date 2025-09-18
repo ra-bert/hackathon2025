@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:22:07.215+02:00</Created>
+        <LastChange>2023-10-23T09:18:55.036+02:00</LastChange>
+        <TranskribusMetadata docId="1026668" pageId="43161442" pageNr="1" tsid="137868906" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=LETZHUQDFNUBADYUFVAJZMNZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QEFOLCLNWDLSSEWYWIBRLPGM" imageId="35401155"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_208761_0001.jpg" imageWidth="4815" imageHeight="3931">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770943332" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662374094018_329"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1662374094018_329" custom="readingOrder {index:0;}">
+            <Coords points="2517,320 4658,320 4658,3409 2517,3409"/>
+            <TextLine id="region_1662374094018_329l4" custom="readingOrder {index:0;}">
+                <Coords points="3744,685 3886,724 3950,673 4450,681 4492,675 4493,581 4182,572 4091,597 3878,541 3820,578 3745,578"/>
+                <Baseline points="3756,666 3792,660 3828,659 3864,656 3901,654 3937,652 3973,652 4010,652 4046,652 4082,652 4119,654 4155,654 4191,656 4227,657 4264,658 4300,660 4336,660 4373,661 4409,662 4445,662 4482,662"/>
+                <TextEquiv>
+                    <Unicode>Kristiania 26-1-79.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374094018_329l5" custom="readingOrder {index:1;}">
+                <Coords points="2894,981 3032,975 3070,1007 3136,1010 3278,968 3564,967 3562,894 3495,886 3409,885 3315,881 3152,918 3085,861 2995,892 2968,869 2892,906"/>
+                <Baseline points="2906,958 2937,958 2968,958 2999,960 3030,960 3062,960 3093,960 3124,960 3155,959 3186,958 3218,958 3249,957 3280,956 3311,955 3342,954 3374,952 3405,950 3436,948 3467,946 3498,943 3560,941"/>
+                <TextEquiv>
+                    <Unicode>Hr Ivar Aasen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374094018_329l6" custom="readingOrder {index:2;}">
+                <Coords points="2831,1278 4601,1241 4543,1151 4207,1156 4035,1122 3775,1194 3463,1150 3204,1206 3002,1151 2830,1199"/>
+                <Baseline points="2842,1244 2929,1244 3016,1244 3104,1244 3191,1242 3279,1240 3366,1240 3453,1236 3541,1234 3628,1232 3716,1230 3803,1227 3890,1225 3978,1222 4065,1221 4153,1220 4240,1220 4327,1220 4415,1222 4502,1223 4590,1226"/>
+                <TextEquiv>
+                    <Unicode>Da der paa førstkommende Lørdag i Studenter-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374094018_329l7" custom="readingOrder {index:3;}">
+                <Coords points="2727,1400 4619,1418 4618,1343 4503,1309 4202,1298 4052,1280 3805,1326 3430,1282 2726,1342"/>
+                <Baseline points="2738,1388 2831,1386 2925,1386 3018,1384 3112,1382 3205,1381 3299,1379 3392,1378 3486,1375 3579,1374 3673,1372 3766,1371 3860,1370 3953,1370 4047,1370 4140,1370 4234,1370 4327,1372 4421,1374 4514,1377 4608,1380"/>
+                <TextEquiv>
+                    <Unicode>samfundet skal aabnes en Diskusion om Maal-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374094018_329l8" custom="readingOrder {index:4;}">
+                <Coords points="2759,1562 4605,1556 4604,1472 4438,1445 4346,1454 3690,1436 3584,1466 3283,1481 3135,1434 3031,1498 2759,1485"/>
+                <Baseline points="2770,1520 2861,1523 2952,1526 3043,1528 3134,1530 3226,1530 3317,1530 3408,1528 3499,1526 3590,1525 3682,1524 3773,1521 3864,1520 3955,1518 4046,1518 4138,1518 4229,1518 4320,1519 4411,1522 4502,1524 4594,1530"/>
+                <TextEquiv>
+                    <Unicode>sagen, tager jeg mig herved den Ære at underret-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374094018_329l9" custom="readingOrder {index:5;}">
+                <Coords points="2713,1686 2773,1713 2850,1683 2906,1710 2952,1687 3050,1700 3180,1682 3230,1714 3310,1695 3310,1662 3205,1661 3099,1595 2987,1623 2924,1577 2868,1616 2814,1578 2719,1590"/>
+                <Baseline points="2726,1658 2754,1660 2783,1660 2811,1662 2840,1662 2869,1664 2897,1665 2926,1668 2954,1668 2983,1671 3012,1672 3040,1674 3069,1676 3097,1678 3126,1681 3155,1682 3183,1685 3212,1687 3240,1688 3269,1691 3298,1694"/>
+                <TextEquiv>
+                    <Unicode>te Dem derom.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374094018_329l10" custom="readingOrder {index:6;}">
+                <Coords points="3375,1843 4015,1820 4093,1854 4364,1820 4472,1861 4577,1831 4576,1754 4449,1704 4153,1760 4068,1733 3998,1772 3862,1717 3799,1749 3642,1727 3570,1775 3450,1728 3374,1768"/>
+                <Baseline points="3386,1818 3445,1819 3504,1820 3563,1820 3622,1818 3681,1818 3740,1816 3799,1815 3858,1812 3917,1810 3976,1809 4035,1807 4094,1806 4153,1804 4212,1804 4271,1804 4330,1804 4389,1806 4448,1808 4507,1810 4566,1814"/>
+                <TextEquiv>
+                    <Unicode>Paa Studentersamfundets Bestyr-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374094018_329l11" custom="readingOrder {index:7;}">
+                <Coords points="3903,1973 3990,1995 4069,1967 4142,1983 4162,1968 4205,1996 4277,1966 4398,1964 4398,1913 4269,1903 4196,1862 4166,1884 4034,1872 3990,1906 3902,1912"/>
+                <Baseline points="3914,1958 3940,1957 3966,1956 3992,1956 4018,1955 4045,1954 4071,1954 4097,1952 4123,1952 4150,1952 4176,1952 4202,1952 4228,1951 4254,1950 4281,1950 4307,1950 4333,1950 4359,1950 4386,1950"/>
+                <TextEquiv>
+                    <Unicode>elses Vegne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374094018_329l12" custom="readingOrder {index:8;}">
+                <Coords points="3891,2122 3980,2116 4053,2143 4225,2108 4279,2126 4452,2107 4453,2018 4404,2044 4252,2018 4192,2059 4126,2016 4028,2055 3962,2035 3890,2050"/>
+                <Baseline points="3902,2094 3929,2096 3956,2097 3983,2098 4010,2098 4037,2098 4064,2098 4091,2098 4118,2098 4145,2098 4172,2097 4199,2096 4226,2095 4253,2094 4280,2092 4307,2092 4334,2092 4361,2091 4388,2090 4415,2090 4442,2090"/>
+                <TextEquiv>
+                    <Unicode>Ærbødigst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374094018_329l13" custom="readingOrder {index:9;}">
+                <Coords points="3753,2302 3770,2370 3998,2337 4120,2372 4304,2333 4519,2334 4517,2282 4445,2243 4295,2198 4224,2191 4139,2222 4073,2207 4046,2232 3933,2209 3851,2231 3811,2199 3750,2201"/>
+                <Baseline points="3766,2340 3803,2340 3840,2340 3877,2340 3914,2339 3951,2338 3988,2338 4025,2336 4062,2335 4099,2334 4136,2333 4173,2331 4210,2330 4247,2328 4284,2326 4321,2326 4358,2324 4395,2323 4432,2322 4469,2320 4506,2320"/>
+                <TextEquiv>
+                    <Unicode>Erik Vullum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374094018_329l14" custom="readingOrder {index:10;}">
+                <Coords points="3748,2500 3826,2505 3911,2468 3993,2475 4122,2440 4175,2458 4340,2433 4385,2451 4415,2443 4410,2354 4370,2344 4268,2399 4198,2403 4101,2390 4059,2357 3976,2375 3921,2353 3744,2419"/>
+                <Baseline points="3758,2458 3790,2457 3822,2456 3854,2455 3886,2453 3919,2452 3951,2449 3983,2448 4015,2446 4047,2443 4080,2442 4112,2441 4144,2438 4176,2437 4208,2434 4241,2432 4273,2431 4305,2429 4337,2428 4369,2427 4402,2426"/>
+                <TextEquiv>
+                    <Unicode>p. T. Formand.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kristiania 26-1-79.
+Hr Ivar Aasen!
+Da der paa førstkommende Lørdag i Studenter-
+samfundet skal aabnes en Diskusion om Maal-
+sagen, tager jeg mig herved den Ære at underret-
+te Dem derom.
+Paa Studentersamfundets Bestyr-
+elses Vegne
+ærbødigst
+Erik Vullum
+p. T. Formand.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

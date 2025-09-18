@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T14:09:40.277+02:00</Created>
+        <LastChange>2023-10-23T10:29:38.061+02:00</LastChange>
+        <TranskribusMetadata docId="1027338" pageId="43175204" pageNr="1" tsid="137872819" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=VXZIPVHOOGCJHTVSOMPWPEKC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OBDCOKLLSGSFHEBFJNJXZSKV" imageId="35414730"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_252126_0001.jpg" imageWidth="3750" imageHeight="4754">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770769075" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="248,335 254,3899 3504,3905 3498,341"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="331,483 605,488 753,525 1235,486 1234,406 1033,366 759,377 668,412 493,368 421,395 330,354"/>
+                <Baseline points="350,482 393,482 436,480 479,480 522,480 566,480 609,479 652,479 695,479 738,477 782,477 825,476 868,476 911,476 954,476 998,474 1041,474 1084,474 1127,474 1170,476 1214,476"/>
+                <TextEquiv>
+                    <Unicode>STORTINGETS PRÆSIDENT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+                <Coords points="2189,646 2436,626 2509,672 2641,618 2964,655 3287,612 3443,676 3442,467 2958,501 2667,500 2501,546 2189,524"/>
+                <Baseline points="2208,608 2268,608 2329,608 2390,606 2451,606 2511,606 2572,606 2633,606 2694,606 2754,606 2815,606 2876,606 2937,606 2997,606 3058,606 3119,605 3180,605 3240,605 3301,603 3362,603 3423,602"/>
+                <TextEquiv>
+                    <Unicode>KRISTIANIA den 9de mai 1913</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:2;}">
+                <Coords points="863,1194 1303,1246 1364,1202 1646,1179 1846,1239 2074,1209 2076,1114 1901,1115 1716,1032 1465,1055 1405,1005 1290,1079 1033,999 866,1020"/>
+                <Baseline points="881,1175 939,1177 998,1179 1056,1181 1115,1182 1174,1184 1232,1185 1291,1187 1350,1187 1408,1188 1467,1190 1526,1190 1584,1191 1643,1191 1702,1193 1760,1193 1819,1193 1878,1193 1936,1193 1995,1193 2054,1193"/>
+                <TextEquiv>
+                    <Unicode>Frøken Harriet Backer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="2215,1308 2303,1328 2393,1405 2431,1412 2515,1356 2637,1353 2638,1205 2512,1193 2478,1212 2414,1200 2349,1222 2307,1184 2262,1206 2216,1194"/>
+                <Baseline points="2235,1316 2260,1317 2285,1317 2311,1319 2336,1319 2362,1319 2387,1319 2412,1319 2438,1319 2463,1319 2489,1319 2514,1319 2539,1320 2565,1320 2590,1320 2616,1320"/>
+                <TextEquiv>
+                    <Unicode>Bergen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="1333,1705 3524,1732 3524,1580 3429,1569 2948,1582 2468,1554 2293,1622 2115,1523 1864,1622 1333,1496"/>
+                <Baseline points="1350,1670 1457,1677 1565,1683 1673,1687 1780,1690 1888,1691 1996,1692 2103,1692 2211,1691 2319,1691 2427,1689 2534,1686 2642,1685 2750,1683 2857,1682 2965,1682 3073,1682 3180,1682 3288,1685 3396,1688 3504,1692"/>
+                <TextEquiv>
+                    <Unicode>I henhold til Deres brev av 10/4 skal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+                <Coords points="408,1903 3484,1887 3435,1743 2865,1719 408,1759"/>
+                <Baseline points="428,1857 579,1856 731,1856 883,1854 1035,1854 1187,1854 1339,1854 1490,1854 1642,1854 1794,1854 1946,1856 2098,1856 2250,1856 2402,1856 2553,1856 2705,1857 2857,1857 3009,1857 3161,1857 3313,1857 3465,1859"/>
+                <TextEquiv>
+                    <Unicode>man herved overdra Dem utførelsen av et portræt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:6;}">
+                <Coords points="440,2024 1327,2093 3436,2040 3436,1937 2445,1869 2176,1964 440,1922"/>
+                <Baseline points="461,2016 608,2018 756,2019 904,2021 1052,2021 1200,2021 1347,2022 1495,2022 1643,2022 1791,2022 1939,2022 2086,2022 2234,2021 2382,2021 2530,2021 2678,2021 2825,2021 2973,2021 3121,2019 3269,2019 3417,2019"/>
+                <TextEquiv>
+                    <Unicode>for Stortingets forsamlingssal av Eidsvoldsmanden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1662375810999_54" custom="readingOrder {index:7;}">
+                <Coords points="533,2033 1865,2027 3430,2078 3490,2097 3490,2234 2134,2233 506,2197 465,2224 461,2065"/>
+                <Baseline points="483,2172 515,2171 547,2169 579,2169 611,2166 644,2166 676,2165 708,2164 740,2163 772,2162 805,2162 837,2162 869,2162 901,2160 933,2160 966,2160 998,2160 1030,2160 1062,2159 1094,2159 1127,2159 1628,2175 1720,2180 1812,2183 1904,2186 1996,2188 2088,2190 2180,2192 2272,2192 2364,2193 2456,2193 2549,2193 2641,2192 2733,2192 2825,2192 2917,2190 3009,2190 3101,2189 3193,2189 3285,2189 3377,2189 3470,2189"/>
+                <TextEquiv>
+                    <Unicode>Peder Anker. Billedet forutsættes leveret senest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:8;}">
+                <Coords points="398,2369 1058,2362 1198,2439 1286,2360 1730,2385 1754,2211 1443,2228 1344,2288 908,2209 782,2307 698,2257 398,2247"/>
+                <Baseline points="416,2352 481,2350 547,2348 613,2346 679,2345 745,2345 811,2345 877,2345 943,2345 1009,2345 1075,2346 1140,2346 1206,2348 1272,2349 1338,2350 1404,2351 1470,2352 1536,2354 1602,2355 1668,2356 1734,2357"/>
+                <TextEquiv>
+                    <Unicode>inden 1ste april 1914.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:9;}">
+                <Coords points="1247,2555 2409,2515 2831,2537 2986,2636 3442,2570 3443,2407 2676,2449 2513,2360 2410,2436 1901,2456 1248,2380"/>
+                <Baseline points="1266,2519 1373,2517 1481,2517 1589,2517 1697,2517 1805,2517 1912,2519 2020,2519 2128,2520 2236,2521 2344,2522 2451,2523 2559,2523 2667,2525 2775,2525 2883,2526 2990,2526 3098,2526 3206,2526 3314,2525 3422,2525"/>
+                <TextEquiv>
+                    <Unicode>Man anmoder om Deres erkjendelse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:10;}">
+                <Coords points="394,2725 1423,2693 1826,2707 1981,2811 2080,2773 2081,2633 1766,2555 1408,2617 395,2596"/>
+                <Baseline points="414,2687 496,2684 578,2682 661,2682 743,2681 825,2681 908,2681 990,2681 1072,2681 1155,2681 1237,2682 1319,2682 1402,2684 1484,2685 1566,2685 1649,2687 1731,2688 1813,2690 1896,2691 1978,2691 2061,2693"/>
+                <TextEquiv>
+                    <Unicode>av nærværende bestilling.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:11;}">
+                <Coords points="1522,3197 1996,3246 2118,3217 2194,3230 2196,3044 2078,3065 1962,2968 1927,2991 1848,2944 1806,2970 1678,2926 1525,3000"/>
+                <Baseline points="1542,3137 1573,3138 1605,3138 1637,3140 1669,3140 1700,3140 1732,3141 1764,3141 1796,3141 1827,3143 1859,3143 1891,3143 1923,3144 1954,3144 1986,3144 2018,3144 2050,3146 2081,3146 2113,3146 2145,3146 2177,3147"/>
+                <TextEquiv>
+                    <Unicode>J. Løvland</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:12;}">
+                <Coords points="1466,3443 1534,3446 1643,3367 1681,3385 1734,3361 1780,3383 1833,3355 1901,3369 1943,3349 1981,3383 2095,3353 2092,3247 2050,3233 1990,3276 1849,3245 1725,3278 1587,3235 1490,3325 1463,3322"/>
+                <Baseline points="1484,3363 1513,3360 1543,3358 1572,3357 1602,3356 1632,3354 1661,3353 1691,3353 1720,3351 1750,3351 1780,3351 1809,3351 1839,3350 1868,3350 1898,3350 1928,3350 1957,3350 1987,3348 2016,3347 2046,3347 2076,3345"/>
+                <TextEquiv>
+                    <Unicode>præsident</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:13;}">
+                <Coords points="2794,3910 3000,3901 3030,3920 3072,3902 3266,3905 3267,3810 3183,3809 3103,3845 2959,3798 2921,3805 2884,3774 2842,3796 2796,3792"/>
+                <Baseline points="2816,3870 2841,3870 2866,3870 2892,3871 2917,3872 2943,3872 2968,3870 2994,3870 3019,3870 3045,3870 3070,3872 3096,3872 3121,3872 3147,3873 3172,3873 3198,3875 3223,3877 3249,3878"/>
+                <TextEquiv>
+                    <Unicode>V. Haffner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>STORTINGETS PRÆSIDENT
+KRISTIANIA den 9de mai 1913
+Frøken Harriet Backer.
+Bergen.
+I henhold til Deres brev av 10/4 skal
+man herved overdra Dem utførelsen av et portræt
+for Stortingets forsamlingssal av Eidsvoldsmanden
+Peder Anker. Billedet forutsættes leveret senest
+inden 1ste april 1914.
+Man anmoder om Deres erkjendelse
+av nærværende bestilling.
+J. Løvland
+præsident
+V. Haffner</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

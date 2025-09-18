@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:37:13.737+02:00</Created>
+        <LastChange>2023-10-23T10:17:52.720+02:00</LastChange>
+        <TranskribusMetadata docId="1026735" pageId="43161795" pageNr="1" tsid="137872053" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=XCIPJHVIDDWVYASBVDAMNSJV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UCSZIMQWENLKFPVXHCLKULIN" imageId="35401501"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_206979_0001.jpg" imageWidth="3645" imageHeight="4682">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770913983" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="258,165 266,3233 3455,3233 3447,165"/>
+            <TextLine id="line_1663243378672_354" custom="readingOrder {index:0;}">
+                <Coords points="1036,602 1074,382 2003,390 2397,431 2606,454 2604,553 2505,587 1085,627"/>
+                <Baseline points="1099,527 1124,532 1151,527 1188,529 1225,531 1262,533 1299,536 1336,537 1373,537 1410,538 1447,539 1484,539 1522,539 1559,539 1596,539 1633,539 1670,539 1707,539 1744,540 1781,540 1818,540 1855,541 1893,542 2019,534 2047,535 2075,536 2103,536 2131,536 2160,537 2188,537 2216,537 2244,538 2272,539 2301,539 2329,539 2357,540 2385,540 2413,540 2442,541 2470,542 2498,542 2526,542 2554,543 2583,543"/>
+                <TextEquiv>
+                    <Unicode>FAHLSTRØMS THEATER.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:1;}">
+                <Coords points="533,755 568,757 581,746 604,747 642,781 685,783 692,657 672,656 652,671 628,670 602,648 585,663 538,657"/>
+                <Baseline points="554,726 582,725 611,726 639,728 668,732"/>
+                <TextEquiv>
+                    <Unicode>FRA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:2;}">
+                <Coords points="396,881 459,854 479,866 522,834 550,850 625,835 751,855 822,835 866,859 885,839 917,847 917,753 874,752 815,713 755,724 680,776 609,748 542,763 471,735 444,759 396,739"/>
+                <Baseline points="414,819 439,820 465,821 490,821 516,822 541,822 567,822 592,822 618,822 643,822 669,822 694,822 720,822 745,822 771,822 796,822 822,822 847,822 873,822 899,822"/>
+                <TextEquiv>
+                    <Unicode>THEATERCHEFEN.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+                <Coords points="2213,874 2474,833 2749,939 2857,857 3069,903 3204,872 3205,750 3126,729 2605,780 2313,773 2215,728"/>
+                <Baseline points="2234,822 2281,821 2329,821 2376,822 2424,824 2471,824 2519,827 2566,828 2614,831 2661,833 2709,834 2757,836 2804,837 2852,837 2899,837 2947,836 2994,834 3042,832 3089,828 3137,823 3185,816"/>
+                <TextEquiv>
+                    <Unicode>KRISTIANIA D. 16 Januar 04</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="753,1351 879,1325 967,1371 1053,1346 1204,1380 1270,1347 1405,1393 1468,1333 1724,1321 1722,1199 1596,1240 1461,1167 1383,1188 1331,1161 1147,1254 1027,1173 752,1232"/>
+                <Baseline points="771,1332 817,1332 864,1332 910,1332 957,1332 1004,1332 1050,1332 1097,1332 1143,1332 1190,1332 1237,1332 1283,1331 1330,1331 1376,1329 1423,1328 1470,1326 1516,1325 1563,1323 1609,1321 1656,1319 1703,1316"/>
+                <TextEquiv>
+                    <Unicode>Hr dr. Ibsen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="328,1707 2585,1672 2830,1735 3027,1631 3406,1677 3441,1490 1835,1514 1665,1480 1515,1567 1246,1462 813,1520 327,1470"/>
+                <Baseline points="348,1631 501,1632 655,1632 808,1632 962,1632 1116,1631 1269,1631 1423,1630 1576,1629 1730,1628 1884,1628 2037,1626 2191,1625 2344,1625 2498,1623 2652,1622 2805,1622 2959,1622 3112,1620 3266,1620 3420,1620"/>
+                <TextEquiv>
+                    <Unicode>Som svar på Deres høit ærede skrivelse skal jeg i ærbødighed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+                <Coords points="260,1863 3290,1875 3295,1703 244,1723"/>
+                <Baseline points="260,1821 410,1821 561,1821 711,1821 862,1820 1013,1820 1163,1818 1314,1818 1465,1817 1615,1815 1766,1815 1917,1812 2067,1811 2218,1809 2369,1806 2519,1803 2670,1800 2821,1797 2971,1793 3122,1788 3273,1784"/>
+                <TextEquiv>
+                    <Unicode>tillade mig at tilbagemelde, at der fra min hustru og min</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:7;}">
+                <Coords points="273,2020 2606,2054 3434,1982 3468,1860 271,1888"/>
+                <Baseline points="293,1994 450,1995 608,1995 766,1995 924,1995 1082,1995 1239,1994 1397,1994 1555,1991 1713,1989 1871,1986 2028,1984 2186,1980 2344,1977 2502,1973 2660,1970 2817,1965 2975,1960 3133,1955 3291,1950 3449,1944"/>
+                <TextEquiv>
+                    <Unicode>side ikke foreligger nogen misforståelse med hensyn til hr. doktorens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663243410760_374" custom="readingOrder {index:8;}">
+                <Coords points="278,2078 1460,2067 1460,2257 279,2198"/>
+                <Baseline points="299,2163 455,2166 611,2168 767,2169 923,2171 1079,2171 1235,2171 1391,2169 1460,2169"/>
+                <TextEquiv>
+                    <Unicode>udtrykkelige tilladelse til</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663243401340_363" custom="readingOrder {index:9;}">
+                <Coords points="1436,2028 1500,2001 1523,2001 1631,2054 1629,2093 1573,2098 1436,2092"/>
+                <Baseline points="1455,2076 1503,2076 1550,2079 1580,2080 1610,2082"/>
+                <TextEquiv>
+                    <Unicode>kun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663243409937_368" custom="readingOrder {index:10;}">
+                <Coords points="1501,2082 3441,2060 3440,2186 1970,2193 1648,2254 1513,2247"/>
+                <Baseline points="1495,2169 1547,2169 1703,2166 1859,2165 2015,2162 2171,2159 2327,2156 2483,2153 2639,2148 2795,2144 2951,2139 3107,2133 3263,2127 3419,2123"/>
+                <TextEquiv>
+                    <Unicode>at opføre "Samfundets Støtter" på min hustrus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:11;}">
+                <Coords points="304,2420 483,2340 537,2369 763,2349 840,2421 936,2395 1014,2432 1117,2430 1268,2341 1359,2351 1360,2260 1286,2227 1230,2258 828,2240 708,2269 307,2227"/>
+                <Baseline points="324,2316 374,2318 425,2320 476,2322 527,2324 578,2325 629,2327 679,2328 730,2330 781,2331 832,2333 883,2333 934,2334 985,2334 1035,2334 1086,2334 1137,2334 1188,2334 1239,2333 1290,2333 1341,2331"/>
+                <TextEquiv>
+                    <Unicode>jubileumsdag 6te april.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:12;}">
+                <Coords points="289,2583 1305,2538 2657,2619 3443,2529 3444,2434 346,2405"/>
+                <Baseline points="365,2496 517,2496 670,2498 823,2499 976,2501 1129,2502 1282,2505 1435,2508 1588,2511 1741,2514 1894,2516 2046,2519 2199,2520 2352,2520 2505,2520 2658,2520 2811,2517 2964,2514 3117,2510 3270,2502 3423,2495"/>
+                <TextEquiv>
+                    <Unicode>Jeg gjentager min hustrus og mine hjertelige taksigelser for hr. doktor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:13;}">
+                <Coords points="318,2752 648,2732 783,2786 866,2755 980,2823 1162,2721 1407,2734 1407,2651 1214,2599 1115,2662 934,2653 851,2605 748,2652 630,2608 583,2639 449,2567 318,2586"/>
+                <Baseline points="336,2696 388,2700 441,2703 493,2706 546,2708 598,2708 651,2709 703,2709 756,2709 808,2709 861,2709 913,2709 966,2708 1018,2708 1071,2708 1123,2706 1176,2706 1228,2708 1281,2708 1333,2709 1386,2711"/>
+                <TextEquiv>
+                    <Unicode>Ibsens store godhed.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:14;}">
+                <Coords points="1982,2896 2353,2864 2518,2927 2652,2927 2712,2888 2826,2900 2826,2782 2775,2774 2499,2777 2412,2722 2309,2757 2069,2737 1991,2756"/>
+                <Baseline points="2024,2858 2063,2858 2102,2857 2141,2856 2180,2856 2220,2856 2259,2855 2298,2855 2337,2855 2376,2855 2416,2855 2455,2855 2494,2856 2533,2856 2572,2856 2612,2856 2651,2856 2690,2858 2729,2858 2768,2858 2808,2858"/>
+                <TextEquiv>
+                    <Unicode>I ærbødighed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:15;}">
+                <Coords points="1982,3185 2033,3189 2246,3084 2368,3131 2838,3072 2837,2950 2746,2958 2599,2908 2525,2932 2256,2879 2099,2971 1980,2929"/>
+                <Baseline points="2000,3071 2040,3070 2081,3069 2122,3068 2163,3068 2204,3068 2244,3068 2285,3068 2326,3068 2367,3069 2408,3069 2448,3069 2489,3069 2530,3069 2571,3069 2612,3068 2652,3068 2693,3065 2734,3063 2775,3061 2816,3057"/>
+                <TextEquiv>
+                    <Unicode>Johan Fahlstrøm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>FAHLSTRØMS THEATER.
+FRA
+THEATERCHEFEN.
+KRISTIANIA D. 16 Januar 04
+Hr dr. Ibsen
+Som svar på Deres høit ærede skrivelse skal jeg i ærbødighed
+tillade mig at tilbagemelde, at der fra min hustru og min
+side ikke foreligger nogen misforståelse med hensyn til hr. doktorens
+udtrykkelige tilladelse til
+kun
+at opføre "Samfundets Støtter" på min hustrus
+jubileumsdag 6te april.
+Jeg gjentager min hustrus og mine hjertelige taksigelser for hr. doktor
+Ibsens store godhed.
+I ærbødighed
+Johan Fahlstrøm</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

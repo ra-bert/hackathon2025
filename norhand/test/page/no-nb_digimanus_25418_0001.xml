@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:59:30.488+02:00</Created>
+        <LastChange>2023-10-23T12:52:46.277+02:00</LastChange>
+        <TranskribusMetadata docId="1027273" pageId="43173663" pageNr="1" tsid="137886362" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=EEYALGJCLTQTGBDQYUZXXOLG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KMUCOPOAOBMDTOFMZFAYCFBD" imageId="35413203"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_25418_0001.jpg" imageWidth="3638" imageHeight="4839">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770776780" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="319,310 310,3034 3368,3034 3377,310"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="652,1358 731,1375 899,1331 978,1355 1073,1318 1289,1358 1464,1315 1589,1358 1591,1142 1512,1114 1451,1144 1349,1112 1242,1134 1042,1078 836,1141 654,1135"/>
+                <Baseline points="672,1282 717,1282 762,1284 807,1284 852,1284 897,1284 942,1286 987,1286 1032,1286 1077,1288 1122,1288 1167,1288 1212,1288 1257,1290 1302,1290 1347,1290 1392,1290 1437,1292 1482,1292 1527,1292 1572,1292"/>
+                <TextEquiv>
+                    <Unicode>Hr direktør Thiis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="784,1788 3189,1752 3189,1630 2920,1603 2336,1683 2170,1651 1778,1557 1471,1682 784,1571"/>
+                <Baseline points="804,1710 922,1712 1040,1716 1159,1716 1277,1718 1396,1718 1514,1718 1632,1718 1751,1718 1869,1716 1988,1716 2106,1716 2224,1714 2343,1714 2461,1714 2580,1714 2698,1714 2816,1716 2935,1718 3053,1720 3172,1722"/>
+                <TextEquiv>
+                    <Unicode>Jeg tillader mig herved at oversende i avskrift</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="318,1882 3387,1932 3387,1792 3038,1750 1483,1829 318,1741"/>
+                <Baseline points="338,1852 489,1854 641,1856 792,1856 944,1858 1095,1858 1247,1858 1398,1858 1550,1858 1701,1858 1853,1858 2004,1858 2156,1858 2307,1856 2459,1856 2610,1856 2762,1856 2913,1856 3065,1856 3216,1858 3368,1858"/>
+                <TextEquiv>
+                    <Unicode>brev fra billedhugger Vigeland av 13/12 1893 vedrørende salg til "Foreningen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="293,2030 3154,2087 3366,2045 3367,1916 294,1901"/>
+                <Baseline points="314,1996 465,1996 617,1998 769,1998 920,2000 1072,2000 1224,2002 1375,2002 1527,2002 1679,2002 1831,2004 1982,2004 2134,2004 2286,2004 2437,2002 2589,2002 2741,2002 2892,2002 3044,2000 3196,2000 3348,1998"/>
+                <TextEquiv>
+                    <Unicode>til Nationalgalleriets forøgelse" av originalmodellen til gruppen "Forbundet"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="559,2168 1519,2232 1724,2155 3094,2149 3093,2051 2679,2026 2524,2106 2372,2031 1841,2105 1519,2023 1253,2104 927,2026 559,2073"/>
+                <Baseline points="578,2142 702,2144 827,2146 952,2146 1077,2146 1202,2146 1327,2144 1452,2144 1577,2144 1702,2142 1827,2141 1951,2140 2076,2138 2201,2138 2326,2138 2451,2136 2576,2136 2701,2137 2826,2138 2951,2138 3076,2140"/>
+                <TextEquiv>
+                    <Unicode>Idet foreningens bestyrelse den 7/3 1894 har vedtaget de av</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="319,2337 3373,2308 3342,2191 319,2178"/>
+                <Baseline points="338,2280 488,2280 639,2282 790,2282 940,2282 1091,2284 1242,2284 1392,2284 1543,2284 1694,2284 1845,2284 1995,2284 2146,2286 2297,2286 2447,2286 2598,2286 2749,2286 2899,2286 3050,2286 3201,2284 3352,2284"/>
+                <TextEquiv>
+                    <Unicode>Vigeland for støbning i bronce eller udførelse i andet materiale opstillede</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="292,2474 3111,2506 3111,2343 2952,2327 292,2330"/>
+                <Baseline points="310,2418 449,2420 588,2422 727,2422 866,2424 1005,2424 1144,2426 1283,2426 1422,2426 1561,2426 1700,2426 1839,2426 1978,2426 2117,2426 2256,2426 2395,2428 2534,2428 2673,2428 2812,2428 2951,2430 3090,2432"/>
+                <TextEquiv>
+                    <Unicode>betingelser er den paatænkte støbning uden hr Vigelands samtykke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="312,2611 1298,2593 1590,2673 2083,2590 2307,2662 2436,2630 2437,2524 2117,2537 1894,2446 1404,2532 1188,2445 900,2532 676,2467 312,2497"/>
+                <Baseline points="330,2572 432,2571 534,2570 636,2570 738,2568 840,2568 942,2566 1044,2566 1146,2566 1248,2566 1350,2564 1452,2564 1554,2566 1656,2566 1758,2566 1860,2568 1962,2568 2064,2570 2166,2572 2268,2576 2434,2581"/>
+                <TextEquiv>
+                    <Unicode>udelukket og vil kunne medføre strafansvar. -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="571,2742 1117,2737 1186,2782 1417,2753 1455,2719 1553,2729 1553,2638 1462,2654 1287,2602 953,2662 763,2592 570,2605"/>
+                <Baseline points="590,2702 637,2705 684,2708 731,2709 778,2712 826,2712 873,2712 920,2711 967,2710 1014,2709 1062,2708 1109,2707 1156,2706 1203,2704 1250,2703 1298,2702 1345,2702 1392,2702 1439,2702 1486,2703 1534,2704"/>
+                <TextEquiv>
+                    <Unicode>Kristiania 20/10 1922</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="1326,2894 1424,2909 1474,2890 1576,2939 1622,2947 1667,2924 1705,2943 1796,2867 1853,2867 1853,2776 1766,2787 1728,2750 1709,2761 1659,2738 1568,2761 1466,2719 1417,2753 1326,2757"/>
+                <Baseline points="1346,2848 1371,2848 1397,2850 1423,2850 1448,2850 1474,2850 1500,2852 1525,2852 1551,2852 1577,2852 1602,2852 1628,2852 1654,2852 1679,2852 1705,2850 1731,2850 1756,2850 1782,2849 1808,2848 1834,2848"/>
+                <TextEquiv>
+                    <Unicode>Ærbødigst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="1854,3054 1980,3046 2069,3101 2166,3028 2576,3028 2579,2937 2521,2943 2424,2887 2257,2917 2168,2839 2103,2856 1861,2819"/>
+                <Baseline points="1874,2976 1908,2979 1942,2982 1976,2983 2010,2985 2045,2988 2079,2988 2113,2990 2147,2990 2181,2991 2216,2992 2250,2992 2284,2992 2318,2994 2352,2994 2387,2994 2421,2996 2455,2996 2489,2997 2523,2998 2558,3000"/>
+                <TextEquiv>
+                    <Unicode>Fr. Gundersen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hr direktør Thiis.
+Jeg tillader mig herved at oversende i avskrift
+brev fra billedhugger Vigeland av 18/12 1893 vedrørende salg til "Foreningen
+til Nationalgalleriets forøgelse" av originalmodellen til gruppen "Forbundet"
+Idet foreningens bestyrelse den 7/3 1894 har vedtaget de av
+Vigeland for støbning i bronce eller udførelse i andet materiale opstillede
+betingelser er den paatænkte støbning uden hr Vigelands samtykke
+udelukket og vil kunne medføre strafansvar. -
+Kristiania 20/10 1922
+Ærbødigst
+Fr. Gundersen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

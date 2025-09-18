@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:25:15.960+02:00</Created>
+        <LastChange>2023-10-18T16:59:28.217+02:00</LastChange>
+        <TranskribusMetadata docId="1027126" pageId="43171790" pageNr="1" tsid="137659243" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=YKTWMKQTVZETAEQAVILEGQRO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SPAQVJQQTKLHDNGVHERCQLQQ" imageId="35411386"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_208329_0001.jpg" imageWidth="4878" imageHeight="3950">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770815912" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1661942687601_696"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1661942687601_696" custom="readingOrder {index:0;}">
+            <Coords points="2526,358 4694,358 4694,3422 2526,3422"/>
+            <TextLine id="region_1661942687601_696l3" custom="readingOrder {index:0;}">
+                <Coords points="2925,805 3090,786 3311,859 3486,794 4117,804 4163,797 4185,729 3955,752 3843,676 3677,752 3555,702 3465,735 3244,680 3164,733 3090,687 2924,713"/>
+                <Baseline points="2936,786 2996,788 3057,788 3118,788 3179,788 3240,788 3300,788 3361,788 3422,786 3483,786 3544,785 3604,784 3665,784 3726,784 3787,784 3848,784 3908,784 3969,784 4030,786 4091,788 4152,790"/>
+                <TextEquiv>
+                    <Unicode>Hr. sprogforsker I. Aasen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l4" custom="readingOrder {index:1;}">
+                <Coords points="2933,1047 3190,1069 3391,1016 3558,1081 3637,1066 4433,1060 4658,1074 4659,986 4552,930 4346,996 3944,952 3815,996 3684,946 3325,983 3086,913 2934,962"/>
+                <Baseline points="2944,1008 3029,1010 3114,1012 3199,1013 3284,1014 3370,1016 3455,1018 3540,1020 3625,1022 3710,1024 3796,1025 3881,1026 3966,1028 4051,1028 4136,1028 4222,1030 4307,1030 4392,1028 4477,1028 4562,1027 4648,1026"/>
+                <TextEquiv>
+                    <Unicode>Skjønt jeg er dem personlig ubekjendt, håber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l5" custom="readingOrder {index:2;}">
+                <Coords points="2786,1182 2914,1120 3003,1179 3100,1125 4344,1155 4602,1212 4650,1095 3719,1076 3547,1091 3215,1055 2788,1079"/>
+                <Baseline points="2798,1124 2890,1119 2982,1114 3074,1110 3166,1109 3258,1108 3350,1110 3442,1111 3534,1114 3626,1116 3718,1119 3810,1122 3902,1126 3994,1130 4086,1132 4178,1134 4270,1136 4362,1136 4454,1136 4546,1134 4638,1132"/>
+                <TextEquiv>
+                    <Unicode>jeg dog de vil undskylde, at jeg henvender mig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l6" custom="readingOrder {index:3;}">
+                <Coords points="2838,1233 3306,1226 3583,1287 3801,1235 4102,1310 4219,1256 4220,1203 4148,1178 4082,1211 3779,1172 3208,1191 3060,1138 2840,1185"/>
+                <Baseline points="2850,1208 2917,1208 2985,1208 3053,1208 3121,1210 3189,1211 3257,1212 3325,1214 3393,1216 3461,1218 3529,1220 3596,1222 3664,1226 3732,1228 3800,1230 3868,1232 3936,1234 4004,1236 4072,1238 4140,1240 4208,1242"/>
+                <TextEquiv>
+                    <Unicode>til dem i nedenomhandlede sag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l7" custom="readingOrder {index:4;}">
+                <Coords points="2958,1398 3250,1349 3437,1415 3620,1350 4053,1427 4221,1359 4595,1379 4597,1315 4386,1269 4263,1323 4153,1280 3826,1323 3723,1265 3458,1305 2961,1269"/>
+                <Baseline points="2972,1322 3052,1326 3133,1329 3213,1332 3294,1334 3375,1336 3455,1338 3536,1341 3616,1342 3697,1344 3778,1346 3858,1348 3939,1350 4019,1351 4100,1352 4181,1354 4261,1356 4342,1356 4422,1358 4503,1360 4584,1360"/>
+                <TextEquiv>
+                    <Unicode>Jeg har i nogen tid holdt paa med at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l8" custom="readingOrder {index:5;}">
+                <Coords points="2825,1441 3412,1455 3658,1506 3849,1459 4082,1539 4328,1469 4624,1477 4626,1401 4096,1443 3662,1374 2826,1397"/>
+                <Baseline points="2836,1428 2924,1430 3013,1432 3102,1434 3191,1438 3280,1440 3368,1442 3457,1445 3546,1448 3635,1450 3724,1453 3812,1456 3901,1458 3990,1460 4079,1462 4168,1464 4256,1466 4345,1466 4434,1468 4523,1468 4612,1468"/>
+                <TextEquiv>
+                    <Unicode>samle en del ord fra Hallingdal, hvilke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l9" custom="readingOrder {index:6;}">
+                <Coords points="2829,1547 3086,1603 3840,1614 4011,1636 4088,1577 4652,1589 4584,1502 4184,1535 3687,1525 3510,1496 3375,1530 3234,1470 2831,1496"/>
+                <Baseline points="2842,1532 2931,1536 3021,1539 3111,1542 3201,1546 3291,1548 3381,1551 3471,1554 3561,1556 3651,1558 3741,1560 3830,1564 3920,1564 4010,1566 4100,1568 4190,1568 4280,1568 4370,1568 4460,1568 4550,1568 4640,1566"/>
+                <TextEquiv>
+                    <Unicode>ikke findes i deres ordbog; ligesaa er jeg i be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l10" custom="readingOrder {index:7;}">
+                <Coords points="2809,1702 3022,1648 3209,1705 3930,1668 4079,1726 4653,1674 4656,1644 4272,1591 3982,1644 3840,1626 3685,1632 2811,1594"/>
+                <Baseline points="2822,1636 2913,1640 3004,1643 3095,1646 3186,1650 3277,1652 3368,1656 3459,1657 3550,1660 3641,1661 3733,1662 3824,1664 3915,1665 4006,1666 4097,1666 4188,1668 4279,1668 4370,1668 4461,1668 4552,1668 4644,1668"/>
+                <TextEquiv>
+                    <Unicode>greb med at samle endel ord fra Lofoten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l11" custom="readingOrder {index:8;}">
+                <Coords points="2838,1745 3098,1760 3237,1832 3351,1769 3534,1828 3952,1774 4625,1831 4627,1737 4448,1710 3423,1736 2840,1674"/>
+                <Baseline points="2850,1732 2938,1737 3026,1742 3114,1747 3202,1750 3291,1753 3379,1756 3467,1759 3555,1762 3643,1764 3732,1764 3820,1766 3908,1768 3996,1768 4084,1768 4173,1770 4261,1770 4349,1770 4437,1770 4525,1770 4614,1770"/>
+                <TextEquiv>
+                    <Unicode>Det er ikke ganske faa, jeg nu allerede har; og</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l12" custom="readingOrder {index:9;}">
+                <Coords points="2841,1879 4647,1918 4649,1801 4540,1852 2842,1803"/>
+                <Baseline points="2852,1842 2941,1846 3030,1850 3119,1853 3208,1856 3298,1858 3387,1860 3476,1862 3565,1864 3654,1865 3744,1866 3833,1868 3922,1868 4011,1870 4100,1870 4190,1872 4279,1872 4368,1874 4457,1876 4546,1878 4636,1880"/>
+                <TextEquiv>
+                    <Unicode>da jeg saa en liden notits i et blad om, at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l13" custom="readingOrder {index:10;}">
+                <Coords points="2823,1979 3491,1962 3614,2034 3736,2020 4659,2014 4656,1924 4387,1957 4261,1908 3973,1952 2826,1882"/>
+                <Baseline points="2836,1950 2926,1952 3017,1954 3107,1956 3198,1958 3289,1960 3379,1962 3470,1965 3560,1968 3651,1970 3742,1972 3832,1974 3923,1976 4013,1978 4104,1980 4195,1982 4285,1984 4376,1985 4466,1986 4557,1988 4648,1988"/>
+                <TextEquiv>
+                    <Unicode>Hr. H. Ross har begyndt at udgive en ord-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l14" custom="readingOrder {index:11;}">
+                <Coords points="2853,2082 3044,2068 3227,2143 3338,2078 3660,2092 3735,2151 3943,2091 4668,2138 4669,2051 4188,2032 3834,2056 2854,2004"/>
+                <Baseline points="2864,2054 2953,2056 3043,2058 3132,2062 3222,2064 3312,2066 3401,2068 3491,2070 3580,2072 3670,2074 3760,2076 3849,2078 3939,2080 4028,2082 4118,2083 4208,2084 4297,2086 4387,2087 4476,2088 4566,2090 4656,2090"/>
+                <TextEquiv>
+                    <Unicode>samling, faldt det mig ind, at jeg burde spørge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l15" custom="readingOrder {index:12;}">
+                <Coords points="2833,2169 4655,2221 4657,2145 4503,2114 3844,2167 3399,2098 3257,2150 2992,2075 2835,2107"/>
+                <Baseline points="2846,2156 2935,2159 3025,2162 3115,2164 3205,2168 3295,2171 3385,2174 3475,2176 3565,2180 3655,2182 3745,2184 3834,2186 3924,2188 4014,2190 4104,2191 4194,2192 4284,2192 4374,2192 4464,2192 4554,2192 4644,2190"/>
+                <TextEquiv>
+                    <Unicode>Dem, om De eller maaske Hr. Ross kunde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l16" custom="readingOrder {index:13;}">
+                <Coords points="2830,2283 3122,2287 3229,2343 3345,2283 3521,2335 3642,2311 4382,2342 4390,2271 4080,2217 2833,2220"/>
+                <Baseline points="2842,2268 2918,2269 2995,2271 3072,2273 3149,2274 3226,2276 3302,2278 3379,2280 3456,2282 3533,2284 3610,2286 3686,2288 3763,2290 3840,2290 3917,2292 3994,2294 4070,2296 4147,2296 4224,2298 4301,2298 4378,2300"/>
+                <TextEquiv>
+                    <Unicode>ønske at faa min lille ordsamling.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l17" custom="readingOrder {index:14;}">
+                <Coords points="2995,2441 4172,2415 4363,2423 4424,2482 4629,2440 4631,2362 3411,2374 2998,2319"/>
+                <Baseline points="3008,2380 3088,2384 3169,2388 3249,2391 3330,2393 3410,2396 3491,2398 3571,2400 3652,2402 3732,2403 3813,2404 3893,2406 3974,2406 4054,2408 4135,2410 4215,2410 4296,2412 4376,2413 4457,2414 4537,2416 4618,2418"/>
+                <TextEquiv>
+                    <Unicode>Jeg tør maaske bede dem om et par</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l18" custom="readingOrder {index:15;}">
+                <Coords points="2849,2519 3287,2490 3612,2549 3754,2509 3904,2575 4191,2512 4304,2589 4462,2549 4463,2489 3963,2432 3678,2453 3434,2427 3065,2454 3006,2399 2851,2432"/>
+                <Baseline points="2862,2472 2941,2474 3021,2475 3100,2478 3180,2480 3259,2482 3339,2484 3418,2486 3498,2488 3577,2492 3657,2494 3736,2496 3816,2498 3895,2500 3975,2503 4054,2505 4134,2506 4213,2508 4293,2510 4372,2511 4452,2512"/>
+                <TextEquiv>
+                    <Unicode>linjer, hvorledes jeg skal forholde mig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l19" custom="readingOrder {index:16;}">
+                <Coords points="3131,2660 3279,2719 3510,2659 3594,2726 3773,2658 3915,2701 4054,2662 4354,2697 4356,2600 4269,2584 4073,2612 4003,2571 3679,2622 3496,2581 3405,2618 3267,2550 3133,2561"/>
+                <Baseline points="3144,2622 3204,2627 3264,2632 3324,2636 3384,2640 3444,2642 3504,2646 3564,2648 3624,2650 3684,2650 3744,2652 3804,2652 3864,2652 3924,2654 3984,2654 4044,2654 4104,2654 4164,2654 4224,2654 4284,2654 4344,2654"/>
+                <TextEquiv>
+                    <Unicode>Borge prestegd den 9 mai 1881</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l20" custom="readingOrder {index:17;}">
+                <Coords points="4041,2782 4105,2780 4118,2792 4142,2780 4315,2782 4438,2802 4471,2794 4473,2750 4432,2732 4332,2749 4265,2700 4203,2706 4192,2694 4143,2706 4112,2734 4042,2743"/>
+                <Baseline points="4052,2774 4077,2773 4103,2772 4128,2772 4154,2772 4179,2772 4205,2774 4230,2774 4256,2776 4281,2778 4307,2778 4332,2780 4358,2782 4383,2784 4409,2785 4434,2788 4460,2790"/>
+                <TextEquiv>
+                    <Unicode>Ærbødigst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661942687601_696l21" custom="readingOrder {index:18;}">
+                <Coords points="3868,2973 4028,2947 4446,2977 4519,2957 4521,2909 4447,2912 4351,2861 4270,2913 4231,2908 4174,2853 4069,2873 4031,2855 3953,2885 3873,2870"/>
+                <Baseline points="3882,2928 3913,2932 3944,2935 3975,2938 4006,2940 4038,2942 4069,2944 4100,2946 4131,2948 4162,2949 4194,2950 4225,2952 4256,2953 4287,2954 4318,2954 4350,2956 4381,2957 4412,2958 4443,2960 4474,2962 4506,2964"/>
+                <TextEquiv>
+                    <Unicode>O Skattebøl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hr. sprogforsker I. Aasen!
+Skjønt jeg er dem personlig ubekjendt, håber
+jeg dog de vil undskylde, at jeg henvender mig
+til dem i nedenomhandlede sag.
+Jeg har i nogen tid holdt paa med at
+samle en del ord fra Hallingdal, hvilke
+ikke findes i deres ordbog; ligesaa er jeg i be-
+greb med at samle endel ord fra Lofoten.
+Det er ikke ganske faa, jeg nu allerede har; og
+da jeg saa en liden notits i et blad om, at
+Hr. H. Ross har begyndt at udgive en ord-
+samling, faldt det mig ind, at jeg burde spørge
+Dem, om De eller maaske Hr. Ross kunde
+ønske at faa min lille ordsamling.
+Jeg tør maaske bede dem om et par
+linjer, hvorledes jeg skal forholde mig.
+Borge prestegd den 9 mai 1881
+Ærbødigst
+O Skattebøl</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

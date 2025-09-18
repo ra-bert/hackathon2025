@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:06:26.900+02:00</Created>
+        <LastChange>2023-10-23T09:27:29.314+02:00</LastChange>
+        <TranskribusMetadata docId="1026964" pageId="43168888" pageNr="1" tsid="137869073" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=KPWWVJCFZLTHXDGBGEAEYPCX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UEBHQRFETZNJFWBAWXNZZLUD" imageId="35408559"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_208325_0001.jpg" imageWidth="4905" imageHeight="4046">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770846810" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662031320262_1025"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1662031320262_1025" custom="readingOrder {index:0;}">
+            <Coords points="2551,319 4717,319 4717,3754 2551,3754"/>
+            <TextLine id="region_1662031320262_1025l3" custom="readingOrder {index:0;}">
+                <Coords points="2750,661 2766,658 2781,673 2811,642 2857,633 2921,635 3003,659 3000,460 2977,465 2951,453 2900,469 2802,545 2749,567"/>
+                <Baseline points="2762,626 2787,624 2812,622 2838,620 2863,618 2888,616 2914,616 2939,617 2964,621 2990,626"/>
+                <TextEquiv>
+                    <Unicode>S. T.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662031320262_1025l5" custom="readingOrder {index:1;}">
+                <Coords points="2914,848 3136,840 3300,872 3443,816 3698,852 3880,804 4247,879 4498,819 4498,722 4398,760 4245,675 4125,759 3849,702 3655,753 3418,742 3323,670 2914,741"/>
+                <Baseline points="2926,804 3003,806 3081,808 3159,810 3237,812 3315,812 3393,812 3471,814 3549,814 3627,814 3705,814 3782,812 3860,812 3938,812 4016,812 4094,812 4172,812 4250,812 4328,812 4406,812 4484,814"/>
+                <TextEquiv>
+                    <Unicode>Hr Stipendiat Ivar Aasen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662031320262_1025l6" custom="readingOrder {index:2;}">
+                <Coords points="2780,1123 3036,1062 3529,1056 3674,1139 3790,1064 4530,1092 4546,1023 4332,941 3857,1021 2782,972"/>
+                <Baseline points="2794,1060 2880,1058 2967,1056 3054,1054 3141,1054 3228,1054 3315,1054 3402,1054 3489,1056 3576,1056 3663,1058 3749,1060 3836,1062 3923,1062 4010,1064 4097,1066 4184,1067 4271,1068 4358,1068 4445,1070 4532,1070"/>
+                <TextEquiv>
+                    <Unicode>Jeg tillader mig at bede Dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662031320262_1025l7" custom="readingOrder {index:3;}">
+                <Coords points="2700,1232 2943,1187 3114,1259 3500,1174 3941,1257 4256,1192 4588,1216 4588,1147 4481,1088 4269,1159 3625,1105 3533,1151 3383,1089 3255,1160 2701,1158"/>
+                <Baseline points="2712,1194 2805,1189 2898,1186 2991,1184 3084,1181 3177,1180 3270,1180 3363,1180 3456,1180 3549,1180 3643,1182 3736,1183 3829,1184 3922,1186 4015,1186 4108,1188 4201,1190 4294,1190 4387,1190 4480,1190 4574,1190"/>
+                <TextEquiv>
+                    <Unicode>gjøre mig den Fornøielse at tækkes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662031320262_1025l8" custom="readingOrder {index:4;}">
+                <Coords points="2697,1360 2872,1311 3227,1317 3359,1385 3495,1310 4634,1335 4634,1251 4492,1231 4026,1293 3759,1213 3689,1271 2699,1258"/>
+                <Baseline points="2712,1310 2807,1310 2902,1308 2998,1308 3093,1308 3189,1308 3284,1308 3379,1310 3475,1310 3570,1312 3666,1314 3761,1314 3856,1316 3952,1318 4047,1320 4143,1320 4238,1322 4333,1324 4429,1324 4524,1326 4620,1326"/>
+                <TextEquiv>
+                    <Unicode>her hos mig i Morgen Aften Kl 7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662031320262_1025l9" custom="readingOrder {index:5;}">
+                <Coords points="2665,1443 4656,1493 4686,1391 3753,1402 3519,1329 3391,1392 3044,1333 2665,1400"/>
+                <Baseline points="2678,1428 2777,1428 2877,1428 2977,1430 3076,1430 3176,1430 3276,1432 3375,1432 3475,1434 3575,1434 3675,1436 3774,1437 3874,1438 3974,1440 4073,1442 4173,1444 4273,1446 4372,1448 4472,1450 4572,1452 4672,1456"/>
+                <TextEquiv>
+                    <Unicode>i al Tarvelighed, da et lidet dramatisk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662031320262_1025l10" custom="readingOrder {index:6;}">
+                <Coords points="2642,1551 3076,1565 3132,1620 3248,1547 3423,1619 3758,1555 3824,1608 4356,1599 4449,1628 4542,1578 4543,1506 4295,1541 3921,1463 3286,1510 2912,1445 2643,1505"/>
+                <Baseline points="2654,1544 2747,1546 2841,1546 2935,1546 3028,1547 3122,1548 3216,1548 3309,1548 3403,1549 3497,1550 3591,1550 3684,1552 3778,1553 3872,1555 3965,1557 4059,1560 4153,1562 4246,1566 4340,1570 4434,1574 4528,1580"/>
+                <TextEquiv>
+                    <Unicode>Arbeide af mig skal foredrages af</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662031320262_1025l11" custom="readingOrder {index:7;}">
+                <Coords points="2656,1701 3011,1671 3161,1738 3448,1682 4213,1737 4320,1709 4432,1750 4683,1725 4686,1623 4345,1655 4116,1617 3893,1661 3642,1573 3475,1638 2659,1571"/>
+                <Baseline points="2670,1672 2770,1670 2870,1668 2970,1668 3070,1668 3170,1668 3270,1668 3370,1668 3470,1670 3570,1672 3670,1674 3770,1676 3870,1680 3970,1682 4070,1686 4170,1690 4270,1696 4370,1700 4470,1706 4570,1711 4670,1718"/>
+                <TextEquiv>
+                    <Unicode>Fru Wolf i Landsmaalet, i hvilken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662031320262_1025l12" custom="readingOrder {index:8;}">
+                <Coords points="2623,1812 4686,1858 4694,1803 4462,1732 4348,1795 4220,1735 4125,1774 2625,1730"/>
+                <Baseline points="2638,1782 2739,1784 2841,1786 2943,1788 3045,1790 3147,1792 3248,1794 3350,1796 3452,1798 3554,1800 3656,1802 3757,1806 3859,1809 3961,1812 4063,1816 4165,1819 4266,1824 4368,1828 4470,1832 4572,1838 4674,1844"/>
+                <TextEquiv>
+                    <Unicode>Anledning jeg ønskede at høre Deres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683704444300_216" custom="readingOrder {index:9;}">
+                <Coords points="2638,1809 3121,1882 3121,1935 2635,1946"/>
+                <Baseline points="2650,1898 2746,1904 2842,1908 2939,1911 3035,1914 3121,1915"/>
+                <TextEquiv>
+                    <Unicode>kyndige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683704442820_211" custom="readingOrder {index:10;}">
+                <Coords points="3523,1837 3596,1839 4593,1889 4573,1978 4151,1994 3523,1927"/>
+                <Baseline points="3523,1922 3614,1922 3710,1924 3806,1926 3903,1928 3999,1930 4096,1932 4192,1936 4288,1940 4385,1947 4481,1953 4578,1960"/>
+                <TextEquiv>
+                    <Unicode>Formening baade</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662031320262_1025l14" custom="readingOrder {index:11;}">
+                <Coords points="2633,2039 3701,2063 3982,2139 4291,2058 4701,2106 4704,1994 4383,1960 4179,2024 3908,1935 3403,2010 3149,1939 2635,1980"/>
+                <Baseline points="2646,2020 2748,2022 2850,2024 2952,2026 3054,2028 3156,2030 3258,2032 3360,2032 3462,2034 3564,2036 3667,2038 3769,2040 3871,2043 3973,2046 4075,2048 4177,2052 4279,2056 4381,2061 4483,2066 4585,2072 4688,2078"/>
+                <TextEquiv>
+                    <Unicode>med Hensyn til Sprog og Indhold.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662031320262_1025l15" custom="readingOrder {index:12;}">
+                <Coords points="2637,2149 2840,2181 2895,2222 3033,2165 3126,2209 3217,2164 3275,2187 3350,2166 3351,2125 3125,2108 3010,2072 2863,2113 2791,2067 2640,2067"/>
+                <Baseline points="2650,2136 2684,2139 2718,2144 2752,2147 2787,2150 2821,2152 2855,2155 2890,2156 2924,2158 2958,2160 2993,2160 3027,2161 3061,2162 3095,2162 3130,2162 3164,2162 3198,2162 3233,2164 3267,2164 3301,2164 3336,2164"/>
+                <TextEquiv>
+                    <Unicode>Christiania</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662031320262_1025l16" custom="readingOrder {index:13;}">
+                <Coords points="2614,2269 3035,2262 3091,2306 3191,2259 3257,2314 3483,2253 3717,2300 3781,2278 3782,2201 3609,2173 3490,2235 3394,2193 3322,2228 3149,2200 2865,2227 2720,2156 2615,2167"/>
+                <Baseline points="2628,2248 2685,2248 2742,2249 2799,2250 2856,2250 2913,2252 2970,2252 3027,2254 3084,2254 3141,2256 3198,2256 3255,2258 3312,2258 3369,2258 3426,2260 3483,2260 3540,2260 3597,2262 3654,2262 3711,2262 3768,2262"/>
+                <TextEquiv>
+                    <Unicode>Dronningensgade No 24</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662031320262_1025l18" custom="readingOrder {index:14;}">
+                <Coords points="2642,2361 2870,2347 2941,2381 3054,2347 3560,2432 3670,2409 3674,2324 3417,2291 3282,2334 3218,2277 3160,2324 3042,2273 2961,2310 2839,2303 2746,2258 2645,2297"/>
+                <Baseline points="2656,2334 2706,2337 2756,2339 2806,2341 2856,2344 2907,2345 2957,2346 3007,2349 3057,2350 3107,2352 3158,2354 3208,2356 3258,2358 3308,2358 3358,2361 3409,2364 3459,2366 3509,2370 3559,2373 3609,2376 3660,2380"/>
+                <TextEquiv>
+                    <Unicode>den 19de April 1869.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662031320262_1025l17" custom="readingOrder {index:15;}">
+                <Coords points="4090,2278 4133,2294 4175,2275 4245,2297 4298,2281 4317,2298 4348,2291 4434,2365 4509,2326 4574,2319 4582,2230 4567,2226 4531,2223 4483,2249 4408,2199 4330,2176 4237,2222 4200,2200 4140,2218 4098,2199"/>
+                <Baseline points="4104,2268 4129,2270 4154,2270 4180,2271 4205,2272 4231,2273 4256,2275 4282,2276 4307,2278 4333,2280 4358,2282 4383,2285 4409,2288 4434,2291 4460,2294 4485,2298 4511,2303 4536,2307 4562,2312"/>
+                <TextEquiv>
+                    <Unicode>ærbødigst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662031320262_1025l19" custom="readingOrder {index:16;}">
+                <Coords points="3976,2479 4089,2499 4125,2480 4167,2511 4234,2512 4283,2555 4358,2534 4436,2562 4527,2561 4589,2540 4600,2452 4433,2433 4350,2352 4272,2363 4239,2338 4193,2358 4150,2347 4062,2410 3984,2421"/>
+                <Baseline points="3990,2464 4019,2465 4048,2468 4077,2473 4107,2475 4136,2480 4165,2483 4195,2488 4224,2493 4253,2497 4283,2501 4312,2506 4341,2511 4370,2515 4400,2518 4429,2522 4458,2524 4488,2527 4517,2529 4546,2530 4576,2530"/>
+                <TextEquiv>
+                    <Unicode>H. Schulze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662031320262_1025l20" custom="readingOrder {index:17;}">
+                <Coords points="3712,2611 3765,2639 3909,2615 4195,2667 4319,2642 4443,2665 4541,2655 4546,2558 4469,2554 4405,2605 4316,2601 4269,2573 4148,2582 4071,2535 3978,2552 3894,2499 3765,2577 3714,2577"/>
+                <Baseline points="3726,2616 3766,2614 3806,2612 3846,2612 3886,2612 3927,2614 3967,2615 4007,2617 4047,2619 4087,2621 4128,2624 4168,2627 4208,2631 4248,2633 4288,2636 4329,2637 4369,2640 4409,2640 4449,2642 4489,2642 4530,2642"/>
+                <TextEquiv>
+                    <Unicode>Storthingsmand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S. T.
+Hr Stipendiat Ivar Aasen!
+Jeg tillader mig at bede Dem
+gjøre mig den Fornøielse at tækkes
+her hos mig i Morgen Aften Kl 7
+i al Tarvelighed, da et lidet dramatisk
+Arbeide af mig skal foredrages af
+Fru Wolf i Landsmaalet, i hvilken
+Anledning jeg ønskede at høre Deres
+kyndige
+Formening baade
+med Hensyn til Sprog og Indhold.
+Christiania
+Dronningensgade No 24
+Den 19de April 1869.
+ærbødigst
+H. Schulze
+Storthingsmand</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

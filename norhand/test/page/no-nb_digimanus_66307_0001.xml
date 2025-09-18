@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:57:30.164+02:00</Created>
+        <LastChange>2023-10-23T10:23:52.193+02:00</LastChange>
+        <TranskribusMetadata docId="1027255" pageId="43173421" pageNr="1" tsid="137872182" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=PYAQXESQYUOAHMCDAGNWXQZU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TXATRWGHBIEWFTBEKYQVNXUB" imageId="35412961"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_66307_0001.jpg" imageWidth="2456" imageHeight="3769">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770778490" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="291,235 291,3209 2316,3209 2316,235"/>
+            <TextLine id="r1l5" custom="readingOrder {index:0;}">
+                <Coords points="618,649 1174,610 1504,652 1692,584 1746,633 2177,658 2318,631 2319,533 2191,533 2042,413 1604,542 1416,557 1281,459 1130,544 875,458 704,563 618,539"/>
+                <Baseline points="630,611 713,611 797,612 881,612 965,611 1049,611 1133,611 1216,609 1300,609 1384,608 1468,608 1552,606 1636,606 1720,606 1803,607 1887,608 1971,609 2055,611 2139,614 2223,617 2307,621"/>
+                <TextEquiv>
+                    <Unicode>Christiania 5 Juli 1898</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:1;}">
+                <Coords points="291,1045 1243,1095 2282,1064 2292,959 1521,870 1337,976 980,882 901,794 521,846 292,947"/>
+                <Baseline points="305,1034 399,1035 493,1038 588,1040 682,1040 776,1041 871,1041 965,1041 1059,1041 1154,1041 1248,1041 1342,1041 1437,1041 1531,1043 1625,1043 1720,1044 1814,1047 1908,1049 2003,1052 2097,1056 2270,1060"/>
+                <TextEquiv>
+                    <Unicode>Hr. Arkitekt Welhaven!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:2;}">
+                <Coords points="666,1354 913,1400 1106,1345 2256,1335 2239,1269 1608,1276 1356,1208 1268,1277 1089,1297 837,1155 666,1190"/>
+                <Baseline points="677,1316 755,1320 833,1323 911,1325 990,1326 1068,1326 1146,1326 1225,1326 1303,1325 1381,1323 1460,1322 1538,1320 1616,1319 1694,1317 1773,1317 1851,1317 1929,1317 2008,1319 2086,1322 2164,1325 2243,1329"/>
+                <TextEquiv>
+                    <Unicode>Da jeg hører, at det er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="379,1513 2130,1498 2218,1481 2218,1400 1443,1424 1327,1351 1122,1428 931,1416 540,1339 379,1418"/>
+                <Baseline points="390,1469 480,1472 571,1473 662,1473 753,1473 843,1473 934,1473 1025,1472 1116,1472 1206,1470 1297,1469 1388,1467 1479,1467 1569,1466 1660,1466 1751,1466 1842,1466 1932,1467 2023,1469 2114,1472 2205,1475"/>
+                <TextEquiv>
+                    <Unicode>Dem, som havde bekostet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="348,1696 565,1628 1937,1647 2199,1585 1674,1519 1415,1486 1262,1482 347,1576"/>
+                <Baseline points="359,1619 450,1617 541,1616 633,1614 724,1613 815,1611 907,1610 998,1608 1089,1607 1181,1607 1272,1605 1363,1605 1455,1605 1546,1605 1637,1605 1729,1605 1820,1605 1911,1607 2003,1607 2094,1608 2186,1610"/>
+                <TextEquiv>
+                    <Unicode>og medsendt "Fram" den i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="381,1787 2277,1757 2276,1706 2015,1713 1874,1622 1697,1716 1317,1676 808,1723 392,1664"/>
+                <Baseline points="393,1755 486,1758 580,1760 673,1761 767,1763 860,1763 954,1763 1047,1761 1141,1761 1234,1760 1328,1758 1422,1757 1515,1755 1609,1754 1702,1752 1796,1751 1889,1749 1983,1748 2076,1746 2170,1746 2264,1746"/>
+                <TextEquiv>
+                    <Unicode>Aviserne omtalte Marmor-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="353,1946 710,1920 798,1983 903,1912 1338,1917 1493,1993 1632,1906 2136,1922 2182,1826 1879,1859 1668,1782 1556,1858 1101,1769 917,1868 352,1843"/>
+                <Baseline points="365,1895 455,1895 545,1895 635,1895 725,1895 816,1895 906,1893 996,1893 1086,1893 1176,1893 1267,1893 1357,1892 1447,1892 1537,1892 1627,1890 1718,1890 1808,1890 1898,1890 1988,1889 2078,1889 2169,1889"/>
+                <TextEquiv>
+                    <Unicode>plade og Fotografierne af</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:7;}">
+                <Coords points="372,2085 1362,2044 1490,2114 1898,2038 2092,2107 2174,2064 2173,1976 1477,2011 1089,1935 782,2024 507,1912 371,2007"/>
+                <Baseline points="383,2048 476,2046 570,2045 663,2043 757,2043 851,2042 944,2042 1038,2042 1132,2040 1225,2040 1319,2040 1412,2039 1506,2037 1600,2037 1693,2036 1787,2033 1881,2031 1974,2028 2068,2025 2162,2021"/>
+                <TextEquiv>
+                    <Unicode>Eivind, tillader jeg mig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:8;}">
+                <Coords points="379,2203 2304,2222 2273,2131 1898,2159 1793,2075 1619,2163 1282,2078 1155,2151 670,2151 499,2079 379,2140"/>
+                <Baseline points="390,2184 485,2187 580,2190 675,2192 770,2193 865,2193 960,2195 1055,2195 1150,2195 1245,2195 1341,2195 1436,2195 1531,2193 1626,2193 1721,2193 1816,2195 1911,2195 2006,2196 2101,2198 2196,2199 2292,2202"/>
+                <TextEquiv>
+                    <Unicode>herved at bringe Dem min</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:9;}">
+                <Coords points="355,2389 574,2332 2286,2378 2192,2286 1908,2301 1726,2207 1577,2307 1172,2278 1076,2181 846,2297 357,2294"/>
+                <Baseline points="368,2324 463,2324 558,2325 653,2325 749,2327 844,2327 939,2328 1035,2328 1130,2330 1225,2331 1321,2333 1416,2334 1511,2336 1606,2337 1702,2340 1797,2342 1892,2345 1988,2348 2083,2352 2178,2355 2274,2358"/>
+                <TextEquiv>
+                    <Unicode>og min Families hjerteligste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:10;}">
+                <Coords points="363,2495 588,2485 686,2561 1084,2466 1258,2556 1400,2470 1591,2544 1708,2470 2293,2468 2131,2350 1674,2443 1488,2343 1334,2429 1097,2385 967,2436 891,2370 744,2446 534,2343 363,2417"/>
+                <Baseline points="375,2460 470,2463 565,2466 660,2468 756,2469 851,2471 946,2471 1041,2471 1137,2471 1232,2471 1327,2469 1422,2469 1518,2469 1613,2468 1708,2468 1803,2466 1899,2466 1994,2466 2089,2466 2184,2466 2280,2468"/>
+                <TextEquiv>
+                    <Unicode>Tak for det forevigede Bevis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:11;}">
+                <Coords points="354,2651 1570,2609 1665,2671 2003,2604 2328,2670 2329,2577 1821,2481 1698,2564 1279,2583 1080,2465 851,2583 619,2560 534,2481 355,2556"/>
+                <Baseline points="366,2598 463,2602 561,2606 658,2607 756,2608 853,2609 951,2609 1048,2607 1146,2607 1243,2606 1341,2606 1438,2604 1536,2604 1633,2604 1731,2604 1828,2606 1926,2608 2023,2612 2121,2615 2218,2621 2316,2627"/>
+                <TextEquiv>
+                    <Unicode>paa den Interesse og Kjærlig-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:12;}">
+                <Coords points="320,2788 2257,2785 2301,2714 1826,2664 1746,2718 1027,2714 828,2616 650,2717 488,2619 320,2715"/>
+                <Baseline points="332,2751 429,2751 527,2750 625,2750 723,2750 821,2748 918,2747 1016,2747 1114,2745 1212,2745 1310,2744 1407,2744 1505,2744 1603,2744 1701,2744 1799,2744 1896,2745 1994,2747 2092,2748 2190,2751 2288,2754"/>
+                <TextEquiv>
+                    <Unicode>hed hvormed de omfatter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:13;}">
+                <Coords points="347,2937 763,2894 880,2937 2169,2898 2168,2844 1486,2812 1406,2854 1258,2750 1088,2852 892,2810 799,2862 669,2854 522,2765 346,2837"/>
+                <Baseline points="360,2886 427,2888 494,2889 562,2889 629,2889 697,2889 764,2889 832,2888 899,2886 967,2885 1034,2883 1101,2882 1169,2880 1236,2879 1304,2879 1371,2877 1439,2877 1506,2879 1574,2880 1641,2882 2090,2882"/>
+                <TextEquiv>
+                    <Unicode>Eivinds Minde.. -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:14;}">
+                <Coords points="557,3049 1048,3022 1179,3067 1704,2995 2277,3031 2276,2960 1864,2896 1711,2973 1231,2976 1108,2901 987,2979 773,2895 556,2969"/>
+                <Baseline points="569,3023 653,3021 738,3020 823,3020 908,3018 992,3017 1077,3015 1162,3014 1247,3012 1331,3010 1416,3009 1501,3008 1586,3006 1670,3005 1755,3005 1840,3005 1925,3005 2009,3005 2094,3006 2179,3008 2264,3009"/>
+                <TextEquiv>
+                    <Unicode>Deres hengivne og forbundne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:15;}">
+                <Coords points="880,3208 1151,3179 1411,3220 1481,3177 1565,3207 1816,3174 1918,3226 2072,3225 2069,3088 1869,3112 1784,3031 1663,3004 1492,3116 1200,3105 1049,3028 878,3122"/>
+                <Baseline points="891,3180 949,3177 1007,3173 1066,3170 1124,3167 1182,3164 1241,3162 1299,3160 1357,3158 1416,3156 1474,3155 1532,3153 1591,3153 1649,3152 1707,3152 1766,3152 1824,3152 1882,3152 1941,3152 1999,3152 2058,3153"/>
+                <TextEquiv>
+                    <Unicode>Harald Astrup</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Christiania 5 Juli 1898
+Hr Arkitekt Welhaven!
+Da jeg hører, at det er
+Dem, som havde bekostet
+og medsendt "Fram" den i
+Aviserne omtalte Marmor-
+plade og Fotografierne af
+Eivind, tillader jeg mig
+herved at bringe Dem min
+og min Families hjerteligste
+Tak for det forevigede Bevis
+paa den Interesse og Kjærlig-
+hed hvormed de omfatter
+Eivinds Minde.. -
+Deres hengivne og forbundne
+Harald Astrup</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:52:44.653+02:00</Created>
+        <LastChange>2023-10-13T16:00:33.552+02:00</LastChange>
+        <TranskribusMetadata docId="1026865" pageId="43165820" pageNr="1" tsid="137281657" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=SPNJNIMSGBOYUYPZLTPISJKR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XDDMLKDHZODTOJGFCWJKTJFX" imageId="35405523"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_209213_0001.jpg" imageWidth="4830" imageHeight="3961">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770883988" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662363780935_66"/>
+                <RegionRefIndexed index="1" regionRef="region_1662363778358_63"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="region_1662363780935_66" custom="readingOrder {index:0;}">
+            <Coords points="2348,2182 621,2182 621,1492 2348,1492"/>
+            <TextLine id="line_1662366432566_75" custom="readingOrder {index:0;}">
+                <Coords points="2277,1912 807,1915 806,2000 1070,2117 1362,2116 1671,2034 1781,2117 1873,2120 1965,2046 2275,2068"/>
+                <Baseline points="2267,1940 817,1925"/>
+                <TextEquiv>
+                    <Unicode>Hr Litterat Ivar Aasen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1662366438744_80" custom="readingOrder {index:1;}">
+                <Coords points="1582,1603 1538,1592 1429,1621 1248,1582 1121,1619 1013,1583 929,1602 927,1700 983,1713 1080,1661 1151,1663 1374,1781 1580,1690"/>
+                <Baseline points="1573,1628 938,1618"/>
+                <TextEquiv>
+                    <Unicode>Christiania</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hr. Litterat Ivar Aasen
+Cristiania</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1662363778358_63" custom="readingOrder {index:1;}">
+            <Coords points="2499,374 4649,374 4649,3702 2499,3702"/>
+            <TextLine id="region_1662363778358_63l3" custom="readingOrder {index:0;}">
+                <Coords points="3502,637 3609,629 3640,601 3665,616 3709,585 3737,599 3767,593 3822,619 3867,618 3865,518 3733,517 3664,471 3524,490"/>
+                <Baseline points="3507,585 3584,595 3611,593 3638,590 3665,590 3692,590 3719,590 3746,590 3773,590 3800,589 3827,588 3854,586"/>
+                <TextEquiv>
+                    <Unicode>15/10 81</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l5" custom="readingOrder {index:1;}">
+                <Coords points="2983,1142 3351,1185 3503,1116 4218,1132 4233,1005 4084,976 4019,1021 3892,997 3583,1065 3377,1006 2984,1010"/>
+                <Baseline points="2996,1104 3057,1106 3118,1108 3179,1108 3240,1110 3302,1110 3363,1110 3424,1110 3485,1111 3546,1112 3608,1112 3669,1112 3730,1112 3791,1112 3852,1112 3914,1112 3975,1114 4036,1114 4097,1115 4158,1116 4220,1118"/>
+                <TextEquiv>
+                    <Unicode>Hr Sproggransker I Aasen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l6" custom="readingOrder {index:2;}">
+                <Coords points="2804,1413 4439,1437 4526,1414 4526,1315 3993,1283 3650,1338 3331,1273 3161,1316 3023,1296 2804,1326"/>
+                <Baseline points="2806,1388 2973,1390 3054,1390 3135,1392 3216,1392 3297,1392 3378,1392 3459,1392 3540,1392 3621,1392 3703,1392 3784,1392 3865,1390 3946,1390 4027,1390 4108,1390 4189,1390 4270,1390 4351,1390 4432,1390 4514,1390"/>
+                <TextEquiv>
+                    <Unicode>- Da jeg strax efter sidste Gademøde med</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l7" custom="readingOrder {index:3;}">
+                <Coords points="2701,1558 3083,1604 3179,1541 3482,1537 3643,1606 3828,1558 4151,1606 4239,1555 4560,1587 4591,1492 3979,1435 3755,1464 3150,1462 2702,1429"/>
+                <Baseline points="2714,1520 2807,1522 2900,1523 2993,1524 3086,1526 3180,1526 3273,1528 3366,1530 3459,1530 3552,1532 3646,1532 3739,1534 3832,1534 3925,1536 4018,1536 4112,1538 4205,1538 4298,1538 4391,1540 4484,1540 4578,1540"/>
+                <TextEquiv>
+                    <Unicode>Dem ret og slet saa at sige for første Gang gav</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l8" custom="readingOrder {index:4;}">
+                <Coords points="2700,1713 4522,1692 4522,1625 4234,1563 4093,1628 2695,1605"/>
+                <Baseline points="2714,1668 2803,1670 2893,1670 2983,1670 3073,1672 3163,1672 3252,1672 3342,1672 3432,1674 3522,1674 3612,1674 3701,1674 3791,1676 3881,1676 3971,1676 4061,1676 4150,1678 4240,1678 4330,1678 4420,1680 4510,1680"/>
+                <TextEquiv>
+                    <Unicode>mig til at overtænke den rimeligste Etymologi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l9" custom="readingOrder {index:5;}">
+                <Coords points="2673,1878 3184,1849 3870,1895 4644,1859 4645,1769 4488,1786 4351,1691 4206,1759 3937,1758 3824,1710 3679,1737 2674,1759"/>
+                <Baseline points="2686,1816 2783,1814 2880,1814 2977,1814 3075,1814 3172,1814 3269,1816 3367,1816 3464,1816 3561,1818 3659,1818 3756,1818 3853,1820 3950,1820 4048,1820 4145,1822 4242,1822 4340,1822 4437,1822 4534,1822 4632,1822"/>
+                <TextEquiv>
+                    <Unicode>og deraf atter udledende Ortografi af Provincial</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l10" custom="readingOrder {index:6;}">
+                <Coords points="2658,1989 4617,2008 4566,1896 2655,1881"/>
+                <Baseline points="2672,1952 2768,1954 2865,1956 2962,1958 3058,1958 3155,1960 3252,1960 3348,1962 3445,1962 3542,1962 3639,1964 3735,1964 3832,1964 3929,1965 4025,1966 4122,1966 4219,1968 4315,1968 4412,1970 4509,1970 4606,1972"/>
+                <TextEquiv>
+                    <Unicode>Udtrykket "Tvebreia", faldt det mig fast øieblik-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l11" custom="readingOrder {index:7;}">
+                <Coords points="2656,2128 4647,2153 4648,2043 4536,2077 4470,2016 4076,2071 3324,2046 3238,2006 2934,2042 2657,2045"/>
+                <Baseline points="2670,2102 2768,2104 2866,2105 2964,2107 3063,2108 3161,2110 3259,2111 3358,2112 3456,2114 3554,2114 3653,2116 3751,2116 3849,2118 3947,2118 4046,2118 4144,2120 4242,2120 4341,2120 4439,2122 4537,2122 4636,2122"/>
+                <TextEquiv>
+                    <Unicode>kelig ind, at Ordet simpelthen betegner den Mængde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l12" custom="readingOrder {index:8;}">
+                <Coords points="2669,2279 4431,2314 4645,2278 4646,2196 2670,2187"/>
+                <Baseline points="2682,2244 2779,2246 2877,2246 2974,2247 3072,2248 3170,2248 3267,2250 3365,2250 3462,2252 3560,2253 3658,2254 3755,2255 3853,2256 3950,2256 4048,2258 4146,2258 4243,2258 4341,2258 4438,2260 4536,2258 4634,2258"/>
+                <TextEquiv>
+                    <Unicode>Beskaffenhed ved det i saakaldte Skaarer nedslaa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l13" custom="readingOrder {index:9;}">
+                <Coords points="2674,2423 4493,2451 4494,2364 4246,2319 4089,2323 2678,2312"/>
+                <Baseline points="2686,2386 2775,2388 2865,2390 2955,2392 3045,2392 3135,2394 3224,2394 3314,2396 3404,2396 3494,2396 3584,2396 3673,2398 3763,2398 3853,2398 3943,2400 4033,2400 4122,2400 4212,2402 4302,2402 4392,2404 4482,2406"/>
+                <TextEquiv>
+                    <Unicode>ede Græs, at det for at kunne vinde sin behørige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l14" custom="readingOrder {index:10;}">
+                <Coords points="2638,2532 4651,2588 4630,2500 4219,2443 4112,2512 3194,2441 3050,2493 2639,2437"/>
+                <Baseline points="2650,2524 2749,2524 2849,2524 2948,2524 3048,2526 3147,2526 3247,2526 3346,2526 3446,2528 3545,2528 3645,2528 3744,2530 3844,2530 3943,2530 4043,2532 4142,2532 4242,2534 4341,2534 4441,2536 4540,2536 4640,2536"/>
+                <TextEquiv>
+                    <Unicode>Tørk paa Marken, inden det vendes, tiltrænger saa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l15" custom="readingOrder {index:11;}">
+                <Coords points="2608,2642 2620,2642 2644,2616 2672,2623 2694,2614 2715,2631 2742,2633 2739,2538 2719,2536 2702,2542 2687,2537 2675,2543 2659,2531 2634,2534 2604,2528"/>
+                <Baseline points="2620,2608 2647,2607 2674,2608 2701,2606 2737,2607"/>
+                <TextEquiv>
+                    <Unicode>stort</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1679565329478_338" custom="readingOrder {index:12;}">
+                <Coords points="2615,2634 2765,2586 3213,2558 3292,2580 3292,2680 3185,2677 2925,2738 2866,2678 2615,2676"/>
+                <Baseline points="2628,2664 2727,2664 2826,2664 2926,2664 3025,2664 3125,2666 3224,2666 3292,2667"/>
+                <TextEquiv>
+                    <Unicode>Brednings-Rum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1679565327863_333" custom="readingOrder {index:13;}">
+                <Coords points="3467,2630 3481,2635 3691,2566 3879,2612 4629,2618 4628,2687 4474,2724 3467,2687"/>
+                <Baseline points="3467,2670 3522,2670 3622,2672 3721,2672 3820,2674 3920,2674 4019,2676 4119,2676 4218,2676 4317,2676 4417,2674 4516,2672 4616,2670"/>
+                <TextEquiv>
+                    <Unicode>at Marken bliver dækket med</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l17" custom="readingOrder {index:14;}">
+                <Coords points="2666,2857 4483,2854 4553,2837 4554,2747 4116,2737 3800,2692 3560,2772 3369,2713 3158,2756 2667,2736"/>
+                <Baseline points="2678,2800 2771,2804 2864,2806 2957,2810 3050,2812 3143,2814 3236,2815 3329,2816 3422,2816 3515,2818 3609,2818 3702,2818 3795,2818 3888,2818 3981,2818 4074,2818 4167,2818 4260,2818 4353,2818 4446,2820 4540,2820"/>
+                <TextEquiv>
+                    <Unicode>Græs paa begge Sider af Ljaa-Skaaret. - Naar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l18" custom="readingOrder {index:15;}">
+                <Coords points="2645,2960 3543,3013 3984,2994 4113,3015 4531,2989 4569,2917 4171,2886 4021,2940 3736,2855 3366,2897 3016,2864 2645,2903"/>
+                <Baseline points="2658,2944 2752,2946 2847,2948 2942,2950 3037,2952 3132,2953 3227,2954 3322,2956 3417,2956 3512,2956 3607,2958 3701,2958 3796,2958 3891,2958 3986,2958 4081,2960 4176,2960 4271,2960 4366,2962 4461,2964 4556,2964"/>
+                <TextEquiv>
+                    <Unicode>denne Slaattens ønskelige Tilstand er forhaanden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663076458648_332" custom="readingOrder {index:16;}">
+                <Coords points="2643,3057 2785,3057 2785,3107 2642,3109"/>
+                <Baseline points="2654,3090 2749,3092 2785,3092"/>
+                <TextEquiv>
+                    <Unicode>vil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l19" custom="readingOrder {index:17;}">
+                <Coords points="2718,3055 2762,3062 2780,3079 2805,3082 2822,3064 2862,3062 2894,3037 2902,3044 2929,3037 2949,3057 2969,3056 2969,2997 2941,2999 2924,2984 2909,2997 2879,2997 2859,2980 2829,2985 2822,2977 2802,2997 2767,2992 2752,3005 2718,3010"/>
+                <Baseline points="2730,3028 2755,3030 2780,3032 2805,3032 2830,3032 2855,3032 2880,3030 2905,3030 2930,3030 2956,3030"/>
+                <TextEquiv>
+                    <Unicode>antagelig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663076457869_326" custom="readingOrder {index:18;}">
+                <Coords points="2824,3057 3043,3059 3220,2993 3372,3033 4564,3032 4584,3141 3618,3109 3459,3171 3307,3105 2824,3107"/>
+                <Baseline points="2824,3092 2845,3092 2941,3092 3037,3094 3133,3094 3229,3094 3325,3095 3421,3096 3517,3096 3613,3096 3708,3096 3804,3096 3900,3098 3996,3098 4092,3098 4188,3098 4284,3100 4380,3100 4476,3100 4572,3102"/>
+                <TextEquiv>
+                    <Unicode>altsaa "Tvebreia" tjene til dets derivativt rig-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l21" custom="readingOrder {index:19;}">
+                <Coords points="2640,3302 4614,3268 4614,3191 4423,3152 4089,3213 3982,3157 3798,3211 3589,3153 3466,3169 3043,3167 2955,3144 2641,3183"/>
+                <Baseline points="2652,3240 2749,3240 2847,3240 2944,3238 3042,3239 3139,3240 3237,3240 3334,3240 3432,3242 3529,3242 3627,3244 3724,3244 3822,3245 3919,3246 4017,3246 4114,3248 4212,3248 4309,3248 4407,3247 4504,3246 4602,3246"/>
+                <TextEquiv>
+                    <Unicode>tige Sprogudtryk, og efter denne Derivations-Conjec-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663076582218_355" custom="readingOrder {index:20;}">
+                <Coords points="2650,3293 3839,3336 3938,3346 3948,3418 3863,3397 3686,3458 3412,3390 3088,3441 2651,3389"/>
+                <Baseline points="2662,3382 2754,3384 2846,3384 2938,3384 3030,3386 3122,3386 3214,3386 3306,3386 3398,3387 3490,3388 3582,3388 3674,3388 3766,3388 3858,3388 3948,3388"/>
+                <TextEquiv>
+                    <Unicode>tur vover jeg saaledes at foreslaae</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663076598357_366" custom="readingOrder {index:21;}">
+                <Coords points="3923,3292 4021,3302 4015,3352 3917,3342"/>
+                <Baseline points="3918,3337 4016,3347"/>
+                <TextEquiv>
+                    <Unicode>dets</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663076580971_349" custom="readingOrder {index:22;}">
+                <Coords points="4033,3315 4164,3292 4291,3359 4515,3357 4514,3477 4380,3412 4081,3453 4001,3432"/>
+                <Baseline points="4001,3388 4042,3388 4134,3390 4226,3390 4318,3390 4410,3392 4502,3394"/>
+                <TextEquiv>
+                    <Unicode>Bogstavering</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l23" custom="readingOrder {index:23;}">
+                <Coords points="2654,3536 2696,3528 2736,3548 2773,3533 2818,3551 2848,3538 2938,3588 3067,3553 3182,3556 3182,3473 3157,3466 3026,3458 2943,3466 2888,3471 2863,3496 2754,3493 2711,3466 2654,3481"/>
+                <Baseline points="2666,3516 2691,3518 2716,3521 2741,3522 2766,3523 2792,3526 2817,3526 2842,3528 2867,3528 2892,3528 2918,3528 2943,3528 2968,3528 2993,3528 3018,3526 3044,3526 3069,3524 3094,3522 3119,3520 3144,3518 3170,3516"/>
+                <TextEquiv>
+                    <Unicode>som anført. -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l24" custom="readingOrder {index:24;}">
+                <Coords points="3885,3562 3976,3538 4017,3560 4055,3547 4089,3555 4156,3554 4191,3559 4286,3573 4286,3488 4249,3480 4154,3506 4132,3482 4089,3465 4019,3460 3972,3451 3889,3463"/>
+                <Baseline points="3898,3520 3923,3520 3948,3522 3973,3522 3998,3524 4023,3524 4048,3525 4073,3526 4098,3526 4123,3528 4148,3529 4173,3530 4198,3531 4223,3532 4248,3533 4274,3536"/>
+                <TextEquiv>
+                    <Unicode>ærbødigst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363778358_63l25" custom="readingOrder {index:25;}">
+                <Coords points="3907,3702 4119,3724 4184,3704 4208,3727 4251,3700 4378,3703 4500,3726 4525,3719 4526,3579 4334,3598 4284,3560 4209,3577 4152,3547 4125,3564 4055,3546 3908,3598"/>
+                <Baseline points="3920,3638 3949,3642 3979,3646 4008,3648 4038,3650 4068,3652 4097,3653 4127,3654 4156,3654 4186,3654 4216,3654 4245,3654 4275,3654 4304,3653 4334,3652 4364,3652 4393,3650 4423,3650 4452,3649 4482,3648 4512,3648"/>
+                <TextEquiv>
+                    <Unicode>H Wergeland</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15/10 81
+Hr Sproggransker I Aasen
+- Da jeg strax efter sidste Gademøde med
+Dem ret og slet saa at sige for første Gang gav
+mig til at overtænke den rimeligste Etymologi
+og deraf atter udledende Ortografi af Provincial-
+Udtrykket "Tvebreia", faldt det mig fast øieblik-
+kelig ind, at Ordet simpelthen betegner den Mængde
+Beskaffenhed ved det i saakaldte Skaarer nedslaa-
+ede Græs, at det for at kunne vinde sin behørige
+Tørk paa Marken, inden det vendes, tiltrænger saa
+stort
+Brednings-Rum
+at Marken bliver dækket med
+Græs paa begge Sider af Ljaa-Skaaret. - Naar
+denne Slaattens ønskelige Tilstand er forhaanden,
+vil
+antagelig
+altsaa "Tvebreia" tjene til dets derivativt rig-
+tige Sprogudtryk, og efter denne Derivations-Conjec-
+tur vover jeg saaledes at foreslaae
+dets
+Bogstavering
+som anført. -
+ærbødigst
+H Wergeland</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

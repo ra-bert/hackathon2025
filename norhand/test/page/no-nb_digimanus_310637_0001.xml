@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:12:33.409+02:00</Created>
+        <LastChange>2023-05-09T14:24:02.645+02:00</LastChange>
+        <TranskribusMetadata docId="1026625" pageId="43161033" pageNr="1" tsid="121320840" status="GT" userId="69942" imgUrl="https://files.transkribus.eu/Get?id=BDPYPQZMGZLIVWGZNZOYBOAB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FFLSZDJWMKCXGARUAMBRMUGP" imageId="35400747"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_310637_0001.jpg" imageWidth="2528" imageHeight="3743">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770955626" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="207,474 209,3302 2354,3302 2352,474"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="195,689 893,658 1075,751 1373,642 1637,736 1812,635 2265,649 2205,517 1743,569 1480,501 1288,578 1113,582 665,524 437,608 192,540"/>
+                <Baseline points="209,665 311,666 413,668 515,668 617,666 719,665 821,663 924,661 1026,659 1128,655 1230,653 1332,648 1434,645 1536,642 1639,641 1741,638 1843,636 1945,633 2047,633 2149,633 2252,633"/>
+                <TextEquiv>
+                    <Unicode>Herr billedhugger G. Vigeland.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="514,1124 634,1159 807,1100 1314,1076 1437,1158 1584,1067 1722,1068 1999,1158 2255,1084 2256,1018 2072,1043 1916,967 861,979 646,942 515,988"/>
+                <Baseline points="528,1065 613,1064 699,1064 784,1062 870,1062 956,1062 1041,1062 1127,1062 1213,1062 1298,1062 1384,1064 1470,1064 1555,1065 1641,1066 1727,1067 1812,1068 1898,1068 1984,1070 2069,1070 2155,1071 2241,1071"/>
+                <TextEquiv>
+                    <Unicode>Jeg tillater mig herved paa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="248,1237 386,1290 540,1199 2310,1219 2344,1088 1856,1129 1306,1112 1123,1166 938,1074 618,1154 250,1140"/>
+                <Baseline points="260,1190 363,1191 467,1191 570,1193 674,1193 777,1194 881,1194 984,1194 1088,1194 1191,1194 1295,1196 1398,1196 1502,1196 1605,1196 1709,1196 1812,1196 1916,1196 2019,1196 2123,1196 2226,1196 2330,1197"/>
+                <TextEquiv>
+                    <Unicode>vegne av Eidsvoldsmonumentets</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="264,1356 731,1327 878,1410 1014,1326 1708,1368 2156,1400 2348,1354 2348,1281 1931,1291 1808,1205 1529,1243 1113,1221 263,1275"/>
+                <Baseline points="276,1334 378,1331 480,1327 583,1325 685,1323 788,1322 890,1320 992,1319 1095,1319 1197,1319 1300,1319 1402,1319 1504,1319 1607,1319 1709,1320 1812,1322 1914,1322 2016,1323 2119,1325 2221,1326 2339,1334"/>
+                <TextEquiv>
+                    <Unicode>sakkyndige komite at forespørge,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="251,1468 2368,1488 2368,1391 2252,1366 1852,1383 1675,1368 1422,1404 785,1371 544,1354 426,1416 251,1401"/>
+                <Baseline points="264,1466 368,1461 473,1458 577,1455 682,1454 786,1452 891,1451 995,1451 1100,1449 1204,1449 1309,1449 1413,1451 1518,1451 1622,1451 1727,1452 1831,1452 1936,1454 2040,1454 2145,1455 2249,1455 2354,1455"/>
+                <TextEquiv>
+                    <Unicode>om De skulde være villig til, efterat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="253,1608 590,1587 943,1676 1035,1600 1558,1587 2101,1684 2347,1592 2347,1538 1996,1490 254,1500"/>
+                <Baseline points="267,1586 370,1585 473,1584 576,1584 680,1584 783,1583 886,1583 990,1583 1093,1581 1196,1581 1300,1581 1403,1581 1506,1581 1609,1581 1713,1581 1816,1581 1919,1583 2023,1584 2126,1586 2229,1587 2333,1589"/>
+                <TextEquiv>
+                    <Unicode>ha besigtiget det av billedhugger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="258,1736 464,1795 561,1717 1558,1730 1651,1788 1740,1741 2273,1744 2354,1723 2354,1619 1574,1657 1298,1593 1096,1671 666,1605 263,1644"/>
+                <Baseline points="272,1709 375,1709 479,1710 582,1711 686,1712 789,1712 893,1712 996,1712 1100,1713 1203,1713 1307,1713 1410,1713 1514,1713 1617,1713 1721,1713 1824,1715 1928,1715 2031,1716 2135,1716 2238,1718 2342,1719"/>
+                <TextEquiv>
+                    <Unicode>Olaf Paulsen i Blomqvists kunst-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="269,1866 2352,1877 2352,1757 2203,1723 1730,1746 1649,1809 1532,1737 1342,1773 1223,1744 877,1758 269,1746"/>
+                <Baseline points="281,1848 389,1846 497,1844 606,1842 714,1842 822,1841 931,1841 1039,1841 1147,1841 1256,1841 1364,1841 1473,1842 1581,1842 1689,1844 1798,1844 1906,1844 2014,1844 2123,1844 2231,1844 2340,1844"/>
+                <TextEquiv>
+                    <Unicode>handel utstilte utkast til et Eids-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="251,2017 2271,1989 2269,1896 1516,1854 1298,1892 253,1875"/>
+                <Baseline points="264,1982 363,1980 463,1979 563,1979 662,1977 762,1977 862,1977 961,1976 1061,1976 1161,1976 1261,1976 1360,1977 1460,1977 1560,1977 1659,1977 1759,1977 1859,1977 1958,1977 2058,1977 2158,1976 2258,1976"/>
+                <TextEquiv>
+                    <Unicode>voldsmonument, at delta i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="268,2138 1899,2118 2343,2166 2365,2025 2291,2080 2075,1998 1973,2031 721,2005 605,2051 270,2044"/>
+                <Baseline points="281,2105 384,2103 488,2103 591,2102 695,2102 798,2102 902,2102 1005,2102 1109,2102 1212,2102 1316,2102 1420,2102 1523,2102 1627,2103 1730,2105 1834,2105 1937,2106 2041,2108 2144,2111 2248,2112 2352,2115"/>
+                <TextEquiv>
+                    <Unicode>nævnte komites møte i "Haand-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663591145627_337" custom="readingOrder {index:10;}">
+                <Coords points="529,2135 967,2130 1723,2127 2257,2156 2272,2159 2272,2250 1929,2319 1506,2241 1237,2315 876,2298 253,2253 253,2203"/>
+                <Baseline points="266,2234 346,2232 426,2232 506,2232 586,2234 666,2234 746,2235 827,2235 907,2237 987,2237 1067,2237 1147,2237 1227,2235 1307,2234 1388,2232 1468,2229 1548,2226 1628,2223 1708,2217 1723,2215 1853,2240 1878,2239 1903,2238 1929,2237 1954,2237 1979,2237 2005,2237 2030,2237 2056,2238 2081,2238 2106,2238 2132,2239 2157,2240 2182,2240 2208,2240 2233,2240 2259,2241"/>
+                <TextEquiv>
+                    <Unicode>verkeren" fredag den 7de april</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="268,2400 715,2367 895,2464 1121,2368 1533,2364 1716,2451 1860,2368 2325,2400 2326,2311 1653,2287 1461,2246 1223,2322 1061,2240 940,2310 273,2267"/>
+                <Baseline points="281,2361 382,2361 484,2363 585,2363 687,2364 788,2364 890,2364 991,2364 1093,2363 1194,2363 1296,2363 1398,2363 1499,2363 1601,2363 1702,2363 1804,2364 1905,2364 2007,2366 2108,2367 2210,2369 2312,2372"/>
+                <TextEquiv>
+                    <Unicode>d. a. kl. 10 form. til avgivelse av</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="258,2530 2333,2521 2347,2400 927,2444 544,2374 259,2465"/>
+                <Baseline points="272,2499 375,2498 478,2496 581,2496 684,2496 787,2496 890,2496 993,2496 1096,2496 1199,2498 1302,2498 1405,2499 1508,2499 1611,2499 1714,2499 1817,2501 1920,2499 2023,2499 2126,2498 2229,2497 2333,2495"/>
+                <TextEquiv>
+                    <Unicode>uttalelse om nævnte utkast.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="261,2777 2287,2781 2287,2674 2104,2655 1521,2725 1237,2660 1074,2727 722,2631 262,2639"/>
+                <Baseline points="273,2750 373,2750 473,2750 573,2750 673,2751 773,2751 873,2751 973,2751 1073,2751 1173,2751 1273,2751 1373,2751 1473,2753 1573,2753 1673,2754 1773,2754 1873,2756 1973,2758 2073,2760 2173,2762 2274,2765"/>
+                <TextEquiv>
+                    <Unicode>Kristiania den mars 1911.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="1006,3033 1356,3003 1479,3019 1552,3061 1704,3009 1795,3028 1796,2897 1730,2892 1573,2964 1378,2883 1200,2903 1163,2877 1087,2910 1006,2892"/>
+                <Baseline points="1019,3003 1057,3004 1095,3005 1133,3005 1171,3005 1209,3005 1247,3005 1285,3003 1323,3003 1361,3003 1400,3003 1438,3003 1476,3003 1514,3003 1552,3003 1590,3003 1628,3005 1666,3006 1704,3007 1742,3009 1781,3011"/>
+                <TextEquiv>
+                    <Unicode>Ærbødigst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="726,3228 938,3228 1044,3289 1638,3250 1853,3326 2197,3272 2316,3328 2319,3205 1997,3139 1773,3196 1635,3100 1450,3161 1282,3067 1064,3117 914,3047 730,3113"/>
+                <Baseline points="741,3209 819,3221 897,3231 975,3239 1053,3245 1131,3251 1209,3254 1288,3257 1366,3258 1444,3260 1522,3260 1600,3260 1678,3260 1756,3260 1835,3260 1913,3261 1991,3261 2069,3264 2147,3266 2225,3270 2304,3275"/>
+                <TextEquiv>
+                    <Unicode>Dr. Otto Anderssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Herr billedhugger G. Vigeland.&#13;
+Jeg tillater mig herved paa&#13;
+vegne av Eidsvoldsmonumentets&#13;
+sakkyndige komite at forespørge,&#13;
+om De skulde være villig til, efterat&#13;
+ha besigtiget det av billedhugger&#13;
+Olaf Paulsen i Blomqvists kunst-&#13;
+handel utstilte utkast til et Eids-&#13;
+voldsmonument, at delta i&#13;
+nævnte komites møte i "Haand-&#13;
+verkeren" fredag den 7de april&#13;
+d. a. kl. 10 form. til avgivelse av&#13;
+uttalelse om nævnte utkast.&#13;
+Kristiania den mars 1911.&#13;
+Ærbødigst&#13;
+Dr. Otto Anderssen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T11:59:58.638+02:00</Created>
+        <LastChange>2023-10-24T15:01:41.353+02:00</LastChange>
+        <TranskribusMetadata docId="1026522" pageId="43160778" pageNr="1" tsid="137986594" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=NKVICZSEDUMIMPANMOMFNBFN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SIEKMULBWCWIGTVNFZDAVSHM" imageId="35400494"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_293849_0001.jpg" imageWidth="2318" imageHeight="3618">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770983377" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="182,356 186,3440 2187,3442 2183,358"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="222,467 592,460 700,515 890,465 1219,480 1243,372 991,425 778,410 679,390 222,408"/>
+                <Baseline points="233,453 285,454 338,455 390,455 443,455 495,455 548,455 601,455 653,455 706,454 758,453 811,453 863,453 916,453 969,453 1021,453 1074,453 1126,455 1179,456 1232,458"/>
+                <TextEquiv>
+                    <Unicode>DET NORSKE METEOROLOGISKE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="580,591 641,594 663,612 705,592 737,610 816,613 854,589 900,588 900,535 874,537 843,513 835,521 780,503 756,521 721,509 677,522 581,490"/>
+                <Baseline points="590,560 615,560 640,562 665,563 690,563 715,563 740,563 765,561 790,561 815,563 840,563 865,564 890,566"/>
+                <TextEquiv>
+                    <Unicode>INSTITUT.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="1085,579 1199,611 1618,592 1670,632 1876,596 2066,688 2198,667 2199,498 2162,485 1954,531 1904,483 1833,526 1763,492 1686,527 1544,475 1353,535 1085,518"/>
+                <Baseline points="1095,575 1149,572 1204,572 1258,570 1313,572 1368,572 1422,574 1477,576 1531,578 1586,581 1641,582 1695,584 1750,585 1804,587 1859,587 1914,585 1968,584 2023,581 2077,577 2132,572 2187,564"/>
+                <TextEquiv>
+                    <Unicode>CHRISTIANIA 15. December 1899</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="561,913 603,923 665,875 737,866 809,887 1013,875 1050,913 1147,881 1254,890 1255,842 1120,802 1087,817 967,760 861,806 809,777 725,800 654,759 564,768"/>
+                <Baseline points="572,861 605,861 639,860 672,860 706,860 740,860 773,861 807,861 840,861 874,863 908,863 941,864 975,866 1008,866 1042,867 1076,867 1109,869 1143,869 1176,869 1210,869 1244,869"/>
+                <TextEquiv>
+                    <Unicode>Kjære Collega,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="540,1154 823,1151 943,1226 1101,1152 1259,1184 1895,1154 1895,1093 1637,1045 1183,1050 881,1031 541,1060"/>
+                <Baseline points="551,1140 617,1140 684,1140 750,1140 817,1140 884,1140 950,1142 1017,1143 1084,1143 1150,1145 1217,1146 1284,1146 1350,1148 1417,1148 1484,1148 1550,1148 1617,1147 1684,1146 1750,1145 1817,1142 1884,1139"/>
+                <TextEquiv>
+                    <Unicode>Med Collegiets Tilladelse har</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="433,1325 1088,1314 1305,1354 1497,1329 2011,1331 2011,1235 1790,1210 1680,1224 433,1190"/>
+                <Baseline points="443,1290 520,1287 598,1286 676,1284 754,1283 832,1283 910,1283 988,1284 1066,1284 1144,1286 1222,1286 1299,1287 1377,1287 1455,1289 1533,1289 1611,1289 1689,1289 1767,1287 1845,1286 1923,1284 2001,1281"/>
+                <TextEquiv>
+                    <Unicode>jeg bestilt et selvregistrerende Hygro-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="408,1435 1969,1469 1969,1383 1870,1362 1316,1348 1254,1392 1169,1327 1002,1344 750,1326 408,1362"/>
+                <Baseline points="420,1428 501,1427 582,1425 663,1424 744,1424 825,1422 906,1422 987,1422 1068,1421 1149,1421 1230,1421 1311,1421 1392,1421 1473,1421 1554,1421 1635,1421 1716,1421 1797,1421 1878,1421 1959,1422"/>
+                <TextEquiv>
+                    <Unicode>meter hos Richard. det registrerer rela-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="403,1563 683,1634 995,1577 1337,1626 1534,1573 2067,1586 2067,1522 1894,1484 403,1476"/>
+                <Baseline points="413,1562 495,1562 577,1562 659,1562 741,1562 824,1562 906,1562 988,1562 1070,1563 1152,1563 1235,1565 1317,1565 1399,1565 1481,1566 1563,1566 1646,1566 1728,1568 1810,1568 1892,1568 1974,1568 2057,1566"/>
+                <TextEquiv>
+                    <Unicode>tiv Fugtighed som Haarhygrometer. Ligesaa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="389,1746 1376,1709 2097,1773 2098,1648 2021,1637 1556,1636 1461,1692 1236,1587 1080,1663 870,1600 597,1643 390,1619"/>
+                <Baseline points="401,1704 485,1703 569,1703 653,1703 738,1703 822,1703 906,1703 991,1704 1075,1704 1159,1706 1244,1706 1328,1707 1412,1708 1496,1709 1581,1710 1665,1710 1749,1712 1834,1712 1918,1712 2002,1712 2087,1712"/>
+                <TextEquiv>
+                    <Unicode>har jeg bestilt nye Penne. Vi har Under</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="366,1857 783,1904 912,1852 1958,1877 1958,1785 1826,1754 943,1777 366,1767"/>
+                <Baseline points="377,1851 455,1851 534,1850 612,1850 691,1850 769,1850 848,1848 926,1848 1005,1848 1083,1848 1162,1848 1240,1848 1319,1848 1397,1848 1476,1848 1554,1848 1633,1848 1711,1848 1790,1849 1868,1850 1947,1850"/>
+                <TextEquiv>
+                    <Unicode>Ballance, men har faaet Lov at telle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:10;}">
+                <Coords points="370,2024 1831,2013 1830,1908 1738,1895 1464,1930 1359,1908 1266,1915 368,1894"/>
+                <Baseline points="380,1991 452,1989 524,1989 596,1988 668,1988 740,1986 812,1986 884,1986 956,1985 1028,1985 1100,1985 1172,1985 1244,1985 1316,1985 1388,1986 1460,1986 1532,1986 1604,1987 1676,1988 1748,1988 1820,1989"/>
+                <TextEquiv>
+                    <Unicode>Apparatet paa næste Aars Budget.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:11;}">
+                <Coords points="373,2171 1637,2164 1717,2200 1987,2148 1987,2078 1889,2053 376,2040"/>
+                <Baseline points="384,2129 463,2127 543,2126 622,2124 702,2124 782,2124 861,2124 941,2124 1020,2126 1100,2126 1180,2127 1259,2129 1339,2129 1418,2130 1498,2130 1578,2130 1657,2130 1737,2129 1816,2127 1896,2124 1976,2121"/>
+                <TextEquiv>
+                    <Unicode>Jeg sender Dem en fransk Afhandling om</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:12;}">
+                <Coords points="400,2307 1997,2288 1965,2213 1783,2214 1513,2169 1375,2168 1254,2182 1114,2178 581,2159 397,2199"/>
+                <Baseline points="408,2265 486,2264 565,2262 644,2261 723,2261 802,2261 881,2261 960,2261 1039,2262 1118,2263 1197,2264 1275,2265 1354,2267 1433,2267 1512,2268 1591,2268 1670,2270 1749,2270 1828,2269 1907,2268 1986,2267"/>
+                <TextEquiv>
+                    <Unicode>Luftelektricitetens daglige Periode, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:13;}">
+                <Coords points="370,2431 1019,2462 1280,2419 1515,2452 1920,2423 1880,2333 370,2320"/>
+                <Baseline points="381,2406 457,2408 533,2408 610,2408 686,2408 762,2408 839,2408 915,2408 991,2406 1068,2406 1144,2405 1220,2405 1297,2403 1373,2402 1449,2402 1526,2401 1602,2400 1678,2400 1755,2400 1831,2400 1908,2400"/>
+                <TextEquiv>
+                    <Unicode>turde interessere Dem. Her er alt vel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:14;}">
+                <Coords points="383,2577 2104,2590 2078,2534 2063,2445 1172,2475 383,2452"/>
+                <Baseline points="395,2535 478,2538 562,2540 645,2543 729,2544 813,2546 896,2547 980,2549 1063,2550 1147,2550 1231,2552 1314,2552 1398,2552 1481,2550 1565,2550 1649,2549 1732,2546 1816,2544 1899,2541 1983,2538 2067,2534"/>
+                <TextEquiv>
+                    <Unicode>Faar man høre noget om deres Arbejder?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:15;}">
+                <Coords points="368,2727 2081,2716 2081,2635 1667,2595 1543,2598 1116,2606 1057,2610 959,2598 376,2586"/>
+                <Baseline points="380,2673 464,2676 549,2679 633,2682 718,2684 802,2686 887,2688 971,2688 1056,2690 1140,2690 1225,2691 1309,2691 1394,2691 1478,2690 1563,2690 1647,2688 1732,2688 1816,2687 1901,2686 1985,2685 2070,2684"/>
+                <TextEquiv>
+                    <Unicode>Jeg har regnet ud, i hvilken Højde Solstraalerne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:16;}">
+                <Coords points="347,2854 2110,2846 2110,2785 1950,2747 1612,2747 1549,2770 1227,2749 1087,2766 882,2737 770,2750 494,2737 352,2739"/>
+                <Baseline points="359,2819 446,2821 533,2823 620,2825 707,2825 794,2826 881,2828 968,2828 1055,2828 1142,2829 1229,2829 1316,2829 1403,2829 1490,2828 1577,2828 1664,2828 1751,2826 1838,2826 1925,2825 2012,2823 2100,2822"/>
+                <TextEquiv>
+                    <Unicode>i Mørketiden skjærer Verticalen i forskjellige Bredder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:17;}">
+                <Coords points="366,3026 492,2996 831,3018 1302,2968 1686,3019 2081,2961 2105,2877 375,2878"/>
+                <Baseline points="378,2957 463,2958 549,2960 635,2960 721,2960 807,2961 892,2961 978,2961 1064,2960 1150,2960 1236,2960 1321,2959 1407,2958 1493,2958 1579,2957 1665,2957 1750,2955 1836,2955 1922,2954 2008,2954 2094,2954"/>
+                <TextEquiv>
+                    <Unicode>og Datumer og Klokkeslet. Har de Brug for dette</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:18;}">
+                <Coords points="354,3137 2123,3119 2128,3042 1861,3042 1783,3005 1617,3031 357,3023"/>
+                <Baseline points="366,3099 453,3098 540,3096 627,3096 715,3096 802,3095 889,3095 977,3095 1064,3095 1151,3095 1239,3095 1326,3095 1413,3096 1500,3096 1588,3096 1675,3096 1762,3096 1850,3096 1937,3096 2024,3096 2112,3096"/>
+                <TextEquiv>
+                    <Unicode>saa skal jeg sende Resultaterne. Det var v. Bezold som</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:19;}">
+                <Coords points="342,3269 2118,3303 2118,3163 2026,3152 1813,3176 1706,3143 1415,3169 1296,3154 341,3179"/>
+                <Baseline points="353,3234 440,3236 528,3239 615,3240 703,3242 791,3242 878,3242 966,3242 1054,3242 1141,3242 1229,3242 1317,3242 1404,3240 1492,3240 1580,3240 1667,3240 1755,3240 1843,3240 1930,3240 2018,3240 2106,3242"/>
+                <TextEquiv>
+                    <Unicode>satte mig paa det. Med venligste Hilsener deres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:20;}">
+                <Coords points="1668,3429 1773,3426 1815,3395 1907,3418 1975,3405 2041,3427 2098,3406 2177,3437 2176,3356 2088,3339 2018,3282 1908,3285 1854,3307 1805,3270 1667,3350"/>
+                <Baseline points="1679,3411 1704,3409 1730,3405 1755,3403 1781,3401 1806,3398 1832,3398 1858,3396 1883,3395 1909,3395 1934,3395 1960,3395 1985,3395 2011,3396 2037,3397 2062,3399 2088,3401 2113,3404 2139,3406 2165,3408"/>
+                <TextEquiv>
+                    <Unicode>H Mohn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DET NORSKE METEOROLOGISKE
+INSTITUT.
+CHRISTIANIA 15. December 1899
+Kjære Collega,
+Med Collegiets Tilladelse har
+jeg bestilt et selvregistrerende Hygro-
+meter hos Richard. det registrerer rela-
+tiv Fugtighed som Haarhygrometer. Ligesaa
+har jeg bestilt nye Penne. Vi har Under
+Ballance, men har faaet Lov at telle
+Apparatet paa næste Aars Budget.
+Jeg sender Dem en fransk Afhandling om
+Luftelektricitetens daglige Periode, der
+turde interessere Dem. Her er alt vel.
+Faar man høre noget om deres Arbejder?
+Jeg har regnet ud, i hvilken Højde Solstraalerne
+i Mørketiden skjærer Verticalen i forskjellige Bredder
+og Datumer og Klokkeslet. Har de Brug for dette
+saa skal jeg sende Resultaterne. Det var v. Bezold som
+satte mig paa det. Med venligste Hilsener deres
+H Mohn.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

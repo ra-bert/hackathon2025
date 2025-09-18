@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:26:17.871+02:00</Created>
+        <LastChange>2023-05-10T09:44:58.918+02:00</LastChange>
+        <TranskribusMetadata docId="1027135" pageId="43171810" pageNr="1" tsid="121373187" status="GT" userId="69942" imgUrl="https://files.transkribus.eu/Get?id=MJLVKTIOTAKTFJNFXIADWUZR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZWIFVJTNHZCAKQGOXQDUNKPI" imageId="35411406"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_296279_0001.jpg" imageWidth="3737" imageHeight="4819">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770813163" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="207,252 218,4087 3536,4094 3525,259"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="708,701 978,647 1153,739 1290,655 1914,697 2120,644 2508,735 2710,701 2710,503 2474,533 2078,423 1941,529 1751,484 1496,545 846,371 708,544"/>
+                <Baseline points="726,618 824,622 922,626 1020,630 1118,632 1217,634 1315,635 1413,636 1511,636 1609,636 1708,636 1806,634 1904,634 2002,632 2100,632 2199,630 2297,630 2395,628 2493,628 2591,626 2690,626"/>
+                <TextEquiv>
+                    <Unicode>Til familien Sohlberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="1132,939 2666,986 2909,895 3221,959 3491,921 3491,787 1486,855 1287,722 1131,737"/>
+                <Baseline points="1150,906 1266,906 1382,906 1498,906 1614,906 1731,906 1847,906 1963,906 2079,906 2195,906 2312,906 2428,906 2544,906 2660,906 2776,906 2893,906 3009,904 3125,904 3241,904 3357,902 3474,902"/>
+                <TextEquiv>
+                    <Unicode>Det er med vemod jeg har læst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="463,1104 3432,1085 3432,967 2958,909 472,963"/>
+                <Baseline points="484,1048 630,1048 776,1048 923,1048 1069,1048 1216,1050 1362,1050 1508,1050 1655,1050 1801,1052 1948,1052 2094,1052 2240,1052 2387,1052 2533,1052 2680,1052 2826,1052 2972,1052 3119,1050 3265,1050 3412,1048"/>
+                <TextEquiv>
+                    <Unicode>at Harald Sohlberg er død. Med ham er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="469,1226 3323,1243 3515,1219 3518,1096 469,1113"/>
+                <Baseline points="486,1194 636,1196 787,1196 937,1196 1088,1194 1238,1194 1389,1194 1539,1194 1690,1194 1840,1192 1991,1192 2141,1192 2292,1192 2442,1192 2593,1192 2743,1190 2894,1190 3044,1190 3195,1192 3345,1192 3496,1192"/>
+                <TextEquiv>
+                    <Unicode>en av Norges store malere gåt bort. Hans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="461,1384 2307,1345 2668,1411 3007,1331 3529,1400 3533,1229 2529,1226 470,1242"/>
+                <Baseline points="478,1338 629,1338 781,1338 933,1338 1085,1336 1237,1336 1388,1334 1540,1334 1692,1334 1844,1332 1996,1332 2147,1330 2299,1330 2451,1330 2603,1330 2755,1330 2906,1330 3058,1330 3210,1332 3362,1332 3514,1334"/>
+                <TextEquiv>
+                    <Unicode>indsats i Norsk Kunst er meget merkelig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="476,1516 1645,1579 1785,1487 3445,1486 3273,1346 2776,1382 2683,1433 475,1379"/>
+                <Baseline points="494,1492 640,1488 787,1484 933,1482 1080,1480 1227,1478 1373,1478 1520,1476 1666,1476 1813,1476 1960,1476 2106,1476 2253,1476 2399,1476 2546,1476 2693,1476 2839,1474 2986,1474 3132,1472 3279,1470 3426,1466"/>
+                <TextEquiv>
+                    <Unicode>Han står steil og ensom i sin Kunst, han</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="477,1661 3119,1693 3461,1638 3460,1493 476,1539"/>
+                <Baseline points="494,1618 641,1618 788,1616 936,1616 1083,1614 1231,1614 1378,1614 1525,1614 1673,1614 1820,1614 1968,1614 2115,1614 2262,1614 2410,1614 2557,1612 2705,1610 2852,1608 2999,1606 3147,1604 3294,1600 3442,1594"/>
+                <TextEquiv>
+                    <Unicode>lignet ikke på nogen og ingen har lignet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="474,1784 3374,1793 3374,1675 3237,1645 474,1663"/>
+                <Baseline points="494,1752 637,1752 780,1752 923,1752 1066,1752 1209,1752 1352,1752 1495,1752 1638,1752 1781,1750 1924,1750 2067,1750 2210,1750 2353,1750 2496,1750 2639,1750 2782,1750 2925,1750 3068,1750 3211,1750 3354,1750"/>
+                <TextEquiv>
+                    <Unicode>ham. Vi var jevngamle og gik sammen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="470,1978 3525,1927 3571,1829 2460,1758 1176,1770 808,1745 470,1829"/>
+                <Baseline points="490,1906 641,1902 793,1898 945,1896 1096,1894 1248,1892 1400,1890 1551,1890 1703,1888 1855,1888 2007,1888 2158,1888 2310,1888 2462,1888 2613,1888 2765,1890 2917,1890 3068,1890 3220,1892 3372,1892 3524,1894"/>
+                <TextEquiv>
+                    <Unicode>på Eilif Petterssens og Harriet Backers maler-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="469,2054 1508,2110 1883,2043 3339,2115 3544,2049 3544,1931 2139,1971 1927,1948 1390,1947 468,1970"/>
+                <Baseline points="488,2040 639,2040 791,2038 943,2038 1095,2036 1247,2036 1398,2034 1550,2032 1702,2032 1854,2031 2006,2030 2157,2030 2309,2028 2461,2028 2613,2028 2765,2028 2916,2028 3068,2028 3220,2030 3372,2030 3524,2032"/>
+                <TextEquiv>
+                    <Unicode>skole vinteren 1894 men siden var det meget</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="466,2218 1012,2219 1201,2273 1395,2193 3484,2188 3484,2100 2308,2038 1056,2140 466,2077"/>
+                <Baseline points="486,2180 634,2180 783,2180 932,2178 1081,2178 1230,2176 1379,2174 1528,2174 1677,2172 1826,2170 1975,2170 2123,2168 2272,2168 2421,2168 2570,2168 2719,2168 2868,2170 3017,2172 3166,2174 3315,2178 3464,2182"/>
+                <TextEquiv>
+                    <Unicode>skjelden jeg traf ham. Men altid senere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="468,2348 3509,2355 3509,2248 3288,2180 468,2249"/>
+                <Baseline points="486,2314 636,2316 786,2316 936,2316 1086,2316 1237,2316 1387,2316 1537,2316 1687,2314 1837,2314 1988,2314 2138,2312 2288,2312 2438,2312 2588,2312 2739,2312 2889,2312 3039,2312 3189,2312 3339,2314 3490,2316"/>
+                <TextEquiv>
+                    <Unicode>omfattet jeg hans Kunst med den største</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="497,2502 3489,2474 3488,2344 2440,2325 2362,2389 1516,2313 1288,2414 497,2384"/>
+                <Baseline points="516,2456 663,2460 811,2460 959,2462 1106,2462 1254,2462 1402,2460 1549,2460 1697,2458 1845,2456 1993,2454 2140,2452 2288,2450 2436,2450 2583,2448 2731,2448 2879,2448 3026,2448 3174,2448 3322,2450 3470,2454"/>
+                <TextEquiv>
+                    <Unicode>interesse. Hans billeder har etset sig ind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="474,2617 1217,2706 1445,2609 3553,2609 3527,2546 3382,2477 474,2507"/>
+                <Baseline points="492,2594 644,2596 796,2598 948,2598 1100,2600 1253,2600 1405,2598 1557,2598 1709,2596 1861,2595 2014,2594 2166,2592 2318,2590 2470,2590 2622,2588 2775,2588 2927,2588 3079,2588 3231,2590 3383,2592 3536,2594"/>
+                <TextEquiv>
+                    <Unicode>i erindringen ved sin voldsomme personlige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="460,2795 1861,2750 2093,2840 2215,2764 3452,2763 3459,2662 460,2675"/>
+                <Baseline points="478,2744 626,2744 774,2742 922,2742 1070,2742 1218,2740 1366,2740 1514,2738 1662,2738 1810,2736 1959,2735 2107,2734 2255,2733 2403,2732 2551,2732 2699,2730 2847,2730 2995,2730 3143,2730 3291,2732 3440,2732"/>
+                <TextEquiv>
+                    <Unicode>opfatning, sin prakt og sin steile egenart.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="502,2989 791,2923 2054,2897 2085,2981 2245,2897 3448,2910 3447,2780 2912,2772 501,2829"/>
+                <Baseline points="522,2878 667,2878 812,2878 957,2878 1103,2878 1248,2878 1393,2878 1539,2878 1684,2878 1829,2878 1975,2877 2120,2876 2265,2876 2410,2874 2556,2874 2701,2872 2846,2870 2992,2868 3137,2866 3282,2864 3428,2862"/>
+                <TextEquiv>
+                    <Unicode>Jeg vil herved gjerne gi uttryk for min</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="503,3038 2642,3069 3407,3042 3406,2940 486,2958"/>
+                <Baseline points="506,3020 650,3020 794,3018 938,3018 1082,3018 1226,3016 1370,3016 1514,3016 1658,3016 1802,3014 1946,3014 2090,3014 2234,3012 2378,3012 2522,3010 2666,3010 2810,3008 2954,3006 3098,3004 3242,3002 3386,3000"/>
+                <TextEquiv>
+                    <Unicode>inderlige deltagelse i den sorg, som har</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="482,3184 3431,3191 3443,3020 497,3048"/>
+                <Baseline points="500,3164 645,3162 791,3160 936,3160 1082,3158 1228,3158 1373,3158 1519,3160 1664,3160 1810,3160 1956,3160 2101,3162 2247,3162 2392,3162 2538,3160 2684,3160 2829,3158 2975,3156 3120,3152 3266,3148 3412,3142"/>
+                <TextEquiv>
+                    <Unicode>rammet Dere. Hans død er et stort tap</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="455,3407 653,3316 1007,3317 1094,3370 1216,3329 1437,3367 1802,3333 1841,3197 1559,3234 1422,3169 1338,3211 1171,3176 1098,3222 455,3221"/>
+                <Baseline points="476,3306 543,3304 610,3302 677,3302 744,3302 812,3302 879,3302 946,3304 1013,3304 1080,3306 1148,3306 1215,3308 1282,3308 1349,3310 1416,3310 1484,3308 1551,3308 1618,3306 1685,3304 1752,3300 1820,3294"/>
+                <TextEquiv>
+                    <Unicode>for norsk Kunst.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="2155,3489 2502,3452 2791,3537 2959,3461 3095,3488 3362,3451 3362,3341 3199,3355 3089,3275 2704,3373 2464,3326 2373,3360 2289,3311 2156,3367"/>
+                <Baseline points="2176,3422 2234,3426 2292,3428 2351,3430 2409,3432 2468,3432 2526,3434 2584,3434 2643,3434 2701,3434 2760,3434 2818,3432 2876,3432 2935,3432 2993,3432 3052,3430 3110,3430 3168,3432 3227,3432 3285,3432 3344,3434"/>
+                <TextEquiv>
+                    <Unicode>Med venlig hilsen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="2448,3750 2996,3763 3106,3732 3342,3813 3452,3771 3453,3638 3331,3645 3308,3573 3193,3569 3099,3576 2855,3652 2741,3610 2699,3633 2570,3518 2448,3495"/>
+                <Baseline points="2466,3708 2514,3708 2562,3708 2611,3708 2659,3708 2708,3708 2756,3708 2804,3708 2853,3708 2901,3708 2950,3708 2998,3708 3046,3708 3095,3708 3143,3708 3192,3708 3240,3709 3288,3710 3337,3710 3385,3710 3434,3710"/>
+                <TextEquiv>
+                    <Unicode>Deres ærbødige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1662538004894_121" custom="readingOrder {index:21;}">
+                <Coords points="2124,3800 2260,3746 2494,3848 2804,3784 3240,3852 3234,4062 2630,4011 2248,4070 2124,4005"/>
+                <Baseline points="2124,3966 2171,3970 2246,3973 2320,3976 2395,3978 2470,3981 2544,3983 2619,3984 2693,3986 2768,3986 2843,3986 2917,3986 2992,3986 3066,3985 3141,3984 3216,3982"/>
+                <TextEquiv>
+                    <Unicode>Kristen Holbø.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:22;}">
+                <Coords points="431,3880 1291,3895 1412,3853 1412,3765 993,3798 887,3737 772,3757 700,3700 540,3659 430,3690"/>
+                <Baseline points="448,3856 495,3854 542,3852 589,3852 637,3850 684,3850 731,3850 779,3850 826,3850 873,3850 921,3850 968,3850 1015,3850 1062,3850 1110,3850 1157,3850 1204,3850 1252,3850 1299,3848 1346,3847 1394,3846"/>
+                <TextEquiv>
+                    <Unicode>Lillehammer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="374,4032 538,4029 656,4090 744,4026 869,4015 1044,4095 1204,4039 1402,4032 1403,3872 1334,3864 1281,3906 1128,3875 919,3939 489,3873 375,3933"/>
+                <Baseline points="394,4006 443,4004 493,4002 542,4000 592,4000 641,4000 691,4000 740,4000 790,4000 839,4002 889,4002 938,4003 988,4004 1037,4004 1087,4006 1136,4006 1186,4006 1235,4005 1285,4004 1334,4002 1384,4000"/>
+                <TextEquiv>
+                    <Unicode>22 juni 1935.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Til familien Sohlberg.&#13;
+Det er med vemod jeg har læst&#13;
+at Harald Sohlberg er død. Med ham er&#13;
+en av Norges store malere gåt bort. Hans&#13;
+indsats i Norsk Kunst er meget merkelig.&#13;
+Han står steil og ensom i sin Kunst, han&#13;
+lignet ikke på nogen og ingen har lignet&#13;
+ham. Vi var jevngamle og gik sammen&#13;
+på Eilif Petterssens og Harriet Backers maler-&#13;
+skole vinteren 1894 men siden var det meget&#13;
+skjelden jeg traf ham. Men altid senere&#13;
+omfattet jeg hans Kunst med den største&#13;
+interesse. Hans billeder har etset sig ind&#13;
+i erindringen ved sin voldsomme personlige&#13;
+opfatning, sin prakt og sin steile egenart.&#13;
+Jeg vil herved gjerne gi uttryk for min&#13;
+inderlige deltagelse i den sorg, som har&#13;
+rammet Dere. Hans død er et stort tap&#13;
+for norsk Kunst.&#13;
+Med venlig hilsen&#13;
+Deres ærbødige&#13;
+Kristen Holbø.&#13;
+Lillehammer&#13;
+22 juni 1935.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

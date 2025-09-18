@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:15:43.413+02:00</Created>
+        <LastChange>2023-05-09T14:24:58.686+02:00</LastChange>
+        <TranskribusMetadata docId="1026638" pageId="43161066" pageNr="1" tsid="121320926" status="GT" userId="69942" imgUrl="https://files.transkribus.eu/Get?id=LDVSURYGSUVVPIUVZXIWOYRN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HAQDONABMGHCUXQIEWUMJLPI" imageId="35400780"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_311969_0001.jpg" imageWidth="3678" imageHeight="4708">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770946835" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+                <RegionRefIndexed index="1" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="356,373 356,713 767,713 767,373"/>
+            <TextLine id="r2l3" custom="readingOrder {index:0;}">
+                <Coords points="418,505 474,518 489,508 580,515 592,503 624,515 656,510 671,522 683,512 708,515 707,426 663,422 612,444 565,419 523,441 477,422 457,432 447,422 418,429"/>
+                <Baseline points="429,491 455,494 482,494 508,494 535,494 562,494 588,492 615,492 641,492 668,494 695,495"/>
+                <TextEquiv>
+                    <Unicode>H. Bull</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663588738068_29" custom="readingOrder {index:1;}">
+                <Coords points="424,511 500,521 523,509 540,519 668,508 726,517 724,588 660,594 607,580 579,594 455,574 432,583 424,575"/>
+                <Baseline points="424,561 431,563 456,567 482,569 508,569 533,568 559,567 584,566 610,566 636,566 661,566 687,568 713,572"/>
+                <TextEquiv>
+                    <Unicode>Arkitekt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663588733461_21" custom="readingOrder {index:2;}">
+                <Coords points="415,569 428,582 453,573 494,586 622,582 676,601 713,597 711,656 669,665 613,653 585,665 529,646 463,657 434,646 415,657"/>
+                <Baseline points="415,629 422,631 447,635 472,636 497,638 522,638 548,637 573,636 598,636 623,636 648,636 673,636 699,638"/>
+                <TextEquiv>
+                    <Unicode>Tel. 23608</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>H. Bull&#13;
+Arkitekt&#13;
+Tel. 23608</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:1;}">
+            <Coords points="890,534 884,3081 2850,3081 2856,534"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="1868,674 2125,663 2216,744 2327,661 2592,697 2831,656 2835,568 2661,555 2433,596 2325,595 2268,555 1868,568"/>
+                <Baseline points="1880,650 1927,650 1974,651 2021,651 2068,651 2115,653 2162,653 2209,654 2256,654 2303,654 2351,656 2398,656 2445,656 2492,656 2539,656 2586,656 2633,656 2680,654 2727,654 2774,653 2822,651"/>
+                <TextEquiv>
+                    <Unicode>Oslo 7de februar 1926.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="1024,1377 1500,1359 1728,1417 2099,1364 2254,1405 2590,1373 2591,1297 2316,1319 2159,1247 1638,1311 1440,1235 1245,1307 1136,1242 1025,1251"/>
+                <Baseline points="1037,1349 1114,1349 1191,1347 1268,1348 1345,1349 1422,1349 1499,1349 1576,1350 1653,1350 1730,1352 1808,1353 1885,1353 1962,1355 2039,1355 2116,1356 2193,1357 2270,1358 2347,1358 2424,1359 2501,1359 2579,1359"/>
+                <TextEquiv>
+                    <Unicode>Herr billedhugger Gustav Vigeland.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="871,1668 2860,1665 2860,1599 2696,1569 1538,1569 872,1555"/>
+                <Baseline points="884,1629 982,1631 1080,1634 1178,1635 1276,1637 1374,1638 1472,1638 1571,1640 1669,1640 1767,1640 1865,1640 1963,1640 2061,1640 2159,1640 2258,1640 2356,1640 2454,1640 2552,1641 2650,1641 2748,1641 2847,1643"/>
+                <TextEquiv>
+                    <Unicode>Vedlagt sender jeg Dem kopi av de to tegninger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="888,1786 2862,1807 2863,1714 1575,1703 1424,1689 1271,1697 889,1698"/>
+                <Baseline points="902,1767 999,1769 1096,1770 1194,1772 1291,1772 1389,1773 1486,1775 1583,1775 1681,1776 1778,1776 1876,1778 1973,1778 2070,1779 2168,1779 2265,1779 2363,1781 2460,1781 2557,1781 2655,1781 2752,1781 2850,1781"/>
+                <TextEquiv>
+                    <Unicode>til broen i Frognerparken. Den permanente del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="897,1937 2463,1962 2785,1952 2817,1831 1772,1842 1272,1845 1087,1832 885,1877"/>
+                <Baseline points="897,1902 992,1906 1088,1909 1183,1911 1279,1914 1374,1916 1470,1917 1565,1917 1661,1919 1756,1919 1852,1919 1948,1919 2043,1919 2139,1919 2234,1919 2330,1919 2425,1919 2521,1920 2616,1920 2712,1922 2808,1923"/>
+                <TextEquiv>
+                    <Unicode>av broen er i grundrids merket med prikkete</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="884,2063 946,2067 1011,2116 1042,2095 1102,2082 1142,2112 1167,2101 1172,1998 1149,2007 1104,1986 1035,1984 997,1964 957,1972 933,1958 891,1970"/>
+                <Baseline points="899,2042 924,2044 950,2046 976,2049 1002,2051 1028,2052 1054,2054 1080,2055 1106,2057 1132,2058 1158,2060"/>
+                <TextEquiv>
+                    <Unicode>linjer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="1015,2202 2784,2248 2810,2100 1631,2148 1015,2099"/>
+                <Baseline points="1026,2186 1114,2189 1203,2192 1291,2195 1380,2196 1469,2198 1557,2199 1646,2199 1734,2201 1823,2201 1912,2201 2000,2201 2089,2199 2177,2199 2266,2200 2355,2201 2443,2201 2532,2202 2620,2204 2709,2205 2798,2208"/>
+                <TextEquiv>
+                    <Unicode>Det er meget elskværdig av Dem at ville</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="918,2383 2703,2353 2786,2409 2836,2277 921,2256"/>
+                <Baseline points="930,2333 1024,2334 1119,2334 1213,2334 1308,2336 1403,2336 1497,2337 1592,2337 1686,2339 1781,2339 1876,2340 1970,2340 2065,2342 2159,2342 2254,2343 2349,2345 2443,2346 2538,2348 2632,2348 2727,2350 2822,2351"/>
+                <TextEquiv>
+                    <Unicode>gi mig anledning til at se Deres arbeider og</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="904,2489 2222,2535 2541,2479 2657,2529 2846,2478 2863,2446 2586,2398 2377,2450 2286,2395 908,2412"/>
+                <Baseline points="915,2475 1011,2475 1108,2477 1205,2477 1302,2477 1398,2477 1495,2477 1592,2477 1689,2477 1785,2477 1882,2477 1979,2477 2076,2477 2172,2477 2269,2477 2366,2477 2463,2478 2559,2478 2656,2480 2753,2481 2850,2481"/>
+                <TextEquiv>
+                    <Unicode>vil jeg være svært taknemlig for en telefon-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="902,2658 1967,2645 2296,2700 2619,2652 2627,2590 2409,2537 2327,2587 1538,2521 1351,2561 909,2551"/>
+                <Baseline points="915,2615 999,2615 1084,2616 1168,2616 1253,2616 1337,2616 1422,2616 1506,2616 1591,2618 1675,2618 1760,2618 1845,2619 1929,2621 2014,2622 2098,2624 2183,2625 2267,2627 2352,2630 2436,2633 2521,2635 2606,2639"/>
+                <TextEquiv>
+                    <Unicode>opringning når støpearbeidet er færdig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="2023,2909 2055,2906 2083,2930 2108,2924 2155,2947 2209,2921 2289,2944 2352,2913 2408,2919 2412,2856 2327,2850 2235,2819 2182,2836 2138,2794 2118,2805 2097,2783 2031,2779"/>
+                <Baseline points="2036,2882 2061,2885 2087,2889 2113,2892 2138,2894 2164,2897 2190,2898 2216,2900 2241,2901 2267,2903 2293,2904 2318,2904 2344,2905 2370,2906 2396,2907"/>
+                <TextEquiv>
+                    <Unicode>Ærbødigst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="2049,3060 2139,3069 2204,3055 2228,3068 2366,3054 2458,3083 2461,3007 2393,3002 2277,2957 2161,2955 2140,2941 2052,2977"/>
+                <Baseline points="2061,3032 2086,3033 2112,3035 2138,3036 2164,3037 2190,3039 2215,3041 2241,3042 2267,3044 2293,3045 2319,3045 2344,3047 2370,3047 2396,3047 2422,3047 2448,3047"/>
+                <TextEquiv>
+                    <Unicode>H. Bull.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Oslo 7de februar 1926.&#13;
+Herr billedhugger Gustav Vigeland.&#13;
+Vedlagt sender jeg Dem kopi av de to tegninger&#13;
+til broen i Frognerparken. Den permanente del&#13;
+av broen er i grundrids merket med prikkete&#13;
+linjer&#13;
+Det er meget elskværdig av Dem at ville&#13;
+gi mig anledning til at se Deres arbeider og&#13;
+vil jeg være svært taknemlig for en telefon-&#13;
+opringning når støpearbeidet er færdig&#13;
+Ærbødigst&#13;
+H. Bull.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

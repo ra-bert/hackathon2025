@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:37:57.113+02:00</Created>
+        <LastChange>2023-10-24T11:10:25.093+02:00</LastChange>
+        <TranskribusMetadata docId="1027188" pageId="43172147" pageNr="1" tsid="137959930" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=RJVACBMWHUHCGPWNBMBIHFSA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QUVEVVRSANHFUSNAZKBTXOXD" imageId="35411731"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_201830_0001.jpg" imageWidth="8409" imageHeight="5582">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770790183" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1661417693295_205"/>
+                <RegionRefIndexed index="1" regionRef="region_1661417653311_199"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="region_1661417693295_205" custom="readingOrder {index:0;}">
+            <Coords points="1431,4140 3040,4140 3040,1329 1431,1329"/>
+            <TextLine id="line_1661417704665_209" custom="readingOrder {index:0;}">
+                <Coords points="1697,3833 1721,3783 1708,3747 1743,3706 1736,3663 1766,3585 1723,3484 1727,3455 1451,3420 1579,3680 1576,3716 1548,3744 1542,3813"/>
+                <Baseline points="1666,3816 1711,3466"/>
+                <TextEquiv>
+                    <Unicode>S: T:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1661417709966_214" custom="readingOrder {index:1;}">
+                <Coords points="2267,4020 2317,3602 2250,3294 2267,2804 2339,2597 2269,2418 2303,2066 2158,2066 2112,2337 2175,2573 2078,2915 2175,3057 2185,3262 2057,3882 2117,4020"/>
+                <Baseline points="2270,4007 2270,2079"/>
+                <TextEquiv>
+                    <Unicode>Hr Stipendiat Ivar Aasen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1661417714735_219" custom="readingOrder {index:2;}">
+                <Coords points="2659,2506 2710,2263 2679,2108 2718,2010 2682,1898 2743,1758 2739,1675 2592,1665 2597,1803 2562,1854 2579,1985 2542,2062 2568,2185 2490,2354 2512,2495"/>
+                <Baseline points="2639,2493 2696,1685"/>
+                <TextEquiv>
+                    <Unicode>Kristiania</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1661417719361_224" custom="readingOrder {index:3;}">
+                <Coords points="2900,4115 2893,3975 2931,3933 2900,3792 2914,3703 2967,3613 2967,3514 2810,3510 2808,3590 2751,3663 2759,3729 2647,3890 2743,4025 2741,4112"/>
+                <Baseline points="2881,4102 2894,3523"/>
+                <TextEquiv>
+                    <Unicode>betalt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S: T:
+Hr Stipendiat Ivar Aasen
+Kristiania
+betalt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1661417653311_199" custom="readingOrder {index:1;}">
+            <Coords points="4312,260 8339,260 8339,5139 4312,5139"/>
+            <TextLine id="region_1661417653311_199l4" custom="readingOrder {index:0;}">
+                <Coords points="4762,694 4817,684 4853,661 4872,679 4922,675 4968,706 4991,697 5023,715 5060,715 5225,497 5017,482 4953,454 4921,482 4898,473 4839,519 4761,520"/>
+                <Baseline points="4784,652 4809,650 4834,648 4859,646 4884,646 4910,647 4935,648 4960,648 4985,648 5010,648 5036,648"/>
+                <TextEquiv>
+                    <Unicode>S. T.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l5" custom="readingOrder {index:1;}">
+                <Coords points="4752,1077 4991,1028 5119,1079 5238,1006 5678,1077 5894,978 6059,1034 6100,1025 6101,819 5931,854 5730,739 5510,783 5125,726 4753,838"/>
+                <Baseline points="4776,964 4841,962 4906,960 4971,960 5036,960 5101,960 5166,961 5231,962 5296,964 5361,964 5427,966 5492,967 5557,968 5622,968 5687,970 5752,970 5817,968 5882,968 5947,965 6012,963 6078,960"/>
+                <TextEquiv>
+                    <Unicode>Hr I. Aasen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l6" custom="readingOrder {index:2;}">
+                <Coords points="4597,1720 6347,1831 8136,1758 8137,1611 7096,1695 6702,1581 5561,1645 4599,1523"/>
+                <Baseline points="4618,1716 4792,1716 4967,1714 5142,1714 5317,1714 5492,1716 5666,1716 5841,1718 6016,1720 6191,1722 6366,1724 6540,1726 6715,1729 6890,1731 7065,1732 7240,1734 7414,1736 7589,1736 7764,1736 7939,1736 8114,1736"/>
+                <TextEquiv>
+                    <Unicode>Som en Dem aldeles ubekjendt Person, maa jeg bede om</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l7" custom="readingOrder {index:3;}">
+                <Coords points="4533,1894 8150,1953 8150,1829 7862,1763 4534,1789"/>
+                <Baseline points="4558,1866 4736,1866 4914,1868 5093,1870 5271,1872 5450,1874 5628,1876 5806,1876 5985,1878 6163,1880 6342,1882 6520,1882 6698,1884 6877,1884 7055,1886 7234,1887 7412,1888 7590,1888 7769,1890 7947,1890 8126,1890"/>
+                <TextEquiv>
+                    <Unicode>Undskylning fordi jeg uleiliger Dem med nærværende Linier.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l8" custom="readingOrder {index:4;}">
+                <Coords points="5199,2217 8174,2217 8174,2093 7689,2049 5199,2075"/>
+                <Baseline points="5222,2172 5368,2174 5515,2174 5661,2176 5808,2176 5954,2178 6101,2178 6247,2180 6394,2180 6540,2182 6687,2182 6833,2183 6980,2184 7126,2184 7273,2186 7419,2186 7566,2186 7712,2188 7859,2188 8005,2190 8152,2190"/>
+                <TextEquiv>
+                    <Unicode>Da jeg som Lærer ved den herværende Lærerskole</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l9" custom="readingOrder {index:5;}">
+                <Coords points="4568,2381 8098,2393 8025,2250 7219,2205 4569,2239"/>
+                <Baseline points="4592,2322 4766,2325 4940,2326 5114,2328 5288,2330 5463,2330 5637,2332 5811,2332 5985,2334 6159,2334 6334,2334 6508,2334 6682,2336 6856,2336 7030,2336 7205,2336 7379,2338 7553,2338 7727,2340 7901,2340 8076,2342"/>
+                <TextEquiv>
+                    <Unicode>har paataget mig at have tilsalgs de paa Skolen brugelige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l10" custom="readingOrder {index:6;}">
+                <Coords points="4566,2499 8155,2529 8129,2373 4567,2380"/>
+                <Baseline points="4590,2472 4767,2472 4944,2472 5121,2472 5298,2474 5475,2474 5652,2476 5829,2477 6006,2478 6183,2480 6361,2482 6538,2484 6715,2484 6892,2486 7069,2488 7246,2490 7423,2490 7600,2492 7777,2492 7954,2492 8132,2492"/>
+                <TextEquiv>
+                    <Unicode>Bøger og saaledes har maattet træde i Forbindelse med de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l11" custom="readingOrder {index:7;}">
+                <Coords points="4612,2683 8150,2742 8324,2716 8326,2574 4613,2527"/>
+                <Baseline points="4634,2616 4817,2618 5000,2620 5183,2622 5367,2625 5550,2626 5733,2628 5917,2630 6100,2632 6283,2634 6467,2636 6650,2638 6833,2640 7016,2642 7200,2643 7383,2644 7566,2646 7750,2648 7933,2650 8116,2652 8300,2654"/>
+                <TextEquiv>
+                    <Unicode>forskillige Forlæggere, have disse ogsaa sendte mig (adskillige)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l12" custom="readingOrder {index:8;}">
+                <Coords points="4604,2825 8165,2880 8167,2688 4605,2729"/>
+                <Baseline points="4626,2784 4801,2782 4977,2782 5153,2782 5329,2782 5505,2782 5681,2784 5857,2786 6033,2788 6209,2790 6385,2792 6560,2794 6736,2796 6912,2798 7088,2800 7264,2802 7440,2804 7616,2806 7792,2808 7968,2808 8144,2808"/>
+                <TextEquiv>
+                    <Unicode>andre Bøger, end de Forlangte, og jeg har saaledes etableret</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l13" custom="readingOrder {index:9;}">
+                <Coords points="4584,2966 6615,2953 6752,3055 7069,2961 7224,3055 7766,2963 8200,3068 8202,2880 7620,2815 5158,2894 5012,2791 4585,2893"/>
+                <Baseline points="4606,2924 4784,2927 4963,2930 5142,2932 5320,2934 5499,2937 5678,2939 5856,2940 6035,2942 6214,2944 6393,2946 6571,2948 6750,2948 6929,2950 7107,2951 7286,2952 7465,2954 7643,2954 7822,2956 8001,2957 8180,2958"/>
+                <TextEquiv>
+                    <Unicode>en liden Boghandel; men den Bog, hvorefter her spørges</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l14" custom="readingOrder {index:10;}">
+                <Coords points="4608,3155 8308,3126 7791,2979 4609,3017"/>
+                <Baseline points="4634,3080 4816,3082 4999,3084 5181,3087 5364,3088 5546,3090 5729,3092 5911,3094 6094,3094 6276,3096 6459,3096 6641,3098 6824,3098 7006,3100 7189,3100 7371,3102 7554,3104 7736,3106 7919,3110 8101,3112 8284,3116"/>
+                <TextEquiv>
+                    <Unicode>mest hverken har jeg eller har været istand at faa opspore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l15" custom="readingOrder {index:11;}">
+                <Coords points="4585,3274 8155,3299 8156,3152 7840,3218 7703,3116 4586,3155"/>
+                <Baseline points="4610,3232 4786,3235 4962,3238 5138,3240 5314,3242 5490,3244 5666,3244 5842,3246 6018,3246 6194,3246 6371,3246 6547,3248 6723,3248 6899,3250 7075,3250 7251,3252 7427,3254 7603,3258 7779,3262 7955,3268 8132,3272"/>
+                <TextEquiv>
+                    <Unicode>Forlægger til, og denne Bog er "Ervingen". Man har sagt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l16" custom="readingOrder {index:12;}">
+                <Coords points="4600,3407 7294,3494 8253,3453 8254,3302 4600,3334"/>
+                <Baseline points="4622,3386 4802,3386 4982,3388 5162,3388 5343,3390 5523,3392 5703,3392 5884,3394 6064,3395 6244,3396 6425,3398 6605,3400 6785,3402 6965,3404 7146,3406 7326,3408 7506,3410 7687,3414 7867,3417 8047,3421 8228,3426"/>
+                <TextEquiv>
+                    <Unicode>mig, at den ikke er i Boghandelen, og jeg ved da intet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l17" custom="readingOrder {index:13;}">
+                <Coords points="4615,3568 7750,3611 8190,3601 8246,3487 4616,3408"/>
+                <Baseline points="4636,3544 4815,3542 4994,3542 5173,3542 5353,3542 5532,3544 5711,3546 5891,3548 6070,3550 6249,3552 6429,3554 6608,3556 6787,3558 6966,3560 7146,3563 7325,3565 7504,3566 7684,3568 7863,3568 8042,3568 8222,3568"/>
+                <TextEquiv>
+                    <Unicode>bedre Raad end at henvende mig til Dem selv med An-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l18" custom="readingOrder {index:14;}">
+                <Coords points="4612,3716 7884,3803 7886,3684 7721,3627 6667,3566 6310,3635 4613,3657"/>
+                <Baseline points="4634,3692 4795,3692 4956,3694 5118,3694 5279,3696 5441,3696 5602,3698 5763,3700 5925,3700 6086,3702 6248,3704 6409,3705 6570,3706 6732,3708 6893,3710 7055,3712 7216,3714 7377,3716 7539,3718 7700,3721 7862,3724"/>
+                <TextEquiv>
+                    <Unicode>modning at sende mig en 50 Ekspl til Forhandling.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l19" custom="readingOrder {index:15;}">
+                <Coords points="4807,3887 7383,3937 7618,3815 7376,3735 4808,3782"/>
+                <Baseline points="4830,3848 4968,3848 5106,3848 5244,3848 5383,3850 5521,3850 5659,3850 5798,3852 5936,3854 6074,3854 6213,3856 6351,3857 6489,3858 6627,3860 6766,3862 6904,3862 7042,3864 7181,3866 7319,3867 7457,3868 7596,3870"/>
+                <TextEquiv>
+                    <Unicode>Min Kommissionær i Aalesund er Klaus Nord.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l20" custom="readingOrder {index:16;}">
+                <Coords points="4773,4230 5837,4185 6029,4263 6226,4189 6813,4190 6813,4048 6094,3960 5947,4043 5452,4083 5145,4010 4773,4060"/>
+                <Baseline points="4794,4152 4893,4152 4993,4154 5093,4154 5193,4155 5293,4156 5392,4156 5492,4156 5592,4156 5692,4154 5792,4154 5891,4154 5991,4154 6091,4154 6191,4154 6291,4154 6390,4154 6490,4154 6590,4156 6690,4156 6790,4158"/>
+                <TextEquiv>
+                    <Unicode>Volden den 28de August 1862</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l21" custom="readingOrder {index:17;}">
+                <Coords points="6310,4371 6750,4411 6980,4335 7053,4400 7278,4328 7429,4403 7622,4336 7946,4411 8222,4331 8223,4226 8086,4211 7842,4278 7614,4189 7448,4238 7091,4180 6756,4260 6532,4185 6421,4258 6312,4215"/>
+                <Baseline points="6332,4320 6425,4317 6518,4314 6612,4312 6705,4312 6799,4313 6892,4314 6985,4316 7079,4318 7172,4320 7266,4322 7359,4324 7452,4326 7546,4327 7639,4328 7733,4328 7826,4328 7919,4327 8013,4324 8106,4321 8200,4316"/>
+                <TextEquiv>
+                    <Unicode>Med megen Agtelse, ærbødigst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661417653311_199l22" custom="readingOrder {index:18;}">
+                <Coords points="5972,4692 7443,4627 7824,4702 7924,4659 7923,4504 7511,4535 7143,4397 6827,4455 6643,4392 5969,4417"/>
+                <Baseline points="5994,4640 6089,4638 6184,4638 6279,4636 6375,4634 6470,4630 6565,4628 6661,4626 6756,4622 6851,4620 6947,4618 7042,4616 7137,4614 7232,4614 7328,4614 7423,4614 7518,4617 7614,4620 7709,4624 7804,4630 7900,4636"/>
+                <TextEquiv>
+                    <Unicode>Jakob N. Kobberstad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S. T.
+Hr I. Aasen.
+Som en Dem aldeles ubekjendt Person, maa jeg bede om
+Undskylning fordi jeg uleiliger Dem med nærværende Linier.
+Da jeg som Lærer ved den herværende Lærerskole
+har paataget mig at have tilsalgs de paa Skolen brugelige
+Bøger og saaledes har maattet træde i Forbindelse med de
+forskillige Forlæggere, have disse ogsaa sendte mig (adskillige)
+andre Bøger, end de Forlangte, og jeg har saaledes etableret
+en liden Boghandel; men den Bog, hvorefter her spørges
+mest hverken har jeg eller har været istand at faa opspore
+Forlægger til, og denne Bog er "Ervingen". Man har sagt
+mig, at den ikke er i Boghandelen, og jeg ved da intet
+bedre Raad end at henvende mig til Dem selv med An-
+modning at sende mig en 50 Ekspl til Forhandling.
+Min Kommissionær i Aalesund er Klaus Nord.
+Volden den 28de August 1862
+Med megen Agtelse, ærbødigst
+Jacob N. Kobberstad</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

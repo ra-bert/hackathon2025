@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T11:58:33.580+02:00</Created>
+        <LastChange>2023-10-13T12:36:41.750+02:00</LastChange>
+        <TranskribusMetadata docId="1026511" pageId="43160750" pageNr="1" tsid="137262686" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=VHQGRXYJCRROQSBUVCVGOVCY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QQFCLZESTBQZUUSPGMQKXXOW" imageId="35400466"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_193882_0001.jpg" imageWidth="2224" imageHeight="3311">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770986471" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662470978001_529"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1662470978001_529" custom="readingOrder {index:0;}">
+            <Coords points="322,319 2091,319 2091,3023 322,3023"/>
+            <TextLine id="region_1662470978001_529l3" custom="readingOrder {index:0;}">
+                <Coords points="605,738 935,703 1624,734 1623,641 1326,600 1096,606 790,532 604,614"/>
+                <Baseline points="615,708 664,707 714,704 764,702 814,701 864,699 914,698 964,698 1014,696 1064,696 1114,696 1163,696 1213,696 1263,696 1313,697 1363,698 1413,698 1463,698 1513,699 1563,699 1613,701"/>
+                <TextEquiv>
+                    <Unicode>Fru Camilla Collett,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662470978001_529l4" custom="readingOrder {index:1;}">
+                <Coords points="602,953 883,997 1003,953 1182,953 1312,993 2016,952 2034,885 1931,841 1735,895 1126,847 977,911 910,868 601,865"/>
+                <Baseline points="612,939 682,938 753,938 823,938 894,936 965,936 1035,936 1106,935 1176,935 1247,933 1318,933 1388,932 1459,932 1529,932 1600,930 1671,930 1741,930 1812,929 1882,929 1953,929 2024,929"/>
+                <TextEquiv>
+                    <Unicode>Naar jeg, samtidig med mine bedste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662470978001_529l5" custom="readingOrder {index:2;}">
+                <Coords points="515,1129 885,1053 1202,1125 1469,1083 2095,1058 2094,1015 1907,965 1797,1016 1622,954 1554,995 1200,1008 1085,988 830,1001 514,995"/>
+                <Baseline points="525,1062 607,1061 689,1059 771,1058 853,1058 935,1056 1017,1055 1099,1055 1181,1053 1263,1052 1345,1052 1427,1052 1509,1050 1591,1050 1673,1050 1755,1049 1837,1049 1919,1049 2001,1049 2084,1049"/>
+                <TextEquiv>
+                    <Unicode>Ønsker i Anledning af denne Deres Fødsels-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662470978001_529l6" custom="readingOrder {index:3;}">
+                <Coords points="517,1208 1279,1184 1337,1213 1694,1203 1941,1258 2008,1241 2009,1133 1609,1086 1473,1147 1257,1089 1143,1145 1021,1086 932,1137 842,1093 789,1134 517,1127"/>
+                <Baseline points="527,1176 600,1175 674,1172 747,1170 821,1170 894,1169 968,1169 1041,1169 1115,1169 1188,1169 1262,1169 1336,1170 1409,1170 1483,1172 1556,1172 1630,1173 1703,1175 1777,1175 1850,1176 1924,1178 1998,1178"/>
+                <TextEquiv>
+                    <Unicode>dag, sender Dem vedlagte ubetydelige og</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662470978001_529l7" custom="readingOrder {index:4;}">
+                <Coords points="440,1319 1919,1321 2004,1309 2004,1246 1493,1213 1396,1264 1249,1201 1174,1241 440,1231"/>
+                <Baseline points="449,1292 526,1289 603,1288 680,1287 758,1286 835,1286 912,1284 989,1284 1067,1284 1144,1284 1221,1284 1298,1286 1376,1286 1453,1286 1530,1287 1607,1287 1685,1289 1762,1290 1839,1290 1916,1292 1994,1293"/>
+                <TextEquiv>
+                    <Unicode>dilletantmæssige Tegning, da skeer det</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662470978001_529l8" custom="readingOrder {index:5;}">
+                <Coords points="495,1402 1088,1414 1153,1442 1977,1410 1979,1329 1167,1352 836,1310 704,1370 622,1302 488,1311"/>
+                <Baseline points="498,1391 571,1391 645,1392 718,1392 792,1392 865,1392 939,1392 1012,1394 1086,1394 1159,1394 1233,1394 1306,1394 1380,1395 1453,1395 1527,1395 1600,1394 1674,1394 1747,1394 1821,1394 1894,1392 1968,1391"/>
+                <TextEquiv>
+                    <Unicode>under Forudsætning om, at alt hvad der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662470978001_529l9" custom="readingOrder {index:6;}">
+                <Coords points="494,1501 2076,1530 2076,1442 1995,1420 1417,1442 1122,1428 494,1462"/>
+                <Baseline points="504,1494 582,1496 660,1496 738,1496 816,1494 894,1494 972,1494 1051,1494 1129,1493 1207,1493 1285,1493 1363,1492 1441,1491 1519,1491 1598,1493 1676,1493 1754,1493 1832,1494 1910,1496 1988,1497 2067,1499"/>
+                <TextEquiv>
+                    <Unicode>maatte hentyde til Deres Ungdoms Veninde,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662470978001_529l10" custom="readingOrder {index:7;}">
+                <Coords points="495,1621 1030,1609 1186,1649 1675,1623 2002,1612 2007,1549 1821,1569 1721,1524 1626,1575 1522,1524 1208,1543 1022,1508 963,1551 749,1517 493,1568"/>
+                <Baseline points="503,1599 577,1598 651,1596 726,1595 800,1593 875,1593 949,1592 1024,1592 1098,1592 1173,1592 1247,1592 1321,1592 1396,1592 1470,1592 1545,1593 1619,1593 1694,1595 1768,1596 1843,1596 1917,1598 1992,1599"/>
+                <TextEquiv>
+                    <Unicode>min Søster Emilie, vil have Interesse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662470978001_529l11" custom="readingOrder {index:8;}">
+                <Coords points="474,1770 614,1708 903,1771 1305,1705 1797,1745 1996,1726 1995,1644 474,1663"/>
+                <Baseline points="485,1710 560,1709 635,1709 710,1707 785,1707 860,1706 935,1706 1010,1704 1085,1704 1160,1703 1235,1703 1310,1701 1385,1701 1460,1701 1535,1701 1610,1703 1685,1703 1760,1704 1835,1706 1910,1709 1986,1710"/>
+                <TextEquiv>
+                    <Unicode>for Dem, og gjenkalde Minder om "auld</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663753393353_432" custom="readingOrder {index:9;}">
+                <Coords points="560,1755 1155,1738 1234,1733 1876,1759 1988,1768 1986,1851 1753,1841 608,1869 480,1850 480,1779"/>
+                <Baseline points="489,1820 516,1820 544,1820 572,1820 600,1820 628,1820 656,1820 684,1820 712,1820 740,1820 768,1820 795,1820 823,1820 851,1820 879,1820 907,1820 935,1820 963,1820 991,1818 1019,1817 1047,1817 1154,1800 1195,1800 1236,1800 1277,1800 1318,1802 1359,1802 1400,1803 1442,1805 1483,1806 1524,1808 1565,1809 1606,1811 1647,1812 1688,1814 1730,1815 1771,1817 1812,1818 1853,1818 1894,1820 1935,1820 1977,1820"/>
+                <TextEquiv>
+                    <Unicode>lang syne". - Tegningen er laget i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662470978001_529l14" custom="readingOrder {index:10;}">
+                <Coords points="486,1979 1911,1940 1913,1863 1438,1847 1270,1859 836,1859 480,1897"/>
+                <Baseline points="491,1937 561,1934 632,1932 702,1931 773,1928 843,1926 914,1925 984,1925 1055,1923 1125,1922 1196,1922 1267,1920 1337,1920 1408,1920 1478,1919 1549,1919 1619,1919 1690,1919 1760,1917 1831,1917 1902,1917"/>
+                <TextEquiv>
+                    <Unicode>1839 og fremstiller en Interieur i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662470978001_529l15" custom="readingOrder {index:11;}">
+                <Coords points="494,2048 1031,2053 1273,2093 1521,2050 1948,2095 2044,2078 2044,1962 1365,1958 1206,1936 1030,1979 765,1962 494,1997"/>
+                <Baseline points="504,2037 580,2037 657,2037 733,2037 810,2036 886,2036 963,2034 1039,2033 1116,2031 1192,2031 1269,2030 1345,2030 1422,2030 1498,2030 1575,2031 1651,2033 1728,2035 1804,2037 1881,2041 1957,2047 2034,2052"/>
+                <TextEquiv>
+                    <Unicode>mine Forældres Bolig (i Grændsegaden),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662470978001_529l16" custom="readingOrder {index:12;}">
+                <Coords points="490,2166 886,2175 1007,2207 1125,2155 1359,2205 1959,2184 1960,2093 1917,2083 1744,2107 1484,2080 1087,2105 857,2075 728,2123 491,2093"/>
+                <Baseline points="500,2144 572,2144 644,2144 717,2144 789,2144 862,2144 934,2144 1007,2144 1079,2144 1152,2145 1224,2145 1296,2147 1369,2147 1441,2148 1514,2150 1586,2151 1659,2153 1731,2154 1804,2157 1876,2159 1949,2162"/>
+                <TextEquiv>
+                    <Unicode>hvor en upaaregnet tidlig Morgenvisit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662470978001_529l17" custom="readingOrder {index:13;}">
+                <Coords points="479,2261 665,2312 870,2273 2067,2281 2071,2225 1886,2180 1748,2222 1648,2182 1587,2233 1428,2184 486,2194"/>
+                <Baseline points="488,2258 566,2255 645,2253 723,2252 802,2252 881,2250 959,2250 1038,2250 1117,2250 1195,2250 1274,2252 1353,2252 1431,2253 1510,2255 1589,2256 1667,2258 1746,2259 1825,2261 1903,2264 1982,2267 2061,2268"/>
+                <TextEquiv>
+                    <Unicode>bringer Emilie m. Fl. til at tage Flugten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662470978001_529l18" custom="readingOrder {index:14;}">
+                <Coords points="522,2376 2064,2390 2064,2323 1930,2294 1228,2307 872,2277 713,2333 522,2303"/>
+                <Baseline points="531,2363 607,2361 683,2361 759,2361 835,2360 911,2360 987,2360 1064,2358 1140,2358 1216,2358 1292,2358 1368,2358 1444,2358 1520,2358 1597,2358 1673,2358 1749,2360 1825,2360 1901,2360 1977,2360 2054,2361"/>
+                <TextEquiv>
+                    <Unicode>Maaske De vil gjenkjende Emilie i hende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662470978001_529l19" custom="readingOrder {index:15;}">
+                <Coords points="472,2487 877,2528 995,2476 1684,2493 1725,2473 1725,2371 1402,2384 1318,2426 1221,2387 1002,2422 757,2395 472,2426"/>
+                <Baseline points="482,2469 543,2469 605,2469 667,2469 728,2469 790,2468 852,2468 913,2467 975,2466 1037,2466 1099,2465 1160,2465 1222,2464 1284,2463 1345,2463 1407,2463 1469,2463 1530,2465 1592,2465 1654,2466 1716,2468"/>
+                <TextEquiv>
+                    <Unicode>med de flagrende Kappebaand. -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662470978001_529l20" custom="readingOrder {index:16;}">
+                <Coords points="1486,2587 1519,2607 1551,2590 1574,2606 1628,2595 1678,2630 1718,2603 1838,2621 1887,2598 1987,2633 2043,2603 2044,2552 1891,2498 1818,2495 1646,2558 1574,2510 1488,2495"/>
+                <Baseline points="1497,2582 1523,2582 1550,2583 1577,2583 1604,2585 1631,2585 1658,2586 1684,2588 1711,2588 1738,2589 1765,2589 1792,2591 1819,2591 1846,2591 1872,2591 1899,2592 1926,2591 1953,2591 1980,2591 2007,2589 2034,2589"/>
+                <TextEquiv>
+                    <Unicode>Deres forbundne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662470978001_529l22" custom="readingOrder {index:17;}">
+                <Coords points="1648,2746 1678,2757 1731,2736 1770,2747 1806,2730 1841,2763 1902,2742 1920,2757 1969,2734 1971,2675 1900,2668 1832,2617 1779,2608 1695,2683 1650,2689"/>
+                <Baseline points="1659,2727 1684,2725 1709,2723 1734,2722 1759,2721 1784,2720 1809,2720 1834,2721 1859,2723 1884,2724 1909,2728 1934,2731 1959,2735"/>
+                <TextEquiv>
+                    <Unicode>Diriks</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662470978001_529l21" custom="readingOrder {index:18;}">
+                <Coords points="388,2640 886,2635 1010,2683 1110,2624 1396,2624 1395,2555 1228,2578 1135,2533 1015,2534 797,2568 557,2525 388,2526"/>
+                <Baseline points="399,2622 448,2622 497,2621 546,2619 596,2619 645,2619 694,2619 744,2619 793,2619 842,2619 892,2619 941,2619 990,2619 1039,2619 1089,2618 1138,2618 1187,2618 1237,2616 1286,2615 1335,2614 1385,2612"/>
+                <TextEquiv>
+                    <Unicode>Christiania 23de Jan. 1893.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fru Camilla Collett,
+Naar jeg, samtidig med mine bedste
+Ønsker i Anledning af denne Deres Fødsels-
+dag, sender Dem vedlagte ubetydelige og
+dilletantmæssige Tegning, da skeer det
+under Forudsætning om, at alt hvad der
+maatte hentyde til Deres Ungdoms Veninde,
+min Søster Emilie, vil have Interesse
+for Dem, og gjenkalde Minder om "auld
+lang syne". - Tegningen er laget i
+1839 og fremstiller en Interieur i
+mine Forældres Bolig (i Grændsegaden),
+hvor en upaaregnet tidlig Morgenvisit
+bringer Emilie m. Fl. til at tage Flugten.
+Maaske De vil gjenkjende Emilie i hende
+med de flagrende Kappebaand. -
+Deres forbundne
+Diriks
+Christiania 23de Jan. 1893.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

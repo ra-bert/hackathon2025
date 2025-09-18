@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:01:24.781+02:00</Created>
+        <LastChange>2023-10-18T11:08:44.448+02:00</LastChange>
+        <TranskribusMetadata docId="1026534" pageId="43160807" pageNr="1" tsid="137636297" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=LZQGPOHWKWNMHTWSJPBNFKZW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UIWYIVNHLHMYPYPOJTPTLZQI" imageId="35400523"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_195900_0001.jpg" imageWidth="3859" imageHeight="2104">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770982510" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662375515110_459"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1662375515110_459" custom="readingOrder {index:0;}">
+            <Coords points="291,321 3694,321 3694,1894 291,1894"/>
+            <TextLine id="line_1663678606776_7" custom="readingOrder {index:0;}">
+                <Coords points="836,407 932,344 1227,339 1316,391 1612,302 1953,325 1956,437 1870,473 836,467"/>
+                <Baseline points="836,460 912,459 991,458 1069,456 1148,455 1227,453 1305,451 1384,449 1463,447 1541,444 1620,441 1699,437 1777,433 1856,427 1935,422"/>
+                <TextEquiv>
+                    <Unicode>Fru Camilla Collett</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375515110_459l2" custom="readingOrder {index:1;}">
+                <Coords points="1871,518 1892,517 1912,496 1975,504 2058,486 2099,510 2170,496 2169,438 2123,439 2090,410 2035,391 1998,399 1974,421 1932,405 1899,434 1870,435"/>
+                <Baseline points="1893,477 1918,479 1944,479 1969,479 1995,479 2020,477 2046,477 2071,477 2097,476 2122,476 2148,474"/>
+                <TextEquiv>
+                    <Unicode>Rom.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1679312870646_151" custom="readingOrder {index:2;}">
+                <Coords points="578,521 1251,493 1251,615 526,640"/>
+                <Baseline points="599,575 750,570 901,567 1053,564 1204,563 1251,562"/>
+                <TextEquiv>
+                    <Unicode>Jeg tillader mig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1679312878348_156" custom="readingOrder {index:3;}">
+                <Coords points="1895,466 3467,402 3646,410 3650,533 1895,592"/>
+                <Baseline points="1895,552 1961,551 2112,548 2263,545 2415,541 2566,537 2717,532 2869,527 3020,521 3171,513 3323,505 3474,496 3626,486"/>
+                <TextEquiv>
+                    <Unicode>gjennem hr C. A. Reitzel at sende Dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375515110_459l4" custom="readingOrder {index:4;}">
+                <Coords points="406,709 3480,677 3679,643 3672,523 408,639"/>
+                <Baseline points="425,686 586,682 748,678 910,676 1071,673 1233,671 1395,668 1556,665 1718,662 1880,659 2042,656 2203,653 2365,650 2527,645 2688,642 2850,637 3012,632 3173,626 3335,620 3497,613 3659,605"/>
+                <TextEquiv>
+                    <Unicode>et exemplar af min roman "Til Staten". Ikke alene fin-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375515110_459l5" custom="readingOrder {index:5;}">
+                <Coords points="399,830 2860,811 3612,729 3616,674 409,722"/>
+                <Baseline points="420,800 578,793 737,788 895,783 1054,779 1213,774 1371,770 1530,767 1689,764 1847,761 2006,758 2165,755 2323,752 2482,750 2641,747 2799,744 2958,741 3117,737 3275,734 3434,729 3593,725"/>
+                <TextEquiv>
+                    <Unicode>der jeg det at være min skyldighed at vise en af vore mest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1679312921116_174" custom="readingOrder {index:6;}">
+                <Coords points="444,822 1088,811 1088,931 444,942"/>
+                <Baseline points="444,888 546,887 709,883 872,881 1034,876 1088,875"/>
+                <TextEquiv>
+                    <Unicode>fremragende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1679312927835_179" custom="readingOrder {index:7;}">
+                <Coords points="1661,801 3656,770 3657,865 3367,895 1661,921"/>
+                <Baseline points="1661,865 1685,865 1848,861 2011,860 2173,857 2336,854 2499,851 2661,849 2824,846 2987,845 3149,842 3312,840 3475,839 3638,836"/>
+                <TextEquiv>
+                    <Unicode>forfattere saadan opmærksomhed, men</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1679312956307_196" custom="readingOrder {index:8;}">
+                <Coords points="344,920 2285,886 2285,1000 337,1042"/>
+                <Baseline points="356,1001 521,994 687,988 853,983 1019,978 1185,974 1351,971 1517,968 1683,965 1849,963 2015,962 2180,960 2285,959"/>
+                <TextEquiv>
+                    <Unicode>jeg tillader mig endog at tro, at den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1679312954741_191" custom="readingOrder {index:9;}">
+                <Coords points="2664,880 3493,867 3696,970 2664,992"/>
+                <Baseline points="2664,956 2678,956 2844,954 3010,953 3176,951 3342,950 3508,948 3674,945"/>
+                <TextEquiv>
+                    <Unicode>utrættelige forkjæm-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663678651745_24" custom="readingOrder {index:10;}">
+                <Coords points="411,1053 799,1045 799,1142 412,1148"/>
+                <Baseline points="434,1100 595,1092 757,1087 799,1085"/>
+                <TextEquiv>
+                    <Unicode>perinde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375515110_459l8" custom="readingOrder {index:11;}">
+                <Coords points="1172,1053 1665,1014 2010,1037 2013,991 1879,962 1839,984 1477,973 1428,996 1349,977 1225,1006 1170,982"/>
+                <Baseline points="1193,1043 1233,1040 1273,1037 1313,1035 1353,1033 1393,1031 1433,1028 1473,1025 1513,1023 1553,1020 1593,1019 1633,1017 1673,1016 1713,1016 1753,1016 1793,1016 1833,1016 1873,1017 1913,1019 1953,1022 1994,1025"/>
+                <TextEquiv>
+                    <Unicode>i kvindesagen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663678654920_29" custom="readingOrder {index:12;}">
+                <Coords points="2989,1002 3684,989 3644,1105 2989,1113"/>
+                <Baseline points="2989,1058 3018,1058 3180,1056 3341,1055 3503,1053 3665,1052"/>
+                <TextEquiv>
+                    <Unicode>vil finde ad-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375515110_459l10" custom="readingOrder {index:13;}">
+                <Coords points="404,1221 3408,1205 3632,1174 3630,1062 398,1141"/>
+                <Baseline points="426,1211 585,1203 744,1196 903,1190 1063,1185 1222,1181 1381,1178 1540,1175 1700,1172 1859,1170 2018,1169 2177,1169 2337,1167 2496,1166 2655,1166 2814,1164 2974,1161 3133,1160 3292,1157 3451,1153 3611,1148"/>
+                <TextEquiv>
+                    <Unicode>skilligt i denne bog, der peger i samme retning og derfor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663678670815_48" custom="readingOrder {index:14;}">
+                <Coords points="408,1252 2038,1183 2201,1206 2213,1296 408,1343"/>
+                <Baseline points="420,1311 581,1305 743,1299 905,1293 1067,1289 1229,1284 1391,1280 1552,1276 1714,1272 1876,1270 2038,1268 2200,1265 2205,1264"/>
+                <TextEquiv>
+                    <Unicode>kan være af interesse. Skulde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375515110_459l11" custom="readingOrder {index:15;}">
+                <Coords points="2227,1233 2331,1213 2347,1229 2389,1225 2422,1242 2443,1242 2443,1176 2331,1184 2314,1171 2289,1171 2260,1184 2227,1184"/>
+                <Baseline points="2249,1220 2278,1219 2307,1218 2336,1218 2365,1217 2394,1219 2423,1221"/>
+                <TextEquiv>
+                    <Unicode>bogen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663678669419_42" custom="readingOrder {index:16;}">
+                <Coords points="2478,1174 3634,1197 3677,1284 2478,1314"/>
+                <Baseline points="2478,1262 2524,1262 2685,1260 2847,1259 3009,1257 3171,1257 3333,1256 3495,1256 3657,1254"/>
+                <TextEquiv>
+                    <Unicode>endydermere kunne give </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375515110_459l13" custom="readingOrder {index:17;}">
+                <Coords points="358,1419 3685,1389 3684,1281 357,1339"/>
+                <Baseline points="381,1415 545,1404 709,1395 873,1388 1037,1382 1202,1377 1366,1373 1530,1370 1694,1368 1858,1367 2023,1365 2187,1365 2351,1365 2515,1364 2679,1364 2844,1364 3008,1364 3172,1362 3336,1361 3500,1358 3665,1355"/>
+                <TextEquiv>
+                    <Unicode>impuls til et nyt åndrigt indlæg fra en, som i den seneste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375515110_459l14" custom="readingOrder {index:18;}">
+                <Coords points="389,1518 3636,1494 3624,1392 388,1431"/>
+                <Baseline points="411,1503 570,1496 730,1490 889,1484 1049,1479 1208,1476 1368,1473 1527,1470 1687,1469 1846,1467 2006,1466 2166,1466 2325,1464 2485,1463 2644,1463 2804,1461 2963,1460 3123,1457 3282,1455 3442,1452 3602,1449"/>
+                <TextEquiv>
+                    <Unicode>tid har tiet altfor længe, da vilde jeg naturligvis føle mig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375515110_459l16" custom="readingOrder {index:19;}">
+                <Coords points="392,1659 457,1623 764,1604 973,1650 1154,1594 1239,1641 1336,1619 1327,1515 1225,1504 1009,1495 919,1528 847,1497 791,1541 578,1503 541,1537 495,1518 459,1553 388,1551"/>
+                <Baseline points="411,1611 454,1607 497,1603 541,1600 584,1598 628,1595 671,1593 715,1592 758,1590 802,1589 845,1587 888,1587 932,1586 975,1586 1019,1584 1062,1583 1106,1581 1149,1580 1193,1577 1236,1575 1327,1570"/>
+                <TextEquiv>
+                    <Unicode>dobbelt lykkelig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375515110_459l15" custom="readingOrder {index:20;}">
+                <Coords points="2217,1614 2536,1640 2627,1592 2985,1628 3520,1589 3518,1523 3310,1501 2966,1483 2863,1523 2679,1472 2564,1516 2385,1486 2316,1550 2216,1522"/>
+                <Baseline points="2237,1583 2300,1582 2363,1581 2426,1580 2489,1578 2552,1578 2615,1577 2679,1575 2742,1574 2805,1572 2868,1571 2931,1569 2994,1569 3057,1568 3121,1566 3184,1565 3247,1563 3310,1563 3373,1562 3436,1562 3500,1560"/>
+                <TextEquiv>
+                    <Unicode>Med sand højagtelse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375515110_459l18" custom="readingOrder {index:21;}">
+                <Coords points="2408,1696 2818,1677 3047,1705 3158,1675 3316,1703 3403,1682 3403,1615 3253,1587 3121,1625 3079,1592 2984,1630 2917,1589 2810,1631 2598,1587 2474,1637 2407,1629"/>
+                <Baseline points="2429,1670 2476,1670 2524,1671 2572,1671 2619,1671 2667,1671 2715,1670 2762,1670 2810,1670 2858,1668 2906,1668 2953,1667 3001,1667 3049,1667 3096,1665 3144,1665 3192,1665 3239,1667 3287,1667 3335,1668 3383,1670"/>
+                <TextEquiv>
+                    <Unicode>Deres ærbødig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375515110_459l20" custom="readingOrder {index:22;}">
+                <Coords points="2391,1811 2841,1778 2904,1815 3003,1765 3563,1793 3563,1727 3310,1719 3231,1678 2986,1712 2414,1696"/>
+                <Baseline points="2433,1755 2488,1761 2544,1765 2599,1767 2655,1769 2710,1770 2766,1770 2821,1769 2877,1767 2932,1766 2988,1765 3043,1763 3099,1761 3154,1760 3210,1760 3265,1760 3321,1760 3376,1761 3432,1764 3487,1769 3543,1773"/>
+                <TextEquiv>
+                    <Unicode>Johannes Norman</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375515110_459l22" custom="readingOrder {index:23;}">
+                <Coords points="2126,1887 3620,1881 3617,1776 3576,1772 2892,1790 2124,1766"/>
+                <Baseline points="2147,1851 2219,1851 2292,1850 2364,1848 2437,1848 2509,1848 2582,1848 2654,1847 2727,1847 2799,1847 2872,1847 2944,1847 3017,1847 3089,1845 3162,1845 3234,1845 3307,1845 3379,1845 3452,1844 3524,1844 3597,1844"/>
+                <TextEquiv>
+                    <Unicode>adr. hr C. A. Reitzel Kjøbenhv.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fru Camilla Collett
+Rom.
+Jeg tillader mig
+gjennem hr C. A. Reitzel at sende Dem
+et exemplar af min roman "Til Staten". Ikke alene fin-
+der jeg det at være min skyldighed at vise en af vore mest
+fremragende
+forfattere saadan opmærksomhed, men
+jeg tillader mig endog at tro, at den
+utrættelige forkjæm-
+perinde
+i kvindesagen
+vil finde ad-
+skilligt i denne bog, der peger i samme retning og derfor
+kan være af interesse. Skulde
+bogen
+endydermere kunne give 
+impuls til et nyt åndrigt indlæg fra en, som i den seneste
+tid har tiet altfor længe, da vilde jeg naturligvis føle mig
+dobbelt lykkelig.
+Med sand højagtelse
+Deres ærbødige
+Johanne Norman
+adr. hr C. A. Reitzel Kjøbehn.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

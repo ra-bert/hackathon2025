@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:37:03.211+02:00</Created>
+        <LastChange>2023-10-10T16:02:52.815+02:00</LastChange>
+        <TranskribusMetadata docId="1027178" pageId="43172130" pageNr="1" tsid="136961836" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=BKSCUOVLHPLOHDLGSOVDFXGA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QHHJXOUIEYGRUDIBBXXALBQH" imageId="35411716"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_144017_0001.jpg" imageWidth="3855" imageHeight="4728">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770795475" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1661937682445_534"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1661937682445_534" custom="readingOrder {index:0;}">
+            <Coords points="504,306 3546,306 3546,4573 504,4573"/>
+            <TextLine id="region_1661937682445_534l1" custom="readingOrder {index:0;}">
+                <Coords points="569,510 642,490 698,514 761,486 846,494 869,512 958,503 964,395 933,400 893,377 861,403 804,380 759,404 637,384 575,405"/>
+                <Baseline points="588,464 613,462 638,461 663,461 689,462 714,464 739,465 765,467 790,468 815,471 840,473 866,475 891,476 916,476 942,476"/>
+                <TextEquiv>
+                    <Unicode>1844.2.28</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l2" custom="readingOrder {index:1;}">
+                <Coords points="2100,525 2188,515 2345,608 2580,503 2848,501 3055,593 3243,506 3365,554 3366,414 2730,357 2566,445 2403,366 2100,426"/>
+                <Baseline points="2118,495 2179,497 2241,497 2302,497 2364,497 2425,495 2487,495 2548,495 2610,495 2671,494 2733,494 2794,494 2856,494 2917,494 2979,495 3040,495 3102,497 3163,498 3225,501 3286,504 3348,507"/>
+                <TextEquiv>
+                    <Unicode>Trondhjem 28d. Febr 1844.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l8" custom="readingOrder {index:2;}">
+                <Coords points="786,901 1021,881 1153,976 1446,880 1895,913 1947,761 1500,761 1364,850 1153,755 786,823"/>
+                <Baseline points="804,881 855,881 906,881 957,881 1008,881 1059,881 1110,881 1162,881 1213,879 1264,879 1315,879 1366,879 1417,879 1468,879 1520,879 1571,881 1622,881 1673,881 1724,881 1775,881 1862,882"/>
+                <TextEquiv>
+                    <Unicode>Min gamle Ven!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l9" custom="readingOrder {index:3;}">
+                <Coords points="758,1203 1925,1176 2174,1281 2404,1170 2912,1280 3507,1202 3506,1083 3145,1020 2952,1116 2376,1021 1787,1058 757,1023"/>
+                <Baseline points="774,1184 909,1182 1045,1181 1181,1179 1316,1178 1452,1176 1588,1175 1723,1175 1859,1173 1995,1173 2131,1173 2266,1172 2402,1172 2538,1172 2673,1170 2809,1170 2945,1170 3080,1169 3216,1169 3352,1167 3488,1166"/>
+                <TextEquiv>
+                    <Unicode>Ret meget være De takket for Deres mig kjærkomne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l10" custom="readingOrder {index:4;}">
+                <Coords points="808,1363 1131,1423 1648,1368 2648,1448 3509,1369 3563,1236 1315,1277 1213,1189 808,1298"/>
+                <Baseline points="825,1346 961,1339 1097,1334 1233,1329 1369,1327 1505,1325 1641,1325 1777,1325 1913,1325 2049,1326 2185,1326 2321,1328 2457,1329 2593,1331 2729,1332 2865,1332 3001,1332 3137,1331 3273,1329 3409,1326 3545,1322"/>
+                <TextEquiv>
+                    <Unicode>Skrivelse af 10d. f M og beklager jeg at sammes Be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l11" custom="readingOrder {index:5;}">
+                <Coords points="843,1509 974,1502 1105,1497 1236,1492 1367,1489 1498,1487 1629,1485 1760,1485 1891,1485 2022,1485 2153,1485 2284,1485 2415,1487 2546,1487 2677,1487 2808,1487 2939,1487 3070,1485 3201,1482 3332,1480 3464,1476 3464,1462 3332,1466 3201,1468 3070,1471 2939,1473 2808,1473 2677,1473 2546,1473 2415,1473 2284,1471 2153,1471 2022,1471 1891,1471 1760,1471 1629,1471 1498,1473 1367,1475 1236,1478 1104,1483 973,1488 842,1495"/>
+                <Baseline points="843,1509 974,1502 1105,1497 1236,1492 1367,1489 1498,1487 1629,1485 1760,1485 1891,1485 2022,1485 2153,1485 2284,1485 2415,1487 2546,1487 2677,1487 2808,1487 2939,1487 3070,1485 3201,1482 3332,1480 3464,1476"/>
+                <TextEquiv>
+                    <Unicode>svarelse er bleven udsat saa længe og som fornemmelig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l12" custom="readingOrder {index:6;}">
+                <Coords points="848,1740 1769,1632 2088,1731 2381,1635 2705,1749 3541,1638 3540,1556 3288,1490 2898,1601 2584,1518 1602,1606 1435,1525 847,1614"/>
+                <Baseline points="863,1655 996,1653 1129,1650 1262,1647 1395,1646 1528,1643 1661,1641 1795,1638 1928,1637 2061,1635 2194,1634 2327,1632 2460,1632 2593,1631 2727,1631 2860,1632 2993,1634 3126,1635 3259,1637 3392,1641 3525,1644"/>
+                <TextEquiv>
+                    <Unicode>hidrører fra mit Arbeide paa Thomas Angells Buste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l13" custom="readingOrder {index:7;}">
+                <Coords points="879,1828 1564,1918 2311,1804 3016,1875 3556,1823 3555,1647 3194,1642 2981,1734 2341,1735 2289,1704 1848,1750 1045,1677 879,1756"/>
+                <Baseline points="896,1814 1028,1809 1160,1806 1292,1803 1424,1802 1556,1801 1688,1800 1821,1800 1953,1800 2085,1800 2217,1800 2349,1800 2481,1800 2613,1800 2746,1799 2878,1799 3010,1797 3142,1794 3274,1791 3406,1787 3539,1782"/>
+                <TextEquiv>
+                    <Unicode>der nu er færdig og som senere vil blive udført i Marmor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l14" custom="readingOrder {index:8;}">
+                <Coords points="868,2044 1181,1976 1426,2067 1509,2042 1556,2064 1567,2067 1579,2066 1733,2064 1756,1965 3484,2002 3446,1866 2205,1928 868,1860"/>
+                <Baseline points="885,1959 1014,1961 1143,1962 1272,1962 1401,1962 1530,1962 1659,1962 1789,1962 1918,1962 2047,1962 2176,1961 2305,1961 2434,1961 2563,1959 2693,1959 2822,1959 2951,1959 3080,1961 3209,1961 3338,1962 3468,1964"/>
+                <TextEquiv>
+                    <Unicode>Desforuden har jeg modelleret nogle Smaafigurer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l15" custom="readingOrder {index:9;}">
+                <Coords points="1016,2175 1114,2185 1100,2254 1125,2240 1241,2178 1878,2182 1912,2258 2104,2253 2186,2177 2991,2181 2999,2264 3075,2245 3163,2173 3502,2178 3528,2015 3228,2105 2967,1997 2551,2099 2416,1989 2119,2096 1834,2001 1673,2106 1017,2046"/>
+                <Baseline points="1035,2132 1158,2132 1282,2133 1406,2135 1530,2135 1653,2136 1777,2136 1901,2136 2025,2138 2148,2138 2272,2139 2396,2139 2520,2141 2643,2141 2767,2142 2891,2144 3015,2145 3138,2148 3262,2150 3386,2153 3510,2156"/>
+                <TextEquiv>
+                    <Unicode>Meget forbunden er jeg Dem for de mang inter-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l16" custom="readingOrder {index:10;}">
+                <Coords points="838,2323 1379,2290 1759,2406 2247,2290 2861,2415 3059,2304 3552,2356 3553,2192 2910,2276 2571,2137 2329,2254 2135,2150 1934,2268 1110,2196 839,2245"/>
+                <Baseline points="855,2285 989,2285 1123,2286 1257,2287 1391,2288 1525,2291 1659,2292 1793,2294 1927,2297 2061,2298 2196,2300 2330,2301 2464,2303 2598,2304 2732,2306 2866,2306 3000,2306 3134,2304 3268,2303 3402,2300 3537,2297"/>
+                <TextEquiv>
+                    <Unicode>ressante Beretninger De meddeler mig i Deres Brev</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l17" custom="readingOrder {index:11;}">
+                <Coords points="815,2533 1197,2435 1653,2468 1777,2568 2177,2460 2424,2575 2727,2476 3241,2523 3478,2487 3483,2413 3345,2340 2813,2433 2576,2318 2460,2402 2144,2330 1504,2398 1382,2315 817,2390"/>
+                <Baseline points="834,2454 965,2450 1097,2448 1228,2447 1360,2447 1491,2447 1623,2448 1754,2451 1886,2453 2017,2456 2149,2459 2281,2462 2412,2465 2544,2468 2675,2469 2807,2471 2938,2472 3070,2471 3201,2470 3333,2468 3465,2463"/>
+                <TextEquiv>
+                    <Unicode>og vil det være mig særdeles kjært ved min An-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l18" custom="readingOrder {index:12;}">
+                <Coords points="802,2621 958,2714 1102,2613 2676,2698 3534,2629 3534,2527 3395,2485 3139,2579 2738,2494 2411,2587 2289,2505 1996,2581 1514,2493 803,2546"/>
+                <Baseline points="821,2606 955,2607 1090,2607 1225,2609 1360,2610 1494,2612 1629,2613 1764,2616 1899,2618 2033,2619 2168,2621 2303,2622 2438,2624 2572,2624 2707,2625 2842,2625 2977,2624 3111,2623 3246,2621 3381,2619 3516,2615"/>
+                <TextEquiv>
+                    <Unicode>komst til Christiania at faa en fuldstændig Under-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l19" custom="readingOrder {index:13;}">
+                <Coords points="819,2785 1043,2876 1418,2761 2104,2854 3540,2832 3541,2730 3355,2657 3211,2740 3028,2636 2490,2739 1899,2630 820,2700"/>
+                <Baseline points="837,2757 971,2760 1105,2763 1239,2766 1374,2768 1508,2769 1642,2772 1776,2774 1911,2775 2045,2777 2179,2778 2313,2778 2448,2780 2582,2781 2716,2783 2850,2784 2985,2784 3119,2786 3253,2787 3387,2789 3522,2790"/>
+                <TextEquiv>
+                    <Unicode>retning om Alt det Omskrevne. Saa snart Veiret</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l20" custom="readingOrder {index:14;}">
+                <Coords points="793,2960 1214,3038 1463,2925 1796,2935 2117,2973 2147,3062 2403,3007 2907,3061 3078,2964 3408,3004 3527,2961 3529,2838 794,2858"/>
+                <Baseline points="810,2937 945,2934 1080,2931 1215,2930 1350,2930 1485,2930 1620,2931 1755,2933 1890,2934 2025,2937 2160,2940 2295,2942 2430,2945 2565,2947 2700,2949 2835,2950 2970,2951 3105,2951 3240,2949 3375,2948 3510,2945"/>
+                <TextEquiv>
+                    <Unicode>bliver noget blidere tænker jeg at tage paa Reisen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l21" custom="readingOrder {index:15;}">
+                <Coords points="817,3166 1379,3101 1496,3205 1874,3230 2032,3102 2494,3169 2548,3179 2959,3208 3140,3115 3405,3152 3408,2945 2893,3078 2529,3006 1947,3071 1734,2973 1219,3059 1016,2954 818,3051"/>
+                <Baseline points="834,3105 961,3101 1089,3098 1217,3096 1345,3095 1473,3096 1600,3098 1728,3099 1856,3102 1984,3105 2112,3108 2239,3111 2367,3114 2495,3117 2623,3119 2751,3122 2878,3122 3006,3122 3134,3120 3262,3117 3390,3113"/>
+                <TextEquiv>
+                    <Unicode>da jeg nu er frisk og vel. Jeg skal vist ikke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l22" custom="readingOrder {index:16;}">
+                <Coords points="785,3325 1412,3272 1567,3370 1786,3271 2029,3387 3424,3363 3426,3206 3298,3160 2878,3233 2517,3201 2314,3211 2063,3142 1868,3231 1141,3156 787,3219"/>
+                <Baseline points="803,3260 933,3260 1063,3260 1193,3261 1324,3263 1454,3264 1584,3266 1714,3269 1845,3270 1975,3273 2105,3276 2235,3279 2366,3281 2496,3284 2626,3285 2756,3287 2887,3288 3017,3290 3147,3290 3277,3290 3408,3288"/>
+                <TextEquiv>
+                    <Unicode>forglemme at gjøre Brug af Deres godhedsfulde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l23" custom="readingOrder {index:17;}">
+                <Coords points="826,3426 1187,3417 1275,3469 1466,3421 1617,3531 1859,3487 1958,3529 2122,3436 2466,3423 2398,3365 1892,3362 1777,3275 1562,3371 1427,3284 1286,3357 920,3267 828,3307"/>
+                <Baseline points="842,3407 922,3405 1002,3405 1082,3405 1163,3405 1243,3407 1323,3407 1403,3407 1484,3407 1564,3408 1644,3409 1724,3410 1805,3411 1885,3413 1965,3414 2045,3416 2126,3417 2206,3420 2286,3422 2366,3425 2447,3428"/>
+                <TextEquiv>
+                    <Unicode>Tilbud hvad Logie angaaer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l24" custom="readingOrder {index:18;}">
+                <Coords points="1062,3578 1252,3679 1771,3638 1889,3581 2265,3594 2269,3693 2368,3656 2485,3596 3330,3661 3373,3669 3382,3662 3422,3658 3528,3628 3529,3519 3295,3438 2792,3394 2505,3510 2231,3425 1944,3534 1064,3435"/>
+                <Baseline points="1080,3569 1201,3569 1323,3569 1444,3570 1566,3570 1687,3572 1809,3573 1930,3574 2052,3576 2173,3578 2295,3579 2416,3581 2538,3582 2659,3584 2781,3587 2902,3588 3024,3590 3145,3591 3267,3593 3388,3593 3510,3594"/>
+                <TextEquiv>
+                    <Unicode>De faaer just ikke mange Linier til Svar paa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l25" custom="readingOrder {index:19;}">
+                <Coords points="795,3747 3386,3791 3296,3649 2996,3706 2566,3609 2265,3706 1968,3602 1558,3693 1450,3602 1255,3684 996,3550 798,3583"/>
+                <Baseline points="812,3713 946,3714 1081,3716 1216,3717 1350,3720 1485,3722 1620,3725 1754,3726 1889,3729 2024,3732 2158,3735 2293,3738 2428,3740 2562,3743 2697,3746 2832,3749 2966,3750 3101,3753 3236,3755 3371,3758"/>
+                <TextEquiv>
+                    <Unicode>Deres indholdsrige Brev, men De veed nok fra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l26" custom="readingOrder {index:20;}">
+                <Coords points="818,3965 979,3884 1377,3888 1685,3988 1966,3983 2173,3893 3506,3936 3349,3776 3187,3889 2757,3758 2327,3855 1767,3759 1626,3842 1285,3736 1102,3842 820,3826"/>
+                <Baseline points="837,3884 969,3881 1102,3879 1234,3878 1367,3878 1500,3879 1632,3881 1765,3882 1897,3885 2030,3888 2163,3891 2295,3895 2428,3899 2560,3902 2693,3906 2826,3910 2958,3914 3091,3917 3223,3920 3356,3921 3489,3923"/>
+                <TextEquiv>
+                    <Unicode>gammel Tid at jeg just ingen Force har i Brev-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l27" custom="readingOrder {index:21;}">
+                <Coords points="800,4106 2254,4059 2371,4150 2648,4078 3368,4158 3371,3995 2744,3906 2554,4028 1586,3975 968,3906 803,3974"/>
+                <Baseline points="819,4038 945,4038 1072,4038 1198,4039 1325,4040 1452,4042 1578,4044 1705,4047 1831,4050 1958,4053 2085,4056 2211,4059 2338,4062 2464,4066 2591,4070 2718,4073 2844,4076 2971,4078 3097,4080 3224,4083 3351,4085"/>
+                <TextEquiv>
+                    <Unicode>skrivn. og desuden haaber jeg der ikke skal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l28" custom="readingOrder {index:22;}">
+                <Coords points="806,4266 2157,4212 2675,4339 2838,4230 3494,4247 3497,4074 2995,4199 2881,4108 2638,4182 2171,4063 1604,4157 1209,4159 984,4035 809,4096"/>
+                <Baseline points="824,4185 956,4187 1089,4188 1221,4191 1354,4194 1487,4198 1619,4202 1752,4205 1885,4209 2017,4212 2150,4215 2283,4219 2415,4223 2548,4225 2681,4227 2813,4230 2946,4232 3079,4232 3211,4232 3344,4232 3477,4230"/>
+                <TextEquiv>
+                    <Unicode>hengaa meget lang Tid inden jeg faaer den For-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l29" custom="readingOrder {index:23;}">
+                <Coords points="841,4356 1699,4335 2024,4425 2800,4349 3154,4436 3487,4364 3488,4255 842,4281"/>
+                <Baseline points="860,4343 990,4343 1121,4343 1251,4344 1382,4346 1512,4349 1643,4350 1773,4353 1904,4356 2034,4359 2165,4361 2296,4363 2426,4364 2557,4365 2687,4365 2818,4365 2948,4363 3079,4360 3209,4356 3340,4351 3471,4344"/>
+                <TextEquiv>
+                    <Unicode>nøielse at tale med Dem. Deres hengivne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661937682445_534l30" custom="readingOrder {index:24;}">
+                <Coords points="2388,4580 2643,4607 2746,4574 2854,4613 2940,4570 3117,4565 3184,4597 3280,4564 3282,4425 3210,4407 3142,4436 3061,4378 2975,4427 2779,4350 2643,4389 2541,4347 2479,4404 2391,4399"/>
+                <Baseline points="2405,4493 2447,4489 2490,4486 2533,4483 2576,4481 2619,4479 2662,4478 2705,4476 2748,4476 2791,4476 2834,4477 2876,4478 2919,4479 2962,4481 3005,4483 3048,4485 3091,4488 3134,4491 3177,4495 3220,4499 3263,4502"/>
+                <TextEquiv>
+                    <Unicode>H. Michelsen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1844.2.28
+Trondhjem 28d. Febr 1844.
+Min gamle Ven!
+Ret meget være De takket for Deres mig kjærkomne
+Skrivelse af 10d. f M og beklager jeg at sammes Be-
+svarelse er bleven udsat saa længe og som fornemmelig
+hidrører fra mit Arbeide paa Thomas Angells Buste
+der nu er færdig og som senere vil blive udført i Marmor.
+Desforuden har jeg modelleret nogle Smaafigurer.
+Meget forbunden er jeg Dem for de mang inte-
+ressante Beretninger De meddeler mig i Deres Brev
+og vil det være mig særdeles kjært ved min An-
+komst til Christiania at faa en fuldstændig Under-
+retning om Alt det Omskrevne. Saa snart Veiret
+bliver noget blidere tænker jeg at tage paa Reisen
+da jeg nu er frisk og vel. Jeg skal vist ikke
+forglemme at gjøre Brug af Deres godhedsfulde
+Tilbud hvad Logie angaaer.
+De faaer just ikke mange Linier til Svar paa
+Deres indholdsrige Brev, men De veed nok fra
+gammel Tid at jeg just ingen Forse har i Brev-
+skrivn. og desuden haaber jeg der ikke skal
+hengaa meget lang Tid inden jeg faaer den For-
+nøielse at tale med Dem. Deres hengivne
+H. Michelsen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

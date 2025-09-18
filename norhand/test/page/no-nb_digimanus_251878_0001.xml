@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:12:13.507+02:00</Created>
+        <LastChange>2023-10-18T16:02:15.409+02:00</LastChange>
+        <TranskribusMetadata docId="1027014" pageId="43169623" pageNr="1" tsid="137656376" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=YRUTMFUCNIMBSGSFQJDGQHWF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OXRLJKMXKNPLGASIDVEARGYD" imageId="35409292"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_251878_0001.jpg" imageWidth="4039" imageHeight="4990">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770840775" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662030547907_915"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1662030547907_915" custom="readingOrder {index:0;}">
+            <Coords points="246,309 3732,309 3732,4803 246,4803"/>
+            <TextLine id="region_1662030547907_915l4" custom="readingOrder {index:0;}">
+                <Coords points="541,687 571,690 621,665 677,671 701,654 738,654 765,554 728,558 709,561 672,561 646,563 563,558"/>
+                <Baseline points="566,632 591,634 617,636 643,638 668,641 694,644 720,646"/>
+                <TextEquiv>
+                    <Unicode>Fra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662030547907_915l6" custom="readingOrder {index:1;}">
+                <Coords points="552,877 660,855 686,866 734,822 886,866 915,840 1004,818 1004,714 960,714 934,737 867,722 834,740 786,729 749,744 678,714 552,737"/>
+                <Baseline points="570,804 596,804 622,804 648,804 674,806 700,806 726,806 752,806 778,806 804,806 830,806 856,806 882,806 908,806 934,804 960,803 986,802"/>
+                <TextEquiv>
+                    <Unicode>Overintendant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662030547907_915l7" custom="readingOrder {index:2;}">
+                <Coords points="538,1018 575,1026 638,981 775,1018 904,981 1071,1021 1249,992 1278,984 1278,844 1197,877 1112,844 949,910 841,881 790,907 649,870 538,877"/>
+                <Baseline points="556,968 591,968 626,968 661,968 696,968 732,968 767,968 802,968 837,968 872,968 908,970 943,970 978,970 1013,970 1048,970 1084,968 1119,968 1154,968 1189,967 1224,966 1260,966"/>
+                <TextEquiv>
+                    <Unicode>Kammerherre Holst.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662030547907_915l5" custom="readingOrder {index:3;}">
+                <Coords points="2036,759 2139,717 2328,756 3362,731 3472,700 3471,593 3352,565 3145,627 2963,540 2871,604 2671,573 2453,632 2034,600"/>
+                <Baseline points="2052,704 2122,700 2192,696 2262,694 2332,694 2402,694 2472,694 2542,694 2612,696 2682,696 2752,698 2822,698 2892,698 2962,698 3032,698 3102,695 3172,692 3242,687 3312,680 3382,672 3452,664"/>
+                <TextEquiv>
+                    <Unicode>Christiania den 21 Novbr. 1884</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662030547907_915l8" custom="readingOrder {index:4;}">
+                <Coords points="922,1438 1609,1378 2003,1487 2520,1394 2884,1505 3527,1422 3530,1241 3390,1208 3066,1309 926,1246"/>
+                <Baseline points="944,1350 1072,1354 1200,1358 1328,1362 1456,1365 1585,1369 1713,1372 1841,1376 1969,1380 2097,1383 2226,1386 2354,1388 2482,1392 2610,1394 2738,1396 2866,1398 2995,1400 3123,1400 3251,1400 3379,1400 3508,1400"/>
+                <TextEquiv>
+                    <Unicode>Idet jeg erkjender Modtagelsen af de Oplysninger, De</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662030547907_915l9" custom="readingOrder {index:5;}">
+                <Coords points="596,1588 3217,1712 3577,1640 3580,1496 597,1521"/>
+                <Baseline points="616,1568 763,1572 910,1576 1057,1582 1204,1586 1351,1590 1498,1594 1645,1598 1792,1601 1939,1605 2087,1608 2234,1610 2381,1614 2528,1615 2675,1616 2822,1618 2969,1618 3116,1616 3263,1614 3410,1612 3558,1610"/>
+                <TextEquiv>
+                    <Unicode>har meddelet mig og som jeg i visse Henseender finder fuldt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662030547907_915l10" custom="readingOrder {index:6;}">
+                <Coords points="591,1849 1368,1859 1582,1977 1887,1840 2664,1924 3591,1855 3592,1733 592,1723"/>
+                <Baseline points="610,1800 758,1800 906,1802 1054,1804 1202,1806 1350,1810 1498,1814 1646,1818 1794,1822 1942,1826 2091,1830 2239,1834 2387,1836 2535,1838 2683,1840 2831,1840 2979,1838 3127,1835 3275,1831 3423,1825 3572,1818"/>
+                <TextEquiv>
+                    <Unicode>tilfredsstillende, er der dog et Punkt, hvorom jeg endnu maa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662030547907_915l11" custom="readingOrder {index:7;}">
+                <Coords points="608,2072 2596,2107 2674,2101 2677,1916 2490,1999 2373,1923 1868,1982 1755,1910 1583,1978 1351,1908 1202,1973 1040,1900 876,1979 609,1950"/>
+                <Baseline points="628,2014 729,2018 830,2022 932,2024 1033,2026 1135,2026 1236,2026 1337,2026 1439,2026 1540,2026 1642,2026 1743,2026 1844,2026 1946,2028 2047,2028 2149,2032 2250,2035 2351,2040 2453,2046 2554,2054 2656,2062"/>
+                <TextEquiv>
+                    <Unicode>uleilige Dem med at give mig Besked.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662030547907_915l12" custom="readingOrder {index:8;}">
+                <Coords points="796,2286 3255,2302 3673,2418 3675,2236 3390,2189 797,2182"/>
+                <Baseline points="814,2262 956,2268 1098,2273 1240,2278 1382,2282 1524,2284 1666,2287 1808,2290 1950,2292 2092,2292 2235,2294 2377,2294 2519,2294 2661,2296 2803,2296 2945,2296 3087,2296 3229,2296 3371,2296 3513,2296 3656,2296"/>
+                <TextEquiv>
+                    <Unicode>Over hvilke Emner har Fru Mathilde Schjøtt holdt Foredrag,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662030547907_915l13" custom="readingOrder {index:9;}">
+                <Coords points="600,2615 1294,2517 1756,2608 2731,2547 2941,2619 3561,2527 3562,2418 602,2406"/>
+                <Baseline points="622,2476 768,2482 914,2488 1060,2493 1206,2498 1352,2502 1498,2506 1644,2510 1790,2514 1936,2518 2083,2520 2229,2522 2375,2524 2521,2524 2667,2524 2813,2524 2959,2522 3105,2520 3251,2517 3397,2513 3544,2508"/>
+                <TextEquiv>
+                    <Unicode>og hvorfor har Foreningen forladt det sikkre Standpunkt, den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662030547907_915l14" custom="readingOrder {index:10;}">
+                <Coords points="599,2767 2516,2841 3080,2798 3084,2647 2746,2665 1745,2621 1388,2603 979,2603 601,2674"/>
+                <Baseline points="618,2714 740,2715 862,2717 984,2720 1107,2722 1229,2726 1351,2730 1474,2734 1596,2738 1718,2742 1841,2746 1963,2750 2085,2754 2207,2756 2330,2758 2452,2760 2574,2762 2697,2762 2819,2762 2941,2760 3064,2758"/>
+                <TextEquiv>
+                    <Unicode>som "allene" "Læsecirkel" "for Qvinder", indehavde?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662030547907_915l15" custom="readingOrder {index:11;}">
+                <Coords points="2192,3036 2295,3062 2373,3032 2484,3077 2621,3048 2773,3108 2962,3056 3010,3093 3088,3075 3088,2927 2954,2895 2770,2904 2681,2959 2585,2940 2503,2973 2281,2906 2192,2932"/>
+                <Baseline points="2212,3014 2254,3016 2297,3018 2340,3018 2383,3020 2426,3020 2468,3020 2511,3020 2554,3020 2597,3020 2640,3018 2682,3018 2725,3018 2768,3018 2811,3018 2854,3018 2896,3018 2939,3018 2982,3020 3025,3022 3068,3024"/>
+                <TextEquiv>
+                    <Unicode>Deres ærbødigste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662030547907_915l16" custom="readingOrder {index:12;}">
+                <Coords points="2849,3263 2979,3266 3026,3440 3410,3422 3507,3400 3575,3316 3643,3142 3568,2951 3403,2931 3327,2962 3229,2939 3086,3078 2913,3156 2846,3156"/>
+                <Baseline points="2870,3230 2904,3232 2939,3234 2974,3234 3008,3233 3043,3231 3078,3229 3112,3228 3147,3224 3182,3221 3217,3217 3251,3216 3286,3211 3321,3208 3355,3205 3390,3202 3425,3201 3459,3200 3494,3200 3529,3200 3564,3200"/>
+                <TextEquiv>
+                    <Unicode>Chr Holst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662030547907_915l17" custom="readingOrder {index:13;}">
+                <Coords points="503,4286 625,4267 738,4330 876,4237 1099,4274 1264,4220 1401,4312 1562,4248 1618,4268 1612,4083 1552,4070 1118,4166 997,4096 868,4118 769,4040 597,4090 496,4071"/>
+                <Baseline points="520,4232 573,4230 627,4230 681,4230 735,4230 789,4230 843,4230 897,4230 951,4230 1005,4228 1059,4228 1112,4226 1166,4224 1220,4222 1274,4220 1328,4215 1382,4211 1436,4208 1490,4201 1544,4196 1598,4188"/>
+                <TextEquiv>
+                    <Unicode>Fru Johanne Vogt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662030547907_915l18" custom="readingOrder {index:14;}">
+                <Coords points="682,4541 734,4539 785,4486 919,4516 963,4482 1088,4472 1211,4472 1419,4527 1415,4342 1301,4374 1241,4327 1171,4351 1115,4330 959,4345 888,4306 782,4383 679,4393"/>
+                <Baseline points="698,4462 733,4459 768,4456 803,4453 838,4451 873,4450 908,4449 943,4448 978,4446 1013,4446 1049,4446 1084,4445 1119,4444 1154,4444 1189,4444 1224,4444 1259,4444 1294,4442 1329,4442 1364,4442 1400,4440"/>
+                <TextEquiv>
+                    <Unicode>født Collett</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fra
+Overintendant
+Kammerherre Holst.
+Christiania den 21 Novbr. 1884
+Idet jeg erkjender Modtagelsen af de Oplysninger, De
+har meddelet mig og som jeg i visse Henseender finder fuldt
+tilfredsstillende, er der dog et Punkt, hvorom jeg endnu maa
+uleilige Dem med at give mig Besked.
+Over hvilke Emner har Fru Mathilde Schjøtt holdt Foredrag,
+og hvorfor har Foreningen forladt det sikkre Standpunkt, den
+som "allene" "Læsecirkel" "for Qvinder", indehavde?
+Deres ærbødigste
+Chr Holst
+Fru Johanne Vogt
+født Collett</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

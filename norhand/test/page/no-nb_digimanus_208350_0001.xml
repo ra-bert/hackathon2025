@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:02:12.434+02:00</Created>
+        <LastChange>2023-10-19T16:15:50.922+02:00</LastChange>
+        <TranskribusMetadata docId="1026541" pageId="43160820" pageNr="1" tsid="137709238" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=VJVOGPAKFWJQXRSODIKHGEYN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MJETFKBZKTZBREFSEJHTKHNT" imageId="35400536"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_208350_0001.jpg" imageWidth="2686" imageHeight="3860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770981760" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662375472743_452"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1662375472743_452" custom="readingOrder {index:0;}">
+            <Coords points="367,333 2482,333 2482,3600 367,3600"/>
+            <TextLine id="line_1663665805972_361" custom="readingOrder {index:0;}">
+                <Coords points="744,816 934,760 1826,823 1962,837 1962,976 1777,985 962,978 830,965 742,948"/>
+                <Baseline points="755,915 784,915 814,914 843,914 873,914 902,912 932,912 961,912 991,912 1020,912 1050,914 1080,914 1109,914 1139,914 1168,915 1198,915 1227,917 1257,917 1286,918 1316,920 1346,921 1484,905 1509,907 1535,911 1561,913 1587,916 1613,918 1639,918 1665,919 1691,920 1717,920 1742,920 1768,918 1794,917 1820,917 1846,915 1872,914 1898,912 1924,910 1950,908"/>
+                <TextEquiv>
+                    <Unicode>Kristiania, 3./11. 1889</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375472743_452l6" custom="readingOrder {index:1;}">
+                <Coords points="632,1323 924,1394 1037,1345 1134,1402 1296,1321 2102,1358 2389,1297 2426,1177 2252,1240 1528,1077 1164,1268 1073,1217 951,1217 632,1219"/>
+                <Baseline points="644,1313 730,1311 817,1311 904,1310 990,1310 1077,1311 1164,1311 1250,1313 1337,1313 1424,1314 1511,1314 1597,1316 1684,1316 1771,1316 1857,1314 1944,1314 2031,1311 2117,1310 2204,1306 2291,1302 2378,1296"/>
+                <TextEquiv>
+                    <Unicode>Herr filol. Ivar Aasen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375472743_452l7" custom="readingOrder {index:2;}">
+                <Coords points="774,1745 1104,1795 1185,1700 1587,1773 1682,1720 2433,1701 2385,1632 1943,1632 1853,1610 1690,1624 1493,1602 1421,1657 1171,1644 1008,1535 774,1542"/>
+                <Baseline points="785,1694 866,1694 948,1695 1030,1696 1112,1697 1194,1698 1275,1698 1357,1700 1439,1701 1521,1701 1603,1703 1684,1703 1766,1703 1848,1703 1930,1703 2012,1703 2093,1701 2175,1700 2257,1698 2339,1697 2421,1694"/>
+                <TextEquiv>
+                    <Unicode>Da jeg har fornøjelsen at kende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375472743_452l8" custom="readingOrder {index:3;}">
+                <Coords points="618,1845 1374,1891 1771,1835 2042,1924 2173,1841 2469,1840 2469,1787 1535,1748 618,1785"/>
+                <Baseline points="630,1833 721,1832 812,1832 904,1830 995,1830 1086,1830 1178,1830 1269,1830 1360,1830 1452,1830 1543,1830 1634,1830 1726,1830 1817,1830 1908,1830 2000,1830 2091,1829 2182,1828 2274,1827 2365,1825 2457,1823"/>
+                <TextEquiv>
+                    <Unicode>deres nordsk-danske ordbog, som</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375472743_452l9" custom="readingOrder {index:4;}">
+                <Coords points="611,1981 1609,1987 1755,2036 1884,1969 2368,1974 2381,1911 2027,1927 1838,1872 611,1928"/>
+                <Baseline points="623,1967 710,1965 797,1962 884,1961 972,1959 1059,1959 1146,1958 1234,1958 1321,1958 1408,1958 1496,1959 1583,1959 1670,1959 1757,1959 1845,1959 1932,1959 2019,1958 2107,1958 2194,1956 2281,1955 2369,1952"/>
+                <TextEquiv>
+                    <Unicode>er særdeles interessant for enhver</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375472743_452l10" custom="readingOrder {index:5;}">
+                <Coords points="612,2117 2041,2112 2261,2179 2397,2132 2395,2019 621,2022"/>
+                <Baseline points="624,2093 712,2093 800,2091 888,2091 976,2090 1064,2090 1152,2090 1240,2090 1328,2090 1416,2090 1504,2090 1592,2090 1680,2088 1768,2088 1856,2087 1944,2086 2032,2085 2120,2082 2208,2081 2296,2078 2385,2075"/>
+                <TextEquiv>
+                    <Unicode>Islænder, da det islandske sprog</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375472743_452l11" custom="readingOrder {index:6;}">
+                <Coords points="646,2262 1318,2227 1457,2298 1572,2235 1845,2229 2104,2277 2455,2220 2462,2134 654,2145"/>
+                <Baseline points="654,2216 743,2216 832,2217 922,2217 1011,2217 1101,2217 1190,2217 1279,2217 1369,2217 1458,2217 1548,2217 1637,2217 1726,2217 1816,2216 1905,2216 1995,2214 2084,2213 2173,2212 2263,2210 2352,2208 2442,2207"/>
+                <TextEquiv>
+                    <Unicode>er jo at betragte som et afkom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375472743_452l12" custom="readingOrder {index:7;}">
+                <Coords points="629,2421 938,2379 1192,2373 1276,2420 1428,2355 1817,2414 2048,2356 2463,2369 2469,2258 1679,2290 1373,2253 1255,2282 631,2293"/>
+                <Baseline points="641,2351 731,2349 821,2348 912,2346 1002,2345 1092,2345 1183,2345 1273,2345 1363,2345 1454,2346 1544,2346 1634,2346 1725,2348 1815,2348 1905,2348 1996,2348 2086,2346 2176,2345 2267,2343 2357,2342 2448,2339"/>
+                <TextEquiv>
+                    <Unicode>af samme (ɔ: oldnorsk), understår</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375472743_452l13" custom="readingOrder {index:8;}">
+                <Coords points="607,2531 674,2566 821,2494 946,2567 1077,2497 1954,2525 2476,2488 2476,2414 612,2409"/>
+                <Baseline points="617,2486 709,2484 801,2481 894,2480 986,2479 1079,2478 1171,2477 1263,2477 1356,2477 1448,2475 1541,2475 1633,2475 1725,2475 1818,2476 1910,2477 2003,2477 2095,2477 2187,2477 2280,2477 2372,2477 2465,2475"/>
+                <TextEquiv>
+                    <Unicode>jeg mig ærbødigst her ved, at oversende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375472743_452l14" custom="readingOrder {index:9;}">
+                <Coords points="620,2635 1032,2629 1269,2675 1389,2610 1512,2668 1634,2610 2048,2611 2154,2671 2272,2606 2480,2651 2480,2559 2242,2499 2183,2511 1478,2531 1278,2509 621,2560"/>
+                <Baseline points="632,2609 723,2607 815,2606 907,2604 999,2603 1091,2603 1182,2603 1274,2603 1366,2603 1458,2603 1550,2603 1641,2603 1733,2603 1825,2603 1917,2603 2009,2603 2100,2603 2192,2603 2284,2601 2376,2600 2468,2598"/>
+                <TextEquiv>
+                    <Unicode>dem det 1. hæfte af min islandsk-franske</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375472743_452l15" custom="readingOrder {index:10;}">
+                <Coords points="647,2748 769,2755 860,2834 964,2769 1165,2833 1431,2734 1516,2778 2387,2742 2399,2635 2173,2674 2076,2616 1981,2697 1818,2657 839,2637 647,2706"/>
+                <Baseline points="659,2738 745,2735 831,2732 918,2729 1004,2728 1091,2727 1177,2727 1263,2727 1350,2729 1436,2729 1523,2730 1609,2732 1695,2732 1782,2733 1868,2733 1955,2733 2041,2733 2127,2732 2214,2730 2300,2729 2387,2724"/>
+                <TextEquiv>
+                    <Unicode>ordbog, tillige med mit: "Svar" til</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375472743_452l16" custom="readingOrder {index:11;}">
+                <Coords points="639,2868 974,2944 1291,2972 2261,2881 2261,2793 2185,2787 1856,2785 1620,2775 1140,2809 935,2780 849,2843 752,2752 639,2796"/>
+                <Baseline points="650,2868 734,2867 818,2865 902,2864 986,2864 1070,2862 1154,2862 1239,2862 1323,2861 1407,2861 1491,2861 1575,2861 1659,2861 1744,2862 1828,2862 1912,2862 1996,2864 2080,2865 2164,2867 2249,2867"/>
+                <TextEquiv>
+                    <Unicode>Geir Zoëga angående samme.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375472743_452l17" custom="readingOrder {index:12;}">
+                <Coords points="1193,3127 1244,3145 1341,3133 1364,3156 1457,3128 1515,3186 1586,3132 1734,3130 1734,3019 1624,3051 1490,3043 1467,2987 1318,2986 1244,3030 1193,3030"/>
+                <Baseline points="1206,3119 1231,3119 1257,3119 1283,3119 1309,3119 1335,3119 1360,3119 1386,3119 1412,3119 1438,3119 1464,3119 1489,3119 1515,3118 1541,3117 1567,3117 1593,3117 1618,3117 1644,3117 1670,3117 1696,3119 1722,3119"/>
+                <TextEquiv>
+                    <Unicode>Ærbødigst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375472743_452l18" custom="readingOrder {index:13;}">
+                <Coords points="1277,3276 1449,3348 1598,3251 1681,3287 1815,3248 2111,3281 2208,3245 2207,3148 1839,3169 1677,3130 1518,3188 1450,3128 1276,3198"/>
+                <Baseline points="1287,3255 1332,3254 1377,3254 1423,3252 1468,3251 1514,3249 1559,3248 1605,3246 1650,3245 1696,3243 1741,3242 1786,3241 1832,3240 1877,3240 1923,3240 1968,3240 2014,3240 2059,3242 2105,3245 2150,3246 2196,3249"/>
+                <TextEquiv>
+                    <Unicode>Páll Þorkelsson</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375472743_452l19" custom="readingOrder {index:14;}">
+                <Coords points="1444,3419 1648,3375 2065,3403 2104,3390 2102,3298 1825,3327 1779,3300 1740,3322 1677,3289 1597,3330 1533,3278 1442,3343"/>
+                <Baseline points="1454,3371 1487,3369 1521,3368 1554,3367 1588,3366 1622,3365 1655,3364 1689,3363 1723,3362 1756,3362 1790,3360 1823,3360 1857,3359 1891,3359 1924,3359 1958,3357 1992,3357 2025,3357 2059,3356 2093,3356"/>
+                <TextEquiv>
+                    <Unicode>(en Islænder)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375472743_452l20" custom="readingOrder {index:15;}">
+                <Coords points="446,3488 1416,3483 1931,3518 1932,3414 1834,3397 1081,3414 982,3360 903,3424 547,3385 447,3426"/>
+                <Baseline points="458,3473 529,3470 601,3467 673,3464 744,3462 816,3462 888,3461 959,3461 1031,3461 1103,3461 1175,3462 1246,3462 1318,3464 1390,3467 1461,3468 1533,3471 1605,3473 1676,3476 1748,3480 1820,3483 1920,3486"/>
+                <TextEquiv>
+                    <Unicode>Boende i: Pilestrædet No 3. III.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662375472743_452l21" custom="readingOrder {index:16;}">
+                <Coords points="1641,3622 1741,3635 1803,3622 1856,3639 1976,3616 2097,3649 2164,3641 2161,3539 2087,3541 2033,3496 1995,3527 1955,3505 1881,3525 1728,3497 1638,3523"/>
+                <Baseline points="1652,3572 1678,3575 1704,3578 1730,3579 1756,3581 1783,3581 1809,3581 1835,3581 1861,3581 1887,3579 1914,3578 1940,3576 1966,3576 1992,3575 2018,3572 2045,3571 2071,3569 2097,3567 2123,3566 2150,3566"/>
+                <TextEquiv>
+                    <Unicode>Christ...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kristiania, 3./11. 1889
+Herr filol. Ivar Aasen!
+Da jeg har fornøjelsen at kende
+deres nordsk-danske ordbog, som
+er særdeles interessant for enhver
+Islænder, da det islandske sprog
+er jo at betragte som et afkom
+af samme (ɔ: oldnorsk), understår
+jeg mig ærbødigst her ved, at oversende
+dem det 1. hæfte af min islandsk-franske
+ordbog, tillige med mit: "Svar" til
+Geir Zoëga angående samme.
+Ærbødigst
+Páll Þorkelsson
+(en Islænder)
+Boende i: Pilestrædet No 3. III.
+Christ...</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

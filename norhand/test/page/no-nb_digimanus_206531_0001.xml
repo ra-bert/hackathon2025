@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:48:44.676+02:00</Created>
+        <LastChange>2023-10-23T15:18:09.657+02:00</LastChange>
+        <TranskribusMetadata docId="1026840" pageId="43164237" pageNr="1" tsid="137907391" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=ORXMESASFZFZVBKEZWIBQYUP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KYYHCIQOJOZSDDOLTFHVMBRU" imageId="35403940"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_206531_0001.jpg" imageWidth="3965" imageHeight="4922">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770893152" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662369463465_114"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1662369463465_114" custom="readingOrder {index:0;}">
+            <Coords points="323,315 3805,315 3805,4679 323,4679"/>
+            <TextLine id="region_1662369463465_114l2" custom="readingOrder {index:0;}">
+                <Coords points="1877,610 2790,670 3464,650 3620,703 3623,525 3563,507 3326,583 2901,514 2632,537 2273,496 2112,464 1879,496"/>
+                <Baseline points="1894,602 1979,604 2065,606 2150,608 2236,610 2322,612 2407,614 2493,616 2578,618 2664,620 2750,622 2835,625 2921,626 3006,628 3092,630 3178,631 3263,632 3349,634 3434,634 3520,634 3606,634"/>
+                <TextEquiv>
+                    <Unicode>Kristiania, 7 Oktober 1884.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l5" custom="readingOrder {index:1;}">
+                <Coords points="1391,1122 3011,1139 3012,988 2870,1061 2306,1020 2143,1043 1651,949 1392,1001"/>
+                <Baseline points="1408,1102 1487,1104 1566,1104 1646,1106 1725,1106 1805,1108 1884,1108 1963,1110 2043,1112 2122,1112 2202,1113 2281,1114 2360,1114 2440,1114 2519,1116 2599,1115 2678,1114 2757,1114 2837,1112 2916,1111 2996,1108"/>
+                <TextEquiv>
+                    <Unicode>Herr Universitetsstipendiat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l6" custom="readingOrder {index:2;}">
+                <Coords points="2118,1360 2834,1339 2998,1397 3203,1351 3204,1264 2969,1299 2771,1194 2589,1300 2475,1275 2371,1191 2256,1264 2118,1283"/>
+                <Baseline points="2136,1326 2188,1328 2241,1331 2293,1333 2346,1336 2399,1336 2451,1338 2504,1340 2556,1340 2609,1341 2662,1342 2714,1342 2767,1342 2819,1342 2872,1341 2925,1340 2977,1340 3030,1338 3082,1337 3135,1336 3188,1334"/>
+                <TextEquiv>
+                    <Unicode>Ivar Aasen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l7" custom="readingOrder {index:3;}">
+                <Coords points="1505,1809 3727,1781 3731,1646 2407,1663 1896,1736 1650,1620 1499,1689"/>
+                <Baseline points="1518,1766 1627,1766 1737,1765 1846,1764 1956,1764 2065,1762 2175,1760 2284,1758 2394,1757 2503,1756 2613,1754 2722,1752 2832,1752 2941,1750 3051,1750 3160,1748 3270,1748 3379,1748 3489,1748 3598,1748 3708,1750"/>
+                <TextEquiv>
+                    <Unicode>En af vore Forf., der beskriver en Scene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l8" custom="readingOrder {index:4;}">
+                <Coords points="1034,1970 1858,1929 3639,1942 3695,1844 2135,1791 1033,1883"/>
+                <Baseline points="1050,1920 1181,1912 1313,1906 1444,1901 1576,1896 1707,1892 1839,1888 1970,1885 2102,1882 2233,1881 2365,1880 2496,1880 2628,1878 2759,1879 2891,1880 3022,1880 3154,1882 3285,1884 3417,1886 3548,1888 3680,1890"/>
+                <TextEquiv>
+                    <Unicode>paa Kongsberg Marked for en Del Aar tilbage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l9" custom="readingOrder {index:5;}">
+                <Coords points="1058,2088 3700,2060 3699,1972 3503,1942 1057,2000"/>
+                <Baseline points="1076,2060 1206,2056 1336,2052 1467,2046 1597,2042 1728,2038 1858,2034 1988,2030 2119,2026 2249,2022 2380,2020 2510,2018 2640,2016 2771,2014 2901,2014 3032,2014 3162,2016 3292,2016 3423,2020 3553,2022 3684,2026"/>
+                <TextEquiv>
+                    <Unicode>har spurgt mig hvad der er korrektest at lade</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l10" custom="readingOrder {index:6;}">
+                <Coords points="1065,2252 2892,2183 3140,2221 3715,2185 3737,2059 1065,2124"/>
+                <Baseline points="1082,2198 1214,2192 1346,2185 1478,2179 1610,2175 1742,2170 1874,2166 2006,2164 2138,2162 2270,2159 2402,2158 2534,2156 2666,2154 2798,2154 2930,2154 3062,2153 3194,2152 3326,2152 3458,2152 3590,2152 3722,2152"/>
+                <TextEquiv>
+                    <Unicode>en Hallingdøl (der bliver indtaget i en Pige paa Mar-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l11" custom="readingOrder {index:7;}">
+                <Coords points="1071,2374 2524,2299 3315,2354 3745,2328 3777,2220 2761,2191 1073,2260"/>
+                <Baseline points="1084,2322 1217,2314 1351,2305 1485,2299 1619,2292 1753,2288 1886,2284 2020,2280 2154,2278 2288,2276 2422,2274 2555,2274 2689,2274 2823,2274 2957,2274 3091,2274 3224,2276 3358,2276 3492,2276 3626,2278 3760,2278"/>
+                <TextEquiv>
+                    <Unicode>kedet) sige enten ret og slet: "Vil Du væra Jenta mi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l12" custom="readingOrder {index:8;}">
+                <Coords points="1038,2486 3360,2475 3636,2453 3631,2341 3354,2346 2191,2358 1964,2311 1037,2385"/>
+                <Baseline points="1054,2448 1182,2442 1310,2437 1438,2432 1566,2428 1695,2424 1823,2422 1951,2420 2079,2418 2207,2416 2336,2416 2464,2416 2592,2416 2720,2416 2848,2416 2976,2418 3105,2418 3233,2420 3361,2420 3489,2422 3618,2422"/>
+                <TextEquiv>
+                    <Unicode>Du?" - eller bruge en anden Udtryksmaade, f. Ex.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l13" custom="readingOrder {index:9;}">
+                <Coords points="1444,2597 3036,2623 3515,2581 3517,2463 3274,2469 1429,2487"/>
+                <Baseline points="1446,2570 1548,2568 1651,2568 1754,2566 1856,2566 1959,2564 2062,2564 2164,2562 2267,2560 2370,2560 2473,2558 2575,2558 2678,2556 2781,2556 2883,2556 2986,2556 3089,2556 3191,2557 3294,2558 3397,2560 3500,2562"/>
+                <TextEquiv>
+                    <Unicode>Hev Du Hug til at væra Jenta mi' Du?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l14" custom="readingOrder {index:10;}">
+                <Coords points="1473,2752 2004,2772 2088,2766 2589,2737 2807,2779 3404,2738 3406,2651 1473,2634"/>
+                <Baseline points="1490,2714 1564,2712 1639,2712 1713,2712 1788,2710 1863,2710 1937,2708 2012,2708 2086,2706 2161,2704 2236,2704 2310,2702 2385,2702 2459,2700 2534,2700 2609,2698 2683,2698 2758,2698 2832,2698 2907,2698 3383,2710"/>
+                <TextEquiv>
+                    <Unicode>Er Du hugen paa at være osv.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l15" custom="readingOrder {index:11;}">
+                <Coords points="1460,2953 3758,2915 3719,2798 3449,2791 3072,2814 1463,2791"/>
+                <Baseline points="1480,2896 1593,2892 1706,2888 1819,2886 1932,2884 2046,2882 2159,2880 2272,2880 2385,2878 2498,2878 2612,2878 2725,2878 2838,2878 2951,2876 3064,2876 3178,2876 3291,2874 3404,2874 3517,2872 3630,2870 3744,2868"/>
+                <TextEquiv>
+                    <Unicode>Da jeg ikke tør indlade mig paa at afgjøre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l16" custom="readingOrder {index:12;}">
+                <Coords points="1085,3056 3804,3077 3773,2935 1101,2939"/>
+                <Baseline points="1100,3014 1234,3012 1368,3012 1503,3012 1637,3010 1772,3010 1906,3010 2040,3010 2175,3010 2309,3010 2444,3010 2578,3010 2712,3010 2847,3010 2981,3012 3116,3012 3250,3012 3384,3012 3519,3012 3653,3012 3788,3014"/>
+                <TextEquiv>
+                    <Unicode>dette Spørgsmaal, tillader jeg mig i Ærbødighed at hen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l17" custom="readingOrder {index:13;}">
+                <Coords points="1106,3187 3785,3175 3784,3067 1106,3086"/>
+                <Baseline points="1122,3158 1254,3154 1386,3149 1518,3146 1651,3142 1783,3140 1915,3137 2048,3135 2180,3134 2312,3132 2445,3132 2577,3130 2709,3130 2841,3130 2974,3130 3106,3130 3238,3130 3371,3131 3503,3132 3635,3132 3768,3132"/>
+                <TextEquiv>
+                    <Unicode>vende mig til den bedste Autoritet paa dette Felt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l18" custom="readingOrder {index:14;}">
+                <Coords points="1096,3321 3793,3329 3785,3213 1096,3234"/>
+                <Baseline points="1112,3300 1244,3296 1377,3293 1510,3289 1643,3286 1776,3282 1908,3280 2041,3277 2174,3274 2307,3272 2440,3270 2572,3270 2705,3268 2838,3266 2971,3266 3104,3266 3236,3266 3369,3266 3502,3266 3635,3267 3768,3268"/>
+                <TextEquiv>
+                    <Unicode>Hr Aasen, med venlig Anmodning om godhedsfuld</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l19" custom="readingOrder {index:15;}">
+                <Coords points="1100,3454 1530,3448 1663,3502 2417,3399 2748,3497 2931,3409 2952,3319 2317,3349 2160,3324 2042,3333 1098,3348"/>
+                <Baseline points="1116,3440 1206,3436 1296,3432 1386,3428 1476,3424 1566,3421 1656,3418 1746,3414 1836,3412 1926,3410 2016,3408 2106,3406 2196,3404 2286,3402 2376,3402 2466,3402 2556,3402 2646,3402 2736,3402 2826,3403 2916,3404"/>
+                <TextEquiv>
+                    <Unicode>at lade mig høre Deres Mening.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l20" custom="readingOrder {index:16;}">
+                <Coords points="2075,3643 2915,3624 2994,3643 3340,3600 3576,3648 3784,3613 3790,3502 3370,3500 3078,3455 2728,3540 2523,3483 2396,3555 2258,3488 2073,3542"/>
+                <Baseline points="2090,3588 2173,3587 2257,3586 2341,3586 2425,3586 2509,3584 2592,3584 2676,3584 2760,3582 2844,3582 2928,3582 3011,3582 3095,3580 3179,3580 3263,3580 3347,3580 3430,3581 3514,3582 3598,3582 3682,3583 3766,3584"/>
+                <TextEquiv>
+                    <Unicode>Med Høiagtelse og Forbindtlighed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l21" custom="readingOrder {index:17;}">
+                <Coords points="2651,3751 2731,3786 2839,3750 2856,3768 2910,3751 2973,3789 3014,3773 3060,3791 3135,3755 3222,3759 3223,3685 3196,3681 3102,3686 3055,3668 2907,3683 2854,3677 2794,3671 2739,3672 2652,3687"/>
+                <Baseline points="2668,3734 2694,3736 2721,3736 2748,3736 2775,3738 2802,3738 2828,3738 2855,3738 2882,3738 2909,3738 2936,3738 2962,3738 2989,3738 3016,3738 3043,3739 3070,3740 3096,3740 3123,3742 3150,3742 3177,3744 3204,3746"/>
+                <TextEquiv>
+                    <Unicode>ærbødigst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l22" custom="readingOrder {index:18;}">
+                <Coords points="2213,3901 2625,3956 2987,3926 3635,3933 3637,3862 3409,3819 3210,3851 2983,3787 2217,3770"/>
+                <Baseline points="2230,3848 2299,3859 2368,3867 2438,3874 2507,3878 2577,3881 2646,3883 2715,3884 2785,3884 2854,3882 2924,3882 2993,3882 3062,3880 3132,3881 3201,3882 3271,3884 3340,3888 3409,3893 3479,3901 3548,3909 3618,3922"/>
+                <TextEquiv>
+                    <Unicode>G. Kr. Johs. Parmann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662369463465_114l23" custom="readingOrder {index:19;}">
+                <Coords points="2331,4050 2507,4034 2833,4044 2886,4059 2987,4042 3148,4048 3475,4034 3452,3970 2333,3950"/>
+                <Baseline points="2348,4000 2403,4003 2459,4004 2514,4006 2570,4008 2625,4008 2681,4010 2736,4010 2792,4010 2847,4012 2903,4012 2958,4014 3014,4014 3069,4015 3125,4016 3180,4018 3236,4020 3291,4022 3347,4024 3402,4026 3458,4028"/>
+                <TextEquiv>
+                    <Unicode>(Eier af Mallings Boghandel.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kristiania, 7 Oktober 1884.
+Herr Universitetsstipendiat
+Ivar Aasen.
+En af vore Forf., der beskriver en Scene
+paa Kongsberg Marked for en Del Aar tilbage
+har spurgt mig hvad der er korrektest at lade
+en Hallingdøl (der bliver indtaget i en Pige paa Mar-
+kedet) sige enten ret og slet: "Vil Du væra Jenta mi,
+Du?" - eller bruge en anden Udtryksmaade, f. Ex.
+Hev Du Hug til at væra Jenta mi' Du?
+Er Du hugen paa at være osv.
+Da jeg ikke tør indlade mig paa at afgjøre
+dette Spørgsmaal, tillader jeg mig i Ærbødighed at hen-
+vende mig til den bedste Autoritet paa dette Felt,
+Hr Aasen, med venlig Anmodning om godhedsfuld
+at lade mig høre Deres Mening.
+Med Høiagtelse og Forbindtlighed
+ærbødigst
+G. Kr. Johs. Parmann
+(Eier af Mallings Boghandel.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

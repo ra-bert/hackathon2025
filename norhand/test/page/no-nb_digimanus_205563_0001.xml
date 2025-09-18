@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:27:03.544+02:00</Created>
+        <LastChange>2023-10-10T14:05:20.873+02:00</LastChange>
+        <TranskribusMetadata docId="1027139" pageId="43171820" pageNr="1" tsid="136947329" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=WHUCLNZEIYLFGSDETTFKIHIC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VBHFUMUWQELPIQRWUUGGUXJK" imageId="35411416"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_205563_0001.jpg" imageWidth="8041" imageHeight="5505">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770810325" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1661938507829_655"/>
+                <RegionRefIndexed index="1" regionRef="region_1661938515270_658"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="region_1661938507829_655" custom="readingOrder {index:0;}">
+            <Coords points="1701,4119 2793,4119 2793,1564 1701,1564"/>
+            <TextLine id="line_1661938608333_667" custom="readingOrder {index:0;}">
+                <Coords points="2185,3827 2200,3590 2154,3420 2202,3141 2147,2824 2156,2666 2127,2605 1981,2607 1889,2880 2075,3188 2044,3521 1738,3388 1850,3740 2041,3829"/>
+                <Baseline points="2160,3820 2138,2612"/>
+                <TextEquiv>
+                    <Unicode>Ivar Aasen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1661938613571_672" custom="readingOrder {index:1;}">
+                <Coords points="2400,2787 2384,2430 2490,2246 2393,2092 2384,1688 2350,1689 2268,1891 2302,1928 2300,2129 2227,2224 2212,2280 2186,2319 2193,2510 2165,2652 2348,2788"/>
+                <Baseline points="2422,2779 2407,1695"/>
+                <TextEquiv>
+                    <Unicode>Theatergaden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1661938618876_677" custom="readingOrder {index:2;}">
+                <Coords points="2663,2431 2702,2204 2659,2150 2652,2053 2679,1928 2677,1724 2594,1723 2609,1854 2486,2039 2511,2074 2465,2176 2510,2242 2539,2429"/>
+                <Baseline points="2662,2423 2669,1731"/>
+                <TextEquiv>
+                    <Unicode>Kristiania.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ivar Aasen.
+Theatergaden.
+Kristiania.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1661938515270_658" custom="readingOrder {index:1;}">
+            <Coords points="4110,320 7866,320 7866,4934 4110,4934"/>
+            <TextLine id="line_1662537152908_5" custom="readingOrder {index:0;}">
+                <Coords points="4415,319 5991,236 6710,282 6714,580 5753,710 4841,709 4426,649"/>
+                <Baseline points="4442,590 4502,588 4563,588 4624,586 4685,584 4746,582 4806,580 4867,578 4928,576 4989,572 5050,570 5110,567 5171,565 5232,563 5293,561 5354,558 5414,556 5475,556 5536,554 5597,554 5658,554 5772,572 5818,568 5864,564 5910,562 5956,561 6002,558 6048,558 6094,557 6140,556 6186,556 6233,556 6279,556 6325,556 6371,556 6417,556 6463,556 6509,556 6555,556 6601,556 6647,554 6694,552"/>
+                <TextEquiv>
+                    <Unicode>Neergaard Nils J. Gunerus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938515270_658l1" custom="readingOrder {index:1;}">
+                <Coords points="7423,609 7499,579 7557,610 7748,586 7724,292 7673,300 7644,283 7614,305 7578,297 7560,310 7526,285 7469,310 7398,308"/>
+                <Baseline points="7434,518 7460,516 7486,512 7512,509 7538,506 7564,502 7591,499 7617,497 7643,496 7669,496 7695,496 7722,498"/>
+                <TextEquiv>
+                    <Unicode>1875</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938515270_658l4" custom="readingOrder {index:2;}">
+                <Coords points="4621,1054 4876,1055 5045,1000 5167,1068 5347,1104 5501,1073 5638,1120 5911,1021 5964,841 5811,921 5517,763 5337,845 5023,722 4622,771"/>
+                <Baseline points="4640,998 4700,1001 4761,1004 4822,1006 4883,1007 4944,1009 5004,1010 5065,1010 5126,1012 5187,1012 5248,1012 5308,1012 5369,1012 5430,1012 5491,1011 5552,1010 5612,1010 5673,1008 5734,1008 5795,1006 5897,1007"/>
+                <TextEquiv>
+                    <Unicode>Ivar Aasen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938515270_658l5" custom="readingOrder {index:3;}">
+                <Coords points="4722,1397 5080,1373 5402,1515 5822,1393 6097,1539 6521,1378 7553,1387 7553,1218 7314,1296 6627,1174 6254,1296 5916,1205 5578,1272 5186,1071 4723,1244"/>
+                <Baseline points="4742,1356 4881,1361 5021,1364 5160,1368 5300,1370 5439,1372 5579,1374 5718,1374 5858,1376 5997,1376 6137,1374 6276,1374 6416,1374 6555,1372 6695,1372 6834,1370 6974,1368 7113,1368 7253,1366 7392,1366 7532,1364"/>
+                <TextEquiv>
+                    <Unicode>Kort og godt - jeg beder om et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938515270_658l6" custom="readingOrder {index:4;}">
+                <Coords points="4654,1637 7147,1666 7606,1628 7611,1507 6653,1405 6268,1565 5534,1452 5086,1560 4863,1402 4654,1511"/>
+                <Baseline points="4674,1592 4819,1592 4965,1592 5111,1594 5257,1596 5403,1598 5549,1600 5695,1600 5841,1602 5987,1604 6133,1606 6278,1608 6424,1608 6570,1608 6716,1608 6862,1608 7008,1606 7154,1604 7300,1602 7446,1598 7592,1594"/>
+                <TextEquiv>
+                    <Unicode>laan - 5 spdlr. - Man kan snu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938515270_658l7" custom="readingOrder {index:5;}">
+                <Coords points="4642,1952 4964,1871 5710,1943 5974,1859 6610,1858 7418,1945 7814,1887 7819,1713 7265,1663 7045,1777 6809,1683 5883,1774 5659,1676 5012,1679 4642,1637"/>
+                <Baseline points="4660,1842 4817,1842 4974,1840 5131,1838 5288,1838 5445,1838 5602,1836 5759,1836 5916,1836 6073,1836 6230,1836 6387,1836 6544,1836 6701,1836 6858,1836 7015,1836 7172,1836 7329,1838 7486,1838 7643,1838 7800,1840"/>
+                <TextEquiv>
+                    <Unicode>sig, saa skarpt man vil, i samfundet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938515270_658l8" custom="readingOrder {index:6;}">
+                <Coords points="4620,2107 5236,2105 5367,2209 5805,2080 7152,2059 7338,2166 7655,2110 7653,1969 7196,1889 7025,1994 6515,2018 6360,1926 6252,2014 6018,1884 5655,2016 4618,2012"/>
+                <Baseline points="4638,2100 4787,2096 4937,2093 5087,2090 5237,2087 5387,2084 5536,2080 5686,2078 5836,2074 5986,2072 6136,2068 6285,2066 6435,2064 6585,2062 6735,2060 6885,2058 7034,2057 7184,2056 7334,2056 7484,2056 7634,2056"/>
+                <TextEquiv>
+                    <Unicode>der er dog en tid, da man trænger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938515270_658l9" custom="readingOrder {index:7;}">
+                <Coords points="4691,2409 5157,2341 5324,2437 5555,2329 6057,2319 6497,2399 7031,2320 7595,2338 7610,2206 6578,2130 6129,2233 5765,2114 5462,2249 5079,2186 4689,2299"/>
+                <Baseline points="4708,2364 4850,2354 4993,2345 5136,2338 5279,2331 5422,2324 5565,2320 5708,2316 5851,2312 5994,2310 6137,2308 6279,2306 6422,2304 6565,2304 6708,2304 6851,2302 6994,2302 7137,2302 7280,2302 7423,2300 7566,2300"/>
+                <TextEquiv>
+                    <Unicode>andre og har vanskeligheder med</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938515270_658l10" custom="readingOrder {index:8;}">
+                <Coords points="4665,2657 4901,2594 5105,2715 5321,2570 5451,2687 5885,2588 6299,2568 6574,2724 6782,2567 7812,2589 7818,2494 6369,2391 4670,2414"/>
+                <Baseline points="4686,2566 4841,2564 4997,2562 5153,2560 5308,2560 5464,2558 5620,2558 5775,2556 5931,2556 6087,2556 6243,2556 6398,2556 6554,2556 6710,2556 6865,2556 7021,2556 7177,2556 7332,2556 7488,2558 7644,2558 7800,2558"/>
+                <TextEquiv>
+                    <Unicode>"ret og skjel". - Den skjønsomhed, som</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938515270_658l11" custom="readingOrder {index:9;}">
+                <Coords points="4664,2856 4990,2917 5575,2838 5795,2918 6473,2795 6886,2878 7078,2802 7608,2817 7647,2687 4662,2652"/>
+                <Baseline points="4684,2818 4831,2811 4978,2807 5125,2802 5272,2800 5419,2798 5566,2796 5713,2796 5860,2796 6007,2796 6155,2796 6302,2796 6449,2796 6596,2796 6743,2796 6890,2794 7037,2792 7184,2790 7331,2786 7478,2782 7626,2776"/>
+                <TextEquiv>
+                    <Unicode>her fordres, søger jeg ialfald ikke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938515270_658l12" custom="readingOrder {index:10;}">
+                <Coords points="4660,3204 4820,3146 4888,3203 4958,3194 5132,3073 5666,3121 5671,3016 5582,2965 5405,2969 5347,3009 5200,2938 5016,2973 4877,2874 4746,2978 4655,2976"/>
+                <Baseline points="4676,3096 4720,3091 4764,3087 4809,3084 4853,3080 4898,3079 4942,3075 4986,3072 5031,3071 5075,3068 5120,3068 5164,3066 5208,3066 5253,3066 5297,3066 5342,3067 5386,3068 5430,3071 5475,3073 5519,3077 5658,3085"/>
+                <TextEquiv>
+                    <Unicode>forgjæves. -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938515270_658l13" custom="readingOrder {index:11;}">
+                <Coords points="5033,3338 7260,3427 7837,3355 7836,3182 7432,3148 6781,3170 6556,3138 6051,3172 5630,3246 5284,3070 5033,3204"/>
+                <Baseline points="5052,3320 5190,3326 5328,3332 5466,3335 5604,3338 5743,3340 5881,3342 6019,3342 6157,3342 6295,3342 6434,3342 6572,3340 6710,3338 6848,3337 6986,3335 7125,3332 7263,3330 7401,3328 7539,3327 7677,3326 7816,3324"/>
+                <TextEquiv>
+                    <Unicode>Restaurationen i Kong Karl, 18 april 1875.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938515270_658l14" custom="readingOrder {index:12;}">
+                <Coords points="7003,3530 7112,3579 7168,3544 7262,3569 7325,3539 7411,3548 7458,3592 7524,3585 7568,3551 7654,3556 7656,3434 7448,3459 7402,3415 7331,3398 7260,3428 7202,3376 7150,3426 7004,3483"/>
+                <Baseline points="7024,3518 7054,3521 7085,3523 7115,3524 7146,3524 7177,3526 7207,3526 7238,3526 7268,3527 7299,3528 7330,3528 7360,3528 7391,3528 7421,3528 7452,3528 7483,3528 7513,3529 7544,3530 7574,3530 7605,3532 7636,3534"/>
+                <TextEquiv>
+                    <Unicode>Ærbødigst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938515270_658l15" custom="readingOrder {index:13;}">
+                <Coords points="7137,3732 7232,3723 7290,3747 7456,3715 7506,3764 7557,3737 7651,3751 7691,3716 7750,3733 7793,3722 7796,3608 7724,3631 7682,3594 7650,3613 7537,3595 7473,3621 7431,3597 7362,3651 7320,3562 7140,3611"/>
+                <Baseline points="7158,3704 7188,3704 7219,3702 7250,3702 7280,3702 7311,3702 7342,3702 7372,3703 7403,3704 7434,3705 7465,3707 7495,3708 7526,3709 7557,3710 7587,3711 7618,3712 7649,3712 7679,3712 7710,3712 7741,3711 7772,3710"/>
+                <TextEquiv>
+                    <Unicode>G. Neergaard</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938515270_658l16" custom="readingOrder {index:14;}">
+                <Coords points="7347,3819 7390,3821 7451,3793 7496,3824 7517,3813 7532,3830 7637,3840 7729,3814 7735,3716 7696,3710 7655,3735 7605,3716 7549,3729 7531,3708 7499,3725 7354,3709"/>
+                <Baseline points="7368,3782 7394,3782 7420,3785 7447,3786 7473,3788 7500,3788 7526,3789 7553,3791 7579,3793 7606,3794 7632,3796 7659,3798 7685,3802 7712,3804"/>
+                <TextEquiv>
+                    <Unicode>student.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938515270_658l19" custom="readingOrder {index:15;}">
+                <Coords points="4519,4350 4609,4358 4676,4323 4790,4347 4900,4311 5084,4394 5198,4371 5359,4438 5360,4174 4947,4166 4818,4233 4723,4194 4657,4241 4519,4252"/>
+                <Baseline points="4540,4316 4580,4318 4620,4318 4660,4320 4700,4320 4740,4320 4780,4320 4820,4320 4860,4320 4900,4320 4940,4318 4980,4318 5020,4318 5060,4318 5100,4318 5140,4318 5180,4318 5220,4319 5260,4320 5300,4321 5340,4322"/>
+                <TextEquiv>
+                    <Unicode>stud 1874</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938515270_658l21" custom="readingOrder {index:16;}">
+                <Coords points="4726,4700 4941,4599 5116,4653 5430,4554 5522,4589 5744,4550 5893,4609 5962,4586 5952,4390 5869,4375 5751,4459 5497,4488 5312,4411 5059,4452 4930,4395 4807,4445 4712,4426"/>
+                <Baseline points="4742,4610 4802,4606 4862,4602 4922,4597 4982,4593 5042,4588 5102,4582 5162,4577 5222,4574 5282,4569 5342,4565 5402,4563 5462,4560 5522,4556 5582,4554 5642,4554 5702,4552 5762,4552 5822,4553 5882,4555 5942,4558"/>
+                <TextEquiv>
+                    <Unicode>for til Amerika</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Neergaard Nils J. Gunerus
+1875.
+Ivar Aasen!
+Kort og godt - jeg beder om et
+laan - 5 spdlr. - Man kan snu
+sig, saa skarpt man vil, i samfundet,
+der er dog en tid, da man trænger
+andre og har vanskeligheder med
+"ret og skjel". - Den skjønsomhed, som
+her fordres, søger jeg ialfald ikke
+forgjæves. -
+Restaurationen i Kong Karl, 18 april 1875.
+Ærbødigst
+G. Neergaard
+student.
+stud 1874
+for til Amerika</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

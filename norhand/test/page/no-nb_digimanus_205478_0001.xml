@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:13:05.260+02:00</Created>
+        <LastChange>2023-10-25T16:07:01.832+02:00</LastChange>
+        <TranskribusMetadata docId="1027023" pageId="43169743" pageNr="1" tsid="138047017" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=CROWZOPRQKYVOFORQHUYUMSY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZTHQOVKMEHKSUXTTCQOHOHHG" imageId="35409406"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_205478_0001.jpg" imageWidth="3858" imageHeight="5403">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770839190" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1661945397923_869"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1661945397923_869" custom="readingOrder {index:0;}">
+            <Coords points="312,139 3416,139 3416,4970 312,4970"/>
+            <TextLine id="region_1661945397923_869l1" custom="readingOrder {index:0;}">
+                <Coords points="1220,301 1324,300 1386,338 1469,317 1521,362 1698,287 1839,368 2004,334 1998,184 1891,192 1836,144 1752,215 1641,196 1529,235 1304,151 1215,168"/>
+                <Baseline points="1238,286 1275,286 1312,284 1350,284 1387,283 1425,281 1462,279 1499,278 1537,276 1574,274 1612,272 1649,270 1686,268 1724,266 1761,265 1799,263 1836,262 1873,260 1911,259 1948,258 1986,258"/>
+                <TextEquiv>
+                    <Unicode>Klingenberg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l2" custom="readingOrder {index:1;}">
+                <Coords points="512,408 545,405 588,423 612,401 659,399 669,406 689,396 709,397 711,334 678,333 662,319 648,328 632,321 611,327 582,299 515,317"/>
+                <Baseline points="530,388 557,386 584,387 611,388 638,390 665,391 692,390"/>
+                <TextEquiv>
+                    <Unicode>Fra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l6" custom="readingOrder {index:2;}">
+                <Coords points="517,546 1212,548 1213,441 1032,420 885,469 852,435 798,465 768,434 651,413 604,443 578,419 518,425"/>
+                <Baseline points="534,520 567,521 600,522 633,522 666,522 699,522 732,524 765,524 798,524 831,524 864,524 897,524 930,524 963,524 996,524 1029,524 1062,526 1095,526 1128,526 1161,527 1194,528"/>
+                <TextEquiv>
+                    <Unicode>Toldkassereren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l7" custom="readingOrder {index:3;}">
+                <Coords points="399,723 683,694 1174,729 1227,692 1314,706 1314,619 1271,602 680,614 399,553"/>
+                <Baseline points="416,660 460,657 504,656 548,656 592,654 636,654 680,654 724,654 768,654 812,656 856,656 900,656 944,657 988,658 1032,658 1076,658 1120,658 1164,658 1208,658 1252,658 1296,656"/>
+                <TextEquiv>
+                    <Unicode>ved Drammens Toldsted</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l9" custom="readingOrder {index:4;}">
+                <Coords points="784,864 844,867 855,857 871,868 895,862 915,843 932,843 936,730 873,734 862,744 856,737 846,740 826,722 806,735 789,734"/>
+                <Baseline points="802,820 830,819 859,821 887,823 916,822"/>
+                <TextEquiv>
+                    <Unicode>No.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1662627163501_151" custom="readingOrder {index:5;}">
+                <Coords points="1788,435 2646,341 3330,360 3376,362 3367,585 1788,528"/>
+                <Baseline points="1804,490 1865,492 1927,492 1989,492 2051,492 2113,492 2175,492 2237,490 2299,490 2361,489 2423,488 2484,488 2546,488 2608,488 2670,488 2732,488 2794,488 2856,490 2918,490 2980,493 3042,494 3130,496 3158,498 3186,498 3214,500 3242,500 3270,503 3298,504 3326,504 3354,504"/>
+                <TextEquiv>
+                    <Unicode>DRAMMEN den 23de Oktober 1879</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l12" custom="readingOrder {index:6;}">
+                <Coords points="913,1127 1251,1149 1391,1080 2280,1104 2281,940 2081,949 1978,881 1874,937 1337,802 915,863"/>
+                <Baseline points="932,1046 998,1048 1065,1050 1131,1051 1198,1052 1265,1054 1331,1056 1398,1056 1464,1058 1531,1058 1598,1060 1664,1060 1731,1060 1797,1061 1864,1060 1930,1060 1997,1060 2064,1060 2130,1058 2197,1056 2264,1054"/>
+                <TextEquiv>
+                    <Unicode>Hr. Ivar Aasen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l13" custom="readingOrder {index:7;}">
+                <Coords points="959,1390 3324,1379 3322,1196 3054,1163 2588,1283 1998,1171 1713,1316 956,1189"/>
+                <Baseline points="976,1358 1092,1360 1209,1362 1325,1364 1442,1364 1559,1362 1675,1360 1792,1358 1908,1356 2025,1352 2142,1350 2258,1346 2375,1342 2491,1340 2608,1338 2725,1336 2841,1336 2958,1336 3074,1338 3191,1340 3308,1344"/>
+                <TextEquiv>
+                    <Unicode>En Mand i Fredriksstad skal døbe et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l14" custom="readingOrder {index:8;}">
+                <Coords points="658,1603 1893,1563 2219,1648 2331,1563 2916,1547 3148,1657 3308,1614 3268,1451 2739,1399 2200,1505 1959,1509 1804,1391 656,1506"/>
+                <Baseline points="674,1560 804,1562 935,1564 1066,1564 1196,1564 1327,1562 1458,1560 1588,1558 1719,1556 1850,1553 1981,1550 2111,1546 2242,1544 2373,1540 2503,1538 2634,1536 2765,1534 2895,1532 3026,1530 3157,1530 3288,1530"/>
+                <TextEquiv>
+                    <Unicode>nytt Skib, en Skonnert, og har bedet mig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l15" custom="readingOrder {index:9;}">
+                <Coords points="672,1780 1217,1774 1324,1853 1644,1732 1809,1854 2025,1761 3235,1808 3345,1793 3343,1609 2297,1668 1201,1577 975,1720 671,1723"/>
+                <Baseline points="688,1756 820,1756 952,1756 1084,1756 1216,1754 1348,1754 1480,1752 1612,1750 1744,1750 1876,1748 2008,1746 2140,1744 2272,1742 2404,1740 2536,1739 2668,1738 2800,1736 2932,1734 3064,1732 3196,1730 3328,1728"/>
+                <TextEquiv>
+                    <Unicode>om Forslag til et godt norsk Navn, der ud-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l16" custom="readingOrder {index:10;}">
+                <Coords points="668,2048 897,1975 3003,2012 3330,1951 3328,1811 2365,1765 1794,1884 1557,1831 1164,1842 665,1840"/>
+                <Baseline points="682,1950 813,1954 945,1955 1076,1956 1208,1956 1340,1956 1471,1956 1603,1954 1734,1953 1866,1952 1998,1948 2129,1946 2261,1944 2392,1942 2524,1940 2656,1937 2787,1936 2919,1934 3050,1932 3182,1932 3314,1930"/>
+                <TextEquiv>
+                    <Unicode>trykker "Udholdenhed, Ihærdighed, Seighed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l17" custom="readingOrder {index:11;}">
+                <Coords points="654,2225 718,2250 797,2191 984,2177 1172,2237 1408,2171 1947,2193 2007,2181 2003,2014 1536,2048 1218,2012 926,2122 651,2094"/>
+                <Baseline points="670,2160 736,2156 802,2156 868,2154 934,2154 1000,2154 1066,2156 1132,2156 1198,2156 1264,2158 1330,2158 1396,2158 1462,2156 1528,2154 1594,2152 1660,2150 1726,2145 1792,2138 1858,2130 1924,2121 1990,2110"/>
+                <TextEquiv>
+                    <Unicode>ogsaa Uforfærdethed."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l18" custom="readingOrder {index:12;}">
+                <Coords points="906,2396 1912,2365 2254,2434 3312,2342 3310,2245 3137,2291 2845,2208 2756,2280 2427,2188 1982,2174 1864,2276 1423,2264 904,2246"/>
+                <Baseline points="924,2354 1042,2354 1161,2356 1279,2356 1398,2354 1517,2354 1635,2352 1754,2352 1872,2350 1991,2348 2110,2346 2228,2344 2347,2340 2465,2338 2584,2336 2703,2334 2821,2332 2940,2330 3058,2328 3177,2328 3296,2328"/>
+                <TextEquiv>
+                    <Unicode>Da jeg ikke er Manden for at finde et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l19" custom="readingOrder {index:13;}">
+                <Coords points="664,2583 2462,2615 3354,2566 3353,2449 2169,2394 663,2516"/>
+                <Baseline points="680,2554 812,2554 945,2554 1078,2553 1211,2552 1344,2552 1477,2550 1610,2549 1743,2548 1876,2546 2009,2544 2141,2544 2274,2542 2407,2540 2540,2538 2673,2538 2806,2536 2939,2534 3072,2532 3205,2531 3338,2530"/>
+                <TextEquiv>
+                    <Unicode>saadant "godt" Navn, haaber jeg De undskylder,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l20" custom="readingOrder {index:14;}">
+                <Coords points="672,2782 931,2846 1591,2761 1833,2875 1982,2759 3369,2745 3367,2648 2949,2580 2653,2684 2404,2593 1840,2645 1208,2618 671,2692"/>
+                <Baseline points="688,2754 821,2752 954,2750 1087,2748 1220,2748 1353,2746 1486,2744 1619,2744 1752,2742 1885,2741 2019,2740 2152,2738 2285,2736 2418,2735 2551,2733 2684,2732 2817,2728 2950,2726 3083,2724 3216,2721 3350,2718"/>
+                <TextEquiv>
+                    <Unicode>at jeg henvender mig til dem med Bøn om</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l21" custom="readingOrder {index:15;}">
+                <Coords points="686,2971 1669,3034 2975,2943 3190,3013 3386,2947 3384,2800 685,2881"/>
+                <Baseline points="704,2954 837,2954 970,2952 1103,2949 1236,2948 1370,2944 1503,2942 1636,2940 1769,2938 1902,2934 2036,2932 2169,2930 2302,2928 2435,2927 2568,2926 2701,2924 2835,2924 2968,2922 3101,2922 3234,2922 3368,2924"/>
+                <TextEquiv>
+                    <Unicode>at komme mig og derved min Ven til Hjælp</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l22" custom="readingOrder {index:16;}">
+                <Coords points="691,3238 911,3165 1643,3231 1739,3157 3397,3160 3395,3030 2604,3045 2312,2997 690,3104"/>
+                <Baseline points="708,3148 841,3148 975,3148 1108,3146 1242,3146 1376,3144 1509,3142 1643,3142 1776,3140 1910,3138 2044,3136 2177,3134 2311,3132 2444,3131 2578,3130 2712,3128 2845,3128 2979,3126 3112,3126 3246,3126 3380,3128"/>
+                <TextEquiv>
+                    <Unicode>og derhos bidrage til at faa et godt norsk Ord</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l23" custom="readingOrder {index:17;}">
+                <Coords points="684,3374 1008,3407 1192,3364 1362,3394 1419,3364 1660,3367 1686,3263 1569,3243 1449,3307 1275,3310 1028,3210 918,3230 798,3314 684,3307"/>
+                <Baseline points="702,3348 750,3348 798,3346 846,3346 895,3346 943,3346 991,3345 1040,3344 1088,3344 1136,3345 1185,3346 1233,3346 1281,3346 1329,3346 1378,3346 1426,3346 1474,3346 1523,3346 1571,3346 1619,3346 1668,3344"/>
+                <TextEquiv>
+                    <Unicode>i Folkemunde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l24" custom="readingOrder {index:18;}">
+                <Coords points="943,3625 3415,3546 3414,3382 3340,3369 2829,3370 2643,3492 2269,3484 2098,3389 1450,3494 1192,3362 942,3408"/>
+                <Baseline points="958,3542 1080,3542 1202,3540 1324,3540 1446,3538 1568,3538 1690,3537 1812,3536 1934,3535 2056,3534 2179,3532 2301,3532 2423,3532 2545,3530 2667,3530 2789,3528 2911,3528 3033,3526 3155,3526 3277,3524 3400,3524"/>
+                <TextEquiv>
+                    <Unicode>Jeg bemærker, at Vedkommende har et Far-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l25" custom="readingOrder {index:19;}">
+                <Coords points="702,3771 1878,3751 2073,3825 2269,3749 3318,3751 3317,3637 2986,3611 2816,3633 2097,3621 1876,3580 1658,3607 1322,3583 1029,3684 701,3644"/>
+                <Baseline points="720,3756 849,3752 978,3746 1107,3744 1236,3740 1365,3738 1494,3735 1623,3734 1752,3732 1881,3731 2011,3730 2140,3730 2269,3728 2398,3728 2527,3728 2656,3726 2785,3726 2914,3724 3043,3722 3172,3720 3302,3718"/>
+                <TextEquiv>
+                    <Unicode>tøi, ved Navn "Voni" og ikke ønsker Navnet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l26" custom="readingOrder {index:20;}">
+                <Coords points="703,3977 3089,3965 3109,3841 2838,3845 2717,3811 1872,3859 1524,3841 1339,3837 832,3769 702,3824"/>
+                <Baseline points="718,3944 835,3946 953,3946 1071,3946 1188,3946 1306,3944 1424,3944 1541,3943 1659,3942 1777,3940 1895,3938 2012,3938 2130,3936 2248,3934 2365,3934 2483,3932 2601,3932 2718,3932 2836,3932 2954,3932 3072,3932"/>
+                <TextEquiv>
+                    <Unicode>"Starkad". Der ønskes "et godt klangfuldt Praienavn"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l27" custom="readingOrder {index:21;}">
+                <Coords points="920,4169 3019,4205 3379,4139 3378,3939 3106,4041 2737,4055 2620,4003 1651,4095 1467,4015 919,4028"/>
+                <Baseline points="936,4136 1057,4136 1178,4136 1300,4136 1421,4136 1543,4136 1664,4135 1785,4134 1907,4132 2028,4132 2150,4130 2271,4128 2392,4128 2514,4127 2635,4126 2757,4126 2878,4126 2999,4126 3121,4128 3242,4128 3364,4130"/>
+                <TextEquiv>
+                    <Unicode>Forventende med det snareste Deres gunstige Svar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l28" custom="readingOrder {index:22;}">
+                <Coords points="1811,4374 2202,4357 2356,4407 2469,4350 2643,4356 2713,4406 2944,4353 3114,4372 3114,4192 2887,4189 2706,4269 2616,4199 2402,4186 2235,4283 1811,4287"/>
+                <Baseline points="1826,4330 1889,4330 1953,4328 2016,4328 2080,4328 2143,4326 2207,4326 2270,4326 2334,4327 2397,4328 2461,4328 2524,4328 2588,4328 2651,4328 2715,4328 2778,4328 2842,4328 2905,4328 2969,4326 3032,4325 3096,4324"/>
+                <TextEquiv>
+                    <Unicode>med sand Høiagtelse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l30" custom="readingOrder {index:23;}">
+                <Coords points="2022,4590 2242,4587 2443,4538 2553,4571 2704,4552 2750,4589 2897,4579 2898,4465 2813,4416 2644,4430 2513,4461 2446,4488 2390,4454 2246,4467 2166,4400 2116,4427 2022,4393"/>
+                <Baseline points="2038,4532 2080,4532 2122,4534 2164,4534 2206,4534 2249,4534 2291,4534 2333,4534 2375,4534 2417,4534 2460,4534 2502,4532 2544,4532 2586,4532 2628,4532 2671,4532 2713,4534 2755,4534 2797,4536 2839,4538 2882,4540"/>
+                <TextEquiv>
+                    <Unicode>Deres ærbødige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l31" custom="readingOrder {index:24;}">
+                <Coords points="1968,4830 2576,4801 2697,4903 2787,4862 2951,4890 3091,4861 3089,4721 2922,4720 2739,4585 2630,4610 2451,4536 2233,4666 1966,4730"/>
+                <Baseline points="1984,4800 2038,4800 2092,4797 2147,4794 2201,4792 2256,4789 2310,4786 2364,4784 2419,4782 2473,4780 2528,4778 2582,4776 2636,4776 2691,4776 2745,4776 2800,4777 2854,4779 2908,4782 2963,4785 3017,4789 3072,4794"/>
+                <TextEquiv>
+                    <Unicode>J. B. Klingenberg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661945397923_869l29" custom="readingOrder {index:25;}">
+                <Coords points="704,4484 774,4495 784,4489 803,4506 820,4493 844,4504 864,4491 897,4488 901,4331 881,4334 864,4324 837,4336 811,4329 787,4335 741,4311 707,4313"/>
+                <Baseline points="722,4432 748,4432 775,4432 802,4432 828,4433 855,4434 882,4436"/>
+                <TextEquiv>
+                    <Unicode>Til</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Klingenberg
+Fra
+Toldkassereren
+ved Drammens Toldsted
+No.
+DRAMMEN den 23de Oktober 1879
+Hr. Ivar Aasen!
+En Mand i Fredriksstad skal døbe et
+nytt skib, en Skonnert, og har bedet mig
+om Forslag til et godt norsk Navn, der ud-
+trykker "Udholdenhed, Ihærdighed, Seighed
+ogsaa Uforfærdethed."
+Da jeg ikke er Manden for at finde et
+saadant "godt" Navn, haaber jeg De undskylder,
+at jeg henvender mig til dem med Bøn om
+at komme mig og derved min Ven til Hjælp
+og derhos bidrage til at faa et godt norsk Ord
+i Folkemunde.
+Jeg bemærker, at Vedkommende har et Far-
+tøi, ved Navn "Voni" og ikke ønsker Navnet
+"Starkad". Der ønskes "et godt klangfuldt Praienavn"
+Forventende med det snareste Deres gunstige Svar
+med sand Høiagtelse
+Deres ærbødige
+J. B. Klingenberg
+Til</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

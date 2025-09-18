@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:52:28.246+02:00</Created>
+        <LastChange>2023-10-19T16:06:06.055+02:00</LastChange>
+        <TranskribusMetadata docId="1026863" pageId="43165706" pageNr="1" tsid="137708750" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=NJDZPBUVWQMDMKBSSGXHSNUW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LJIOWCAPRTHJNEKGZMWSVIXS" imageId="35405409"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_293878_0001.jpg" imageWidth="4486" imageHeight="3539">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770886719" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662368555082_93"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1662368555082_93" custom="readingOrder {index:0;}">
+            <Coords points="149,141 2228,141 2228,2854 149,2854"/>
+            <TextLine id="region_1662368555082_93l1" custom="readingOrder {index:0;}">
+                <Coords points="293,401 743,380 863,415 935,385 1171,386 1171,296 575,321 472,285 378,311 293,290"/>
+                <Baseline points="303,368 345,368 388,368 431,368 474,368 517,368 560,368 603,368 646,368 689,368 732,367 774,366 817,366 860,366 903,366 946,365 989,365 1032,365 1075,365 1118,365 1161,365"/>
+                <TextEquiv>
+                    <Unicode>Det danske meteorologiske Institut.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662368555082_93l2" custom="readingOrder {index:1;}">
+                <Coords points="589,469 683,469 700,484 717,469 741,467 794,477 814,467 857,471 857,422 827,435 805,424 717,428 655,413 645,424 610,413 589,418"/>
+                <Baseline points="600,458 627,458 654,458 682,458 709,458 736,458 764,458 791,458 818,458 846,458"/>
+                <TextEquiv>
+                    <Unicode>Bestyreren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662368555082_93l4" custom="readingOrder {index:2;}">
+                <Coords points="296,598 791,623 1151,596 1204,624 1320,593 1320,535 923,505 859,555 782,519 714,553 450,559 343,514 296,545"/>
+                <Baseline points="306,588 356,590 406,590 456,591 506,591 557,591 607,591 657,591 707,591 757,591 808,591 858,591 908,590 958,590 1008,590 1059,588 1109,588 1159,587 1209,586 1259,585 1310,584"/>
+                <TextEquiv>
+                    <Unicode>Kjøbenhavn, den 20 Oktober 1900.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662368555082_93l3" custom="readingOrder {index:3;}">
+                <Coords points="1918,480 1948,476 1955,473 1959,477 1968,476 1977,471 2010,476 2016,410 1968,403 1959,409 1952,399 1926,403"/>
+                <Baseline points="1916,463 2012,470"/>
+                <TextEquiv>
+                    <Unicode>No</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662368555082_93l7" custom="readingOrder {index:4;}">
+                <Coords points="548,1317 875,1278 966,1325 1265,1270 1611,1308 1728,1279 1724,1159 1470,1193 1336,1163 1160,1231 940,1169 771,1217 545,1203"/>
+                <Baseline points="558,1290 615,1288 673,1286 731,1284 789,1283 847,1281 905,1280 963,1278 1021,1278 1079,1277 1137,1275 1194,1274 1252,1272 1310,1269 1368,1268 1426,1265 1484,1263 1542,1259 1600,1255 1658,1251 1716,1247"/>
+                <TextEquiv>
+                    <Unicode>Kære Professor Birkeland!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662368555082_93l8" custom="readingOrder {index:5;}">
+                <Coords points="446,1613 1272,1584 1452,1626 2055,1611 2075,1479 1901,1436 1802,1509 1564,1488 1094,1483 841,1533 650,1446 444,1510"/>
+                <Baseline points="456,1595 536,1593 617,1590 697,1589 778,1587 858,1586 939,1586 1019,1584 1100,1583 1180,1581 1261,1580 1341,1578 1422,1577 1502,1574 1583,1572 1663,1569 1744,1568 1824,1564 1905,1561 1985,1557 2066,1553"/>
+                <TextEquiv>
+                    <Unicode>Hermed de ønskede Magnetiske Kurver;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662368555082_93l9" custom="readingOrder {index:6;}">
+                <Coords points="352,1754 838,1780 993,1742 1434,1734 1628,1750 1883,1751 2005,1776 2086,1765 2089,1669 1723,1616 1383,1673 1237,1615 1082,1656 914,1691 837,1632 704,1685 456,1651 351,1710"/>
+                <Baseline points="363,1737 448,1734 534,1731 619,1729 705,1725 791,1723 876,1721 962,1718 1047,1716 1133,1715 1219,1712 1304,1711 1390,1710 1475,1710 1561,1710 1647,1710 1732,1713 1818,1715 1903,1718 1989,1722 2075,1727"/>
+                <TextEquiv>
+                    <Unicode>den medfølgende Seddel vil formentlig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662368555082_93l10" custom="readingOrder {index:7;}">
+                <Coords points="362,1957 604,1883 1365,1901 1521,1869 1900,1893 2046,1859 2016,1809 1770,1766 1727,1812 1064,1775 924,1832 376,1801"/>
+                <Baseline points="371,1887 453,1886 536,1884 618,1883 701,1880 783,1876 866,1873 948,1871 1031,1866 1113,1863 1196,1859 1279,1857 1361,1854 1444,1851 1526,1850 1609,1848 1691,1848 1774,1848 1856,1850 1939,1851 2022,1854"/>
+                <TextEquiv>
+                    <Unicode>gøre videre Oplysninger overflødige.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662368555082_93l11" custom="readingOrder {index:8;}">
+                <Coords points="694,2110 864,2097 977,2052 1127,2095 1330,2062 1562,2089 1585,2080 1584,1990 1511,1989 1403,1926 1293,1994 1190,2013 1100,1978 923,2017 871,1972 805,2025 693,2031"/>
+                <Baseline points="705,2081 815,2069 855,2067 895,2067 935,2066 975,2064 1015,2064 1055,2063 1095,2063 1135,2061 1175,2061 1214,2061 1254,2060 1294,2060 1334,2060 1374,2060 1414,2058 1454,2058 1494,2058 1534,2058 1574,2058"/>
+                <TextEquiv>
+                    <Unicode>Med bedste Hilsen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662368555082_93l12" custom="readingOrder {index:9;}">
+                <Coords points="1302,2247 1476,2268 1722,2247 1855,2290 1915,2255 2122,2239 2121,2179 1935,2161 1903,2185 1782,2129 1544,2205 1425,2147 1302,2206"/>
+                <Baseline points="1313,2234 1355,2236 1397,2237 1439,2238 1481,2238 1523,2238 1565,2238 1607,2238 1649,2237 1691,2235 1733,2235 1775,2234 1817,2232 1859,2231 1901,2231 1943,2229 1985,2229 2027,2228 2069,2228 2112,2228"/>
+                <TextEquiv>
+                    <Unicode>Deres ærb. hengivne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662368555082_93l13" custom="readingOrder {index:10;}">
+                <Coords points="1300,2483 1632,2494 1671,2466 1795,2500 1893,2475 2082,2498 2114,2483 2114,2410 2039,2413 1784,2312 1636,2402 1538,2341 1396,2442 1300,2427"/>
+                <Baseline points="1310,2463 1349,2463 1389,2465 1428,2465 1468,2465 1508,2465 1547,2465 1587,2464 1627,2463 1666,2463 1706,2463 1746,2463 1785,2463 1825,2463 1865,2463 1904,2463 1944,2463 1984,2465 2023,2465 2063,2466 2103,2468"/>
+                <TextEquiv>
+                    <Unicode>Adam Paulsen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Det danske meteorologiske Institut.
+Bestyreren.
+Kjøbenhavn, den 20 Oktober 1900.
+No
+Kære Professor Birkeland!
+Hermed de ønskede Magnetiske Kurver;
+den medfølgende Seddel vil formentlig
+gøre videre Oplysninger overflødige.
+- Med bedste Hilsen
+Deres ærb. hengivne
+- Adam Paulsen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

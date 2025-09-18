@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:15:27.190+02:00</Created>
+        <LastChange>2023-10-11T10:00:32.358+02:00</LastChange>
+        <TranskribusMetadata docId="1027049" pageId="43170211" pageNr="1" tsid="137055756" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=NZDMWWNBCGHHANAIJZDLHIZR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LHURZSVHYWUTCJTASPCZKRXE" imageId="35409815"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_318486_0001.jpg" imageWidth="3763" imageHeight="4760">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770829311" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="189,163 180,4582 3575,4582 3584,163"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1909,346 2344,340 2517,428 2643,343 2749,359 2748,228 2676,199 2533,272 2415,196 2301,268 2250,239 2174,256 2081,168 2035,164 1909,257"/>
+                <Baseline points="1929,314 1968,315 2008,317 2048,318 2088,318 2128,319 2168,320 2207,320 2247,320 2287,318 2327,318 2367,318 2407,318 2447,317 2486,317 2526,315 2566,315 2606,315 2646,314 2686,314 2726,314"/>
+                <TextEquiv>
+                    <Unicode>Rosenborg 12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="2408,474 2471,483 2505,509 2543,480 2581,506 2615,485 2631,494 2729,482 2730,377 2692,376 2642,342 2578,400 2552,400 2518,425 2468,395 2443,411 2409,411"/>
+                <Baseline points="2429,459 2454,459 2479,459 2505,461 2530,461 2555,461 2581,462 2606,462 2631,462 2657,462 2682,462 2708,462"/>
+                <TextEquiv>
+                    <Unicode>Oslo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:2;}">
+                <Coords points="2881,386 2961,399 3063,363 3379,389 3519,361 3521,205 3402,284 3218,175 3141,233 3056,224 3031,244 2960,210 2883,234"/>
+                <Baseline points="2903,330 2932,329 2962,329 2992,329 3021,329 3051,330 3081,330 3110,330 3140,332 3170,332 3200,333 3229,333 3259,335 3289,335 3318,336 3348,336 3378,336 3407,336 3437,336 3467,335 3497,335"/>
+                <TextEquiv>
+                    <Unicode>22 Sept.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="3200,525 3247,522 3271,545 3307,512 3399,533 3450,527 3462,540 3521,526 3527,403 3493,398 3450,417 3355,375 3328,399 3303,394 3246,446 3204,440"/>
+                <Baseline points="3222,504 3247,503 3273,503 3298,504 3324,505 3349,507 3375,508 3400,510 3426,512 3451,512 3477,512 3503,512"/>
+                <TextEquiv>
+                    <Unicode>1926</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="2864,725 2936,724 3064,806 3193,716 3497,749 3495,568 3217,623 3162,594 3107,624 2997,558 2904,585 2862,569"/>
+                <Baseline points="2886,705 2915,703 2945,701 2974,700 3004,698 3033,697 3063,696 3092,696 3122,695 3151,695 3181,695 3210,695 3240,695 3269,695 3299,695 3328,695 3358,695 3387,693 3417,693 3446,693 3476,693"/>
+                <TextEquiv>
+                    <Unicode>Telef. 61051</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="492,1115 1010,1200 1362,1124 1747,1040 1991,1122 2135,1019 2544,1018 2538,858 2376,920 1835,816 1700,928 1414,864 1295,945 1059,862 889,929 754,838 483,917"/>
+                <Baseline points="513,1094 613,1088 713,1082 814,1076 914,1071 1015,1067 1115,1062 1216,1058 1316,1053 1417,1050 1517,1046 1617,1042 1718,1038 1818,1034 1919,1030 2019,1026 2120,1022 2220,1017 2321,1012 2421,1007 2522,1001"/>
+                <TextEquiv>
+                    <Unicode>Hr. Gustav Vigeland.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="609,1520 1037,1609 1556,1468 3533,1415 3523,1255 2669,1314 2451,1208 2075,1362 1797,1222 1035,1423 617,1276"/>
+                <Baseline points="630,1493 773,1488 917,1482 1061,1476 1205,1469 1349,1460 1492,1451 1636,1442 1780,1433 1924,1422 2068,1412 2211,1403 2355,1392 2499,1383 2643,1374 2787,1367 2930,1359 3074,1353 3218,1349 3362,1345 3506,1343"/>
+                <TextEquiv>
+                    <Unicode>Faar jeg lov til at be om adgang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="218,1824 756,1763 821,1847 975,1700 1324,1669 1985,1742 2228,1596 2607,1678 2718,1576 3335,1576 3328,1475 2852,1388 2657,1505 2122,1427 1892,1571 1371,1505 1089,1636 941,1533 643,1682 202,1614"/>
+                <Baseline points="233,1757 386,1745 540,1732 694,1719 848,1706 1002,1693 1156,1680 1310,1667 1464,1653 1618,1641 1772,1627 1925,1616 2079,1603 2233,1592 2387,1582 2541,1571 2695,1562 2849,1554 3003,1547 3157,1541 3311,1536"/>
+                <TextEquiv>
+                    <Unicode>for en fremrakende foredragsholder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="217,2053 1842,1884 2177,1894 3453,1747 3470,1611 203,1840"/>
+                <Baseline points="233,1965 394,1949 555,1932 716,1919 877,1905 1038,1893 1199,1882 1360,1871 1521,1861 1682,1850 1844,1841 2005,1831 2166,1821 2327,1810 2488,1798 2649,1786 2810,1773 2971,1760 3132,1744 3293,1727 3455,1709"/>
+                <TextEquiv>
+                    <Unicode>for Norsk Britisk forening til at se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="222,2193 3504,1934 3496,1828 3294,1780 3031,1892 2525,1859 1959,1927 1826,1907 1347,1977 1012,1932 208,2025"/>
+                <Baseline points="239,2139 401,2127 563,2115 725,2104 887,2093 1049,2080 1211,2069 1373,2057 1535,2044 1697,2033 1859,2021 2021,2008 2183,1997 2345,1985 2507,1974 2669,1962 2831,1951 2993,1940 3155,1928 3317,1917 3479,1905"/>
+                <TextEquiv>
+                    <Unicode>Deres atelier? Det er Mr. Wilkinson fra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="204,2363 2629,2133 3046,2221 3501,2090 3206,1926 3058,1976 2277,2011 2062,2137 1519,2067 1057,2172 191,2186"/>
+                <Baseline points="221,2315 383,2304 546,2293 709,2280 872,2268 1035,2257 1198,2244 1361,2232 1524,2219 1687,2207 1850,2195 2012,2183 2175,2171 2338,2159 2501,2147 2664,2134 2827,2123 2990,2111 3153,2100 3316,2089 3479,2079"/>
+                <TextEquiv>
+                    <Unicode>Oxford Universitet som taler om digteren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="198,2537 309,2480 475,2496 511,2460 551,2492 700,2449 900,2539 1109,2434 1308,2435 1303,2338 1114,2366 1039,2315 799,2347 548,2302 487,2339 425,2300 274,2381 188,2369"/>
+                <Baseline points="218,2481 271,2477 324,2473 378,2469 431,2466 485,2462 538,2459 591,2456 645,2453 698,2450 752,2447 805,2444 858,2441 912,2438 965,2435 1019,2432 1072,2430 1125,2426 1179,2423 1232,2420 1286,2417"/>
+                <TextEquiv>
+                    <Unicode>Wells iaften.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="988,2675 1907,2502 2296,2496 2490,2604 2834,2448 3279,2518 3357,2487 3343,2293 2992,2361 2479,2279 1957,2440 1846,2363 1688,2459 1472,2398 1242,2495 974,2481"/>
+                <Baseline points="1002,2595 1332,2556 1437,2546 1542,2536 1647,2526 1752,2517 1857,2510 1962,2502 2067,2494 2172,2487 2278,2480 2383,2474 2488,2467 2593,2460 2698,2453 2803,2448 2908,2442 3013,2437 3118,2431 3223,2426 3329,2421"/>
+                <TextEquiv>
+                    <Unicode>Jeg vet jo hvilken glæde og </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="207,2841 1806,2690 2213,2794 2411,2660 3380,2610 3373,2513 2475,2613 2158,2510 950,2714 375,2604 196,2694"/>
+                <Baseline points="228,2819 384,2805 540,2790 697,2777 853,2763 1010,2751 1166,2738 1322,2726 1479,2714 1635,2702 1792,2690 1948,2678 2104,2667 2261,2656 2417,2646 2574,2635 2730,2625 2886,2616 3043,2604 3199,2595 3356,2585"/>
+                <TextEquiv>
+                    <Unicode>berikelse det har været for de andre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="209,2993 1617,2868 1985,2962 2404,2805 2586,2914 2742,2791 3522,2759 3474,2580 2464,2758 2108,2719 1929,2797 1718,2699 1219,2858 197,2842"/>
+                <Baseline points="228,2978 391,2966 555,2954 718,2942 882,2928 1045,2915 1209,2902 1372,2888 1536,2874 1699,2860 1863,2847 2026,2832 2190,2818 2353,2806 2517,2793 2680,2780 2844,2768 3007,2756 3171,2747 3334,2736 3498,2727"/>
+                <TextEquiv>
+                    <Unicode>Englændere som har faat adgang tidli-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="228,3297 1087,3086 3196,3032 3597,2923 3577,2758 208,3107"/>
+                <Baseline points="237,3173 403,3155 570,3138 737,3121 904,3105 1071,3090 1238,3075 1405,3062 1572,3049 1739,3036 1906,3023 2072,3009 2239,2997 2406,2984 2573,2972 2740,2959 2907,2945 3074,2932 3241,2917 3408,2903 3575,2888"/>
+                <TextEquiv>
+                    <Unicode>gere og endda mere hvilken ære og gavn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="163,3416 3363,3144 3353,3022 2939,2987 2131,3121 148,3207"/>
+                <Baseline points="180,3366 346,3345 512,3327 678,3308 845,3292 1011,3275 1177,3260 1343,3245 1510,3231 1676,3217 1842,3204 2008,3192 2175,3180 2341,3168 2507,3158 2673,3147 2840,3137 3006,3127 3172,3119 3339,3108"/>
+                <TextEquiv>
+                    <Unicode>dette har været for Norge, at Samtiden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1661944815147_828" custom="readingOrder {index:17;}">
+                <Coords points="240,3609 1018,3434 1411,3533 1828,3392 3360,3321 3367,3223 3065,3154 2479,3288 2080,3219 1027,3400 734,3339 612,3451 224,3411"/>
+                <Baseline points="255,3530 376,3516 497,3503 619,3491 740,3479 861,3467 983,3456 1104,3445 1225,3434 1347,3424 1468,3414 1589,3404 1711,3394 1832,3383 1953,3374 2075,3363 2196,3354 2317,3345 2439,3333 2560,3322 2682,3312 2919,3285 2944,3287 2969,3289 2995,3290 3020,3291 3046,3291 3071,3291 3096,3290 3122,3290 3147,3288 3173,3288 3198,3287 3223,3287 3249,3287 3274,3287 3300,3288 3325,3290 3351,3291"/>
+                <TextEquiv>
+                    <Unicode>faar lære at kjende Dem. - Jeg kan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:18;}">
+                <Coords points="206,3815 805,3646 2994,3531 3226,3477 3216,3351 2856,3321 2456,3436 1828,3392 1593,3538 196,3613"/>
+                <Baseline points="216,3710 365,3693 514,3679 664,3663 813,3648 962,3635 1112,3620 1261,3606 1410,3594 1560,3581 1709,3568 1858,3556 2008,3544 2157,3531 2306,3521 2456,3510 2605,3499 2754,3488 2904,3477 3053,3468 3203,3458"/>
+                <TextEquiv>
+                    <Unicode>ogsaa nævne at Sir Michael Sadler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:19;}">
+                <Coords points="176,3943 932,3803 1318,3893 1775,3759 3605,3707 3582,3519 646,3691 168,3816"/>
+                <Baseline points="194,3885 362,3865 531,3846 700,3828 869,3812 1037,3797 1206,3781 1375,3768 1544,3754 1712,3742 1881,3731 2050,3720 2219,3710 2387,3701 2556,3693 2725,3684 2894,3677 3062,3671 3231,3665 3400,3659 3605,3680"/>
+                <TextEquiv>
+                    <Unicode>nu vil sætte igang kurser over norsk histo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:20;}">
+                <Coords points="223,4087 474,4034 628,4134 919,3981 1772,3907 1944,4023 2274,3884 2528,4017 2702,3896 3430,3845 3457,3773 2073,3770 1622,3870 1534,3818 221,3923"/>
+                <Baseline points="243,4049 399,4030 556,4011 713,3994 869,3980 1026,3965 1183,3953 1339,3942 1496,3931 1653,3921 1810,3913 1966,3905 2123,3898 2280,3890 2436,3884 2593,3876 2750,3869 2906,3861 3063,3855 3220,3847 3377,3839"/>
+                <TextEquiv>
+                    <Unicode>rie og kunst ved Oxford inspireret av </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:21;}">
+                <Coords points="283,4245 3534,4032 3528,3931 3262,3852 2589,3980 2172,3936 1360,4077 911,3983 628,4133 273,4068"/>
+                <Baseline points="303,4196 463,4184 623,4173 784,4164 944,4154 1105,4145 1265,4136 1426,4126 1586,4118 1747,4109 1907,4101 2067,4092 2228,4085 2388,4076 2549,4068 2709,4061 2870,4052 3030,4044 3191,4036 3351,4027 3512,4019"/>
+                <TextEquiv>
+                    <Unicode>Deres kunst. Mr Wilkinson kan kom-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:22;}">
+                <Coords points="224,4392 2129,4305 2872,4341 3379,4190 3373,4093 2643,4176 2381,4102 2183,4202 1271,4134 1146,4251 218,4282"/>
+                <Baseline points="246,4362 401,4352 557,4342 712,4331 868,4323 1024,4312 1179,4304 1335,4294 1491,4285 1646,4277 1802,4268 1958,4259 2113,4251 2269,4242 2425,4235 2580,4226 2736,4218 2892,4210 3047,4202 3203,4195 3359,4187"/>
+                <TextEquiv>
+                    <Unicode>me naarsomhelst tordag og fredag og vil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:23;}">
+                <Coords points="239,4530 521,4506 701,4551 946,4473 1119,4544 1304,4521 1298,4403 1101,4376 972,4408 736,4346 671,4383 420,4359 318,4429 233,4421"/>
+                <Baseline points="258,4511 306,4509 354,4505 403,4502 451,4499 500,4496 548,4493 597,4490 645,4488 694,4485 742,4482 790,4479 839,4476 887,4473 936,4470 984,4468 1033,4466 1081,4464 1130,4461 1178,4460 1297,4473"/>
+                <TextEquiv>
+                    <Unicode>bli lyksalig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="1703,4493 1799,4466 1943,4475 1992,4443 2091,4471 2136,4452 2189,4487 2333,4416 2480,4395 2477,4336 2407,4310 2262,4361 2126,4343 2021,4320 1910,4317 1697,4379"/>
+                <Baseline points="1722,4436 1758,4431 1795,4427 1832,4424 1869,4421 1905,4418 1942,4418 1979,4416 2016,4415 2052,4414 2089,4413 2126,4412 2163,4412 2199,4410 2236,4407 2273,4405 2310,4402 2346,4398 2383,4394 2420,4389 2457,4382"/>
+                <TextEquiv>
+                    <Unicode>ærbødigst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:25;}">
+                <Coords points="2209,4579 2378,4589 2436,4545 2697,4526 2732,4555 2810,4518 2900,4544 2941,4513 3208,4545 3288,4529 3285,4445 3155,4463 3063,4394 2947,4445 2771,4359 2655,4439 2458,4455 2363,4408 2204,4456"/>
+                <Baseline points="2228,4547 2279,4547 2331,4545 2383,4544 2435,4542 2487,4541 2539,4537 2591,4534 2643,4531 2695,4528 2747,4524 2798,4522 2850,4520 2902,4517 2954,4515 3006,4514 3058,4514 3110,4514 3162,4515 3214,4518 3266,4520"/>
+                <TextEquiv>
+                    <Unicode>Ella Anker.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rosenborg 12
+Oslo
+22 Sept.
+1926
+Telef. 61051
+Hr. Gustav Vigeland.
+Faar jeg lov til at be om adgang
+for en fremrakende foredragsholder
+for Norsk Britisk forening til at se
+Deres atelier? Det er Mr. Wilkinson fra
+Oxford Universitet som taler om digteren
+Wells iaften.
+Jeg vet jo hvilken glæde og 
+berikelse det har været for de andre
+Englændere som har faat adgang tidli-
+gere og endda mere hvilken ære og gavn
+dette har været for Norge, at Samtiden
+faar lære at kjende Dem. - Jeg kan
+ogsaa nævne at Sir Michael Sadler
+nu vil sætte igang kurser over norsk histo-
+rie og kunst ved Oxford inspireret av 
+Deres kunst. Mr Wilkinson kan kom-
+me naarsomhelst tordag og fredag og vil
+bli lyksalig.
+ærbødigst
+Ella Anker.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

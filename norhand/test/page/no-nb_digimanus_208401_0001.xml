@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T14:02:57.661+02:00</Created>
+        <LastChange>2023-10-23T11:03:57.780+02:00</LastChange>
+        <TranskribusMetadata docId="1027289" pageId="43174019" pageNr="1" tsid="137876589" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=TXHVQPGMMFEVQTYSEFJAIDQL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BVMYLTUVFCFOCRYJTXYMNDTS" imageId="35413558"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_208401_0001.jpg" imageWidth="5818" imageHeight="3786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770774868" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1661416517872_110"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1661416517872_110" custom="readingOrder {index:0;}">
+            <Coords points="3010,356 5659,356 5659,3560 3010,3560"/>
+            <TextLine id="region_1661416517872_110l2" custom="readingOrder {index:0;}">
+                <Coords points="4107,539 4313,481 4518,547 4794,462 5556,514 5587,414 5313,445 5206,393 4967,425 4905,384 4613,447 4108,391"/>
+                <Baseline points="4122,472 4194,474 4267,474 4339,474 4412,474 4485,472 4557,472 4630,470 4702,470 4775,468 4848,468 4920,468 4993,468 5065,468 5138,468 5211,470 5283,472 5356,476 5428,481 5501,486 5574,494"/>
+                <TextEquiv>
+                    <Unicode>Øster Alling ved Randers 7 April 1862.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661416517872_110l5" custom="readingOrder {index:1;}">
+                <Coords points="3497,1025 5592,1026 5590,872 5251,953 4906,890 4602,983 3496,931"/>
+                <Baseline points="3510,1020 3613,1020 3716,1018 3820,1016 3923,1015 4027,1014 4130,1014 4233,1012 4337,1012 4440,1010 4544,1010 4647,1009 4750,1008 4854,1006 4957,1004 5061,1003 5164,1000 5267,998 5371,995 5474,991 5578,986"/>
+                <TextEquiv>
+                    <Unicode>Forfatteren af medfølgende Skrift hører til dem,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661416517872_110l6" custom="readingOrder {index:2;}">
+                <Coords points="3448,1177 5271,1172 5616,1124 5614,1037 3447,1121"/>
+                <Baseline points="3462,1158 3569,1160 3676,1162 3783,1162 3890,1162 3997,1160 4104,1158 4211,1156 4318,1154 4425,1151 4532,1148 4639,1144 4746,1142 4853,1138 4960,1136 5067,1132 5174,1130 5281,1128 5388,1126 5495,1126 5602,1126"/>
+                <TextEquiv>
+                    <Unicode>der med megen Interesse have studeret Deres Verk:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661416517872_110l7" custom="readingOrder {index:3;}">
+                <Coords points="3482,1319 5623,1263 5589,1185 3506,1222"/>
+                <Baseline points="3494,1298 3599,1296 3705,1294 3811,1292 3917,1290 4023,1288 4128,1286 4234,1286 4340,1284 4446,1282 4552,1280 4657,1278 4763,1276 4869,1274 4975,1272 5081,1268 5186,1266 5292,1264 5398,1260 5504,1257 5610,1254"/>
+                <TextEquiv>
+                    <Unicode>"det norske Folkesprogs Grammatik", hvilket inde-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661416517872_110l8" custom="readingOrder {index:4;}">
+                <Coords points="3454,1461 5158,1472 5498,1440 5642,1337 3452,1388"/>
+                <Baseline points="3468,1444 3576,1439 3684,1435 3792,1432 3900,1429 4008,1426 4116,1424 4224,1422 4332,1420 4440,1418 4549,1416 4657,1414 4765,1412 4873,1410 4981,1408 5089,1406 5197,1403 5305,1400 5413,1396 5521,1392 5630,1386"/>
+                <TextEquiv>
+                    <Unicode>holder vigtige Oplysninger ogsaa til det jydske Almue-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661416517872_110l9" custom="readingOrder {index:5;}">
+                <Coords points="3486,1617 5441,1575 5616,1539 5615,1483 3484,1520"/>
+                <Baseline points="3500,1566 3605,1564 3710,1564 3815,1562 3920,1560 4025,1558 4130,1556 4235,1554 4340,1552 4445,1550 4551,1548 4656,1546 4761,1544 4866,1540 4971,1538 5076,1536 5181,1535 5286,1534 5391,1532 5496,1532 5602,1530"/>
+                <TextEquiv>
+                    <Unicode>sprog. Til Tak herfor sendes nærværende Exemplar,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661416517872_110l10" custom="readingOrder {index:6;}">
+                <Coords points="3500,1726 5549,1726 5601,1581 3503,1646"/>
+                <Baseline points="3512,1700 3615,1698 3719,1697 3822,1694 3926,1694 4030,1692 4133,1690 4237,1688 4340,1686 4444,1686 4548,1684 4651,1682 4755,1682 4858,1680 4962,1680 5066,1678 5169,1678 5273,1678 5376,1678 5480,1678 5584,1678"/>
+                <TextEquiv>
+                    <Unicode>idet jeg tillige har tænkt, det vilde interessere Dem at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661416517872_110l11" custom="readingOrder {index:7;}">
+                <Coords points="3488,1860 5470,1866 5581,1856 5578,1707 5499,1773 4931,1789 4575,1716 4301,1800 4089,1752 3487,1811"/>
+                <Baseline points="3502,1842 3605,1840 3708,1838 3811,1836 3915,1834 4018,1832 4121,1829 4225,1828 4328,1826 4431,1824 4535,1822 4638,1820 4741,1818 4844,1816 4948,1815 5051,1814 5154,1812 5258,1810 5361,1810 5464,1808 5568,1808"/>
+                <TextEquiv>
+                    <Unicode>sammenligne de jydske Dialekter med de norske;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661416517872_110l12" custom="readingOrder {index:8;}">
+                <Coords points="3500,2041 5590,1979 5626,1884 3499,1938"/>
+                <Baseline points="3514,1980 3619,1980 3724,1980 3829,1978 3934,1976 4039,1974 4144,1972 4249,1970 4354,1968 4459,1966 4564,1964 4669,1962 4774,1960 4879,1958 4984,1956 5089,1954 5194,1952 5299,1952 5404,1952 5509,1952 5614,1952"/>
+                <TextEquiv>
+                    <Unicode>og i Haab om, at De vil modtage det med Velvillie,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661416517872_110l13" custom="readingOrder {index:9;}">
+                <Coords points="3502,2134 3561,2142 3615,2171 3642,2160 3672,2184 3702,2176 3723,2154 3772,2165 3772,2062 3734,2071 3699,2049 3664,2071 3607,2050 3550,2050 3523,2069 3501,2066"/>
+                <Baseline points="3514,2126 3541,2124 3568,2124 3595,2124 3622,2124 3649,2124 3676,2124 3703,2124 3730,2124 3758,2122"/>
+                <TextEquiv>
+                    <Unicode>er jeg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661416517872_110l14" custom="readingOrder {index:10;}">
+                <Coords points="4804,2406 5063,2382 5112,2415 5193,2394 5250,2432 5380,2387 5380,2314 5353,2303 5248,2302 5199,2334 5137,2307 4980,2306 4804,2243"/>
+                <Baseline points="4818,2372 4845,2372 4872,2372 4900,2372 4927,2372 4955,2374 4982,2374 5009,2374 5037,2374 5064,2374 5092,2375 5119,2376 5146,2376 5174,2376 5201,2376 5229,2376 5256,2374 5283,2374 5311,2374 5338,2374 5366,2372"/>
+                <TextEquiv>
+                    <Unicode>Deres ærbødige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661416517872_110l15" custom="readingOrder {index:11;}">
+                <Coords points="4926,2554 4996,2584 5048,2563 5094,2585 5178,2566 5237,2599 5378,2608 5472,2548 5508,2549 5508,2430 5414,2418 5284,2485 5100,2422 4927,2495"/>
+                <Baseline points="4940,2546 4967,2544 4995,2544 5023,2544 5050,2544 5078,2544 5106,2544 5133,2544 5161,2544 5189,2544 5217,2544 5244,2544 5272,2544 5300,2544 5327,2546 5355,2546 5383,2546 5410,2546 5438,2546 5466,2546 5494,2546"/>
+                <TextEquiv>
+                    <Unicode>L. Varming.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661416517872_110l16" custom="readingOrder {index:12;}">
+                <Coords points="3196,3279 3242,3270 3256,3277 3309,3257 3368,3293 3404,3260 3423,3259 3413,3124 3380,3127 3355,3150 3336,3146 3318,3161 3298,3154 3234,3200 3191,3209"/>
+                <Baseline points="3210,3262 3238,3259 3266,3258 3294,3257 3323,3255 3351,3253 3379,3250 3408,3244"/>
+                <TextEquiv>
+                    <Unicode>S. T.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661416517872_110l17" custom="readingOrder {index:13;}">
+                <Coords points="3378,3450 3554,3487 3642,3440 3721,3461 3764,3430 3789,3455 3829,3419 3994,3453 4245,3418 4244,3342 4083,3379 3996,3326 3836,3314 3762,3260 3666,3312 3495,3303 3377,3348"/>
+                <Baseline points="3392,3428 3434,3428 3476,3428 3518,3428 3560,3428 3602,3428 3644,3428 3686,3426 3728,3426 3770,3426 3812,3426 3854,3424 3896,3424 3938,3424 3980,3424 4022,3422 4064,3422 4106,3422 4148,3422 4190,3422 4232,3422"/>
+                <TextEquiv>
+                    <Unicode>Herr Ivar Aasen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Øster Alling ved Randers 7 April 1862.
+Forfatteren af medfølgende Skrift hører til dem,
+der med megen Interesse have studeret Deres Verk:
+"det norske Folkesprogs Grammatik", hvilket inde-
+holder vigtige Oplysninger ogsaa til det jydske Almue-
+sprog. Til Tak herfor sendes nærværende Exemplar,
+idet jeg tillige har tænkt, det vilde interessere Dem at
+sammenligne de jydske Dialekter med de norske;
+og i Haab om, at De vil modtage det med Velvillie,
+er jeg
+Deres ærbødige
+L. Varming.
+S. T.
+Herr Ivar Aasen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

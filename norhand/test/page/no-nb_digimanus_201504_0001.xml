@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:35:19.042+02:00</Created>
+        <LastChange>2023-10-31T14:26:16.360+01:00</LastChange>
+        <TranskribusMetadata docId="1027161" pageId="43172065" pageNr="1" tsid="138567605" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=QRXOENNGZCRQJUUIBOGOEJYU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LJWHSPBJNERPJMTQLNFOHEWZ" imageId="35411651"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_201504_0001.jpg" imageWidth="3511" imageHeight="5425">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770807284" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1661938166166_618"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1661938166166_618" custom="readingOrder {index:0;}">
+            <Coords points="390,348 3351,348 3351,4917 390,4917"/>
+            <TextLine id="region_1661938166166_618l2" custom="readingOrder {index:0;}">
+                <Coords points="1247,964 1555,1021 2620,1009 2732,994 2731,849 2420,929 2238,818 2132,889 1966,809 1675,889 1568,819 1247,914"/>
+                <Baseline points="1260,970 1332,974 1405,976 1478,978 1551,979 1624,980 1697,980 1770,980 1843,978 1916,978 1989,976 2061,975 2134,974 2207,972 2280,972 2353,970 2426,970 2499,970 2572,970 2645,970 2718,972"/>
+                <TextEquiv>
+                    <Unicode>Hr. Riksstipendiat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l3" custom="readingOrder {index:1;}">
+                <Coords points="1933,1204 2090,1237 2247,1180 2619,1212 2695,1178 3093,1184 3092,1126 2860,1101 2739,1010 2605,1103 2448,1123 2201,995 2120,1063 1932,1067"/>
+                <Baseline points="1948,1164 2004,1167 2061,1170 2117,1172 2174,1174 2230,1176 2287,1176 2343,1176 2400,1176 2456,1176 2513,1176 2569,1176 2626,1174 2682,1174 2739,1172 2795,1170 2852,1170 2908,1168 2965,1166 3021,1164 3078,1162"/>
+                <TextEquiv>
+                    <Unicode>Ivar Aasen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l4" custom="readingOrder {index:2;}">
+                <Coords points="1319,1561 1543,1606 1736,1547 2092,1608 2190,1557 3098,1575 3047,1466 2515,1495 2064,1389 1787,1493 1526,1387 1319,1474"/>
+                <Baseline points="1334,1524 1421,1530 1509,1534 1596,1536 1684,1540 1771,1540 1859,1542 1946,1542 2034,1542 2121,1542 2209,1540 2296,1540 2384,1539 2471,1538 2559,1536 2646,1535 2734,1534 2821,1533 2909,1532 2996,1532 3084,1532"/>
+                <TextEquiv>
+                    <Unicode>Begge Smaagutarne mine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l5" custom="readingOrder {index:3;}">
+                <Coords points="983,1773 1532,1732 1742,1816 1946,1739 3084,1747 3025,1650 2731,1676 2593,1567 2347,1694 2170,1680 2066,1585 1848,1687 1442,1601 1322,1694 1150,1582 982,1647"/>
+                <Baseline points="996,1728 1099,1728 1203,1728 1307,1728 1410,1728 1514,1728 1618,1728 1721,1728 1825,1728 1929,1728 2033,1726 2136,1726 2240,1726 2344,1726 2447,1726 2551,1725 2655,1724 2758,1724 2862,1724 2966,1722 3070,1722"/>
+                <TextEquiv>
+                    <Unicode>her, Olav og Arnor, hev vore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l6" custom="readingOrder {index:4;}">
+                <Coords points="1002,1957 2225,1906 2492,1970 3237,1926 3237,1867 2886,1768 2598,1857 2443,1766 2194,1860 1687,1787 1573,1875 1427,1811 1001,1867"/>
+                <Baseline points="1016,1916 1126,1916 1236,1916 1346,1916 1457,1916 1567,1916 1677,1916 1788,1914 1898,1914 2008,1912 2119,1910 2229,1910 2339,1908 2449,1908 2560,1906 2670,1906 2780,1906 2891,1904 3001,1906 3111,1906 3222,1906"/>
+                <TextEquiv>
+                    <Unicode>sjuke, Olav av "Lungebetændelse"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l7" custom="readingOrder {index:5;}">
+                <Coords points="1010,2212 1208,2110 2118,2106 2236,2181 2832,2073 3250,2107 3249,2048 2781,1984 2395,2040 2238,1971 1745,2069 1420,1979 1008,2018"/>
+                <Baseline points="1024,2100 1134,2100 1245,2102 1355,2102 1466,2102 1577,2100 1687,2100 1798,2098 1908,2097 2019,2096 2130,2094 2240,2092 2351,2092 2461,2090 2572,2090 2683,2088 2793,2088 2904,2090 3014,2090 3125,2092 3236,2094"/>
+                <TextEquiv>
+                    <Unicode>og Arnor av Magasjuke, som</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l8" custom="readingOrder {index:6;}">
+                <Coords points="1010,2311 1551,2367 1741,2298 2915,2322 3208,2299 3208,2215 3033,2127 2791,2247 2071,2253 1941,2151 1746,2254 1540,2146 1342,2252 1201,2124 1009,2210"/>
+                <Baseline points="1022,2276 1130,2281 1239,2285 1347,2288 1456,2290 1565,2292 1673,2292 1782,2292 1890,2291 1999,2290 2108,2288 2216,2286 2325,2284 2433,2280 2542,2278 2651,2276 2759,2274 2868,2272 2976,2270 3085,2270 3194,2270"/>
+                <TextEquiv>
+                    <Unicode>han ligg klein av enno. Dei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l9" custom="readingOrder {index:7;}">
+                <Coords points="1014,2493 1493,2561 1616,2482 3120,2494 3188,2483 3187,2354 2899,2430 2677,2322 2448,2432 2159,2335 2019,2442 1789,2353 1624,2423 1436,2351 1014,2423"/>
+                <Baseline points="1028,2464 1135,2464 1242,2466 1349,2468 1457,2468 1564,2470 1671,2471 1779,2472 1886,2472 1993,2472 2101,2472 2208,2472 2315,2472 2422,2472 2530,2470 2637,2468 2744,2466 2852,2464 2959,2460 3066,2456 3174,2452"/>
+                <TextEquiv>
+                    <Unicode>er 4 ½ og 1 ½  Aar. No er det</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l10" custom="readingOrder {index:8;}">
+                <Coords points="1041,2747 1615,2658 1962,2727 2329,2653 3301,2686 3301,2509 1040,2613"/>
+                <Baseline points="1054,2682 1165,2673 1277,2668 1388,2663 1500,2658 1612,2656 1723,2654 1835,2652 1946,2652 2058,2652 2170,2652 2281,2652 2393,2654 2504,2656 2616,2656 2728,2658 2839,2659 2951,2660 3062,2660 3174,2660 3286,2660"/>
+                <TextEquiv>
+                    <Unicode>gjenge so mykje ut til Doktor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l11" custom="readingOrder {index:9;}">
+                <Coords points="1008,2906 2795,2898 3195,2863 3194,2732 2693,2799 2572,2691 2458,2773 2264,2697 1906,2815 1462,2713 1363,2798 1007,2805"/>
+                <Baseline points="1022,2860 1130,2858 1238,2856 1346,2854 1454,2852 1562,2850 1670,2848 1778,2848 1886,2846 1994,2845 2102,2844 2210,2844 2318,2842 2426,2842 2534,2841 2642,2840 2750,2840 2858,2838 2966,2838 3074,2836 3182,2836"/>
+                <TextEquiv>
+                    <Unicode>og Medicin, at det inkje vil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l12" custom="readingOrder {index:10;}">
+                <Coords points="1004,3054 1427,3112 1558,3046 2029,3100 2813,3041 3049,3103 3180,3049 3179,2951 2955,2992 2812,2898 2356,2996 1848,2897 1678,2983 1310,2908 1003,2996"/>
+                <Baseline points="1018,3044 1125,3042 1232,3040 1340,3038 1447,3036 1555,3036 1662,3034 1769,3034 1877,3034 1984,3034 2092,3032 2199,3032 2306,3032 2414,3030 2521,3030 2629,3028 2736,3026 2843,3024 2951,3022 3058,3018 3166,3014"/>
+                <TextEquiv>
+                    <Unicode>søkkja længre, enndaa eg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l13" custom="readingOrder {index:11;}">
+                <Coords points="1022,3248 3002,3251 3137,3231 3137,3169 2962,3072 2635,3191 2388,3083 2047,3146 1929,3073 1753,3172 1523,3190 1411,3106 1022,3186"/>
+                <Baseline points="1036,3238 1140,3232 1244,3228 1349,3224 1453,3222 1558,3220 1662,3220 1766,3220 1871,3220 1975,3220 2080,3222 2184,3222 2288,3224 2393,3224 2497,3224 2602,3224 2706,3224 2810,3222 2915,3220 3019,3216 3124,3210"/>
+                <TextEquiv>
+                    <Unicode>i dei sista Vikurne hev</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l14" custom="readingOrder {index:12;}">
+                <Coords points="983,3486 3187,3436 3245,3296 2747,3276 2557,3377 2310,3261 2111,3366 1920,3294 1753,3364 1534,3262 1383,3372 1251,3277 982,3346"/>
+                <Baseline points="996,3416 1107,3414 1219,3414 1331,3414 1443,3412 1555,3412 1666,3412 1778,3412 1890,3410 2002,3410 2114,3410 2225,3410 2337,3410 2449,3408 2561,3408 2673,3408 2784,3406 2896,3406 3008,3406 3120,3404 3232,3404"/>
+                <TextEquiv>
+                    <Unicode>tjent nokso bra. Kunde I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l15" custom="readingOrder {index:13;}">
+                <Coords points="1039,3624 3306,3629 3305,3539 2876,3527 2743,3448 2503,3540 2295,3481 1983,3557 1038,3532"/>
+                <Baseline points="1052,3604 1164,3604 1276,3604 1388,3604 1500,3604 1612,3602 1724,3602 1836,3600 1948,3598 2060,3597 2172,3596 2284,3594 2396,3592 2508,3590 2620,3588 2732,3588 2844,3586 2956,3584 3068,3584 3180,3584 3292,3582"/>
+                <TextEquiv>
+                    <Unicode>no vera so gild mot meg enno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l16" custom="readingOrder {index:14;}">
+                <Coords points="1075,3805 1655,3887 1778,3797 3140,3833 3268,3796 3268,3726 2968,3626 2498,3743 2018,3647 1783,3749 1539,3652 1380,3748 1075,3746"/>
+                <Baseline points="1090,3786 1198,3786 1306,3784 1414,3784 1522,3784 1631,3782 1739,3782 1847,3780 1955,3780 2063,3780 2172,3778 2280,3778 2388,3778 2496,3778 2604,3776 2713,3776 2821,3776 2929,3778 3037,3778 3145,3778 3254,3780"/>
+                <TextEquiv>
+                    <Unicode>ei Gong at senda med Kjeringi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l17" custom="readingOrder {index:15;}">
+                <Coords points="1074,4018 2989,3979 3155,4037 3219,4020 3219,3877 2265,3865 2020,3818 1900,3928 1714,3858 1073,3928"/>
+                <Baseline points="1088,3988 1193,3982 1299,3976 1405,3973 1511,3970 1617,3968 1723,3966 1829,3966 1935,3966 2041,3966 2147,3966 2252,3968 2358,3968 2464,3968 2570,3970 2676,3970 2782,3970 2888,3970 2994,3968 3100,3966 3206,3964"/>
+                <TextEquiv>
+                    <Unicode>mi nokra Kronur, so vart eg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l18" custom="readingOrder {index:16;}">
+                <Coords points="1086,4221 1271,4236 1486,4181 1559,4242 1635,4205 1702,4255 1912,4175 2155,4170 2155,4111 1897,4125 1776,4014 1608,4074 1524,4013 1410,4098 1177,4080 1085,4115"/>
+                <Baseline points="1098,4166 1150,4168 1202,4169 1254,4170 1306,4170 1358,4170 1410,4170 1462,4170 1514,4170 1566,4168 1619,4168 1671,4167 1723,4166 1775,4165 1827,4164 1879,4164 1931,4164 1983,4162 2035,4162 2087,4162 2140,4164"/>
+                <TextEquiv>
+                    <Unicode>sagta fegjen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l19" custom="readingOrder {index:17;}">
+                <Coords points="1391,4363 2716,4393 2775,4345 3077,4395 3170,4386 3170,4271 2970,4188 2475,4307 2312,4212 2004,4179 1758,4286 1634,4220 1391,4324"/>
+                <Baseline points="1406,4346 1493,4348 1581,4348 1668,4349 1756,4350 1843,4350 1931,4348 2018,4348 2106,4348 2193,4348 2281,4348 2368,4346 2456,4346 2543,4346 2631,4346 2718,4344 2806,4344 2893,4344 2981,4344 3068,4346 3156,4346"/>
+                <TextEquiv>
+                    <Unicode>Maatte I leva vel, til eg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l20" custom="readingOrder {index:18;}">
+                <Coords points="1051,4580 2182,4543 2612,4601 2947,4542 2946,4397 2419,4381 2190,4493 1669,4393 1507,4462 1215,4411 1050,4496"/>
+                <Baseline points="1066,4540 1159,4540 1252,4540 1346,4538 1439,4538 1533,4538 1626,4538 1719,4536 1813,4536 1906,4534 2000,4534 2093,4532 2186,4532 2280,4530 2373,4530 2467,4528 2560,4528 2653,4528 2747,4528 2840,4528 2934,4528"/>
+                <TextEquiv>
+                    <Unicode>fekk Skuldi mi til Dykk.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l21" custom="readingOrder {index:19;}">
+                <Coords points="2042,4714 2225,4737 2319,4704 2410,4767 2661,4699 3171,4715 3197,4585 3094,4618 3038,4579 2965,4603 2698,4556 2565,4634 2511,4584 2419,4580 2360,4628 2250,4576 2159,4656 2042,4683"/>
+                <Baseline points="2056,4712 2112,4712 2169,4710 2225,4710 2282,4710 2338,4708 2395,4708 2451,4708 2508,4707 2564,4706 2621,4706 2677,4706 2734,4704 2790,4704 2847,4702 2903,4702 2960,4700 3016,4699 3073,4698 3129,4696 3186,4694"/>
+                <TextEquiv>
+                    <Unicode>Med høgste Vyrdnad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l23" custom="readingOrder {index:20;}">
+                <Coords points="1816,4898 2221,4863 2368,4914 2549,4853 3170,4892 3269,4852 3271,4737 3107,4787 2773,4705 2633,4809 2506,4723 2364,4818 2212,4729 2000,4697 1818,4800"/>
+                <Baseline points="1830,4856 1901,4856 1972,4856 2043,4856 2114,4856 2186,4857 2257,4858 2328,4860 2399,4860 2470,4862 2542,4864 2613,4866 2684,4866 2755,4868 2826,4870 2898,4872 2969,4874 3040,4875 3111,4877 3182,4878 3254,4880"/>
+                <TextEquiv>
+                    <Unicode>Dykkar Jon Flatabø.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1661938166166_618l22" custom="readingOrder {index:21;}">
+                <Coords points="522,4887 761,4911 850,4875 1032,4863 1083,4907 1243,4895 1239,4691 1099,4716 956,4711 897,4681 844,4718 765,4709 675,4654 556,4730 519,4716"/>
+                <Baseline points="534,4816 568,4813 603,4810 637,4808 672,4806 707,4803 741,4802 776,4801 810,4800 845,4798 880,4798 914,4796 949,4796 983,4796 1018,4796 1053,4798 1087,4798 1122,4798 1156,4800 1191,4800 1226,4802"/>
+                <TextEquiv>
+                    <Unicode>Kra. 21.11.93.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hr. Riksstipendiat
+Ivar Aasen!
+Begge Smaagutarne mine
+her, Olav og Arnor, hev vore
+sjuke, Olav av "Lungebetændelse"
+og Arnor av Magasjuke, som
+han ligg klein av enno. Dei
+er 4 ½ og 1 ½  Aar. No er det
+gjenge so mykje ut til Doktor
+og Medicin, at det inkje vil
+røkkja længre, enndaa eg
+i dei siste Vikurne hev
+tjent nokso bra. Kunde I
+no vera so gild mot meg enno
+ei Gong at sende med Kjeringi
+mi nokra Kronur, so vært eg
+sagta fegjen.
+Maatte I leva vel, til eg
+fekk Skuldi mi til Dykk.
+Med høgste Vyrdnad
+Dykkar Jon Flatabø.
+Kra. 21.11.93.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

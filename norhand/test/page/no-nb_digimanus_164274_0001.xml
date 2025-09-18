@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:06:27.997+02:00</Created>
+        <LastChange>2023-10-19T15:03:48.605+02:00</LastChange>
+        <TranskribusMetadata docId="1026576" pageId="43160917" pageNr="1" tsid="137706058" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=NXNFFQJBNCTIWRHYQHVNMVUJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=POSMDLXJTIIAIEPFZGAKSRSD" imageId="35400633"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_164274_0001.jpg" imageWidth="3592" imageHeight="4504">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770980924" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="222,191 222,4056 3453,4062 3453,197"/>
+            <TextLine id="line_1663661438000_170" custom="readingOrder {index:0;}">
+                <Coords points="217,373 470,195 517,274 264,452"/>
+                <Baseline points="261,448 514,270"/>
+                <TextEquiv>
+                    <Unicode>Bsv -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663661442458_175" custom="readingOrder {index:1;}">
+                <Coords points="291,482 450,345 601,207 679,281 499,407 339,539"/>
+                <Baseline points="336,535 496,403 676,277"/>
+                <TextEquiv>
+                    <Unicode>30.9.76</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:2;}">
+                <Coords points="1742,615 2560,623 2810,689 2914,604 3176,647 3357,606 3357,484 2933,514 2640,476 2314,511 1975,518 1901,456 1742,482"/>
+                <Baseline points="1761,594 1839,593 1918,593 1997,591 2076,591 2155,591 2234,591 2312,591 2391,591 2470,591 2549,591 2628,591 2707,591 2786,591 2864,591 2943,590 3022,590 3101,588 3180,588 3259,587 3338,585"/>
+                <TextEquiv>
+                    <Unicode>Christiania 26de August 1876</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:3;}">
+                <Coords points="890,936 1159,933 1262,888 1296,917 1920,907 1957,895 1956,821 1763,735 1686,780 1508,759 1345,710 1216,700 888,818"/>
+                <Baseline points="908,885 959,884 1011,884 1062,882 1114,882 1165,882 1217,881 1268,881 1320,881 1371,879 1423,879 1474,879 1526,878 1577,878 1629,877 1680,876 1732,876 1783,875 1835,875 1886,873 1938,873"/>
+                <TextEquiv>
+                    <Unicode>Hr. Henrik Ibsen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:4;}">
+                <Coords points="849,1185 1205,1220 1614,1170 3391,1175 3390,1057 2116,1093 1943,1013 1536,1104 848,1045"/>
+                <Baseline points="866,1155 991,1157 1116,1160 1241,1161 1367,1161 1492,1161 1617,1161 1742,1161 1868,1160 1993,1160 2118,1158 2243,1157 2369,1155 2494,1154 2619,1152 2744,1151 2870,1151 2995,1149 3120,1149 3245,1149 3371,1149"/>
+                <TextEquiv>
+                    <Unicode>Undertegnede K. L. Daa, der sammen med Hr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:5;}">
+                <Coords points="457,1360 3432,1312 3404,1176 456,1191"/>
+                <Baseline points="474,1311 621,1308 768,1305 915,1304 1062,1302 1209,1301 1356,1299 1503,1298 1650,1296 1797,1296 1944,1295 2091,1295 2238,1293 2385,1293 2532,1292 2679,1292 2826,1290 2973,1289 3120,1287 3267,1286 3414,1284"/>
+                <TextEquiv>
+                    <Unicode>Consul A. Heiberg og D Herrer Agent Fearnley &amp; Eger, nu har</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:6;}">
+                <Coords points="469,1501 2538,1454 2715,1493 2792,1500 3259,1518 3461,1435 3461,1328 468,1360"/>
+                <Baseline points="488,1440 635,1440 783,1439 931,1439 1079,1437 1226,1437 1374,1436 1522,1436 1670,1434 1817,1434 1965,1433 2113,1433 2261,1431 2408,1430 2556,1428 2704,1427 2852,1425 2999,1424 3147,1422 3295,1421 3443,1418"/>
+                <TextEquiv>
+                    <Unicode>kjøbt et nyt Skib paa circa 260 Tons bestemt for Fragtfart</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:7;}">
+                <Coords points="471,1626 1902,1673 2104,1583 3298,1574 3298,1524 2408,1465 470,1487"/>
+                <Baseline points="489,1581 628,1581 767,1580 907,1578 1046,1578 1186,1577 1325,1575 1465,1575 1604,1574 1744,1573 1883,1572 2022,1571 2162,1569 2301,1569 2441,1568 2580,1566 2720,1565 2859,1563 2999,1562 3138,1560 3278,1557"/>
+                <TextEquiv>
+                    <Unicode>paa lange Farvande, tager sig den Frihed at bede om</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:8;}">
+                <Coords points="474,1737 2555,1759 3050,1717 3039,1595 2805,1576 1981,1650 473,1600"/>
+                <Baseline points="491,1716 624,1718 758,1718 891,1716 1025,1716 1159,1716 1292,1715 1426,1713 1560,1713 1693,1712 1827,1710 1960,1709 2094,1707 2228,1707 2361,1706 2495,1704 2629,1704 2762,1703 2896,1703 3030,1703"/>
+                <TextEquiv>
+                    <Unicode>Tilladelse til at maatte kalde det "Henrik Ibsen".</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:9;}">
+                <Coords points="523,1903 2086,1862 2290,1950 2493,1859 2596,1898 3333,1852 3349,1728 1708,1770 862,1719 530,1741"/>
+                <Baseline points="542,1859 681,1859 820,1857 960,1857 1099,1856 1239,1856 1378,1854 1517,1853 1657,1851 1796,1850 1936,1848 2075,1847 2214,1845 2354,1845 2493,1844 2633,1842 2772,1842 2911,1842 3051,1842 3190,1844 3330,1845"/>
+                <TextEquiv>
+                    <Unicode>Da Skibet om 1 Maaned skal være færdigt til at seile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:10;}">
+                <Coords points="519,2022 3274,2024 3274,1853 2805,1918 2556,1865 2291,1943 1006,1871 518,1944"/>
+                <Baseline points="537,1998 673,1998 809,1997 945,1997 1081,1995 1217,1994 1353,1994 1489,1992 1625,1992 1761,1991 1897,1991 2033,1989 2169,1988 2305,1988 2441,1986 2577,1986 2713,1985 2849,1985 2985,1983 3121,1983 3257,1982"/>
+                <TextEquiv>
+                    <Unicode>burde Navnet være bestemt inden 14 Dage. Hvis De</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:11;}">
+                <Coords points="522,2199 3289,2165 3288,2076 2953,1995 2690,2031 772,2020 521,2095"/>
+                <Baseline points="539,2139 675,2139 812,2139 948,2139 1085,2138 1221,2138 1358,2136 1494,2135 1631,2133 1767,2133 1904,2132 2040,2130 2177,2129 2313,2127 2450,2127 2586,2126 2723,2126 2859,2124 2996,2124 3132,2124 3269,2124"/>
+                <TextEquiv>
+                    <Unicode>skulde have noget imod vort Ønske, vilde De være</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:12;}">
+                <Coords points="539,2331 3278,2329 3316,2182 545,2152"/>
+                <Baseline points="564,2280 700,2279 837,2277 974,2276 1111,2274 1248,2273 1384,2273 1521,2271 1658,2271 1795,2271 1932,2270 2068,2270 2205,2270 2342,2268 2479,2268 2616,2267 2752,2265 2889,2262 3026,2261 3163,2257 3300,2253"/>
+                <TextEquiv>
+                    <Unicode>saa venlig at underette mig om det inden den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:13;}">
+                <Coords points="522,2471 3426,2426 3427,2342 3050,2267 2734,2321 952,2300 523,2343"/>
+                <Baseline points="542,2418 685,2417 828,2415 971,2413 1115,2412 1258,2411 1401,2411 1545,2409 1688,2409 1831,2409 1975,2409 2118,2409 2261,2408 2404,2408 2548,2408 2691,2406 2834,2405 2978,2403 3121,2402 3264,2399 3408,2396"/>
+                <TextEquiv>
+                    <Unicode>10de September, imodsat Fald antage vi at De har</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:14;}">
+                <Coords points="473,2652 687,2586 1869,2571 1872,2652 2553,2553 2668,2642 3418,2564 3418,2490 2949,2489 2774,2427 2252,2486 1595,2438 524,2487"/>
+                <Baseline points="548,2553 690,2552 833,2552 975,2552 1118,2550 1260,2550 1403,2550 1545,2549 1688,2549 1830,2549 1973,2547 2116,2547 2258,2547 2401,2546 2543,2546 2686,2544 2828,2544 2971,2543 3113,2541 3256,2541 3399,2540"/>
+                <TextEquiv>
+                    <Unicode>forundt os den Ære at afgive dette Tegn paa vor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:15;}">
+                <Coords points="515,2732 2254,2788 2560,2695 3469,2721 3469,2643 3221,2559 1869,2653 1754,2554 1488,2640 1329,2548 559,2595"/>
+                <Baseline points="533,2693 686,2693 840,2693 993,2693 1147,2693 1301,2691 1454,2691 1608,2691 1762,2690 1915,2690 2069,2688 2222,2688 2376,2687 2530,2687 2683,2685 2837,2685 2991,2684 3144,2684 3298,2684 3452,2684"/>
+                <TextEquiv>
+                    <Unicode>Høiagtelse for Dem og Deres for Norge hædrende Virksom-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:16;}">
+                <Coords points="545,2854 574,2858 586,2847 611,2858 630,2847 682,2858 700,2847 752,2859 763,2848 785,2863 811,2863 811,2781 767,2763 719,2781 656,2729 604,2770 545,2777"/>
+                <Baseline points="563,2826 588,2828 613,2828 639,2829 664,2829 689,2829 715,2828 740,2828 765,2828 791,2829"/>
+                <TextEquiv>
+                    <Unicode>hed.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:17;}">
+                <Coords points="545,3014 3240,3023 3433,3043 3471,2881 2621,2876 2406,2805 2185,2916 561,2858"/>
+                <Baseline points="566,2975 710,2975 854,2973 999,2973 1143,2972 1287,2972 1432,2970 1576,2970 1720,2969 1865,2969 2009,2969 2153,2967 2298,2967 2442,2967 2586,2967 2731,2967 2875,2967 3019,2967 3164,2967 3308,2967 3453,2967"/>
+                <TextEquiv>
+                    <Unicode>Mine Medredere bede mig melde Dem deres Ærbødige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:18;}">
+                <Coords points="534,3129 608,3143 634,3124 712,3138 782,3123 867,3144 904,3129 1026,3146 1025,3050 933,3066 818,2993 736,2983 689,3020 641,3013 534,3055"/>
+                <Baseline points="554,3111 579,3110 604,3108 629,3107 654,3107 679,3107 705,3107 730,3107 755,3107 780,3107 805,3108 830,3108 856,3108 881,3108 906,3107 931,3106 956,3105 981,3104 1007,3101"/>
+                <TextEquiv>
+                    <Unicode>Hilsen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:19;}">
+                <Coords points="552,3276 1021,3267 1188,3348 1350,3263 1638,3332 1867,3265 2000,3335 2307,3264 2307,3146 1771,3143 1605,3199 1394,3130 1242,3163 1113,3086 947,3183 729,3124 552,3198"/>
+                <Baseline points="570,3246 660,3246 750,3246 841,3247 931,3248 1022,3248 1112,3249 1203,3249 1293,3249 1384,3251 1474,3251 1565,3251 1655,3249 1746,3249 1836,3248 1927,3246 2017,3245 2108,3243 2198,3240 2289,3237"/>
+                <TextEquiv>
+                    <Unicode>Med Høiagtelse Ærbødigst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:20;}">
+                <Coords points="2055,3415 2498,3401 2557,3434 2606,3401 2720,3397 2772,3420 2854,3418 2854,3244 2575,3241 2513,3275 2055,3282"/>
+                <Baseline points="2072,3387 2107,3389 2143,3390 2179,3390 2215,3390 2250,3392 2286,3392 2322,3390 2358,3390 2393,3390 2429,3390 2465,3390 2501,3390 2536,3389 2572,3389 2608,3390 2644,3390 2679,3390 2715,3392 2751,3392 2842,3396"/>
+                <TextEquiv>
+                    <Unicode>K. L. Daa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:21;}">
+                <Coords points="606,3623 2514,3554 2635,3606 2689,3614 3032,3556 3029,3453 2327,3402 2142,3466 1961,3340 1537,3433 1063,3405 594,3465"/>
+                <Baseline points="611,3527 731,3528 851,3531 971,3533 1091,3534 1211,3534 1331,3534 1451,3536 1571,3534 1691,3534 1811,3534 1931,3533 2051,3533 2171,3531 2291,3531 2411,3530 2531,3529 2651,3528 2771,3528 2891,3527 3012,3527"/>
+                <TextEquiv>
+                    <Unicode>Adr. Professor L. K. Daa, Hægdehougen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:22;}">
+                <Coords points="2342,3710 2453,3679 2689,3710 2734,3681 3033,3691 3035,3617 2973,3586 2928,3611 2821,3605 2665,3580 2607,3554 2485,3561 2345,3569"/>
+                <Baseline points="2363,3654 2395,3656 2428,3659 2460,3661 2493,3663 2526,3664 2558,3665 2591,3666 2623,3666 2656,3668 2689,3668 2721,3668 2754,3668 2786,3668 2819,3669 2852,3669 2884,3669 2917,3669 2949,3669 2982,3671 3015,3671"/>
+                <TextEquiv>
+                    <Unicode>Kristiania</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:23;}">
+                <Coords points="516,3841 3278,3868 3272,3714 3058,3680 2481,3724 1995,3690 1783,3624 1424,3700 512,3649"/>
+                <Baseline points="531,3797 667,3801 803,3803 939,3806 1075,3807 1211,3809 1347,3810 1483,3810 1619,3812 1755,3812 1891,3812 2027,3812 2163,3810 2299,3810 2435,3810 2571,3810 2707,3810 2843,3810 2979,3812 3115,3813 3252,3815"/>
+                <TextEquiv>
+                    <Unicode>P. S. Ogsaa mine Forældre hilse venligst Dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:24;}">
+                <Coords points="532,4049 702,3960 983,3956 1031,4004 1241,3956 1552,3993 1552,3912 1441,3860 1295,3828 1145,3827 1016,3838 954,3860 794,3798 658,3894 532,3872"/>
+                <Baseline points="551,3954 600,3952 649,3950 698,3950 747,3948 796,3948 845,3947 894,3947 943,3947 992,3947 1042,3947 1091,3947 1140,3947 1189,3948 1238,3948 1287,3948 1336,3948 1385,3950 1434,3950 1483,3950 1533,3950"/>
+                <TextEquiv>
+                    <Unicode>og Deres Familie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bsv -
+30.9.76
+Christiania 26de August 1876
+Hr. Henrik Ibsen.
+Undertegnede K. L. Daa, der sammen med Hr.
+Consul A. Heiberg og D Herrer Agent Fearnley &amp; Eger, nu har
+kjøbt et nyt Skib paa circa 260 Tons bestemt for Fragtfart
+paa lange Farvande, tager sig den Frihed at bede om
+Tilladelse til at maatte kalde det "Henrik Ibsen".
+Da Skibet om 1 Maaned skal være færdigt til at seile
+burde Navnet være bestemt inden 14 Dage. Hvis De
+skulde have noget imod vort Ønske, vilde De være
+saa venlig at underette mig om det inden den
+10de September, imodsat Fald antage vi at De har
+forundt os den Ære at afgive dette Tegn paa vor
+Høiagtelse for Dem og Deres for Norge hædrende Virksom-
+hed.
+Mine Medredere bede mig melde Dem deres Ærbødige
+Hilsen.
+Med Høiagtelse Ærbødigst
+K. L. Daa.
+Adr. Professor L. K. Daa, Hægdehougen
+Kristiania
+P. S. Ogsaa mine Forældre hilse venligst Dem
+og Deres Familie.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

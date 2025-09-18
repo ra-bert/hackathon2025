@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:01:51.037+02:00</Created>
+        <LastChange>2023-10-19T14:48:52.767+02:00</LastChange>
+        <TranskribusMetadata docId="1026950" pageId="43168045" pageNr="1" tsid="137704791" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=ICPHHYWFNAKHQYTAPCLRTENM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IMOBJIWTPWNKBCHYXXYODSCL" imageId="35407724"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_227316_0001.jpg" imageWidth="4394" imageHeight="3775">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770848832" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662032103838_1044"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1662032103838_1044" custom="readingOrder {index:0;}">
+            <Coords points="2303,346 4267,346 4257,3475 2293,3475"/>
+            <TextLine id="region_1662032103838_1044l2" custom="readingOrder {index:0;}">
+                <Coords points="3496,553 3676,553 3747,514 3867,540 3903,574 4032,538 4121,509 4073,365 3741,375 3502,356"/>
+                <Baseline points="3509,461 3536,467 3564,472 3592,479 3620,482 3647,484 3675,487 3703,488 3731,489 3758,489 3786,489 3814,489 3842,488 3869,488 3897,486 3925,485 3953,485 3980,483 4008,483 4036,483 4064,483"/>
+                <TextEquiv>
+                    <Unicode>23/11 1907</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032103838_1044l6" custom="readingOrder {index:1;}">
+                <Coords points="2581,889 2763,888 3351,741 3456,784 3556,735 3750,751 3762,610 3536,696 3239,582 2977,738 2747,588 2571,609"/>
+                <Baseline points="2588,782 2715,764 2768,765 2821,764 2873,764 2926,762 2979,761 3031,759 3084,757 3137,754 3190,752 3242,749 3295,746 3348,743 3400,741 3453,738 3506,736 3558,734 3611,733 3664,732 3717,732"/>
+                <TextEquiv>
+                    <Unicode>Kjære Svendsen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032103838_1044l7" custom="readingOrder {index:2;}">
+                <Coords points="2895,1023 3185,991 3450,994 3614,993 3811,1017 3925,943 4163,944 4160,844 4005,913 3807,834 3679,881 3433,868 2956,826 2891,907"/>
+                <Baseline points="2903,975 2965,975 3027,974 3090,972 3152,972 3215,971 3277,969 3339,966 3402,965 3464,962 3527,960 3589,959 3651,956 3714,953 3776,951 3839,948 3901,947 3963,944 4026,941 4088,939 4151,938"/>
+                <TextEquiv>
+                    <Unicode>Forhindret fra at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032103838_1044l8" custom="readingOrder {index:3;}">
+                <Coords points="2531,1148 3776,1086 3909,1137 4065,1114 4062,984 3843,989 3364,1000 3237,1018 3135,1083 2529,1078"/>
+                <Baseline points="2540,1115 2615,1114 2691,1113 2766,1112 2842,1110 2918,1109 2993,1107 3069,1106 3145,1104 3220,1103 3296,1101 3372,1099 3447,1097 3523,1094 3599,1091 3674,1089 3750,1086 3826,1082 3901,1079 3977,1074 4053,1071"/>
+                <TextEquiv>
+                    <Unicode>overvære din Triumf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032103838_1044l9" custom="readingOrder {index:4;}">
+                <Coords points="2536,1307 2664,1333 2819,1274 3287,1250 3527,1322 3726,1315 3809,1261 4036,1306 4031,1183 3922,1162 3646,1212 3272,1184 3153,1231 2845,1167 2534,1240"/>
+                <Baseline points="2546,1275 2619,1273 2693,1271 2767,1268 2841,1266 2915,1263 2989,1260 3062,1257 3136,1254 3210,1252 3284,1250 3358,1247 3432,1244 3506,1241 3579,1239 3653,1236 3727,1234 3801,1232 3875,1230 3949,1227 4023,1226"/>
+                <TextEquiv>
+                    <Unicode>iaften sender jeg dig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032103838_1044l10" custom="readingOrder {index:5;}">
+                <Coords points="2517,1453 3375,1419 3572,1464 4202,1402 4199,1310 4125,1302 3829,1307 3741,1304 3647,1371 3444,1305 3227,1361 2968,1271 2809,1363 2516,1404"/>
+                <Baseline points="2528,1433 2611,1433 2694,1431 2777,1430 2860,1428 2943,1425 3026,1423 3109,1421 3192,1418 3275,1415 3359,1412 3442,1408 3525,1404 3608,1402 3691,1398 3774,1397 3857,1394 3940,1391 4023,1389 4106,1388 4190,1388"/>
+                <TextEquiv>
+                    <Unicode>disse Blomster, plukkede</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032103838_1044l11" custom="readingOrder {index:6;}">
+                <Coords points="2528,1621 2810,1587 3328,1624 3400,1567 3628,1598 3785,1580 4226,1567 4224,1508 3797,1441 3414,1518 2956,1458 2789,1555 2525,1527"/>
+                <Baseline points="2537,1592 2620,1589 2704,1587 2788,1584 2872,1580 2956,1577 3040,1573 3124,1569 3208,1565 3292,1562 3376,1559 3459,1554 3543,1552 3627,1550 3711,1547 3795,1545 3879,1544 3963,1544 4047,1544 4131,1544 4215,1545"/>
+                <TextEquiv>
+                    <Unicode>paa Livets Vejkant, hvor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032103838_1044l12" custom="readingOrder {index:7;}">
+                <Coords points="2524,1822 2922,1773 3235,1775 3847,1710 3977,1807 4096,1759 4061,1648 3564,1633 3513,1661 3386,1594 3094,1696 2822,1639 2612,1708 2518,1678"/>
+                <Baseline points="2531,1760 2608,1756 2686,1752 2763,1748 2841,1745 2918,1740 2996,1736 3073,1733 3151,1728 3228,1724 3306,1720 3384,1716 3461,1713 3539,1710 3616,1707 3694,1704 3771,1703 3849,1701 3926,1700 4004,1700 4082,1700"/>
+                <TextEquiv>
+                    <Unicode>jeg tankefuld sidder og</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032103838_1044l13" custom="readingOrder {index:8;}">
+                <Coords points="2522,1955 3150,1948 3275,1900 3793,1952 3914,1867 4097,1883 4094,1815 3854,1824 3757,1753 2760,1836 2516,1849"/>
+                <Baseline points="2531,1928 2608,1929 2686,1931 2764,1929 2841,1928 2919,1925 2997,1920 3074,1916 3152,1911 3230,1907 3308,1901 3385,1895 3463,1889 3541,1883 3618,1878 3696,1873 3774,1869 3851,1866 3929,1863 4007,1862 4085,1860"/>
+                <TextEquiv>
+                    <Unicode>drømmer om fagre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032103838_1044l14" custom="readingOrder {index:9;}">
+                <Coords points="2503,2113 2669,2179 2768,2109 3267,2091 3414,2136 3801,2040 4004,2122 4193,2087 4190,1998 4056,1997 3966,1928 3698,2019 3173,1977 2601,2016 2500,2031"/>
+                <Baseline points="2513,2099 2596,2096 2679,2094 2763,2090 2846,2087 2930,2083 3013,2079 3096,2076 3180,2071 3263,2067 3347,2063 3430,2060 3513,2057 3597,2053 3680,2050 3764,2048 3847,2046 3930,2044 4014,2043 4097,2043 4181,2043"/>
+                <TextEquiv>
+                    <Unicode>Ungdomstid og om Ung-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032103838_1044l15" custom="readingOrder {index:10;}">
+                <Coords points="2506,2302 4222,2241 4219,2161 4035,2113 3823,2180 3607,2124 3352,2183 2502,2192"/>
+                <Baseline points="2516,2262 2600,2261 2685,2259 2770,2257 2855,2254 2939,2252 3024,2247 3109,2244 3194,2240 3278,2237 3363,2232 3448,2228 3533,2225 3617,2221 3702,2218 3787,2216 3872,2213 3956,2211 4041,2211 4126,2211 4211,2211"/>
+                <TextEquiv>
+                    <Unicode>domsvennen, hvis Harpe-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032103838_1044l16" custom="readingOrder {index:11;}">
+                <Coords points="2523,2433 2714,2420 2827,2503 2983,2404 3237,2406 3311,2458 3631,2405 4153,2379 4149,2275 4004,2259 3723,2341 3488,2345 3373,2287 3146,2300 2975,2322 2520,2333"/>
+                <Baseline points="2534,2417 2614,2415 2694,2414 2775,2412 2855,2411 2936,2408 3016,2405 3096,2403 3177,2400 3257,2397 3338,2394 3418,2391 3498,2388 3579,2384 3659,2382 3740,2378 3820,2375 3900,2373 3981,2370 4061,2367 4142,2366"/>
+                <TextEquiv>
+                    <Unicode>klang nu lyder ned til</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032103838_1044l18" custom="readingOrder {index:12;}">
+                <Coords points="2536,2595 2700,2684 2888,2624 4175,2573 4196,2413 3830,2418 3801,2506 3625,2539 3485,2464 3177,2419 2998,2493 2736,2506 2535,2538"/>
+                <Baseline points="2547,2591 2627,2589 2708,2588 2789,2586 2870,2585 2951,2583 3031,2582 3112,2580 3193,2579 3274,2577 3355,2575 3435,2573 3516,2571 3597,2570 3678,2567 3759,2565 3839,2562 3920,2559 4001,2557 4082,2554 4163,2552"/>
+                <TextEquiv>
+                    <Unicode>mig fra Pieridernes Fest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032103838_1044l19" custom="readingOrder {index:13;}">
+                <Coords points="2520,2777 4172,2724 4187,2660 3911,2664 3768,2585 3578,2664 2937,2644 2841,2705 2751,2669 2517,2716"/>
+                <Baseline points="2529,2768 2611,2764 2693,2760 2776,2756 2858,2752 2941,2748 3023,2745 3106,2741 3188,2738 3271,2735 3353,2731 3435,2728 3518,2725 3600,2722 3683,2719 3765,2717 3848,2714 3930,2711 4013,2709 4095,2706 4178,2705"/>
+                <TextEquiv>
+                    <Unicode>ved kastaliske Kilde-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032103838_1044l20" custom="readingOrder {index:14;}">
+                <Coords points="2519,2968 2793,2936 2914,2936 3090,2923 3250,2919 3253,2870 3061,2879 2989,2837 2939,2848 2869,2808 2685,2887 2600,2867 2515,2879"/>
+                <Baseline points="2529,2934 2559,2932 2589,2929 2619,2928 2649,2927 2679,2925 2709,2924 2739,2922 2769,2921 2799,2921 2829,2919 2859,2919 2889,2918 2919,2917 2949,2916 2979,2915 3009,2914 3039,2913 3069,2911 3099,2910 3239,2905"/>
+                <TextEquiv>
+                    <Unicode>væld. - -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032103838_1044l21" custom="readingOrder {index:15;}">
+                <Coords points="2662,3124 2781,3103 2968,3154 3033,3106 3258,3112 3359,3068 3472,3109 4081,3088 4106,2967 3922,3025 3716,2974 3346,3011 3074,2999 2966,3048 2806,2963 2660,2977"/>
+                <Baseline points="2672,3093 2740,3092 2808,3091 2876,3089 2945,3087 3013,3086 3081,3084 3150,3083 3218,3081 3286,3080 3355,3078 3423,3077 3491,3075 3559,3075 3628,3075 3696,3074 3764,3075 3833,3075 3901,3077 3969,3078 4038,3080"/>
+                <TextEquiv>
+                    <Unicode>Tak, fordi du kom!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032103838_1044l22" custom="readingOrder {index:16;}">
+                <Coords points="3061,3266 3165,3251 3301,3286 3394,3243 3593,3315 3867,3237 3983,3269 4021,3252 4021,3160 3847,3190 3608,3191 3474,3156 3304,3170 3173,3094 3060,3124"/>
+                <Baseline points="3072,3249 3121,3252 3170,3252 3220,3254 3269,3254 3319,3254 3368,3254 3417,3252 3467,3252 3516,3251 3566,3249 3615,3249 3665,3248 3714,3248 3763,3248 3813,3248 3862,3249 3912,3251 3961,3252 4011,3255"/>
+                <TextEquiv>
+                    <Unicode>Din hengivne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032103838_1044l23" custom="readingOrder {index:17;}">
+                <Coords points="2731,3492 4031,3518 4086,3493 4088,3313 3967,3270 3621,3299 3487,3368 3375,3329 3086,3272 2958,3250 2732,3325"/>
+                <Baseline points="2801,3396 2921,3392 2982,3393 3043,3394 3104,3395 3164,3396 3225,3396 3286,3396 3347,3398 3407,3398 3468,3398 3529,3399 3590,3399 3650,3399 3711,3399 3772,3399 3833,3399 3893,3401 3954,3401 4015,3401 4076,3401"/>
+                <TextEquiv>
+                    <Unicode>Theodor Løvstad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>23/11 1907
+Kjære Svendsen!
+Forhindret fra at
+overvære din Triumf
+iaften sender jeg dig
+disse Blomster, plukkede
+paa Livets Vejkant, hvor
+jeg tankefuld sidder og
+drømmer om fagre
+Ungdomstid og om Ung-
+domsvennen, hvis Harpe-
+klang nu lyder ned til
+mig fra Pieridernes Fest
+ved kastaliske Kilde-
+væld. - -
+Tak, fordi du kom!
+Din hengivne
+Theodor Løvstad</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

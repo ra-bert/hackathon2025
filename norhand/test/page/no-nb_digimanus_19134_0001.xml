@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:51:10.229+02:00</Created>
+        <LastChange>2023-10-25T10:43:02.890+02:00</LastChange>
+        <TranskribusMetadata docId="1026853" pageId="43165152" pageNr="1" tsid="138024207" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=APTXUQATKENWDXHEIPUHWXMT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OFDWMHYKVFUGDBNHXXOLBBUT" imageId="35404855"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_19134_0001.jpg" imageWidth="2331" imageHeight="3552">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770888957" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="187,168 180,2764 2158,2762 2165,166"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="544,369 954,428 1323,350 1593,395 1890,337 2008,384 2070,354 2069,265 1749,253 1594,301 1388,234 1310,276 1082,296 982,245 848,182 665,233 544,340"/>
+                <Baseline points="555,365 630,364 705,363 780,362 855,360 930,360 1005,359 1080,359 1155,357 1230,357 1306,356 1381,354 1456,353 1531,353 1606,351 1681,350 1756,348 1831,347 1906,345 1981,342 2057,341"/>
+                <TextEquiv>
+                    <Unicode>Flensburg 16.11.13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="338,721 502,705 733,777 1070,701 1257,699 1427,734 1766,678 1766,618 1449,578 1367,503 1060,626 771,527 579,449 339,596"/>
+                <Baseline points="351,677 413,675 476,674 539,672 602,672 665,672 728,672 790,672 853,672 916,674 979,674 1042,675 1105,675 1168,675 1230,675 1293,675 1356,675 1419,675 1482,674 1545,672 1745,671"/>
+                <TextEquiv>
+                    <Unicode>Selvfølglig ikke. -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="203,992 463,1093 807,965 1227,1020 1554,962 1718,1024 1806,959 2109,981 2109,810 1809,803 1499,820 1362,888 1196,823 1035,863 698,874 546,873 354,829 203,899"/>
+                <Baseline points="216,947 309,951 402,956 495,959 588,960 681,962 774,963 867,963 960,963 1053,962 1146,962 1239,960 1332,959 1425,959 1518,957 1611,956 1704,956 1797,954 1890,954 1983,954 2098,952"/>
+                <TextEquiv>
+                    <Unicode>Alt gik utmærket iaften.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="192,1257 1521,1279 2074,1244 2084,1121 1654,1160 1367,1082 1090,1143 384,1100 192,1173"/>
+                <Baseline points="204,1235 301,1235 399,1236 497,1238 595,1238 693,1240 791,1241 888,1242 986,1244 1084,1245 1182,1245 1280,1245 1378,1245 1475,1245 1573,1244 1671,1241 1769,1238 1867,1233 1965,1228 2063,1221"/>
+                <TextEquiv>
+                    <Unicode>Hviss redaktør Nielsen er i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="209,1419 2106,1389 2114,1272 1960,1273 1856,1294 1574,1286 1472,1249 1135,1320 612,1313 395,1239 208,1279"/>
+                <Baseline points="222,1386 315,1385 409,1385 502,1383 596,1383 689,1383 783,1382 876,1382 970,1380 1063,1380 1157,1379 1251,1379 1344,1377 1438,1377 1531,1376 1625,1374 1718,1373 1812,1371 1905,1368 1999,1366 2093,1364"/>
+                <TextEquiv>
+                    <Unicode>forbindelse med Mittet så</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="178,1559 1255,1530 1498,1610 1815,1513 2058,1524 2081,1413 1805,1400 1649,1424 1081,1427 745,1388 567,1483 420,1416 178,1480"/>
+                <Baseline points="189,1524 281,1524 374,1524 467,1524 560,1524 653,1524 745,1523 838,1523 931,1523 1024,1523 1117,1523 1209,1521 1302,1521 1395,1521 1488,1520 1581,1520 1673,1518 1766,1518 1859,1517 1952,1515 2045,1515"/>
+                <TextEquiv>
+                    <Unicode>skriv ham vedlakte på et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="184,1677 545,1725 645,1666 840,1716 1467,1685 1821,1748 2150,1664 2152,1550 185,1589"/>
+                <Baseline points="195,1667 291,1667 387,1667 483,1667 579,1667 675,1667 771,1667 867,1667 963,1665 1059,1665 1156,1664 1252,1664 1348,1662 1444,1662 1540,1661 1636,1661 1732,1659 1828,1658 1924,1658 2020,1656 2146,1653"/>
+                <TextEquiv>
+                    <Unicode>av mine undertegnete papi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="213,1853 811,1805 937,1865 1099,1810 1249,1843 1652,1831 1650,1718 1214,1719 921,1682 773,1737 676,1712 567,1778 354,1725 211,1748"/>
+                <Baseline points="225,1806 289,1813 353,1819 418,1823 482,1824 546,1826 611,1826 675,1824 739,1821 804,1818 868,1815 932,1812 997,1809 1061,1805 1125,1802 1190,1799 1254,1797 1318,1796 1383,1796 1447,1796 1646,1800"/>
+                <TextEquiv>
+                    <Unicode>rer er du snild.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="187,2126 482,2120 620,2184 975,2086 1098,2131 1343,2077 1682,2143 1791,2097 2037,2100 2037,1984 1868,1960 1498,1847 1068,1910 943,1988 614,2006 446,1849 186,1989"/>
+                <Baseline points="198,2070 289,2075 380,2079 472,2082 563,2085 654,2087 746,2088 837,2088 928,2088 1020,2088 1111,2087 1202,2085 1294,2084 1385,2082 1476,2081 1568,2078 1659,2076 1750,2075 1842,2072 1933,2070 2025,2067"/>
+                <TextEquiv>
+                    <Unicode>Send det til Århus. -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="558,2430 930,2378 1189,2445 1425,2371 1878,2388 1875,2278 1582,2146 1320,2212 926,2138 563,2240"/>
+                <Baseline points="569,2370 764,2372 822,2372 880,2372 938,2372 996,2372 1054,2370 1112,2370 1170,2369 1228,2367 1286,2366 1343,2364 1401,2363 1459,2361 1517,2360 1575,2358 1633,2357 1691,2355 1749,2354 1807,2352 1865,2351"/>
+                <TextEquiv>
+                    <Unicode>Hjertlig hilsen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="1565,2744 1628,2739 1674,2703 1701,2716 1756,2706 1870,2636 2122,2640 2117,2536 1824,2434 1663,2470 1593,2519 1555,2524"/>
+                <Baseline points="1564,2624 1596,2635 1622,2638 1648,2640 1674,2640 1700,2639 1725,2638 1751,2636 1777,2634 1803,2632 1829,2630 1855,2627 1880,2624 1906,2624 1932,2622 1958,2621 1984,2622 2104,2623"/>
+                <TextEquiv>
+                    <Unicode>Roald.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Flensburg 16.11.13
+Selvfølglig ikke. -
+Alt gik utmærket iaften.
+Hviss redaktør Nilsen er i
+forbindelse med Mittet så
+skriv ham vedlakte på et
+av mine undertegnete papi-
+rer er du snild.
+Send det til Århus. -
+Hjertelig hilsen
+Roald.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

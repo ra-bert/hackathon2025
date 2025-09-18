@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:22:44.912+02:00</Created>
+        <LastChange>2023-10-18T15:27:09.405+02:00</LastChange>
+        <TranskribusMetadata docId="1026673" pageId="43161529" pageNr="1" tsid="137653638" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=MTUDMZZHFZNKONTIAQZXNFON&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WNSVVFPVNYSOSTGVWQHXHTZV" imageId="35401242"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_248154_0001.jpg" imageWidth="4092" imageHeight="4859">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770940227" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662373409191_306"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1662373409191_306" custom="readingOrder {index:0;}">
+            <Coords points="260,310 3777,310 3777,4682 260,4682"/>
+            <TextLine id="region_1662373409191_306l4" custom="readingOrder {index:0;}">
+                <Coords points="702,892 737,898 788,864 841,866 859,854 907,868 948,850 984,849 982,730 905,743 839,717 774,742 733,772 700,770"/>
+                <Baseline points="716,846 741,848 766,849 792,850 817,850 843,848 868,848 893,848 919,846 944,845 970,844"/>
+                <TextEquiv>
+                    <Unicode>Til</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373409191_306l6" custom="readingOrder {index:1;}">
+                <Coords points="717,1125 986,1151 1249,1097 1346,1158 1436,1099 1567,1190 1746,1099 2297,1123 2580,1121 2631,969 2213,945 2016,962 1848,1062 1599,970 718,987"/>
+                <Baseline points="740,1088 853,1082 939,1082 1025,1082 1111,1083 1197,1084 1282,1086 1368,1086 1454,1088 1540,1090 1626,1091 1711,1092 1797,1094 1883,1096 1969,1096 2055,1096 2140,1096 2226,1096 2312,1096 2398,1094 2564,1106"/>
+                <TextEquiv>
+                    <Unicode>"Læseforeningen for Kvinder"!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373409191_306l7" custom="readingOrder {index:2;}">
+                <Coords points="1204,1555 1513,1573 1677,1497 2135,1585 2306,1509 2946,1551 3002,1540 3004,1415 2809,1473 2539,1401 1249,1401"/>
+                <Baseline points="1262,1494 1348,1490 1434,1489 1520,1488 1607,1488 1693,1488 1779,1488 1866,1490 1952,1490 2038,1492 2125,1494 2211,1496 2297,1498 2383,1500 2470,1502 2556,1502 2642,1502 2729,1502 2815,1502 2901,1500 2988,1498"/>
+                <TextEquiv>
+                    <Unicode>Jeg tillader mig herved at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373409191_306l8" custom="readingOrder {index:3;}">
+                <Coords points="671,1699 1282,1678 1501,1755 1639,1682 2366,1677 2788,1771 2989,1687 2871,1578 2631,1613 674,1561"/>
+                <Baseline points="686,1648 800,1650 914,1653 1029,1656 1143,1658 1258,1660 1372,1662 1486,1664 1601,1665 1715,1666 1830,1668 1944,1668 2058,1670 2173,1670 2287,1670 2402,1670 2516,1672 2630,1672 2745,1672 2859,1672 2974,1672"/>
+                <TextEquiv>
+                    <Unicode>frembære min og mine børns tak for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373409191_306l9" custom="readingOrder {index:4;}">
+                <Coords points="639,1846 3016,1889 3018,1779 2833,1755 2584,1797 641,1766"/>
+                <Baseline points="654,1812 771,1818 888,1822 1005,1825 1123,1828 1240,1832 1357,1834 1475,1836 1592,1838 1709,1839 1827,1840 1944,1842 2061,1844 2178,1844 2296,1846 2413,1848 2530,1850 2648,1852 2765,1854 2882,1856 3000,1860"/>
+                <TextEquiv>
+                    <Unicode>den smukke maade hvorpaa "Læsefo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373409191_306l10" custom="readingOrder {index:5;}">
+                <Coords points="653,1995 976,2056 1091,2020 2645,2049 2647,1971 655,1906"/>
+                <Baseline points="670,1960 768,1966 866,1972 964,1976 1062,1982 1160,1986 1258,1990 1356,1994 1454,1998 1552,2001 1651,2004 1749,2006 1847,2009 1945,2012 2043,2013 2141,2014 2239,2016 2337,2018 2435,2018 2533,2020 2632,2020"/>
+                <TextEquiv>
+                    <Unicode>reningen" hædrede min mand,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373409191_306l11" custom="readingOrder {index:6;}">
+                <Coords points="670,2160 1221,2187 1380,2261 1548,2184 1907,2251 2078,2186 2196,2275 2386,2224 2946,2224 2944,2120 671,2079"/>
+                <Baseline points="684,2130 796,2138 908,2146 1020,2151 1132,2156 1245,2162 1357,2166 1469,2170 1581,2174 1693,2176 1806,2179 1918,2181 2030,2182 2142,2184 2254,2184 2367,2184 2479,2184 2591,2184 2703,2182 2815,2182 2928,2180"/>
+                <TextEquiv>
+                    <Unicode>Consul Tho. Joh. Heftyes jordefærd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373409191_306l12" custom="readingOrder {index:7;}">
+                <Coords points="637,2349 2665,2413 3026,2408 3052,2285 639,2262"/>
+                <Baseline points="652,2310 771,2314 890,2319 1009,2322 1128,2326 1247,2330 1366,2332 1485,2334 1604,2338 1723,2340 1843,2342 1962,2344 2081,2348 2200,2350 2319,2352 2438,2356 2557,2358 2676,2362 2795,2366 2914,2369 3034,2374"/>
+                <TextEquiv>
+                    <Unicode>ved at lægge en krans paa hans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373409191_306l13" custom="readingOrder {index:8;}">
+                <Coords points="649,2503 679,2495 720,2520 761,2521 1075,2512 1076,2476 987,2465 937,2425 827,2431 762,2399 692,2436 651,2432"/>
+                <Baseline points="664,2488 690,2493 716,2495 743,2498 769,2499 796,2500 822,2500 848,2500 875,2500 901,2500 928,2500 954,2501 980,2502 1007,2503 1033,2504 1060,2506"/>
+                <TextEquiv>
+                    <Unicode>kiste.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663578385438_148" custom="readingOrder {index:9;}">
+                <Coords points="749,2718 1182,2688 1310,2778 2036,2835 2475,2815 2475,2912 2254,2927 1210,2853 954,2935 745,2861"/>
+                <Baseline points="762,2826 860,2830 958,2834 1056,2838 1155,2842 1253,2846 1351,2850 1450,2853 1548,2856 1646,2860 1745,2864 1843,2866 1941,2870 2039,2871 2138,2874 2236,2875 2334,2876 2433,2878 2475,2878"/>
+                <TextEquiv>
+                    <Unicode>Frognæs d. 11. Oktober 1886.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663578352161_128" custom="readingOrder {index:10;}">
+                <Coords points="2271,3148 2381,3115 2630,3155 3015,3126 3013,3239 2823,3248 2708,3308 2572,3249 2363,3261 2271,3220"/>
+                <Baseline points="2271,3218 2287,3220 2335,3222 2382,3224 2430,3226 2477,3228 2525,3230 2572,3232 2620,3234 2667,3234 2715,3234 2762,3234 2810,3232 2857,3230 2905,3227 2952,3222 3000,3216"/>
+                <TextEquiv>
+                    <Unicode>Ærbødigst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373409191_306l17" custom="readingOrder {index:11;}">
+                <Coords points="2290,3512 2871,3481 2935,3558 3065,3560 3345,3507 3343,3358 2910,3341 2724,3445 2553,3341 2493,3344 2370,3436 2289,3443"/>
+                <Baseline points="2306,3476 2357,3481 2408,3483 2459,3485 2510,3486 2562,3488 2613,3488 2664,3486 2715,3486 2766,3484 2818,3483 2869,3481 2920,3478 2971,3478 3022,3475 3074,3474 3125,3472 3176,3472 3227,3471 3278,3471 3330,3472"/>
+                <TextEquiv>
+                    <Unicode>Marie Heftye</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373409191_306l18" custom="readingOrder {index:12;}">
+                <Coords points="2351,3721 2497,3642 2590,3636 2810,3637 2893,3700 3025,3656 3090,3678 3138,3636 3186,3645 3182,3561 2879,3511 2751,3545 2632,3496 2474,3531 2423,3573 2352,3560"/>
+                <Baseline points="2366,3626 2406,3626 2446,3626 2486,3626 2526,3626 2567,3626 2607,3626 2647,3626 2687,3628 2727,3628 2768,3628 2808,3628 2848,3628 2888,3628 2928,3628 2969,3628 3009,3628 3049,3629 3089,3630 3129,3630 3170,3630"/>
+                <TextEquiv>
+                    <Unicode>født Meyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Til
+"Læseforeningen for Kvinder"!
+Jeg tillader mig herved at
+frembære min og mine børn tak for
+den smukke maade hvorpaa "Læsefo-
+reningen" hædrede min mand,
+Consul Tho. Joh. Heftyes jordefærd
+ved at lægge en krans paa hans
+kiste.
+Frognæs d. 11. Oktober 1886.
+Ærbødigst
+Marie Heftye
+født Meyer</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

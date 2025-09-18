@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:38:09.678+02:00</Created>
+        <LastChange>2023-10-24T12:39:55.414+02:00</LastChange>
+        <TranskribusMetadata docId="1026746" pageId="43161888" pageNr="1" tsid="137972955" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=BUBKFGLJQWGTECFDAFSXUBPF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FWBKUJFYMNZRGMZQHYDTGJKU" imageId="35401594"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_291611_0001.jpg" imageWidth="4574" imageHeight="3715">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770913381" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r4"/>
+                <RegionRefIndexed index="1" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:0;}">
+            <Coords points="2719,236 2717,3528 4445,3528 4447,236"/>
+            <TextLine id="r4l3" custom="readingOrder {index:0;}">
+                <Coords points="2845,1162 3368,1167 3551,1218 3626,1159 3763,1239 3842,1187 4276,1173 4277,1073 4192,1051 4082,1087 3686,1050 3501,1122 3319,1122 3225,1064 2846,1086"/>
+                <Baseline points="2855,1152 2925,1154 2996,1154 3066,1154 3137,1155 3207,1155 3278,1156 3348,1157 3419,1157 3489,1158 3560,1158 3630,1160 3701,1160 3771,1161 3842,1161 3912,1163 3983,1164 4053,1164 4124,1166 4194,1167 4265,1167"/>
+                <TextEquiv>
+                    <Unicode>Hr. Sekretær Østgaard.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:1;}">
+                <Coords points="2847,1616 2992,1647 3151,1582 3642,1584 3739,1647 3855,1565 4281,1584 4405,1604 4403,1516 4158,1493 4063,1540 3940,1474 3752,1542 3292,1465 3153,1539 2956,1482 2880,1531"/>
+                <Baseline points="2891,1566 2966,1564 3041,1563 3116,1563 3191,1563 3266,1563 3341,1565 3416,1566 3491,1567 3566,1568 3641,1569 3716,1571 3791,1571 3866,1572 3941,1571 4016,1571 4091,1569 4166,1565 4241,1563 4316,1558 4392,1551"/>
+                <TextEquiv>
+                    <Unicode>Jeg tillader mig herved ær-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:2;}">
+                <Coords points="2707,1699 2863,1694 2998,1772 3278,1713 4349,1735 4319,1637 3731,1671 3645,1613 3547,1676 3469,1624 3414,1675 3239,1630 3054,1675 2809,1613 2707,1665"/>
+                <Baseline points="2717,1686 2797,1689 2878,1693 2959,1695 3040,1698 3121,1700 3202,1701 3283,1703 3364,1703 3445,1704 3526,1704 3606,1704 3687,1706 3768,1706 3849,1706 3930,1706 4011,1706 4092,1706 4173,1706 4254,1706 4335,1706"/>
+                <TextEquiv>
+                    <Unicode>bødigst at henstille til</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l6" custom="readingOrder {index:3;}">
+                <Coords points="2746,1851 3433,1852 3607,1920 3715,1846 4443,1856 4443,1795 4026,1763 3715,1821 3617,1759 3482,1794 3340,1755 3044,1819 2862,1741 2745,1806"/>
+                <Baseline points="2756,1836 2839,1839 2923,1841 3007,1842 3091,1844 3175,1844 3259,1845 3342,1845 3426,1845 3510,1845 3594,1844 3678,1844 3762,1844 3846,1842 3929,1842 4013,1841 4097,1841 4181,1841 4265,1841 4349,1841 4433,1841"/>
+                <TextEquiv>
+                    <Unicode>Deres velvillighed at sætte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l7" custom="readingOrder {index:4;}">
+                <Coords points="2741,2024 3564,1973 4327,2004 4449,1994 4450,1922 4276,1946 4094,1878 3851,1927 3735,1870 3616,1937 3299,1872 3053,1951 2742,1918"/>
+                <Baseline points="2753,1967 2837,1967 2921,1968 3005,1968 3090,1968 3174,1968 3258,1970 3343,1970 3427,1970 3511,1970 3596,1971 3680,1971 3764,1971 3848,1971 3933,1973 4017,1973 4101,1973 4186,1974 4270,1974 4354,1974 4439,1976"/>
+                <TextEquiv>
+                    <Unicode>mig i Stand til at besvare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l8" custom="readingOrder {index:5;}">
+                <Coords points="2769,2104 2964,2175 3115,2142 4456,2121 4456,2062 4135,2043 3782,1978 3641,2044 2765,2023"/>
+                <Baseline points="2780,2094 2863,2097 2946,2100 3029,2102 3113,2102 3196,2103 3279,2103 3362,2102 3446,2102 3529,2102 3612,2100 3695,2100 3779,2100 3862,2100 3945,2100 4028,2100 4112,2103 4195,2105 4278,2108 4361,2112 4445,2117"/>
+                <TextEquiv>
+                    <Unicode>medfølgende 2 Skrivelser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l9" custom="readingOrder {index:6;}">
+                <Coords points="2748,2290 3197,2280 3389,2284 3787,2235 4161,2298 4252,2297 4371,2253 4371,2198 4198,2219 4027,2146 3653,2165 3508,2126 3360,2204 3218,2116 3015,2217 2844,2149 2748,2189"/>
+                <Baseline points="2759,2231 2839,2235 2919,2238 2999,2242 3079,2244 3159,2244 3239,2246 3319,2244 3399,2244 3479,2244 3560,2243 3640,2241 3720,2241 3800,2240 3880,2240 3960,2240 4040,2241 4120,2242 4200,2244 4280,2247 4361,2252"/>
+                <TextEquiv>
+                    <Unicode>fra D Hrr. Dr. Aabel og</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l10" custom="readingOrder {index:7;}">
+                <Coords points="2782,2388 2979,2412 3208,2407 3480,2420 3904,2368 4369,2416 4369,2332 4196,2353 4067,2274 3948,2336 3806,2276 3667,2334 3537,2259 3071,2304 2782,2278"/>
+                <Baseline points="2793,2369 2871,2375 2949,2378 3027,2381 3106,2382 3184,2384 3262,2384 3340,2383 3419,2382 3497,2381 3575,2380 3653,2379 3732,2378 3810,2376 3888,2376 3966,2376 4045,2376 4123,2378 4201,2380 4279,2383 4358,2388"/>
+                <TextEquiv>
+                    <Unicode>Kand. C. Hall. De om-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l11" custom="readingOrder {index:8;}">
+                <Coords points="2740,2533 4355,2556 4364,2458 3737,2460 3562,2420 3416,2445 3255,2443 2955,2479 2843,2423 2741,2471"/>
+                <Baseline points="2751,2505 2830,2507 2910,2507 2990,2508 3070,2509 3150,2510 3229,2511 3309,2512 3389,2513 3469,2514 3549,2514 3628,2516 3708,2516 3788,2517 3868,2517 3948,2517 4027,2517 4107,2516 4187,2516 4267,2514 4347,2513"/>
+                <TextEquiv>
+                    <Unicode>handlede Skrivelser vil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l12" custom="readingOrder {index:9;}">
+                <Coords points="2713,2738 3024,2686 3309,2720 3683,2661 4005,2669 4090,2716 4209,2659 4439,2669 4440,2622 4169,2577 3746,2609 3648,2562 3490,2591 2726,2589"/>
+                <Baseline points="2738,2652 2822,2651 2907,2649 2991,2649 3076,2649 3161,2649 3245,2649 3330,2651 3414,2651 3499,2652 3584,2652 3668,2654 3753,2655 3837,2655 3922,2655 4007,2655 4091,2655 4176,2655 4260,2654 4345,2652 4430,2649"/>
+                <TextEquiv>
+                    <Unicode>jeg være forbunden for at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l13" custom="readingOrder {index:10;}">
+                <Coords points="2755,2788 3520,2798 3660,2857 3785,2790 4452,2807 4452,2743 4254,2676 4025,2753 3758,2750 3625,2689 3476,2723 3397,2696 3284,2761 3132,2705 2755,2737"/>
+                <Baseline points="2765,2780 2848,2780 2932,2778 3016,2778 3100,2778 3184,2780 3268,2780 3351,2780 3435,2781 3519,2781 3603,2783 3687,2784 3771,2784 3855,2786 3938,2786 4022,2786 4106,2787 4190,2787 4274,2787 4358,2786 4442,2786"/>
+                <TextEquiv>
+                    <Unicode>erholde tilbage med Deres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l14" custom="readingOrder {index:11;}">
+                <Coords points="2739,2926 2800,2924 2912,2954 2963,2939 2988,2948 3081,2911 3141,2932 3170,2917 3170,2864 3115,2877 3045,2843 2996,2867 2937,2851 2875,2798 2738,2869"/>
+                <Baseline points="2750,2907 2775,2910 2801,2911 2826,2912 2852,2912 2877,2914 2903,2915 2928,2915 2954,2915 2980,2915 3005,2914 3031,2913 3056,2912 3082,2911 3107,2909 3133,2906 3159,2904"/>
+                <TextEquiv>
+                    <Unicode>Svar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l15" custom="readingOrder {index:12;}">
+                <Coords points="3173,3111 4331,3073 4332,2929 4210,2907 3879,2985 3787,3006 3666,2922 3549,2949 3448,2914 3352,2984 3257,2926 3189,2940"/>
+                <Baseline points="3198,3024 3254,3028 3310,3032 3366,3035 3422,3038 3478,3040 3534,3042 3590,3044 3646,3045 3702,3047 3759,3047 3815,3048 3871,3048 3927,3048 3983,3047 4039,3047 4095,3045 4151,3044 4207,3041 4263,3039 4320,3036"/>
+                <TextEquiv>
+                    <Unicode>d. 13de Juni 1882.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l16" custom="readingOrder {index:13;}">
+                <Coords points="3291,3194 3818,3204 3911,3263 4004,3194 4118,3256 4418,3212 4421,3125 4311,3106 3970,3122 3873,3107 3490,3154 3397,3097 3291,3117"/>
+                <Baseline points="3302,3174 3357,3178 3412,3181 3468,3184 3523,3186 3579,3188 3634,3188 3689,3189 3745,3189 3800,3188 3856,3188 3911,3188 3966,3186 4022,3186 4077,3185 4133,3185 4188,3185 4243,3185 4299,3185 4354,3186 4410,3186"/>
+                <TextEquiv>
+                    <Unicode>Deres ærbødige og for-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l17" custom="readingOrder {index:14;}">
+                <Coords points="3546,3309 3588,3303 3643,3328 3677,3304 3732,3305 3858,3340 3925,3299 3958,3313 3999,3293 4037,3309 4038,3266 3881,3264 3812,3239 3761,3259 3685,3251 3629,3201 3548,3220"/>
+                <Baseline points="3558,3275 3584,3277 3610,3281 3636,3284 3662,3286 3688,3288 3714,3290 3740,3293 3766,3294 3792,3295 3818,3296 3844,3296 3870,3296 3896,3295 3922,3294 3948,3292 3974,3290 4000,3287 4026,3284"/>
+                <TextEquiv>
+                    <Unicode>bundne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l19" custom="readingOrder {index:15;}">
+                <Coords points="3386,3473 3567,3508 3623,3552 3702,3505 3806,3527 3933,3499 4139,3562 4180,3529 4347,3538 4401,3508 4404,3391 4308,3433 4137,3418 4089,3388 3998,3391 3928,3378 3698,3376 3563,3339 3387,3441"/>
+                <Baseline points="3396,3494 3445,3491 3495,3491 3545,3489 3595,3489 3644,3489 3694,3491 3744,3492 3794,3494 3843,3495 3893,3498 3943,3500 3993,3502 4042,3504 4092,3506 4142,3507 4192,3510 4241,3510 4291,3512 4341,3512 4391,3512"/>
+                <TextEquiv>
+                    <Unicode>N G Dietrichson</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hr. Sekretær Østgaard.
+Jeg tillader mig herved ær-
+bødigst at henstille til
+Deres velvillighed at sætte
+mig i Stand til at bedømme
+medfølgende 2 Skrivelser
+fra D Hrr. Dr. Aabel og
+Kand C. Hall. De om-
+handlede Skrivelser vil
+jeg være forbunden for at
+erholde tilbage med Deres
+Svar.
+d. 13de Juni 1882.
+Deres ærbødige og for-
+bundne
+N G Dietrichson</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:1;}">
+            <Coords points="2325,3159 2328,3524 2713,3530 2710,3165"/>
+            <TextLine id="line_1663164261389_109" custom="readingOrder {index:0;}">
+                <Coords points="2397,3163 2505,3232 2601,3297 2665,3355 2730,3400 2701,3441 2634,3394 2570,3337 2477,3274 2370,3205"/>
+                <Baseline points="2373,3201 2480,3270 2573,3333 2637,3390 2704,3437"/>
+                <TextEquiv>
+                    <Unicode>Indk 14/6 1882</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663164267125_114" custom="readingOrder {index:1;}">
+                <Coords points="2368,3252 2434,3303 2548,3390 2633,3455 2677,3489 2646,3529 2602,3495 2518,3430 2403,3343 2337,3291"/>
+                <Baseline points="2340,3287 2406,3339 2521,3426 2605,3491 2649,3525"/>
+                <TextEquiv>
+                    <Unicode>Besv. 15/6 1882.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Indk 14/6 1882
+Besv. 15/6 1882.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

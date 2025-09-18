@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:00:27.824+02:00</Created>
+        <LastChange>2023-10-25T11:23:49.192+02:00</LastChange>
+        <TranskribusMetadata docId="1026937" pageId="43167754" pageNr="1" tsid="138027626" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=AEGVOWDWBPYKEGGLWHWLNXCH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QYQSWHNWPZXXHKGEACXKVWUF" imageId="35407450"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_345968_0001.jpg" imageWidth="3684" imageHeight="4728">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770850905" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662032221359_1063"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1662032221359_1063" custom="readingOrder {index:0;}">
+            <Coords points="154,136 3562,136 3558,4283 150,4283"/>
+            <TextLine id="line_1662032264368_1070" custom="readingOrder {index:0;}">
+                <Coords points="1459,429 1554,458 1710,439 1836,529 1934,483 2261,492 2294,354 2102,414 2022,328 1899,300 1749,366 1651,293 1468,328"/>
+                <Baseline points="1479,425 1505,422 1531,420 1557,419 1584,419 1610,419 1636,419 1662,420 1689,421 1715,423 1741,425 1767,428 1794,431 1887,470 1912,465 1937,462 1962,459 1987,458 2013,458 2038,458 2063,459 2088,461 2113,463 2139,466 2164,467 2189,470 2214,471 2239,473 2265,473"/>
+                <TextEquiv>
+                    <Unicode>Besv. 23/9-02.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l6" custom="readingOrder {index:1;}">
+                <Coords points="295,589 398,559 679,587 722,558 908,559 962,584 1106,550 1104,420 1046,410 925,444 688,429 634,451 293,420"/>
+                <Baseline points="311,546 349,546 388,546 427,548 466,548 505,548 544,548 582,546 621,546 660,546 699,545 738,545 777,544 816,543 854,543 893,542 932,540 971,540 1010,539 1049,539 1088,537"/>
+                <TextEquiv>
+                    <Unicode>HARALD NØRREGAARD</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l7" custom="readingOrder {index:2;}">
+                <Coords points="402,666 808,664 833,645 969,659 1037,634 1037,587 861,566 804,592 653,578 592,604 402,597"/>
+                <Baseline points="419,639 449,639 479,639 509,641 539,641 569,641 599,641 629,641 659,641 689,640 719,639 749,639 779,639 809,639 839,639 869,638 899,638 929,638 959,638 989,638 1020,636"/>
+                <TextEquiv>
+                    <Unicode>HØIESTERETSADVOKAT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l9" custom="readingOrder {index:3;}">
+                <Coords points="330,751 739,754 764,729 869,750 937,724 1048,766 1098,740 1097,658 1043,640 1001,669 864,681 742,654 645,683 329,672"/>
+                <Baseline points="348,720 384,720 421,720 457,720 494,720 530,720 567,720 603,720 640,720 676,720 713,719 750,719 786,719 823,718 859,717 896,717 932,716 969,716 1005,714 1042,714 1079,713"/>
+                <TextEquiv>
+                    <Unicode>KIRKEGADEN NR. 8 III</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l10" custom="readingOrder {index:4;}">
+                <Coords points="547,822 669,818 723,843 748,821 773,832 791,817 849,853 877,849 877,742 823,749 787,731 723,760 704,743 669,754 647,736 582,758 547,751"/>
+                <Baseline points="566,812 592,810 619,809 646,809 673,809 700,809 726,809 753,809 780,809 807,809 834,809 861,807"/>
+                <TextEquiv>
+                    <Unicode>Telefon 3281.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l8" custom="readingOrder {index:5;}">
+                <Coords points="2000,694 3324,673 3359,558 3137,575 2895,523 2627,609 2350,547 1998,568"/>
+                <Baseline points="2018,662 2084,661 2150,660 2216,660 2282,660 2348,659 2414,659 2481,657 2547,657 2613,657 2679,656 2745,656 2811,654 2877,654 2944,653 3010,653 3076,651 3142,651 3208,650 3274,648 3341,648"/>
+                <TextEquiv>
+                    <Unicode>Kristiania den 13-9-1902</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l12" custom="readingOrder {index:6;}">
+                <Coords points="574,1188 837,1247 1252,1170 1579,1207 1577,1106 1387,1110 1292,1044 1167,1050 1107,1109 1024,1078 917,1105 778,1022 718,1052 656,1017 570,1037"/>
+                <Baseline points="591,1176 639,1176 687,1175 736,1175 784,1173 833,1172 881,1170 930,1170 978,1169 1027,1167 1075,1166 1123,1164 1172,1163 1220,1163 1269,1161 1317,1160 1366,1160 1414,1160 1463,1160 1511,1160 1560,1160"/>
+                <TextEquiv>
+                    <Unicode>Hr. professor Nansen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l13" custom="readingOrder {index:7;}">
+                <Coords points="457,1421 3329,1394 3328,1254 3227,1247 945,1328 456,1238"/>
+                <Baseline points="476,1388 617,1385 759,1383 901,1382 1043,1381 1184,1380 1326,1380 1468,1379 1610,1379 1751,1379 1893,1379 2035,1377 2177,1377 2318,1376 2460,1374 2602,1373 2744,1370 2885,1367 3027,1364 3169,1359 3311,1355"/>
+                <TextEquiv>
+                    <Unicode>Edvard Munch, som for tiden er lagt ind på Rigshospitalet på grund af</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l14" custom="readingOrder {index:8;}">
+                <Coords points="489,1578 3300,1505 3294,1430 482,1449"/>
+                <Baseline points="500,1520 638,1516 777,1513 916,1511 1055,1509 1194,1506 1332,1506 1471,1505 1610,1503 1749,1503 1888,1503 2026,1502 2165,1502 2304,1500 2443,1499 2582,1497 2720,1494 2859,1492 2998,1488 3137,1485 3276,1479"/>
+                <TextEquiv>
+                    <Unicode>et vådeskud i venstre hånd, har bedet mig ordne hans mellemværende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l15" custom="readingOrder {index:9;}">
+                <Coords points="500,1681 2845,1688 3296,1615 3258,1529 499,1581"/>
+                <Baseline points="518,1650 655,1646 793,1643 931,1640 1069,1638 1207,1637 1345,1634 1483,1634 1621,1632 1759,1631 1897,1630 2034,1629 2172,1628 2310,1626 2448,1625 2586,1622 2724,1620 2862,1617 3000,1613 3138,1608 3276,1604"/>
+                <TextEquiv>
+                    <Unicode>med Wangs auktionsforretning, der har berammet tvangsauktion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l16" custom="readingOrder {index:10;}">
+                <Coords points="533,1826 3322,1780 3251,1641 531,1711"/>
+                <Baseline points="551,1787 688,1784 826,1781 963,1778 1101,1775 1239,1773 1376,1772 1514,1769 1651,1767 1789,1766 1927,1764 2064,1763 2202,1761 2339,1760 2477,1757 2615,1755 2752,1751 2890,1748 3027,1743 3165,1739 3303,1733"/>
+                <TextEquiv>
+                    <Unicode>over hans der deponerede malerier. Der er stillet ham i udsigt et lån</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l17" custom="readingOrder {index:11;}">
+                <Coords points="539,1954 3234,1911 3244,1807 544,1844"/>
+                <Baseline points="558,1926 691,1923 825,1920 958,1917 1092,1914 1225,1913 1359,1911 1492,1908 1626,1907 1759,1904 1893,1902 2026,1901 2160,1898 2293,1896 2427,1893 2560,1890 2694,1887 2827,1884 2961,1880 3094,1875 3228,1871"/>
+                <TextEquiv>
+                    <Unicode>i folkebanken på 1100 kr., hvormed han vilde udløse malerierne hos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l18" custom="readingOrder {index:12;}">
+                <Coords points="563,2104 2368,2102 3424,2018 3402,1908 2808,1971 2636,1903 2325,1959 555,1989"/>
+                <Baseline points="573,2058 714,2055 856,2051 997,2048 1139,2046 1280,2045 1422,2043 1563,2042 1705,2042 1846,2040 1988,2039 2130,2037 2271,2036 2413,2033 2554,2030 2696,2025 2837,2021 2979,2014 3120,2007 3262,1998 3404,1988"/>
+                <TextEquiv>
+                    <Unicode>Wang, og har han nok også fået en erklæring fra Dem i denne anled-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l19" custom="readingOrder {index:13;}">
+                <Coords points="578,2280 1153,2221 2355,2261 3363,2184 3345,2073 2872,2068 575,2136"/>
+                <Baseline points="593,2207 730,2199 867,2193 1005,2189 1142,2186 1280,2183 1417,2181 1555,2180 1692,2178 1830,2177 1967,2177 2104,2175 2242,2174 2379,2172 2517,2169 2654,2167 2792,2162 2929,2157 3067,2151 3204,2143 3342,2133"/>
+                <TextEquiv>
+                    <Unicode>ning. Men advokat Fyhn, til hvem jeg idag har henvendt mig, var</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l20" custom="readingOrder {index:14;}">
+                <Coords points="601,2403 2377,2328 2723,2376 3374,2303 3412,2206 601,2275"/>
+                <Baseline points="618,2349 756,2342 895,2336 1034,2331 1173,2328 1312,2325 1451,2322 1589,2321 1728,2319 1867,2319 2006,2318 2145,2316 2284,2313 2423,2311 2561,2308 2700,2304 2839,2298 2978,2291 3117,2283 3256,2274 3395,2262"/>
+                <TextEquiv>
+                    <Unicode>ikke ganske fornøiet med ordlyden i denne erklæring, hvorfor lånet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l21" custom="readingOrder {index:15;}">
+                <Coords points="604,2525 2647,2518 3434,2477 3467,2338 603,2416"/>
+                <Baseline points="624,2489 772,2483 920,2478 1069,2474 1217,2471 1365,2466 1514,2465 1662,2462 1810,2460 1959,2458 2107,2456 2256,2454 2404,2453 2552,2450 2701,2448 2849,2445 2997,2442 3146,2438 3294,2434 3443,2429"/>
+                <TextEquiv>
+                    <Unicode>i folkebanken endnu ikke er gået i orden. Hr. Fyhn mente, at Deres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l22" custom="readingOrder {index:16;}">
+                <Coords points="592,2659 2244,2637 2376,2688 3470,2602 3514,2497 607,2561"/>
+                <Baseline points="620,2624 763,2621 907,2618 1050,2615 1194,2612 1337,2610 1481,2609 1624,2607 1768,2606 1911,2603 2055,2601 2199,2600 2342,2598 2486,2597 2629,2594 2773,2591 2916,2588 3060,2585 3203,2581 3347,2576 3491,2571"/>
+                <TextEquiv>
+                    <Unicode>erklæring måtte lyde omtrent så, at De indgår som selvskyldnerkautio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l23" custom="readingOrder {index:17;}">
+                <Coords points="612,2793 3462,2767 3453,2654 614,2683"/>
+                <Baseline points="626,2762 766,2759 907,2757 1047,2754 1188,2753 1328,2753 1469,2751 1609,2751 1750,2750 1890,2750 2031,2748 2172,2748 2312,2747 2453,2744 2593,2742 2734,2738 2874,2735 3015,2729 3155,2723 3296,2715 3437,2708"/>
+                <TextEquiv>
+                    <Unicode>nist for, at Kristiania Folkebank med de i samme under (datum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l24" custom="readingOrder {index:18;}">
+                <Coords points="644,2921 3024,2944 3477,2874 3475,2777 651,2825"/>
+                <Baseline points="663,2895 802,2894 942,2894 1082,2892 1222,2892 1361,2891 1501,2891 1641,2889 1781,2889 1920,2888 2060,2886 2200,2885 2340,2883 2479,2881 2619,2879 2759,2876 2899,2873 3038,2868 3178,2864 3318,2859 3458,2853"/>
+                <TextEquiv>
+                    <Unicode>in blanco) deponerede 20 malerier vil erholde fuld dækning for det af</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l25" custom="readingOrder {index:19;}">
+                <Coords points="654,3079 2959,3085 3511,3010 3510,2931 652,2939"/>
+                <Baseline points="672,3030 820,3029 968,3027 1117,3027 1265,3027 1413,3027 1562,3027 1710,3027 1858,3027 2007,3027 2155,3026 2304,3024 2452,3023 2600,3020 2749,3017 2897,3011 3045,3005 3194,2998 3342,2990 3491,2978"/>
+                <TextEquiv>
+                    <Unicode>Edv. Munch i banken lånte beløb med renter og omkostninger, dog ikke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l26" custom="readingOrder {index:20;}">
+                <Coords points="656,3205 749,3178 962,3201 1026,3171 1095,3210 1191,3165 1435,3201 1568,3185 1567,3074 1477,3057 1337,3081 1258,3053 1204,3093 1121,3069 860,3127 655,3083"/>
+                <Baseline points="674,3168 717,3168 761,3168 805,3168 849,3167 893,3167 936,3165 980,3165 1024,3164 1068,3163 1112,3162 1155,3161 1199,3161 1243,3159 1287,3159 1331,3159 1374,3159 1418,3159 1462,3159 1506,3159 1550,3161"/>
+                <TextEquiv>
+                    <Unicode>for mere end 1200 kr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l27" custom="readingOrder {index:21;}">
+                <Coords points="781,3348 3398,3337 3397,3211 3285,3194 2300,3244 780,3193"/>
+                <Baseline points="800,3302 929,3305 1058,3308 1187,3311 1316,3312 1445,3314 1574,3314 1703,3315 1832,3315 1961,3314 2090,3314 2219,3312 2348,3311 2477,3309 2606,3306 2735,3304 2864,3301 2993,3297 3122,3294 3251,3290 3380,3287"/>
+                <TextEquiv>
+                    <Unicode>De vilde gjøre Munch en meget stor tjeneste, om De var villig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l28" custom="readingOrder {index:22;}">
+                <Coords points="632,3475 1602,3469 1917,3542 3459,3444 3429,3330 630,3386"/>
+                <Baseline points="648,3449 787,3449 927,3449 1066,3449 1206,3449 1346,3450 1485,3450 1625,3450 1764,3450 1904,3450 2044,3450 2183,3449 2323,3447 2462,3446 2602,3443 2742,3440 2881,3437 3021,3432 3160,3426 3300,3419 3440,3411"/>
+                <TextEquiv>
+                    <Unicode>til at udstede en sådan erklæring og tilstille mig den snarest mulig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l29" custom="readingOrder {index:23;}">
+                <Coords points="810,3648 1011,3659 1108,3634 1223,3685 1392,3638 1532,3657 1589,3649 1600,3543 1406,3550 1353,3538 1267,3574 1216,3548 1173,3574 1073,3566 943,3501 811,3530"/>
+                <Baseline points="827,3617 864,3617 901,3618 938,3618 975,3618 1013,3618 1050,3620 1087,3620 1124,3620 1161,3620 1199,3620 1236,3620 1273,3620 1310,3620 1347,3620 1385,3620 1422,3620 1459,3618 1496,3618 1533,3618 1571,3617"/>
+                <TextEquiv>
+                    <Unicode>Med venlig hilsen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l30" custom="readingOrder {index:24;}">
+                <Coords points="1989,3717 2047,3715 2121,3732 2176,3708 2212,3717 2266,3704 2283,3723 2323,3720 2348,3714 2351,3631 2301,3626 2270,3596 2240,3617 2185,3558 2097,3498 2038,3532 1995,3527"/>
+                <Baseline points="2007,3693 2034,3690 2061,3689 2088,3689 2115,3690 2142,3692 2169,3693 2196,3695 2223,3697 2250,3698 2277,3698 2304,3698 2331,3695"/>
+                <TextEquiv>
+                    <Unicode>Deres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662032221359_1063l31" custom="readingOrder {index:25;}">
+                <Coords points="2115,3963 2287,3927 2596,3984 2686,3940 2948,4030 3048,3943 3282,3921 3281,3742 3019,3875 2886,3788 2797,3762 2502,3865 2355,3754 2115,3783"/>
+                <Baseline points="2132,3929 2188,3929 2245,3930 2301,3930 2358,3930 2415,3932 2471,3932 2528,3932 2584,3933 2641,3933 2698,3933 2754,3933 2811,3933 2867,3933 2924,3932 2981,3932 3037,3930 3094,3929 3150,3928 3207,3926 3264,3924"/>
+                <TextEquiv>
+                    <Unicode>Harald Nørregaard</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Besv. 23/9-02.
+HARALD NØRREGAARD
+HØIESTERETSADVOKAT
+KIRKEGADEN NR. 8 III
+Telefon 3281.
+Kristiania den 13-9-1902
+Hr. professor Nansen
+Edvard Munch, som for tiden er lagt ind på Rigshospitalet på grund af
+et vådeskud i venstre hånd, har bedet mig ordne hans mellemværende
+med Wangs auktionsforretning, der har berammet tvangsauktion
+over hans der deponerede malerier. Der er stillet ham i udsigt et lån
+i folkebanken på 1100 kr., hvormed han vilde udløse malerierne hos
+Wang, og har han nok også fået en erklæring fra Dem i denne anled-
+ning. Men advokat Fyhn, til hvem jeg idag har henvendt mig, var
+ikke ganske fornøiet med ordlyden i denne erklæring, hvorfor lånet
+i folkebanken endnu ikke er gået i orden. Hr. Fyhn mente, at Deres
+erklæring måtte lyde omtrent så, at De indgår som selvskyldnerkautio-
+nist for, at Kristiania Folkebank med de i samme under (datum
+in blanco) deponerede 20 malerier vil erholde fuld dekning for det af
+Edv. Munch i banken lånte beløb med renter og omkostninger, dog ikke
+for mere end 1200 kr.
+De vilde gjøre Munch en meget stor tjeneste, om De var villig
+til at udstede en sådan erklæring og tilstille mig den snarest mulig.
+Med venlig hilsen
+Deres
+Harald Nørregaard</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

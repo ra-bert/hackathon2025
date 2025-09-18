@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:12:24.339+02:00</Created>
+        <LastChange>2023-05-09T14:23:45.630+02:00</LastChange>
+        <TranskribusMetadata docId="1026623" pageId="43161030" pageNr="1" tsid="121320817" status="GT" userId="69942" imgUrl="https://files.transkribus.eu/Get?id=OMGGFBNKCDGNVICGZIIPRQXS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YRALOSAGGPLERIWWRNLBISMU" imageId="35400744"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_194823_0001.jpg" imageWidth="3148" imageHeight="1374">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770957511" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662374993261_391"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1662374993261_391" custom="readingOrder {index:0;}">
+            <Coords points="317,329 3018,329 3018,1116 317,1116"/>
+            <TextLine id="region_1662374993261_391l1" custom="readingOrder {index:0;}">
+                <Coords points="2651,420 2682,434 2738,410 2774,433 2796,418 2852,428 2886,404 2904,420 2957,428 2991,419 2992,361 2829,354 2804,372 2783,349 2746,346 2683,369 2652,365"/>
+                <Baseline points="2666,404 2691,402 2717,402 2743,403 2769,404 2794,405 2820,406 2846,407 2872,408 2897,408 2923,408 2949,408 2975,407"/>
+                <TextEquiv>
+                    <Unicode>22/1 93.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374993261_391l2" custom="readingOrder {index:1;}">
+                <Coords points="721,414 1752,473 2076,448 2069,379 1899,340 1637,342 1513,393 1405,351 1260,386 1081,337 960,350 718,331"/>
+                <Baseline points="734,411 871,408 933,411 995,413 1057,414 1119,416 1181,417 1244,417 1306,417 1368,419 1430,419 1492,419 1554,419 1616,419 1679,420 1741,421 1803,422 1865,424 1927,426 1989,429 2052,432"/>
+                <TextEquiv>
+                    <Unicode>Fru Camilla Collett,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374993261_391l3" custom="readingOrder {index:2;}">
+                <Coords points="542,575 2879,535 2849,439 892,494 544,414"/>
+                <Baseline points="557,527 672,524 787,522 903,522 1018,522 1133,522 1249,524 1364,524 1479,526 1595,528 1710,530 1825,531 1941,533 2056,534 2171,536 2287,536 2402,536 2517,536 2633,534 2748,531 2864,528"/>
+                <TextEquiv>
+                    <Unicode>Da jeg desværre ikke er frisk nok til</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374993261_391l4" custom="readingOrder {index:3;}">
+                <Coords points="436,634 2877,671 2915,554 436,560"/>
+                <Baseline points="452,617 574,612 696,610 818,609 941,608 1063,608 1185,608 1308,609 1430,611 1552,612 1675,614 1797,617 1919,618 2041,621 2164,623 2286,624 2408,626 2531,627 2653,627 2775,627 2898,626"/>
+                <TextEquiv>
+                    <Unicode>imorgen at være tilstede sammen med</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663591494519_399" custom="readingOrder {index:4;}">
+                <Coords points="378,619 399,613 2863,649 2862,733 2464,754 387,723"/>
+                <Baseline points="399,693 414,692 906,692 1000,692 1094,693 1188,693 1283,693 1377,695 1471,695 1566,696 1660,698 1754,698 1849,699 1943,701 2037,701 2131,702 2226,704 2320,705 2414,706 2509,707 2603,708 2697,710 2841,715"/>
+                <TextEquiv>
+                    <Unicode>de Mange, som bringe Dem sin Hyldest,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374993261_391l7" custom="readingOrder {index:5;}">
+                <Coords points="410,812 2575,830 2948,814 2953,712 406,719"/>
+                <Baseline points="406,773 822,777 932,777 1041,779 1151,779 1261,780 1370,780 1480,780 1590,782 1699,782 1809,782 1919,783 2028,783 2138,785 2248,785 2357,786 2467,786 2577,788 2686,788 2796,789 2936,789"/>
+                <TextEquiv>
+                    <Unicode>tillader jeg mig herved at lykønske Dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663591513544_406" custom="readingOrder {index:6;}">
+                <Coords points="379,802 450,792 465,799 2977,831 2981,885 2674,902 411,878 383,867"/>
+                <Baseline points="399,855 427,852 456,852 617,858 728,858 839,860 950,860 1061,860 1173,861 1284,861 1395,861 1506,861 1617,863 1729,863 1840,863 1951,863 2062,863 2173,863 2285,864 2396,864 2507,864 2618,866 2729,866 2969,868"/>
+                <TextEquiv>
+                    <Unicode>til Dagen, og bringe ogsaa min oprigtige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374993261_391l10" custom="readingOrder {index:7;}">
+                <Coords points="416,972 2923,971 2917,895 416,861"/>
+                <Baseline points="431,935 545,935 660,935 775,936 890,936 1005,936 1120,936 1235,936 1350,936 1465,936 1580,936 1694,936 1809,936 1924,936 2039,936 2154,936 2269,936 2384,936 2499,936 2614,936 2895,954"/>
+                <TextEquiv>
+                    <Unicode>Tak for Alt hvad De har virket ved,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374993261_391l11" custom="readingOrder {index:8;}">
+                <Coords points="357,1045 2902,1005 2910,947 353,965"/>
+                <Baseline points="372,1017 495,1014 618,1013 742,1011 865,1010 989,1008 1112,1007 1235,1007 1359,1007 1482,1007 1606,1007 1729,1007 1852,1007 1976,1007 2099,1005 2223,1005 2346,1005 2469,1004 2593,1002 2716,1001 2889,1006"/>
+                <TextEquiv>
+                    <Unicode>Deres rige og betydningsfulde Livsgjerning!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374993261_391l13" custom="readingOrder {index:9;}">
+                <Coords points="574,1093 1423,1083 1423,1043 1287,1012 574,1025"/>
+                <Baseline points="588,1074 631,1076 674,1076 717,1076 760,1076 803,1076 846,1077 889,1077 932,1077 975,1077 1019,1077 1062,1077 1105,1077 1148,1077 1191,1077 1234,1077 1277,1076 1320,1076 1363,1075 1407,1074"/>
+                <TextEquiv>
+                    <Unicode>Med Høiagtelse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662374993261_391l12" custom="readingOrder {index:10;}">
+                <Coords points="1642,1093 2995,1103 2993,1001 1641,1031"/>
+                <Baseline points="1656,1077 1724,1079 1792,1079 1861,1079 1929,1079 1997,1079 2066,1077 2134,1076 2202,1075 2271,1073 2339,1071 2408,1070 2476,1068 2544,1067 2613,1065 2681,1064 2749,1062 2818,1062 2886,1062 2979,1062"/>
+                <TextEquiv>
+                    <Unicode>Agathe Backer Grøndahl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>22/1 93.&#13;
+Fru Camilla Collett,&#13;
+Da jeg desværre ikke er frisk nok til&#13;
+imorgen at være tilstede sammen med&#13;
+de Mange, som bringe Dem sin Hyldest,&#13;
+tillader jeg mig herved at lykønske Dem&#13;
+til Dagen, og bringe ogsaa min oprigtige&#13;
+Tak for Alt hvad De har virket ved,&#13;
+Deres rige og betydningsfulde Livsgjerning!&#13;
+Med Høiagtelse&#13;
+Agathe Backer Grøndahl</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

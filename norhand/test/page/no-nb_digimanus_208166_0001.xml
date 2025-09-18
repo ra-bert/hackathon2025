@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:23:22.474+02:00</Created>
+        <LastChange>2023-10-17T16:15:08.741+02:00</LastChange>
+        <TranskribusMetadata docId="1026680" pageId="43161573" pageNr="1" tsid="137589757" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=LSCOLNMLEBUOTSBKIBFNTIVM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WCKHFMCUDBIIUWPFXRSAEVUH" imageId="35401286"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_208166_0001.jpg" imageWidth="4841" imageHeight="4041">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770926375" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662373319367_296"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1662373319367_296" custom="readingOrder {index:0;}">
+            <Coords points="2480,347 4656,347 4656,3775 2480,3775"/>
+            <TextLine id="region_1662373319367_296l5" custom="readingOrder {index:0;}">
+                <Coords points="2668,869 4503,856 4528,709 4153,656 3935,656 3282,595 3086,731 2962,719 2943,647 2668,800"/>
+                <Baseline points="2680,846 2770,846 2861,848 2951,848 3042,848 3132,850 3223,850 3313,850 3404,850 3494,852 3585,852 3675,852 3766,852 3856,850 3947,850 4037,850 4128,850 4218,848 4309,846 4399,846 4490,844"/>
+                <TextEquiv>
+                    <Unicode>Herr Stipendiat I. Aasen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l6" custom="readingOrder {index:1;}">
+                <Coords points="2750,1168 3359,1209 3470,1239 3546,1193 3655,1239 3789,1152 4607,1134 4607,1050 4283,1056 4128,975 3923,1099 3791,1053 3428,1074 3188,958 2750,958"/>
+                <Baseline points="2762,1138 2853,1136 2945,1135 3036,1134 3128,1134 3220,1134 3311,1134 3403,1134 3494,1134 3586,1134 3678,1136 3769,1136 3861,1136 3952,1136 4044,1136 4136,1136 4227,1136 4319,1134 4410,1134 4502,1131 4594,1130"/>
+                <TextEquiv>
+                    <Unicode>I Anledning af en Dissenti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l7" custom="readingOrder {index:2;}">
+                <Coords points="2590,1289 4015,1303 4533,1333 4533,1170 4450,1219 4262,1166 4094,1202 3379,1230 3226,1191 3084,1240 2985,1164 2871,1243 2590,1215"/>
+                <Baseline points="2602,1278 2697,1278 2793,1276 2889,1276 2985,1276 3081,1276 3177,1276 3273,1276 3369,1276 3465,1276 3561,1276 3656,1276 3752,1276 3848,1276 3944,1276 4040,1274 4136,1274 4232,1274 4328,1274 4424,1272 4520,1270"/>
+                <TextEquiv>
+                    <Unicode>om hvorledes man nu rettest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l8" custom="readingOrder {index:3;}">
+                <Coords points="2610,1456 3637,1444 3758,1515 4009,1423 4491,1444 4491,1325 4154,1362 4023,1293 3796,1274 3615,1323 3357,1280 3064,1394 2808,1319 2610,1350"/>
+                <Baseline points="2624,1420 2714,1418 2804,1418 2894,1418 2985,1416 3075,1417 3165,1418 3256,1418 3346,1418 3436,1418 3527,1418 3617,1418 3707,1418 3797,1418 3888,1418 3978,1418 4068,1418 4159,1416 4249,1414 4339,1412 4482,1412"/>
+                <TextEquiv>
+                    <Unicode>skriver Navnet "Augvaldsnæs"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l9" custom="readingOrder {index:4;}">
+                <Coords points="2598,1588 3049,1621 3158,1640 3476,1633 3713,1593 3872,1641 3981,1657 4118,1603 4648,1561 4647,1473 4473,1437 4032,1532 3900,1474 3758,1515 3689,1494 3416,1518 2927,1509 2734,1433 2598,1479"/>
+                <Baseline points="2610,1560 2711,1560 2812,1560 2913,1560 3015,1560 3116,1560 3217,1560 3319,1562 3420,1562 3521,1562 3623,1562 3724,1562 3825,1562 3926,1562 4028,1561 4129,1560 4230,1559 4332,1558 4433,1556 4534,1554 4636,1552"/>
+                <TextEquiv>
+                    <Unicode>tillader jeg mig ærbødigst herved</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l10" custom="readingOrder {index:5;}">
+                <Coords points="2604,1710 3229,1736 3341,1778 3450,1782 3544,1718 4086,1724 4342,1812 4532,1755 4532,1669 4307,1673 4135,1586 3871,1668 3702,1586 3444,1645 3214,1643 3031,1621 2604,1672"/>
+                <Baseline points="2618,1696 2713,1698 2808,1698 2903,1698 2998,1700 3093,1700 3188,1702 3283,1702 3378,1702 3473,1703 3569,1704 3664,1704 3759,1704 3854,1704 3949,1706 4044,1706 4139,1706 4234,1706 4329,1706 4424,1704 4520,1704"/>
+                <TextEquiv>
+                    <Unicode>at udbede mig Deres Mening.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l11" custom="readingOrder {index:6;}">
+                <Coords points="2702,1867 4035,1872 4129,1850 4129,1779 3984,1809 3843,1758 3645,1819 3485,1801 3325,1756 3202,1811 3019,1788 2908,1715 2766,1816 2702,1803"/>
+                <Baseline points="2714,1842 2784,1842 2854,1842 2924,1842 2994,1842 3064,1842 3134,1842 3204,1842 3274,1842 3344,1842 3415,1842 3485,1842 3555,1844 3625,1844 3695,1844 3765,1844 3835,1844 3905,1842 3975,1842 4045,1842 4116,1840"/>
+                <TextEquiv>
+                    <Unicode>Man vakler mellem:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l12" custom="readingOrder {index:7;}">
+                <Coords points="2762,2005 3023,2006 3072,2092 3294,2046 3393,1990 3510,2023 3758,2013 3758,1897 3563,1945 3330,1896 3249,1937 3097,1838 2945,1941 2762,1913"/>
+                <Baseline points="2774,1974 2822,1976 2871,1978 2919,1980 2968,1982 3017,1982 3065,1984 3114,1984 3162,1984 3211,1982 3260,1982 3308,1982 3357,1981 3405,1980 3454,1980 3503,1980 3551,1980 3600,1980 3648,1980 3697,1980 3746,1982"/>
+                <TextEquiv>
+                    <Unicode>1) Augvaldsnæs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l13" custom="readingOrder {index:8;}">
+                <Coords points="2744,2153 2913,2153 2955,2275 3088,2161 3753,2131 3835,2208 3924,2171 3929,2063 3428,2060 3300,2040 3070,2086 3049,2002 2927,2061 2864,2033 2745,2069"/>
+                <Baseline points="2758,2110 2815,2113 2873,2116 2931,2118 2988,2120 3046,2122 3104,2124 3161,2124 3219,2124 3277,2124 3335,2126 3392,2124 3450,2124 3508,2124 3565,2124 3623,2124 3681,2126 3738,2126 3796,2126 3854,2128 3912,2130"/>
+                <TextEquiv>
+                    <Unicode>2) Agvaldsnæs og</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l14" custom="readingOrder {index:9;}">
+                <Coords points="2746,2337 2885,2297 3101,2313 3202,2272 3458,2311 3498,2280 3808,2281 3808,2235 3696,2202 3367,2217 3304,2161 3172,2135 3070,2181 3055,2171 3021,2235 2756,2168"/>
+                <Baseline points="2758,2266 2809,2268 2861,2268 2913,2270 2965,2270 3017,2270 3069,2270 3121,2270 3173,2268 3225,2268 3277,2268 3328,2268 3380,2268 3432,2268 3484,2268 3536,2268 3588,2268 3640,2269 3692,2270 3744,2272 3796,2274"/>
+                <TextEquiv>
+                    <Unicode>3) Avaldsnæs,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l15" custom="readingOrder {index:10;}">
+                <Coords points="2612,2418 2792,2424 2860,2411 3436,2431 3466,2487 3716,2492 3891,2416 4540,2428 4540,2322 4156,2357 3896,2295 3737,2370 3522,2281 3321,2354 2962,2293 2799,2363 2612,2325"/>
+                <Baseline points="2624,2406 2719,2406 2814,2404 2909,2404 3004,2404 3100,2404 3195,2406 3290,2406 3385,2406 3480,2408 3576,2408 3671,2408 3766,2410 3861,2410 3956,2410 4052,2410 4147,2410 4242,2408 4337,2408 4432,2406 4528,2404"/>
+                <TextEquiv>
+                    <Unicode>idet der hos Nogle formene, at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l16" custom="readingOrder {index:11;}">
+                <Coords points="2585,2604 2870,2578 3005,2684 3080,2601 4564,2575 4563,2459 4322,2470 3884,2443 3617,2487 3520,2475 3115,2476 2694,2414 2585,2536"/>
+                <Baseline points="2598,2558 2695,2554 2793,2552 2891,2550 2988,2548 3086,2548 3184,2548 3281,2548 3379,2548 3477,2550 3575,2550 3672,2550 3770,2552 3868,2552 3965,2552 4063,2551 4161,2550 4258,2548 4356,2546 4454,2542 4552,2538"/>
+                <TextEquiv>
+                    <Unicode>Slutningsstavelsen bør have "e"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l17" custom="readingOrder {index:12;}">
+                <Coords points="2586,2702 2716,2697 2790,2729 2888,2699 2944,2726 3015,2700 3160,2728 3428,2701 3427,2612 3252,2620 3170,2598 3087,2610 3051,2585 2914,2587 2844,2616 2785,2589 2714,2629 2585,2618"/>
+                <Baseline points="2600,2694 2637,2696 2674,2696 2711,2696 2748,2696 2785,2695 2822,2694 2859,2694 2896,2692 2933,2692 2971,2690 3008,2690 3045,2688 3082,2687 3119,2686 3156,2686 3193,2686 3230,2686 3267,2687 3304,2688 3403,2694"/>
+                <TextEquiv>
+                    <Unicode>ikke "æ". -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l18" custom="readingOrder {index:13;}">
+                <Coords points="2661,2933 3032,2853 3836,2858 4063,2918 4081,2905 4537,2849 4520,2759 4426,2807 4276,2758 3737,2797 3511,2670 3298,2781 2911,2710 2710,2747"/>
+                <Baseline points="2724,2830 2814,2832 2904,2832 2994,2834 3084,2834 3174,2836 3264,2836 3354,2836 3444,2838 3534,2838 3624,2838 3714,2838 3804,2838 3894,2838 3984,2838 4074,2838 4164,2837 4254,2836 4344,2836 4434,2834 4524,2834"/>
+                <TextEquiv>
+                    <Unicode>Jeg haaber De er saa god at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l19" custom="readingOrder {index:14;}">
+                <Coords points="2626,3007 3031,3060 3201,2987 3734,3059 4316,3062 4611,3011 4621,2924 4507,2842 4312,2920 4079,2920 3949,2936 3777,2846 3600,2939 3428,2887 3240,2942 3058,2839 2924,2918 2638,2888"/>
+                <Baseline points="2638,2968 2736,2970 2835,2973 2933,2974 3032,2976 3130,2976 3229,2978 3327,2978 3426,2978 3524,2978 3623,2978 3721,2978 3820,2978 3918,2978 4017,2978 4115,2978 4214,2980 4312,2980 4411,2982 4509,2984 4608,2986"/>
+                <TextEquiv>
+                    <Unicode>undskylde det Bryderi, jeg for-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l21" custom="readingOrder {index:15;}">
+                <Coords points="2604,3161 2756,3126 2824,3154 2895,3129 2938,3147 2959,3129 3035,3145 3101,3125 3131,3143 3207,3131 3207,3080 3007,3089 2974,3066 2931,3081 2850,3038 2792,3076 2680,3055 2604,3083"/>
+                <Baseline points="2616,3116 2642,3116 2669,3117 2696,3118 2723,3118 2750,3118 2776,3118 2803,3119 2830,3120 2857,3120 2884,3120 2910,3120 2937,3120 2964,3120 2991,3120 3018,3120 3044,3119 3071,3118 3098,3118 3125,3118 3184,3119"/>
+                <TextEquiv>
+                    <Unicode>volder. -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l22" custom="readingOrder {index:16;}">
+                <Coords points="2816,3416 3363,3267 3536,3370 3743,3274 4468,3264 4467,3163 4130,3132 4049,3067 3748,3219 3606,3031 3244,3225 3129,3134 2841,3175"/>
+                <Baseline points="2854,3270 2934,3268 3014,3264 3094,3262 3174,3260 3254,3260 3334,3258 3414,3258 3494,3258 3574,3258 3655,3258 3735,3258 3815,3258 3895,3258 3975,3256 4055,3256 4135,3256 4215,3256 4295,3254 4375,3254 4456,3252"/>
+                <TextEquiv>
+                    <Unicode>Tysvær Prestgd 1 Mai 1882</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l23" custom="readingOrder {index:17;}">
+                <Coords points="3761,3410 4250,3400 4326,3412 4405,3487 4478,3477 4477,3294 4237,3372 4069,3295 3938,3355 3866,3317 3816,3353 3760,3334"/>
+                <Baseline points="3772,3400 3806,3398 3841,3398 3875,3398 3910,3398 3945,3398 3979,3400 4014,3400 4048,3400 4083,3402 4118,3402 4152,3402 4187,3402 4221,3402 4256,3402 4291,3400 4325,3399 4360,3396 4394,3392 4429,3388 4464,3382"/>
+                <TextEquiv>
+                    <Unicode>ærbødigst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662373319367_296l25" custom="readingOrder {index:18;}">
+                <Coords points="3760,3689 3980,3663 4158,3674 4515,3666 4517,3550 4383,3535 4372,3447 4235,3472 4176,3463 4109,3447 4020,3446 3943,3438 3740,3439"/>
+                <Baseline points="3772,3646 3808,3644 3845,3644 3881,3644 3918,3644 3955,3645 3991,3646 4028,3646 4064,3648 4101,3648 4138,3650 4174,3652 4211,3652 4247,3654 4284,3654 4321,3654 4357,3653 4394,3652 4430,3652 4467,3650 4504,3646"/>
+                <TextEquiv>
+                    <Unicode>Th. Plahte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Herr Stipendiat I. Aasen!
+I Anledning af en Dissenti
+om hvorledes man nu rettest
+skriver Navnet "Augvaldsnæs"
+tillader jeg mig ærbødigst herved
+at udbede mig Deres Mening.
+Man vakler mellem:
+1) Augvaldsnæs
+2) Agvaldsnæs og
+3) Avaldsnæs,
+idet der hos Nogle formene, at
+Slutningsstavelsen bør have "e"
+ikke "æ". -
+Jeg haaber De er saa god at
+undskylde det Bryderi, jeg for-
+volder. -
+Tysvær Prestgd 1 Mai 1882
+ærbødigst
+Th. Plahte</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

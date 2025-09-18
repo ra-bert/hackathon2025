@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T13:37:19.482+02:00</Created>
+        <LastChange>2023-10-17T12:59:05.849+02:00</LastChange>
+        <TranskribusMetadata docId="1027181" pageId="43172136" pageNr="1" tsid="137558875" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=TXRYYSUZHXQPZSVSGVUKUDBG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WGOBOHVPLVPRTZGHGJRUGJFI" imageId="35411722"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_288952_0001.jpg" imageWidth="2574" imageHeight="1747">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770793658" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="209,181 209,1525 2385,1525 2385,181"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="269,316 803,245 1110,257 1176,217 1405,268 1511,237 1508,172 867,153 731,159 669,158 594,230 453,174 365,249 265,233"/>
+                <Baseline points="282,302 342,293 403,285 464,277 525,271 585,265 646,260 707,255 768,251 828,247 889,244 950,242 1011,240 1071,239 1132,237 1193,237 1254,237 1314,237 1375,237 1436,237 1497,239"/>
+                <TextEquiv>
+                    <Unicode>av brev Frøis Frøisland 12/10-25</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1662446776619_126" custom="readingOrder {index:1;}">
+                <Coords points="723,290 916,268 1044,350 1300,263 1769,352 1923,267 2218,343 2398,297 2397,401 2088,408 2036,458 1920,400 723,400"/>
+                <Baseline points="723,378 808,378 895,378 983,380 1071,380 1158,380 1246,381 1333,381 1421,381 1509,383 1596,383 1684,384 1771,384 1859,386 1947,386 2034,387 2122,387 2209,389 2297,390 2385,390"/>
+                <TextEquiv>
+                    <Unicode>var forma slik at De hadde grunn til å kjenne Dokk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="225,568 2320,556 2320,454 2099,445 1802,431 1652,481 1472,408 1171,435 942,401 782,442 569,417 244,428"/>
+                <Baseline points="237,528 340,528 443,527 547,527 650,527 754,527 857,525 961,525 1064,525 1168,524 1271,524 1374,524 1478,524 1581,524 1685,524 1788,524 1892,524 1995,525 2099,525 2202,527 2306,528"/>
+                <TextEquiv>
+                    <Unicode>sård så ber eg um tilgjeving! Og eg vilde vere takksam um De</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="200,716 568,664 897,746 1019,675 1312,741 1410,688 1619,692 1618,577 1316,615 1211,553 1113,611 877,537 604,620 395,551 200,625"/>
+                <Baseline points="212,672 281,671 351,669 421,668 491,668 560,668 630,668 700,668 770,668 839,669 909,669 979,669 1049,669 1118,669 1188,669 1258,668 1328,666 1397,665 1467,662 1537,658 1607,653"/>
+                <TextEquiv>
+                    <Unicode>vilde take meg på ordlyda av det eg skreiv.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="279,818 1176,866 1714,805 1974,864 2133,820 2316,845 2335,689 1683,687 1563,762 1073,685 749,754 569,664 280,717"/>
+                <Baseline points="291,792 392,795 494,797 595,798 697,800 798,800 900,801 1001,801 1103,803 1204,803 1306,803 1407,804 1509,804 1610,804 1712,806 1813,806 1915,806 2016,807 2118,807 2219,809 2321,810"/>
+                <TextEquiv>
+                    <Unicode>De har fått ein ansvarsfull post på Noregs største talarstol, eg vil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1662447253653_149" custom="readingOrder {index:5;}">
+                <Coords points="208,892 513,820 1153,905 1301,821 1487,891 1683,838 1696,975 1531,998 209,991"/>
+                <Baseline points="221,938 325,939 429,941 533,942 638,942 742,944 846,944 951,944 1055,944 1159,944 1264,944 1368,942 1472,942 1576,941 1681,941 1696,940"/>
+                <TextEquiv>
+                    <Unicode>ynskje Dokk hjerteleg til lykke, - at det må lykkest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1662447281523_161" custom="readingOrder {index:6;}">
+                <Coords points="1692,818 1761,817 1762,867 1693,868"/>
+                <Baseline points="1693,863 1762,862"/>
+                <TextEquiv>
+                    <Unicode>for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1662447252732_143" custom="readingOrder {index:7;}">
+                <Coords points="1736,848 1934,870 2123,793 2319,834 2319,954 2186,991 2045,929 1721,972"/>
+                <Baseline points="1721,940 1785,939 1889,939 1994,938 2098,936 2202,936 2307,935"/>
+                <TextEquiv>
+                    <Unicode>Dokk å så eit got</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:8;}">
+                <Coords points="196,1120 290,1167 397,1099 1081,1139 1229,1090 1763,1124 1827,1104 2132,1159 2138,992 1929,966 1467,1038 502,956 239,988"/>
+                <Baseline points="209,1077 304,1082 399,1085 495,1086 590,1088 686,1089 781,1089 877,1089 972,1088 1068,1088 1163,1086 1258,1086 1354,1085 1449,1085 1545,1085 1640,1085 1736,1085 1831,1086 1927,1088 2022,1091 2118,1094"/>
+                <TextEquiv>
+                    <Unicode>såfrø til rik vokst for eit fagert folkeliv i vårt kjære Noreg!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683704795937_359" custom="readingOrder {index:9;}">
+                <Coords points="673,1113 760,1098 825,1135 826,1134 826,1240 821,1239 743,1265 673,1215"/>
+                <Baseline points="686,1203 735,1207 785,1211 826,1213"/>
+                <TextEquiv>
+                    <Unicode>Med</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683704793217_354" custom="readingOrder {index:10;}">
+                <Coords points="998,1123 1010,1129 1041,1100 1080,1139 1229,1093 1398,1149 1508,1103 1695,1137 1690,1253 1335,1279 1210,1250 1011,1306 998,1301"/>
+                <Baseline points="998,1217 1032,1217 1082,1217 1131,1217 1181,1215 1230,1215 1280,1214 1329,1214 1379,1214 1428,1214 1478,1214 1527,1215 1577,1217 1626,1220 1676,1223"/>
+                <TextEquiv>
+                    <Unicode>hjerteleg helsing og takk!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:11;}">
+                <Coords points="1698,1394 1842,1393 1856,1405 1876,1390 1912,1386 1894,1194 1832,1232 1790,1230 1765,1217 1753,1229 1733,1212 1681,1215"/>
+                <Baseline points="1706,1337 1732,1336 1759,1335 1785,1334 1812,1332 1838,1329 1865,1324 1892,1316"/>
+                <TextEquiv>
+                    <Unicode>Vyrds.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:12;}">
+                <Coords points="1897,1399 1921,1402 1944,1417 1981,1409 2009,1419 2054,1411 2082,1390 2098,1390 2097,1267 2076,1267 2053,1283 2037,1278 2022,1289 1954,1284 1933,1274 1896,1287"/>
+                <Baseline points="1910,1395 1935,1397 1960,1398 1985,1398 2010,1398 2035,1397 2060,1396 2085,1394"/>
+                <TextEquiv>
+                    <Unicode>I. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>av brev Frøis Frøisland 12/10-25
+var forma slik at De hadde grunn til å kjenne Dokk
+sård så ber eg um tilgjeving! Og eg vilde vere takksam um De
+vilde take meg på ordlyda av det eg skreiv.
+De har fått ein ansvarsfull post på Noregs største talarstol, eg vil
+ynskje Dokk hjerteleg til lykke, - at det må lykkest
+for
+Dokk å så eit godt
+såfrø til rik vekst for eit fagert folkeliv i vårt kjære Noreg!
+Med
+hjerteleg helsing og takk!
+Vyrds.
+I. B.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

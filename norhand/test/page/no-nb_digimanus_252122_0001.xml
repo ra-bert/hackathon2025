@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:59:05.869+02:00</Created>
+        <LastChange>2023-10-30T12:40:10.170+01:00</LastChange>
+        <TranskribusMetadata docId="1026924" pageId="43167452" pageNr="1" tsid="138458875" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=LJYVEEKQBYVUEIHYUWIXTFJR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BGVYZTMCQGAOAUAWHBZVJGMO" imageId="35407149"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_252122_0001.jpg" imageWidth="3717" imageHeight="4675">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770853060" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="263,283 263,4307 3531,4307 3531,283"/>
+            <TextLine id="r1l4" custom="readingOrder {index:0;}">
+                <Coords points="301,1036 1108,994 1262,929 1851,994 2073,915 2069,763 1877,800 1565,700 1136,865 791,725 684,777 294,759"/>
+                <Baseline points="318,975 404,975 491,975 578,974 664,972 751,971 838,968 924,965 1011,963 1098,960 1185,957 1271,954 1358,951 1445,948 1531,945 1618,943 1705,941 1791,939 1878,938 1965,936 2052,936"/>
+                <TextEquiv>
+                    <Unicode>Kjære Harriet Backer!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:1;}">
+                <Coords points="244,1269 2766,1219 3505,1137 3498,1018 2736,1059 2527,958 1990,1035 758,1022 649,1137 473,1035 239,1140"/>
+                <Baseline points="263,1220 429,1214 595,1209 761,1206 928,1202 1094,1197 1260,1194 1426,1190 1593,1185 1759,1181 1925,1176 2091,1170 2258,1164 2424,1157 2590,1148 2756,1139 2923,1128 3089,1116 3255,1103 3477,1094"/>
+                <TextEquiv>
+                    <Unicode>Naar "De Fjorten" endnu ikke har faat no-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:2;}">
+                <Coords points="314,1491 563,1380 1208,1394 1219,1481 1297,1477 1427,1358 3390,1351 3419,1139 305,1259"/>
+                <Baseline points="330,1382 483,1379 637,1376 791,1373 944,1370 1098,1365 1252,1360 1405,1355 1559,1350 1713,1344 1867,1338 2020,1332 2174,1325 2328,1319 2481,1313 2635,1308 2789,1301 2942,1295 3096,1289 3250,1283 3404,1278"/>
+                <TextEquiv>
+                    <Unicode>get Svar angaaende Dem, kommer det</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683704390823_190" custom="readingOrder {index:3;}">
+                <Coords points="440,1419 741,1473 741,1619 288,1603 284,1523"/>
+                <Baseline points="308,1572 466,1569 624,1566 741,1563"/>
+                <TextEquiv>
+                    <Unicode>af at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683704387666_185" custom="readingOrder {index:4;}">
+                <Coords points="1012,1423 1118,1393 1256,1436 3502,1302 3492,1483 2385,1490 2009,1632 1723,1532 1540,1648 1012,1629"/>
+                <Baseline points="1012,1555 1100,1553 1258,1547 1416,1541 1575,1535 1733,1527 1892,1520 2050,1512 2208,1505 2367,1496 2525,1488 2684,1479 2842,1472 3000,1463 3159,1455 3317,1447 3476,1440"/>
+                <TextEquiv>
+                    <Unicode>Kunstafdelingen endnu ikke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="282,1800 3524,1678 3488,1511 276,1664"/>
+                <Baseline points="302,1760 461,1751 621,1741 781,1734 941,1727 1101,1721 1261,1715 1421,1710 1581,1704 1741,1698 1901,1694 2060,1688 2220,1682 2380,1675 2540,1667 2700,1659 2860,1649 3020,1637 3180,1625 3340,1611 3500,1595"/>
+                <TextEquiv>
+                    <Unicode>har behandlet Sagen. Den har nemlig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="272,1925 2200,1919 3103,1792 3245,1910 3440,1785 3427,1673 267,1813"/>
+                <Baseline points="293,1919 449,1909 605,1900 761,1892 918,1886 1074,1878 1230,1872 1387,1867 1543,1861 1699,1856 1856,1851 2012,1845 2168,1839 2324,1833 2481,1826 2637,1819 2793,1811 2950,1801 3106,1791 3262,1781 3419,1769"/>
+                <TextEquiv>
+                    <Unicode>ikke hat noget Møde, siden Ansøg-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="319,2136 3553,2000 3545,1827 3243,1904 3091,1814 314,2012"/>
+                <Baseline points="338,2076 497,2070 657,2066 816,2060 976,2052 1136,2046 1295,2039 1455,2031 1615,2024 1774,2016 1934,2009 2094,2001 2253,1994 2413,1988 2573,1981 2732,1974 2892,1968 3052,1963 3211,1958 3371,1954 3531,1950"/>
+                <TextEquiv>
+                    <Unicode>ningen indløb. Vi kan ikke holde Møde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="326,2320 1649,2257 3459,2178 3488,2027 317,2135"/>
+                <Baseline points="341,2237 497,2237 653,2234 810,2230 966,2225 1123,2219 1279,2212 1436,2204 1592,2196 1749,2188 1905,2178 2061,2169 2218,2160 2374,2152 2531,2144 2687,2136 2844,2130 3000,2123 3157,2118 3313,2114 3470,2111"/>
+                <TextEquiv>
+                    <Unicode>for en enkelt Sag, da det er vanskeligt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="286,2455 2995,2370 3474,2303 3462,2136 2131,2302 1197,2247 785,2291 525,2251 281,2358"/>
+                <Baseline points="303,2427 460,2417 617,2408 774,2399 932,2391 1089,2384 1246,2376 1404,2369 1561,2363 1718,2356 1876,2350 2033,2343 2190,2337 2347,2330 2505,2324 2662,2316 2819,2309 2977,2300 3134,2291 3291,2282 3449,2271"/>
+                <TextEquiv>
+                    <Unicode>at faa Medlemmerne sammen, med-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="309,2645 1426,2550 1587,2642 2483,2466 3474,2498 3466,2357 3251,2316 301,2497"/>
+                <Baseline points="326,2603 482,2592 638,2582 794,2572 951,2561 1107,2552 1263,2541 1420,2531 1576,2521 1732,2511 1889,2502 2045,2494 2201,2486 2357,2478 2514,2471 2670,2465 2826,2459 2983,2454 3139,2450 3295,2447 3452,2445"/>
+                <TextEquiv>
+                    <Unicode>mindre der foreligger flere. Imidlertid er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="259,2793 784,2833 1024,2733 1271,2843 1482,2712 2031,2783 3424,2641 3303,2462 2875,2599 2208,2521 1916,2635 1426,2550 1274,2657 936,2565 801,2676 412,2621 256,2713"/>
+                <Baseline points="279,2775 435,2763 591,2751 747,2742 903,2733 1059,2724 1215,2717 1371,2711 1527,2704 1683,2697 1840,2691 1996,2685 2152,2679 2308,2672 2464,2666 2620,2659 2776,2651 2932,2643 3088,2634 3244,2623 3401,2613"/>
+                <TextEquiv>
+                    <Unicode>der nu flere. (Den nye Gruppe paa 30</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="265,2962 988,2938 1139,2965 1204,3038 1262,2960 1969,2951 2398,2951 2550,2831 2924,2928 3493,2795 3418,2642 2845,2774 2616,2683 2031,2791 1435,2738 1309,2847 271,2826"/>
+                <Baseline points="296,2931 454,2922 613,2912 772,2905 930,2898 1089,2892 1248,2885 1406,2880 1565,2874 1724,2870 1883,2864 2041,2859 2200,2853 2359,2847 2517,2841 2676,2833 2835,2825 2993,2816 3152,2805 3311,2793 3470,2780"/>
+                <TextEquiv>
+                    <Unicode>Medlemmer og Storthingets afknappede Be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="297,3143 3274,3025 3438,2994 3432,2838 298,3007"/>
+                <Baseline points="314,3095 469,3087 624,3079 779,3073 934,3066 1089,3060 1244,3056 1400,3051 1555,3047 1710,3042 1865,3038 2020,3033 2175,3029 2330,3023 2486,3017 2641,3011 2796,3003 2951,2996 3106,2985 3261,2976 3417,2964"/>
+                <TextEquiv>
+                    <Unicode>vilgning af 10,000 Kroner til Udvidelse af</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+                <Coords points="301,3310 3219,3136 3432,3227 3555,3197 3548,3004 295,3146"/>
+                <Baseline points="320,3281 480,3267 641,3253 801,3243 962,3233 1122,3222 1283,3215 1443,3207 1604,3201 1764,3194 1925,3188 2086,3182 2246,3176 2407,3170 2567,3164 2728,3158 2888,3150 3049,3143 3209,3135 3370,3125 3531,3116"/>
+                <TextEquiv>
+                    <Unicode>Kunsthallen, saa nu blir der Møde med det Første).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;}">
+                <Coords points="310,3479 3550,3324 3545,3208 1308,3231 1188,3307 305,3333"/>
+                <Baseline points="329,3422 489,3416 649,3410 809,3403 969,3396 1129,3389 1289,3383 1449,3375 1609,3368 1769,3362 1929,3354 2089,3348 2249,3341 2409,3333 2569,3326 2729,3320 2889,3313 3049,3306 3209,3300 3369,3294 3530,3288"/>
+                <TextEquiv>
+                    <Unicode>Dernæst gaar Sagen til Administrationskomiteen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:16;}">
+                <Coords points="295,3620 2624,3566 3414,3441 3409,3345 3090,3315 2243,3435 1795,3372 879,3488 289,3487"/>
+                <Baseline points="312,3596 466,3588 620,3581 774,3575 928,3569 1082,3562 1236,3556 1391,3549 1545,3543 1699,3536 1853,3530 2007,3523 2161,3516 2315,3509 2470,3501 2624,3492 2778,3484 2932,3474 3086,3465 3240,3455 3395,3444"/>
+                <TextEquiv>
+                    <Unicode>De nævner bildende Kunstneres Styre. Dette</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:17;}">
+                <Coords points="307,3845 1687,3716 2049,3801 3557,3651 3481,3464 2746,3542 2507,3505 295,3647"/>
+                <Baseline points="320,3762 479,3758 638,3753 797,3747 956,3742 1115,3735 1274,3728 1433,3719 1592,3711 1751,3702 1910,3692 2069,3683 2228,3672 2387,3661 2546,3651 2705,3639 2864,3628 3023,3616 3182,3604 3341,3592 3532,3620"/>
+                <TextEquiv>
+                    <Unicode>har absolut Intet med Jubilæumsudstillin-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:18;}">
+                <Coords points="303,4032 517,3921 783,3966 813,4035 898,4018 972,3962 983,3932 1059,3905 1120,3952 1247,3904 1244,3791 1163,3778 1040,3787 863,3789 725,3754 662,3821 563,3852 475,3862 373,3817 298,3867"/>
+                <Baseline points="321,3920 366,3917 411,3915 456,3914 502,3912 547,3911 592,3909 638,3908 683,3906 728,3906 774,3905 819,3903 864,3903 909,3902 955,3900 1000,3899 1045,3897 1091,3896 1136,3894 1181,3891 1227,3890"/>
+                <TextEquiv>
+                    <Unicode>gen at gjøre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:19;}">
+                <Coords points="1546,4109 1928,3996 2087,4048 2160,3983 2360,3964 2482,4070 2916,3982 3027,3960 3021,3844 2802,3797 2668,3865 2373,3750 2176,3830 1976,3845 1838,3756 1573,3842"/>
+                <Baseline points="1601,4013 1671,4008 1741,4004 1811,3999 1881,3995 1952,3990 2022,3985 2092,3981 2162,3976 2232,3972 2303,3966 2373,3963 2443,3958 2513,3955 2583,3951 2654,3948 2724,3945 2794,3944 2864,3944 2934,3942 3005,3944"/>
+                <TextEquiv>
+                    <Unicode>Deres hengivne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:20;}">
+                <Coords points="1194,4304 2177,4253 2341,4360 2461,4340 2449,3998 2294,4060 2116,4022 2045,4065 2004,4026 1879,4119 1611,4157 1365,4033 1185,4060"/>
+                <Baseline points="1212,4269 1273,4269 1334,4271 1395,4271 1456,4271 1518,4269 1579,4269 1640,4268 1701,4265 1762,4263 1824,4262 1885,4259 1946,4256 2007,4253 2068,4250 2130,4246 2191,4242 2252,4240 2313,4236 2374,4232 2436,4229"/>
+                <TextEquiv>
+                    <Unicode>Christian Krohg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1662032718770_1104" custom="readingOrder {index:21;}">
+                <Coords points="468,3981 489,3980 781,4072 805,4227 676,4259 442,4292 288,4167 285,4042 429,3994"/>
+                <Baseline points="291,4119 358,4150 387,4157 424,4161 435,4290 635,4231 699,4221 726,4215 753,4211 780,4212"/>
+                <TextEquiv>
+                    <Unicode>25/5 - 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kjære Harriet Backer!
+Naar "De Fjorten" endnu ikke har faat no-
+get Svar angaaende Dem, kommer det
+af at
+Kunstafdelingen endnu ikke
+har behandlet Sagen. Den har nemlig
+ikke hat noget Møde, siden Ansøg-
+ningen indløb. Vi kan ikke holde Møde
+for en enkelt Sag, da det er vanskeligt
+at faa Medlemmerne sammen, med-
+mindre der foreligger flere. Imidlertid er
+der nu flere. (Den nye Gruppe paa 30
+Medlemmer og Stortingets afknappede Be-
+vilgning af 10,000 Kroner til Udvidelse af
+Kunsthallen, saa nu blir der Møde med det Første).
+Dernæst gaar Sagen til Administrationskomiteen.
+De nævner bildende Kunstneres Styre. Dette
+har absolut Intet med Jubilæumsudstillin-
+gen at gjøre.
+Deres hengivne
+Christian Krohg
+25/5 13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

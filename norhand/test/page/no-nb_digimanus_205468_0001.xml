@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:56:54.794+02:00</Created>
+        <LastChange>2023-10-24T10:04:33.443+02:00</LastChange>
+        <TranskribusMetadata docId="1026905" pageId="43166905" pageNr="1" tsid="137951032" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=BVYTKPXTWOLJRTKPIXNDCKQW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QYWZZAQNCYHJLCLBPCHFQDUX" imageId="35406603"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_205468_0001.jpg" imageWidth="3898" imageHeight="5475">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770867333" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662033103866_1173"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1662033103866_1173" custom="readingOrder {index:0;}">
+            <Coords points="325,151 3441,151 3441,5100 325,5100"/>
+            <TextLine id="region_1662033103866_1173l6" custom="readingOrder {index:0;}">
+                <Coords points="650,1329 2464,1357 2857,1293 2857,1175 1781,1027 1579,913 973,1029 649,1005"/>
+                <Baseline points="668,1302 776,1298 885,1296 993,1294 1102,1292 1210,1292 1319,1292 1427,1292 1536,1292 1644,1294 1753,1294 1861,1294 1970,1296 2078,1296 2187,1296 2295,1296 2404,1295 2512,1294 2621,1292 2729,1288 2838,1284"/>
+                <TextEquiv>
+                    <Unicode>Hr. Ivar Aasen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l7" custom="readingOrder {index:1;}">
+                <Coords points="1322,1680 1974,1725 2879,1695 3370,1721 3402,1469 2254,1516 2003,1509 1562,1440 1316,1492"/>
+                <Baseline points="1338,1638 1440,1648 1543,1653 1645,1656 1748,1658 1851,1658 1953,1656 2056,1654 2158,1650 2261,1645 2364,1639 2466,1635 2569,1629 2671,1624 2774,1619 2877,1614 2979,1612 3082,1610 3184,1610 3287,1610 3390,1614"/>
+                <TextEquiv>
+                    <Unicode>Idet jeg er saa fri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l8" custom="readingOrder {index:2;}">
+                <Coords points="704,1935 2938,1853 2928,1728 2645,1713 696,1841"/>
+                <Baseline points="716,1886 825,1884 935,1884 1045,1882 1155,1878 1265,1874 1375,1870 1485,1864 1595,1859 1705,1854 1815,1847 1924,1842 2034,1836 2144,1830 2254,1826 2364,1820 2474,1816 2584,1812 2694,1809 2804,1808 2914,1806"/>
+                <TextEquiv>
+                    <Unicode>med Overbringeren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l9" custom="readingOrder {index:3;}">
+                <Coords points="648,2117 3371,1981 3367,1884 3064,1805 2736,1885 2464,1864 1839,1926 644,1921"/>
+                <Baseline points="664,2046 798,2044 933,2040 1067,2036 1202,2032 1336,2027 1471,2022 1605,2016 1740,2008 1874,2002 2009,1996 2143,1990 2278,1982 2412,1976 2547,1972 2681,1966 2816,1962 2950,1959 3085,1956 3219,1956 3354,1956"/>
+                <TextEquiv>
+                    <Unicode>heraf at sende Dem "Norsk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l10" custom="readingOrder {index:4;}">
+                <Coords points="716,2242 3399,2160 3391,2008 2545,2020 1936,2061 708,2086"/>
+                <Baseline points="732,2216 863,2218 995,2218 1127,2216 1259,2212 1391,2207 1522,2200 1654,2194 1786,2186 1918,2178 2050,2169 2181,2161 2313,2152 2445,2145 2577,2138 2709,2132 2840,2126 2972,2122 3104,2120 3236,2120 3368,2122"/>
+                <TextEquiv>
+                    <Unicode>Haandlexikon", takker jeg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l11" custom="readingOrder {index:5;}">
+                <Coords points="724,2485 3403,2317 3392,2137 2865,2219 1793,2221 1617,2289 712,2277"/>
+                <Baseline points="736,2384 868,2382 1000,2377 1132,2372 1264,2368 1397,2361 1529,2355 1661,2348 1793,2340 1925,2333 2058,2324 2190,2316 2322,2309 2454,2302 2586,2294 2718,2286 2851,2280 2983,2274 3115,2267 3247,2262 3380,2258"/>
+                <TextEquiv>
+                    <Unicode>Dem for den velvillig ydede</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l12" custom="readingOrder {index:6;}">
+                <Coords points="700,2592 3062,2496 3141,2483 3137,2351 2256,2356 2079,2470 1417,2481 1272,2399 696,2464"/>
+                <Baseline points="716,2540 836,2536 956,2532 1077,2528 1197,2524 1318,2522 1438,2519 1558,2516 1679,2512 1799,2510 1920,2506 2040,2504 2160,2500 2281,2496 2401,2491 2522,2486 2642,2480 2762,2474 2883,2466 3003,2458 3124,2450"/>
+                <TextEquiv>
+                    <Unicode>Assistance under Verkets</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l13" custom="readingOrder {index:7;}">
+                <Coords points="700,2723 2377,2733 2522,2676 3428,2618 3424,2518 3128,2511 2589,2561 2334,2511 1974,2575 696,2591"/>
+                <Baseline points="716,2690 850,2692 985,2692 1120,2692 1254,2690 1389,2688 1524,2686 1658,2682 1793,2678 1928,2672 2063,2668 2197,2662 2332,2656 2467,2650 2601,2643 2736,2636 2871,2628 3005,2622 3140,2616 3275,2609 3410,2602"/>
+                <TextEquiv>
+                    <Unicode>Udarbeidelse. Jeg har ikke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l14" custom="readingOrder {index:8;}">
+                <Coords points="669,2909 3372,2802 3368,2712 2268,2699 1572,2802 670,2813"/>
+                <Baseline points="686,2888 819,2886 952,2883 1086,2880 1219,2875 1353,2870 1486,2866 1619,2860 1753,2855 1886,2848 2020,2841 2153,2835 2286,2829 2420,2822 2553,2815 2687,2809 2820,2804 2953,2796 3087,2792 3220,2786 3354,2782"/>
+                <TextEquiv>
+                    <Unicode>kunnet sende Dem Lexikonet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l15" custom="readingOrder {index:9;}">
+                <Coords points="712,3110 990,3070 1532,3140 1664,3047 3271,2982 3301,2874 2539,2902 2419,2860 2158,2944 1925,2887 1797,2983 1282,2906 706,2939"/>
+                <Baseline points="726,3040 853,3042 981,3040 1109,3038 1237,3036 1365,3032 1492,3028 1620,3024 1748,3018 1876,3011 2004,3005 2131,2999 2259,2992 2387,2985 2515,2979 2643,2973 2770,2968 2898,2963 3026,2958 3154,2956 3282,2952"/>
+                <TextEquiv>
+                    <Unicode>før, da jeg har havt Van-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663070940813_91" custom="readingOrder {index:10;}">
+                <Coords points="639,3128 2660,3053 2660,3197 2283,3232 2067,3146 1581,3286 1404,3198 650,3258"/>
+                <Baseline points="666,3194 790,3194 915,3192 1040,3190 1165,3186 1290,3182 1414,3178 1539,3172 1664,3168 1789,3162 1914,3158 2038,3152 2163,3147 2288,3142 2413,3136 2538,3131 2660,3126"/>
+                <TextEquiv>
+                    <Unicode>skelighed for at faa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l17" custom="readingOrder {index:11;}">
+                <Coords points="707,3436 828,3439 2849,3358 3203,3396 3432,3356 3427,3227 700,3265"/>
+                <Baseline points="722,3352 856,3356 990,3356 1125,3356 1259,3354 1394,3350 1528,3346 1662,3340 1797,3333 1931,3327 2066,3320 2200,3312 2334,3305 2469,3297 2603,3292 2738,3286 2872,3282 3006,3278 3141,3276 3275,3276 3410,3276"/>
+                <TextEquiv>
+                    <Unicode>fra Bogbinderen saa mange</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l18" custom="readingOrder {index:12;}">
+                <Coords points="723,3551 3415,3482 3420,3382 2705,3335 1952,3457 716,3379"/>
+                <Baseline points="738,3516 871,3522 1004,3524 1138,3524 1271,3524 1405,3520 1538,3516 1671,3510 1805,3504 1938,3497 2072,3490 2205,3482 2338,3475 2472,3468 2605,3462 2739,3456 2872,3452 3005,3450 3139,3448 3272,3448 3406,3452"/>
+                <TextEquiv>
+                    <Unicode>Exemplarer, som har været</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l19" custom="readingOrder {index:13;}">
+                <Coords points="699,3736 1539,3679 1926,3767 2362,3630 2681,3731 3007,3609 3453,3621 3446,3477 693,3614"/>
+                <Baseline points="714,3688 850,3688 986,3688 1122,3686 1258,3683 1394,3678 1530,3672 1666,3666 1802,3660 1938,3652 2074,3644 2210,3636 2346,3628 2482,3621 2618,3614 2754,3608 2890,3603 3026,3598 3162,3596 3298,3594 3434,3594"/>
+                <TextEquiv>
+                    <Unicode>nødvendige for at tilfredsstille</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l20" custom="readingOrder {index:14;}">
+                <Coords points="696,3872 1984,3863 2087,3815 2161,3844 2159,3761 2041,3781 1869,3719 1707,3786 1542,3724 1439,3779 1188,3782 946,3719 694,3799"/>
+                <Baseline points="714,3850 785,3848 857,3845 928,3843 1000,3840 1071,3838 1143,3834 1214,3832 1286,3830 1357,3828 1429,3825 1500,3824 1572,3822 1643,3820 1715,3818 1786,3818 1858,3816 1929,3816 2001,3816 2072,3816 2144,3816"/>
+                <TextEquiv>
+                    <Unicode>Subskribenter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l21" custom="readingOrder {index:15;}">
+                <Coords points="1301,3971 1969,3948 2481,4020 2689,3916 3368,3904 3361,3758 3251,3714 3072,3823 2618,3724 2437,3816 1863,3838 1751,3913 1476,3834 1297,3873"/>
+                <Baseline points="1318,3970 1419,3964 1521,3960 1622,3954 1724,3951 1826,3946 1927,3941 2029,3936 2130,3931 2232,3927 2334,3923 2435,3918 2537,3913 2638,3910 2740,3905 2842,3900 2943,3896 3045,3892 3146,3888 3248,3884 3350,3880"/>
+                <TextEquiv>
+                    <Unicode>De løse Hefter, De</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l22" custom="readingOrder {index:16;}">
+                <Coords points="646,4117 2749,4115 3084,4046 3056,3920 2523,3991 1654,3969 644,4058"/>
+                <Baseline points="664,4104 782,4100 901,4098 1020,4094 1139,4091 1258,4087 1377,4084 1496,4080 1615,4076 1734,4072 1853,4068 1971,4064 2090,4060 2209,4056 2328,4052 2447,4048 2566,4044 2685,4040 2804,4036 2923,4032 3042,4028"/>
+                <TextEquiv>
+                    <Unicode>maatte have modtaget,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l23" custom="readingOrder {index:17;}">
+                <Coords points="581,4276 3130,4255 3400,4215 3395,4041 578,4179"/>
+                <Baseline points="598,4228 737,4230 876,4232 1015,4232 1154,4232 1294,4230 1433,4226 1572,4222 1711,4218 1850,4214 1990,4208 2129,4204 2268,4196 2407,4190 2546,4184 2686,4179 2825,4174 2964,4168 3103,4162 3242,4158 3382,4154"/>
+                <TextEquiv>
+                    <Unicode>vilde jeg gjerne faa tilbage.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663070912823_64" custom="readingOrder {index:18;}">
+                <Coords points="2214,4268 2355,4229 2522,4301 2625,4258 2773,4252 2874,4272 2934,4237 3138,4274 3265,4236 3297,4333 3088,4342 2953,4432 2682,4364 2422,4400 2214,4370"/>
+                <Baseline points="2214,4381 2255,4378 2312,4372 2369,4368 2426,4364 2482,4361 2539,4359 2596,4356 2653,4354 2710,4351 2766,4349 2823,4348 2880,4346 2937,4344 2994,4342 3050,4340 3107,4338 3164,4336 3221,4333 3278,4330"/>
+                <TextEquiv>
+                    <Unicode>Ærbødigst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l26" custom="readingOrder {index:19;}">
+                <Coords points="2043,4701 2263,4655 2527,4738 2802,4584 3457,4669 3456,4561 2972,4531 2760,4392 2582,4358 2168,4516 2043,4516"/>
+                <Baseline points="2060,4622 2129,4616 2198,4612 2267,4608 2336,4603 2405,4598 2474,4593 2543,4590 2612,4586 2681,4584 2750,4582 2819,4582 2888,4582 2957,4582 3026,4586 3095,4589 3164,4595 3233,4601 3302,4610 3371,4620 3440,4632"/>
+                <TextEquiv>
+                    <Unicode>Chr Johnsen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033103866_1173l25" custom="readingOrder {index:20;}">
+                <Coords points="551,4497 1042,4489 1274,4578 1512,4475 1572,4512 1866,4450 1865,4384 1435,4317 1189,4361 981,4243 801,4314 547,4305"/>
+                <Baseline points="568,4488 632,4486 696,4482 760,4480 824,4478 888,4478 952,4476 1016,4476 1080,4476 1144,4474 1209,4474 1273,4474 1337,4472 1401,4472 1465,4470 1529,4468 1593,4466 1657,4462 1721,4458 1785,4454 1850,4448"/>
+                <TextEquiv>
+                    <Unicode>Kr.ania 18/8.88.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hr. Ivar Aasen
+Idet jeg er saa fri
+med Overbringeren
+heraf at sende Dem "Norsk
+Haandlexikon", takker jeg
+Dem for den velvillig ydede
+Assistance under Verkets
+Udarbeidelse. Jeg har ikke
+kunnet sende Dem Lexikonet
+før, da jeg har havt Van-
+skelighed for at faa
+fra Bogbinderen saa mange
+Exemplarer, som har været
+nødvendige for at tilfredsstille
+Subskribenter.
+De løse Hefter, De
+maatte have modtaget,
+vilde jeg gjerne faa tilbage.
+Ærbødigst
+Chr Johnsen
+Kr.ania 18/8.88.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

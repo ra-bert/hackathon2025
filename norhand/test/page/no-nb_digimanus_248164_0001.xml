@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:52:46.741+02:00</Created>
+        <LastChange>2023-05-09T14:38:09.551+02:00</LastChange>
+        <TranskribusMetadata docId="1026866" pageId="43165832" pageNr="1" tsid="121322223" status="GT" userId="69942" imgUrl="https://files.transkribus.eu/Get?id=YXLRUTPJSDZZKACGRIWYWZMN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DCZXTOOKVBYJQGZCVNZQUDCJ" imageId="35405535"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_248164_0001.jpg" imageWidth="3984" imageHeight="3390">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770881404" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662363730749_37"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1662363730749_37" custom="readingOrder {index:0;}">
+            <Coords points="2194,446 3702,446 3702,3021 2194,3021"/>
+            <TextLine id="line_1663075607222_219" custom="readingOrder {index:0;}">
+                <Coords points="2503,511 2576,494 3084,483 3302,489 3373,497 3433,538 3434,586 2852,674 2498,668"/>
+                <Baseline points="2507,572 2532,574 2558,575 2584,577 2609,578 2635,579 2661,580 2686,581 2712,581 2738,581 2763,581 2789,580 2815,579 2840,579 2866,578 2892,576 2918,575 3000,572 3025,572 3050,572 3075,572 3100,572 3125,572 3150,571 3175,570 3200,570 3225,570 3250,569 3275,569 3300,569 3325,569 3350,569 3375,569 3400,569 3425,570"/>
+                <TextEquiv>
+                    <Unicode>Granskog, Hvalstad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363730749_37l3" custom="readingOrder {index:1;}">
+                <Coords points="3069,798 3219,802 3254,768 3316,776 3357,757 3395,768 3421,749 3455,745 3455,684 3312,699 3226,629 3086,618"/>
+                <Baseline points="3073,732 3196,752 3221,750 3246,750 3271,750 3296,752 3321,753 3346,753 3371,753 3396,752 3421,749 3446,744"/>
+                <TextEquiv>
+                    <Unicode>14/7-08.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363730749_37l4" custom="readingOrder {index:2;}">
+                <Coords points="2397,1005 2687,993 2790,1040 2883,978 3081,987 3145,1030 3206,1004 3186,915 3037,953 2923,891 2832,917 2715,881 2599,917 2517,886 2396,907"/>
+                <Baseline points="2406,990 2445,988 2485,986 2524,983 2564,981 2604,980 2643,978 2683,977 2722,975 2762,974 2802,974 2841,973 2881,972 2920,972 2960,972 3000,972 3039,974 3079,974 3118,975 3158,977 3198,978"/>
+                <TextEquiv>
+                    <Unicode>Til Bestyrelsen af</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363730749_37l5" custom="readingOrder {index:3;}">
+                <Coords points="2385,1163 2557,1198 2680,1136 2886,1207 2962,1152 3060,1179 3132,1132 3535,1145 3643,1140 3633,1050 3439,1056 3334,1039 3200,1081 3083,1043 2999,1107 2384,1051"/>
+                <Baseline points="2394,1124 2455,1125 2517,1125 2578,1125 2640,1127 2701,1127 2763,1127 2824,1127 2886,1127 2947,1125 3009,1125 3070,1125 3132,1125 3193,1124 3255,1124 3316,1124 3378,1122 3439,1122 3501,1122 3562,1122 3624,1122"/>
+                <TextEquiv>
+                    <Unicode>Læseforeningen for Kvinder!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363730749_37l6" custom="readingOrder {index:4;}">
+                <Coords points="2409,1316 2988,1294 3099,1355 3177,1301 3242,1349 3309,1284 3499,1324 3678,1278 3676,1216 3570,1232 3488,1174 3318,1236 2983,1230 2693,1206 2569,1257 2461,1201 2407,1237"/>
+                <Baseline points="2417,1292 2479,1293 2542,1293 2604,1293 2667,1292 2729,1290 2792,1289 2854,1287 2917,1286 2979,1284 3042,1281 3105,1280 3167,1277 3230,1275 3292,1273 3355,1271 3417,1269 3480,1268 3542,1268 3605,1266 3668,1266"/>
+                <TextEquiv>
+                    <Unicode>Paa Søskendes og egne Vegne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363730749_37l7" custom="readingOrder {index:5;}">
+                <Coords points="2267,1471 2597,1505 2755,1459 3115,1446 3195,1496 3303,1427 3496,1433 3503,1379 3241,1398 3128,1360 2877,1417 2739,1350 2648,1393 2264,1389"/>
+                <Baseline points="2274,1454 2335,1454 2396,1452 2457,1451 2518,1449 2579,1448 2640,1446 2701,1445 2762,1443 2823,1442 2884,1440 2945,1437 3006,1436 3067,1434 3128,1433 3189,1431 3250,1430 3311,1427 3372,1426 3433,1424 3495,1422"/>
+                <TextEquiv>
+                    <Unicode>beder jeg Dem modtage vor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363730749_37l8" custom="readingOrder {index:6;}">
+                <Coords points="2275,1655 2386,1598 2539,1649 2720,1614 3232,1563 3418,1617 3573,1604 3571,1513 3468,1490 3225,1484 3032,1539 2273,1524"/>
+                <Baseline points="2283,1584 2347,1586 2411,1586 2475,1586 2539,1586 2603,1584 2667,1583 2731,1581 2795,1580 2859,1578 2923,1576 2987,1574 3051,1572 3115,1571 3179,1569 3243,1569 3307,1568 3371,1569 3435,1569 3499,1571 3564,1574"/>
+                <TextEquiv>
+                    <Unicode>hjerteligste, varmeste Tak for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363730749_37l9" custom="readingOrder {index:7;}">
+                <Coords points="2251,1800 2430,1747 2560,1814 2702,1753 2775,1814 2863,1751 3100,1731 3325,1732 3527,1798 3641,1740 3641,1688 3448,1637 3393,1664 3236,1678 3159,1651 3097,1678 2952,1687 2876,1658 2644,1691 2579,1654 2495,1722 2249,1663"/>
+                <Baseline points="2259,1742 2327,1743 2396,1743 2464,1743 2533,1743 2602,1742 2670,1742 2739,1740 2808,1739 2876,1737 2945,1736 3014,1734 3082,1734 3151,1733 3220,1731 3288,1730 3357,1730 3426,1730 3494,1730 3563,1730 3632,1730"/>
+                <TextEquiv>
+                    <Unicode>Deres Deltagelse i disse tunge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363730749_37l10" custom="readingOrder {index:8;}">
+                <Coords points="2264,1969 2291,1958 2312,1965 2340,1955 2368,1970 2449,1906 2483,1900 2516,1906 2516,1880 2480,1878 2453,1853 2412,1859 2334,1809 2267,1808"/>
+                <Baseline points="2274,1896 2300,1895 2326,1895 2352,1895 2378,1896 2404,1898 2430,1899 2456,1899 2482,1899 2508,1898"/>
+                <TextEquiv>
+                    <Unicode>Dage.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363730749_37l11" custom="readingOrder {index:9;}">
+                <Coords points="2844,2061 2938,2019 3118,2016 3261,2098 3390,2022 3481,2024 3479,1923 3440,1913 3322,1934 3241,1922 3212,1935 3144,1922 3104,1951 2993,1936 2946,1954 2842,1927"/>
+                <Baseline points="2853,2022 2884,2021 2915,2020 2946,2019 2977,2018 3008,2016 3039,2016 3070,2015 3101,2015 3132,2015 3163,2015 3194,2015 3225,2013 3256,2013 3287,2013 3318,2013 3349,2013 3380,2012 3411,2012 3442,2010 3473,2009"/>
+                <TextEquiv>
+                    <Unicode>I Ærbødighed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363730749_37l12" custom="readingOrder {index:10;}">
+                <Coords points="3008,2296 3121,2292 3205,2259 3291,2286 3341,2257 3396,2252 3464,2284 3508,2260 3597,2250 3597,2199 3566,2198 3426,2099 3407,2117 3297,2099 3119,2108 3017,2162"/>
+                <Baseline points="3049,2258 3127,2256 3153,2256 3178,2257 3204,2258 3229,2258 3255,2258 3281,2258 3306,2258 3332,2258 3357,2258 3383,2258 3408,2258 3434,2258 3460,2258 3485,2258 3511,2259 3536,2259 3562,2260 3588,2261"/>
+                <TextEquiv>
+                    <Unicode>Erik Lie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Granskog, Hvalstad.&#13;
+14/7-08.&#13;
+Til Bestyrelsen af&#13;
+Læseforeningen for Kvinder!&#13;
+Paa Søskendes og egne Vegne&#13;
+beder jeg Dem modtage vor&#13;
+hjerteligste, varmeste Tak for&#13;
+Deres Deltagelse i disse tunge&#13;
+Dage.&#13;
+I Ærbødighed&#13;
+Erik Lie.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:56:56.859+02:00</Created>
+        <LastChange>2023-10-18T15:46:02.230+02:00</LastChange>
+        <TranskribusMetadata docId="1026906" pageId="43166915" pageNr="1" tsid="137654974" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=QLBNOEPQZNQURLSRCQQUAZQX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WWANCQNHEKRMHFVZNEBDYRRK" imageId="35406613"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_248168_0001.jpg" imageWidth="3975" imageHeight="3329">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770865201" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662033015161_1144"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1662033015161_1144" custom="readingOrder {index:0;}">
+            <Coords points="2089,317 3846,317 3846,3097 2089,3097"/>
+            <TextLine id="line_1662033060090_1163" custom="readingOrder {index:0;}">
+                <Coords points="2438,466 2782,518 2865,473 3361,447 3526,502 3712,435 3724,322 2711,315 2484,324 2437,374"/>
+                <Baseline points="2405,461 2444,461 2495,461 2547,461 2598,462 2650,461 2701,461 2753,461 2804,461 2856,459 2907,458 2959,456 3010,455 3062,453 3113,451 3165,449 3227,462 3253,461 3279,459 3306,457 3332,456 3358,455 3385,455 3411,455 3437,453 3464,453 3490,452 3516,451 3543,449 3569,446 3595,442 3622,438 3648,433 3674,427 3701,419"/>
+                <TextEquiv>
+                    <Unicode>Frimansgade 20, 1. 1895</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033015161_1144l6" custom="readingOrder {index:1;}">
+                <Coords points="2897,610 2937,597 2983,636 3115,657 3303,590 3482,650 3535,601 3595,611 3640,584 3680,604 3679,504 3326,504 3296,481 3185,510 3094,459 2896,520"/>
+                <Baseline points="2906,591 2944,592 2982,592 3020,591 3059,591 3097,590 3135,589 3173,588 3212,587 3250,585 3288,585 3326,584 3365,582 3403,582 3441,582 3479,582 3518,582 3556,583 3594,585 3632,587 3671,588"/>
+                <TextEquiv>
+                    <Unicode>Fredag. 12te April.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033015161_1144l8" custom="readingOrder {index:2;}">
+                <Coords points="2217,878 2901,829 3045,890 3170,832 3419,916 3627,853 3742,927 3810,887 3811,730 3547,689 3483,647 3263,668 3145,694 2800,720 2583,657 2389,729 2218,677"/>
+                <Baseline points="2228,822 2306,824 2385,824 2463,824 2542,822 2621,822 2699,822 2778,821 2857,821 2935,819 3014,819 3093,819 3171,819 3250,819 3329,820 3407,821 3486,822 3565,824 3643,827 3722,830 3801,833"/>
+                <TextEquiv>
+                    <Unicode>Til Bestyrelsen for Læseforening</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033015161_1144l9" custom="readingOrder {index:3;}">
+                <Coords points="2250,1102 2329,1079 2501,1032 2564,1079 2695,1048 2767,1080 2803,1044 2912,1034 2971,1081 3006,1067 3005,955 3021,894 2883,911 2765,949 2641,873 2521,899 2397,858 2280,908"/>
+                <Baseline points="2292,1044 2327,1039 2362,1036 2397,1034 2432,1032 2468,1031 2503,1029 2538,1029 2573,1029 2608,1029 2644,1030 2679,1031 2714,1031 2749,1031 2784,1031 2820,1031 2855,1030 2890,1029 2925,1026 2960,1025 2996,1022"/>
+                <TextEquiv>
+                    <Unicode>for Kvinder!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033015161_1144l10" custom="readingOrder {index:4;}">
+                <Coords points="2333,1258 2535,1289 2825,1217 2970,1285 3239,1202 3393,1280 3777,1252 3774,1081 3678,1045 3450,1119 3025,1088 2829,1148 2329,1105"/>
+                <Baseline points="2343,1236 2414,1232 2485,1229 2556,1226 2628,1223 2699,1220 2770,1217 2841,1214 2913,1212 2984,1209 3055,1206 3126,1205 3198,1203 3269,1202 3340,1200 3411,1200 3483,1199 3554,1199 3625,1199 3696,1200 3773,1227"/>
+                <TextEquiv>
+                    <Unicode>Først ved min hjemkomst fra Stock-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033015161_1144l11" custom="readingOrder {index:5;}">
+                <Coords points="2223,1423 2496,1478 2723,1384 2925,1475 3481,1374 3812,1443 3807,1286 3584,1226 3373,1307 3188,1250 2634,1300 2220,1276"/>
+                <Baseline points="2232,1389 2310,1394 2388,1395 2467,1397 2545,1395 2624,1394 2702,1392 2780,1389 2859,1386 2937,1382 3016,1377 3094,1374 3172,1370 3251,1367 3329,1364 3408,1362 3486,1362 3564,1362 3643,1364 3721,1368 3800,1373"/>
+                <TextEquiv>
+                    <Unicode>holm igaar modtog jeg den ærede Besty-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033015161_1144l12" custom="readingOrder {index:6;}">
+                <Coords points="2231,1588 2677,1561 2952,1624 3110,1552 3345,1612 3457,1547 3591,1584 3784,1542 3732,1418 3444,1410 3103,1417 2928,1475 2766,1424 2558,1449 2436,1509 2326,1441 2227,1472"/>
+                <Baseline points="2241,1568 2317,1569 2394,1569 2470,1569 2547,1568 2624,1566 2700,1563 2777,1559 2854,1556 2930,1553 3007,1548 3084,1545 3160,1541 3237,1538 3314,1535 3390,1532 3467,1530 3544,1530 3620,1530 3697,1532 3774,1533"/>
+                <TextEquiv>
+                    <Unicode>relses brev, hvorfor jeg beder mig undskyldt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033015161_1144l13" custom="readingOrder {index:7;}">
+                <Coords points="2217,1746 2319,1774 2386,1735 2430,1764 2502,1723 2578,1756 2637,1725 2743,1726 2779,1757 2988,1736 3016,1727 3014,1610 2906,1603 2821,1651 2570,1629 2505,1674 2431,1645 2377,1668 2287,1623 2215,1648"/>
+                <Baseline points="2226,1727 2267,1725 2308,1725 2349,1724 2390,1724 2431,1724 2472,1724 2513,1722 2554,1722 2595,1722 2636,1722 2677,1721 2718,1721 2759,1719 2800,1719 2841,1718 2882,1716 2923,1716 2964,1713 3005,1712"/>
+                <TextEquiv>
+                    <Unicode>den sene besvarelse.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033015161_1144l14" custom="readingOrder {index:8;}">
+                <Coords points="2220,1885 2541,1878 2759,1943 3003,1856 3214,1916 3366,1841 3572,1894 3781,1850 3779,1760 3255,1773 2685,1744 2433,1784 2217,1758"/>
+                <Baseline points="2229,1868 2306,1869 2383,1869 2460,1869 2537,1869 2614,1868 2691,1866 2768,1865 2845,1862 2922,1859 2999,1857 3076,1854 3153,1851 3230,1850 3307,1847 3384,1846 3461,1845 3538,1844 3615,1844 3692,1845 3770,1847"/>
+                <TextEquiv>
+                    <Unicode>Det vil naturligvis være mig en ære og en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033015161_1144l15" custom="readingOrder {index:9;}">
+                <Coords points="2224,2098 2540,2013 2814,2082 3043,2019 3320,2098 3506,2060 3839,2077 3837,1926 3658,1887 3303,1937 3131,1888 3052,1937 2980,1901 2676,1950 2222,1910"/>
+                <Baseline points="2234,2019 2313,2021 2393,2021 2473,2021 2552,2021 2632,2019 2712,2018 2791,2016 2871,2013 2951,2012 3031,2010 3110,2008 3190,2007 3270,2006 3349,2006 3429,2006 3509,2006 3588,2009 3668,2010 3748,2015 3828,2019"/>
+                <TextEquiv>
+                    <Unicode>glæde at modtage den elskværdige og hædrende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033015161_1144l16" custom="readingOrder {index:10;}">
+                <Coords points="2214,2193 2740,2258 2866,2175 3217,2242 3420,2245 3492,2190 3673,2231 3803,2219 3802,2061 3698,2036 3424,2086 3092,2049 2964,2061 2717,2060 2564,2101 2460,2052 2213,2101"/>
+                <Baseline points="2223,2175 2301,2177 2379,2178 2458,2180 2536,2180 2615,2180 2693,2178 2772,2178 2850,2177 2929,2175 3007,2174 3085,2173 3164,2172 3242,2171 3321,2171 3399,2171 3478,2171 3556,2172 3635,2174 3713,2175 3792,2178"/>
+                <TextEquiv>
+                    <Unicode>indbydelse, hvorfor udtales min hjerteligste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033015161_1144l17" custom="readingOrder {index:11;}">
+                <Coords points="2234,2366 2264,2369 2273,2361 2293,2379 2334,2374 2356,2378 2372,2393 2391,2388 2400,2397 2418,2397 2428,2271 2367,2255 2360,2246 2335,2258 2320,2241 2306,2242 2281,2258 2266,2243 2244,2245"/>
+                <Baseline points="2246,2346 2273,2349 2301,2351 2328,2353 2356,2354 2383,2357 2411,2360"/>
+                <TextEquiv>
+                    <Unicode>Tak.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662033015161_1144l18" custom="readingOrder {index:12;}">
+                <Coords points="2806,2550 2898,2530 3009,2570 3061,2553 3263,2611 3315,2586 3355,2617 3518,2636 3524,2377 3353,2378 3248,2360 3139,2429 2999,2456 2906,2395 2808,2420"/>
+                <Baseline points="2817,2514 2847,2516 2878,2518 2908,2519 2939,2520 2970,2522 3000,2522 3031,2523 3061,2523 3092,2523 3123,2524 3153,2525 3184,2525 3214,2525 3245,2526 3276,2526 3306,2526 3337,2528 3367,2528 3398,2529 3429,2529"/>
+                <TextEquiv>
+                    <Unicode>Alvilde Prydz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Frimansgade 20, 1. 1895
+Fredag. 12te April.
+Til Bestyrelsen for Læseforening
+for Kvinder!
+Først ved min hjemkomst fra Stock-
+holm igaar modtog jeg den ærede Besty-
+relses brev, hvorfor jeg beder mig undskyldt
+den sene besvarelse.
+Det vil naturligvis være mig en ære og en
+glæde at modtage den elskværdige og hædrende
+indbydelse, hvorfor udtales min hjerteligste
+Tak.
+Alvilde Prydz.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=NorHand(htr_id=43927)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-13T12:54:16.142+02:00</Created>
+        <LastChange>2023-10-17T12:21:33.180+02:00</LastChange>
+        <TranskribusMetadata docId="1026881" pageId="43166312" pageNr="1" tsid="137557053" status="GT" userId="190163" imgUrl="https://files.transkribus.eu/Get?id=NUUYOHBRAHJHCSYWANTURXWN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UCLFFEJCWWXDWUPIDNNENPDM" imageId="35406014"/>
+    </Metadata>
+    <Page imageFilename="no-nb_digimanus_194800_0001.jpg" imageWidth="2289" imageHeight="3399">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1698770871560" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1662363671007_23"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="region_1662363671007_23" custom="readingOrder {index:0;}">
+            <Coords points="327,310 2159,310 2159,3130 327,3130"/>
+            <TextLine id="region_1662363671007_23l2" custom="readingOrder {index:0;}">
+                <Coords points="509,568 677,555 855,601 939,563 1076,610 1361,557 1527,580 1529,492 1220,480 1099,523 1017,469 866,522 752,470 694,482 611,425 512,429"/>
+                <Baseline points="518,545 568,546 618,547 668,549 718,549 768,551 818,552 868,554 918,555 968,555 1018,557 1068,557 1118,558 1168,560 1218,560 1268,560 1318,560 1368,560 1418,560 1468,560 1518,560"/>
+                <TextEquiv>
+                    <Unicode>Kristiania 23 januar 1893.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363671007_23l3" custom="readingOrder {index:1;}">
+                <Coords points="659,971 810,965 1023,1022 1179,994 1278,1030 1334,989 1472,1026 1641,982 1641,874 1546,850 1444,877 1297,829 1128,870 906,814 835,861 760,826 660,845"/>
+                <Baseline points="668,948 716,950 764,952 812,954 860,956 908,956 956,957 1005,958 1053,959 1101,959 1149,959 1197,959 1245,959 1293,959 1342,959 1390,957 1438,957 1486,957 1534,957 1582,956 1631,956"/>
+                <TextEquiv>
+                    <Unicode>Fru Camilla Collett!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363671007_23l4" custom="readingOrder {index:2;}">
+                <Coords points="654,1391 1232,1469 1389,1391 1672,1431 2106,1385 2084,1319 1795,1267 1524,1317 1364,1273 1063,1346 762,1240 653,1257"/>
+                <Baseline points="662,1376 733,1379 805,1383 877,1385 949,1386 1020,1388 1092,1388 1164,1388 1236,1388 1307,1388 1379,1386 1451,1385 1523,1383 1594,1383 1666,1382 1738,1380 1810,1379 1881,1377 1953,1377 2025,1377 2097,1377"/>
+                <TextEquiv>
+                    <Unicode>Tillad, at jeg på denne Deres 80 år</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363671007_23l5" custom="readingOrder {index:3;}">
+                <Coords points="655,1607 944,1552 1061,1623 1297,1561 1404,1630 1565,1535 2048,1541 2067,1471 1874,1428 1759,1452 1529,1445 1334,1451 1247,1497 1187,1442 1103,1488 654,1453"/>
+                <Baseline points="663,1526 732,1529 802,1532 872,1533 942,1535 1011,1535 1081,1535 1151,1533 1221,1533 1290,1532 1360,1530 1430,1529 1500,1527 1569,1526 1639,1524 1709,1523 1779,1523 1848,1521 1918,1521 1988,1521 2058,1523"/>
+                <TextEquiv>
+                    <Unicode>fødselsdag føier også mine bedste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363671007_23l6" custom="readingOrder {index:4;}">
+                <Coords points="664,1677 1118,1708 1291,1673 1393,1753 1563,1671 2071,1674 2069,1574 1856,1611 1787,1575 1712,1622 1565,1568 1397,1628 1078,1627 1008,1580 664,1597"/>
+                <Baseline points="674,1667 743,1667 812,1668 882,1668 951,1668 1020,1668 1090,1668 1159,1668 1228,1668 1298,1668 1367,1668 1436,1668 1506,1667 1575,1667 1644,1665 1714,1665 1783,1664 1852,1662 1922,1662 1991,1660 2061,1659"/>
+                <TextEquiv>
+                    <Unicode>ønsker til de mange tusinders, idet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363671007_23l7" custom="readingOrder {index:5;}">
+                <Coords points="682,1883 943,1811 1047,1811 1159,1890 1316,1812 1468,1851 1733,1807 1802,1863 2041,1813 2038,1723 1576,1753 1110,1707 911,1737 682,1737"/>
+                <Baseline points="689,1823 756,1819 823,1815 890,1812 957,1809 1025,1808 1092,1805 1159,1805 1226,1803 1293,1802 1361,1802 1428,1800 1495,1800 1562,1800 1629,1799 1697,1799 1764,1799 1831,1799 1898,1797 1965,1797 2033,1796"/>
+                <TextEquiv>
+                    <Unicode>jeg samtidig udtaler min dybeste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363671007_23l8" custom="readingOrder {index:6;}">
+                <Coords points="671,2007 884,2067 1056,2013 1164,2058 1269,1977 1607,2007 1699,1950 1916,2037 2086,2017 2085,1907 1944,1857 1867,1877 1608,1851 1422,1907 1326,1844 1174,1903 731,1866 670,1903"/>
+                <Baseline points="680,1958 749,1959 819,1959 889,1959 959,1958 1029,1957 1098,1956 1168,1955 1238,1952 1308,1950 1378,1949 1447,1947 1517,1946 1587,1944 1657,1944 1727,1943 1796,1943 1866,1944 1936,1945 2006,1947 2076,1949"/>
+                <TextEquiv>
+                    <Unicode>høiagtelse og varmeste beundring.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363671007_23l9" custom="readingOrder {index:7;}">
+                <Coords points="1049,2392 1143,2373 1193,2395 1268,2386 1420,2450 1523,2386 1626,2378 1626,2252 1533,2293 1323,2259 1246,2288 1144,2231 1050,2247"/>
+                <Baseline points="1058,2360 1085,2360 1113,2360 1141,2361 1169,2361 1197,2361 1225,2363 1253,2363 1281,2363 1309,2364 1337,2364 1364,2364 1392,2366 1420,2366 1448,2366 1476,2365 1504,2364 1532,2364 1560,2363 1588,2361 1616,2360"/>
+                <TextEquiv>
+                    <Unicode>I ærbødighed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1662363671007_23l10" custom="readingOrder {index:8;}">
+                <Coords points="986,2765 1103,2764 1176,2820 1394,2798 1449,2832 1568,2798 1643,2821 1859,2792 1858,2688 1686,2654 1501,2563 1343,2660 1212,2619 1156,2565 986,2614"/>
+                <Baseline points="995,2748 1037,2752 1080,2755 1123,2758 1166,2760 1208,2762 1251,2763 1294,2765 1337,2765 1379,2766 1422,2766 1465,2766 1508,2765 1550,2765 1593,2763 1636,2762 1679,2759 1721,2756 1764,2754 1807,2751 1850,2747"/>
+                <TextEquiv>
+                    <Unicode>Kristian Gløersen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kristiania 23 januar 1893.
+Fru Camilla Collett!
+Tillad, at jeg på denne Deres 80 år
+fødselsdag føier også mine bedste
+ønsker til de mange tusinders, idet
+jeg samtidig udtaler min dybeste
+høiagtelse og varmeste beundring.
+I ærbødighed
+Kristian Gløersen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
