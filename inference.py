@@ -7,6 +7,7 @@ import pandas as pd
 
 BATCH_SIZE = 1
 PROMPT = """You are a handwriting transcription assistant. Carefully read the handwritten text in the image and output only the exact transcription.
+The language should be Norwegian, but maybe not present time Norwegian.
 - Do not add explanations, descriptions, or translations.
 - If a word or letter is unclear, transcribe it as best as possible without guessing additional words.
 - Keep original spelling, abbreviations, and punctuation as they appear in the handwriting.
