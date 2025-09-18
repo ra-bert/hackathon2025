@@ -1,78 +1,120 @@
-from transformers import Qwen2_5_VLForConditionalGeneration, AutoTokenizer, AutoProcessor
+from transformers import Qwen2_5_VLForConditionalGeneration, AutoProcessor
 from qwen_vl_utils import process_vision_info
 import torch
 import os
 import time
 import pandas as pd
 
-#BATCH_SIZE = 1
+BATCH_SIZE = 2
 
-# Load the dataset - has column file	textline	bbox
+# Load the dataset - has columns: file, textline, bbox
 dataset_filename = 'norhand/test_data/textlines.csv'
 dataset = pd.read_csv(dataset_filename)
 dataset_main_path = 'norhand/test_data/textlines'
 
+# Ensure column for predictions exists
+if 'prediction' not in dataset.columns:
+    dataset['prediction'] = ""
+
 # Hard-disable FlashAttention2 so Transformers won't try to import it
 os.environ["TRANSFORMERS_ATTENTION_IMPLEMENTATION"] = "sdpa"
 
-# default: Load the model on the available device(s)
-# model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
-#     "Qwen/Qwen2.5-VL-32B-Instruct", dtype="auto", device_map="auto"
-# )
 model_name = "Qwen/Qwen2.5-VL-7B-Instruct"
-# Use SDPA instead of FlashAttention2 and rename torch_dtype -> dtype
 model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
     model_name,
-    dtype=torch.bfloat16,                 # <— was torch_dtype
-    attn_implementation="sdpa",           # <— force SDPA
+    dtype=torch.bfloat16,
+    attn_implementation="sdpa",
     device_map="auto",
 )
-
-# default processor
 processor = AutoProcessor.from_pretrained(model_name)
 
-# The default range for the number of visual tokens per image in the model is 4-16384.
-# You can set min_pixels and max_pixels according to your needs, such as a token range of 256-1280, to balance performance and cost.
-min_pixels = 256*28*28
-max_pixels = 1280*28*28
-processor = AutoProcessor.from_pretrained(model_name, min_pixels=min_pixels, max_pixels=max_pixels)
-# Make it ready for a reading all dataset textline 
-for idx in range(len(dataset)):
-    file_name = dataset.iloc[idx]['file']
-    textline = dataset.iloc[idx]['textline']
-    bbox_coords = dataset.iloc[idx]['bbox']
-    print(f"Processing idx {idx}, file_name: {file_name}, textline: {textline}, bbox_coords: {bbox_coords}")
-    messages = [
-        {
-            "role": "user",
-            "content": [
-                {"type": "image", "image": os.path.join(dataset_main_path, file_name)},
-                {"type": "text", "text": "Read the handwritten text in the image. The language is Norwegian. Only output the text without any other explanation."},
-            ],
-        }
-    ]
+# Optional: tune visual token budget (keep if you need it)
+min_pixels = 256 * 28 * 28
+max_pixels = 1280 * 28 * 28
+processor = AutoProcessor.from_pretrained(
+    model_name, min_pixels=min_pixels, max_pixels=max_pixels
+)
 
-    # Preparation for inference
-    text = processor.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
-    image_inputs, video_inputs = process_vision_info(messages)
+print(f"Total rows: {len(dataset)} | Batch size: {BATCH_SIZE}")
+
+for start in range(0, len(dataset), BATCH_SIZE):
+    end = min(start + BATCH_SIZE, len(dataset))
+    batch_df = dataset.iloc[start:end]
+
+    # Build messages per sample
+    messages_list = []
+    for idx, row in batch_df.iterrows():
+        file_name = row['file']
+        textline = row.get('textline', "")
+        bbox_coords = row.get('bbox', "")
+        print(f"[{idx}] file: {file_name} | textline: {textline} | bbox: {bbox_coords}")
+
+        messages = [
+            {
+                "role": "user",
+                "content": [
+                    {"type": "image", "image": os.path.join(dataset_main_path, file_name)},
+                    {
+                        "type": "text",
+                        "text": (
+                            "Read the handwritten text in the image. "
+                            "The language is Norwegian. Only output the text without any other explanation."
+                        ),
+                    },
+                ],
+            }
+        ]
+        messages_list.append(messages)
+
+    # Turn each conversation into a chat template string, and collect image/video inputs
+    texts = []
+    image_inputs_list = []
+    video_inputs_list = []
+    for messages in messages_list:
+        text = processor.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+        texts.append(text)
+        image_inputs, video_inputs = process_vision_info(messages)
+        image_inputs_list.append(image_inputs)
+        video_inputs_list.append(video_inputs)
+
+    # Flatten image/video inputs as the processor expects a list aligned with texts
+    # (Each element corresponds to one sample)
     inputs = processor(
-        text=[text],
-        images=image_inputs,
-        videos=video_inputs,
+        text=texts,
+        images=image_inputs_list,
+        videos=video_inputs_list,
         padding=True,
         return_tensors="pt",
-    )
-    inputs = inputs.to("cuda")
-    start_time = time.time()
+    ).to("cuda")
 
-    # Inference: Generation of the output
-    print("Start to generate...")
-    generated_ids = model.generate(**inputs, max_new_tokens=128)
-    generated_ids_trimmed = [out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)]
-    output_text = processor.batch_decode(generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False)
-    print(output_text)
-    end_time = time.time()
-    print(f"Time used: {end_time - start_time} seconds")
-    dataset.at[idx, 'prediction'] = output_text[0]
+    # Inference
+    print(f"Generating for rows {start}..{end-1} ...")
+    start_time = time.time()
+    with torch.inference_mode():
+        generated_ids = model.generate(
+            **inputs,
+            max_new_tokens=128,
+            do_sample=False,           # deterministic; set True + temperature for sampling
+            eos_token_id=processor.tokenizer.eos_token_id,
+        )
+    elapsed = time.time() - start_time
+    print(f"Batch time: {elapsed:.2f}s")
+
+    # Trim prompts off and decode
+    trimmed = []
+    for in_ids, out_ids in zip(inputs.input_ids, generated_ids):
+        trimmed.append(out_ids[len(in_ids):])
+    outputs = processor.batch_decode(
+        trimmed,
+        skip_special_tokens=True,
+        clean_up_tokenization_spaces=False,
+    )
+
+    # Store predictions back into the dataset
+    for (row_idx, _), pred in zip(batch_df.iterrows(), outputs):
+        dataset.at[row_idx, 'prediction'] = pred.strip()
+
 # Save the results to a new CSV file
-dataset.to_csv('norhand/test_data/textlines_predictions.csv', index=False)
+out_path = 'norhand/test_data/textlines_predictions.csv'
+dataset.to_csv(out_path, index=False)
+print(f"Saved predictions -> {out_path}")
