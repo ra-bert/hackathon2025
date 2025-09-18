@@ -23,7 +23,7 @@ PROMPT_SYSTEM = (
     "- If a word/letter is unclear, transcribe as faithfully as possible without inventing words."
 )
 PROMPT_USER = (
-    "Transcribe the handwritten textin the image. Respond with exactly five transcribed lines separated by \\n, preserving the line breaks. "
+    "Transcribe the handwritten text in the image. Respond with exactly five transcribed lines separated by \\n, preserving the line breaks. "
     "Use empty lines for any missing lines."
 )
 
@@ -143,6 +143,6 @@ for start in tqdm(range(0, len(dataset), BATCH_SIZE), total=len(dataset)):
         dataset.at[row_idx, 'prediction'] = pred
 
 # Save
-out_path = 'norhand/test_data/textlines_predictions.csv'
+out_path = 'norhand/test_data/textlines5_predictions.csv'
 dataset.to_csv(out_path, index=False)
 print(f"Saved predictions -> {out_path}")
