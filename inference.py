@@ -10,30 +10,30 @@ os.environ["TRANSFORMERS_ATTENTION_IMPLEMENTATION"] = "sdpa"
 # model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
 #     "Qwen/Qwen2.5-VL-32B-Instruct", dtype="auto", device_map="auto"
 # )
-
+model_name = "Qwen/Qwen2.5-VL-7B-Instruct"
 # Use SDPA instead of FlashAttention2 and rename torch_dtype -> dtype
 model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
-    "Qwen/Qwen2.5-VL-7B-Instruct",
+    model_name,
     dtype=torch.bfloat16,                 # <— was torch_dtype
     attn_implementation="sdpa",           # <— force SDPA
     device_map="auto",
 )
 
 # default processor
-processor = AutoProcessor.from_pretrained("Qwen/Qwen2.5-VL-7B-Instruct")
+processor = AutoProcessor.from_pretrained(model_name)
 
 # The default range for the number of visual tokens per image in the model is 4-16384.
 # You can set min_pixels and max_pixels according to your needs, such as a token range of 256-1280, to balance performance and cost.
 min_pixels = 256*28*28
 max_pixels = 1280*28*28
-processor = AutoProcessor.from_pretrained("Qwen/Qwen2.5-VL-7B-Instruct", min_pixels=min_pixels, max_pixels=max_pixels)
+processor = AutoProcessor.from_pretrained(model_name, min_pixels=min_pixels, max_pixels=max_pixels)
 
 messages = [
     {
         "role": "user",
         "content": [
             {"type": "image", "image": "norhand/test/textlines/no-nb_digimanus_16320_0001_0.jpg"},
-            {"type": "text", "text": "Read the handwritten text in the image. The language is Norwegian."},
+            {"type": "text", "text": "Read the handwritten text in the image. The language is Norwegian. Only output the text without any other explanation."},
         ],
     }
 ]
