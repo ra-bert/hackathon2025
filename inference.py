@@ -39,9 +39,9 @@ processor = AutoProcessor.from_pretrained(model_name, min_pixels=min_pixels, max
 # Make it ready for a reading all dataset textline 
 for idx in range(len(dataset)):
     file_name = dataset.iloc[idx]['file']
-    text = dataset.iloc[idx]['textline']
-    # bbox_coords = dataset.iloc[idx]['bbox']
-    print(f"Processing idx {idx}, file_name: {file_name}, text: {text}, line: {line}, bbox_coords: {bbox_coords}")
+    textline = dataset.iloc[idx]['textline']
+    bbox_coords = dataset.iloc[idx]['bbox']
+    print(f"Processing idx {idx}, file_name: {file_name}, textline: {textline}, bbox_coords: {bbox_coords}")
     messages = [
         {
             "role": "user",
