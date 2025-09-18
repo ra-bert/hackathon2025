@@ -10,7 +10,7 @@ import pandas as pd
 # Load the dataset - has column file	textline	bbox
 dataset_filename = 'norhand/test_data/textlines.csv'
 dataset = pd.read_csv(dataset_filename)
-dataset_path = 'norhand/test_data/textlines'
+dataset_main_path = 'norhand/test_data/textlines'
 
 # Hard-disable FlashAttention2 so Transformers won't try to import it
 os.environ["TRANSFORMERS_ATTENTION_IMPLEMENTATION"] = "sdpa"
@@ -46,7 +46,7 @@ for idx in range(len(dataset)):
         {
             "role": "user",
             "content": [
-                {"type": "image", "image": file_name},
+                {"type": "image", "image": os.path.join(dataset_main_path, file_name)},
                 {"type": "text", "text": "Read the handwritten text in the image. The language is Norwegian. Only output the text without any other explanation."},
             ],
         }
