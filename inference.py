@@ -4,6 +4,7 @@ import torch
 import os
 import time
 import pandas as pd
+from tqdm import tqdm
 
 # ---------------- config ----------------
 BATCH_SIZE = 1
@@ -59,7 +60,7 @@ processor = AutoProcessor.from_pretrained(
 )
 
 # ---------------- run ----------------
-for start in range(0, len(dataset), BATCH_SIZE):
+for start in tqdm(range(0, len(dataset), BATCH_SIZE), total=len(dataset)):
     end = min(start + BATCH_SIZE, len(dataset))
     batch_df = dataset.iloc[start:end]
 
