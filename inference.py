@@ -9,15 +9,9 @@ BATCH_SIZE = 1
 
 # ---- Prompts ----
 PROMPT_SYSTEM = (
-    "You are a handwriting transcription assistant (HTR). Carefully read the handwritten text in the image and return only the exact transcription in Norwegian."
-    "teksten i bildet og lever kun den nøyaktige transkripsjonen på norsk.\n"
-    "Rules:\n"
-    "- Do not add explanations, descriptions, metadata, or translations.\n"
-    "- If a word or letter is unclear, transcribe it as accurately as possible without guessing additional words.\n"
-    "- Preserve the original spelling, abbreviations, and punctuation as they appear in the handwriting."
-    "- Do not use quotation marks, markdown, or labels. Output only the text."
+    "You are a careful paleography assistant for historical handwriting."
 )
-PROMPT_USER = "Transcribe the handwriting in the image. Respond only with the text (in Norwegian)."
+PROMPT_USER = "TASK: Transcribe the line diplomatically."
 
 # Load the dataset - has columns: file, textline, bbox
 dataset_filename = 'norhand/test_data/textlines.csv'
