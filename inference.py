@@ -16,7 +16,7 @@ dataset_main_path = 'norhand/test_data/textlines'
 if 'prediction' not in dataset.columns:
     dataset['prediction'] = ""
 
-# Hard-disable FlashAttention2 so Transformers won't try to import it
+# Disable FlashAttention2
 os.environ["TRANSFORMERS_ATTENTION_IMPLEMENTATION"] = "sdpa"
 
 model_name = "Qwen/Qwen2.5-VL-7B-Instruct"
@@ -26,9 +26,8 @@ model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
     attn_implementation="sdpa",
     device_map="auto",
 )
-processor = AutoProcessor.from_pretrained(model_name)
 
-# Optional: tune visual token budget (keep if you need it)
+# Processor (keep min/max pixels if you need them)
 min_pixels = 256 * 28 * 28
 max_pixels = 1280 * 28 * 28
 processor = AutoProcessor.from_pretrained(
@@ -41,7 +40,7 @@ for start in range(0, len(dataset), BATCH_SIZE):
     end = min(start + BATCH_SIZE, len(dataset))
     batch_df = dataset.iloc[start:end]
 
-    # Build messages per sample
+    # Build conversations and collect vision inputs
     messages_list = []
     for idx, row in batch_df.iterrows():
         file_name = row['file']
@@ -66,55 +65,55 @@ for start in range(0, len(dataset), BATCH_SIZE):
         ]
         messages_list.append(messages)
 
-    # Turn each conversation into a chat template string, and collect image/video inputs
+    # Prepare text + image/video batches
     texts = []
     image_inputs_list = []
     video_inputs_list = []
     for messages in messages_list:
-        text = processor.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
-        texts.append(text)
-        image_inputs, video_inputs = process_vision_info(messages)
-        image_inputs_list.append(image_inputs)
-        video_inputs_list.append(video_inputs)
+        t = processor.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+        texts.append(t)
+        imgs, vids = process_vision_info(messages)
+        image_inputs_list.append(imgs)
+        video_inputs_list.append(vids)  # will be None for images-only
 
-    # Flatten image/video inputs as the processor expects a list aligned with texts
-    # (Each element corresponds to one sample)
-    inputs = processor(
+    # ---- IMPORTANT: only include `videos` if present ----
+    has_any_video = any(v is not None and v != [] for v in video_inputs_list)
+    processor_kwargs = dict(
         text=texts,
         images=image_inputs_list,
-        videos=video_inputs_list,
         padding=True,
         return_tensors="pt",
-    ).to("cuda")
+    )
+    if has_any_video:
+        processor_kwargs["videos"] = video_inputs_list
+
+    inputs = processor(**processor_kwargs).to("cuda")
 
     # Inference
     print(f"Generating for rows {start}..{end-1} ...")
-    start_time = time.time()
+    t0 = time.time()
     with torch.inference_mode():
         generated_ids = model.generate(
             **inputs,
             max_new_tokens=128,
-            do_sample=False,           # deterministic; set True + temperature for sampling
+            do_sample=False,
             eos_token_id=processor.tokenizer.eos_token_id,
         )
-    elapsed = time.time() - start_time
-    print(f"Batch time: {elapsed:.2f}s")
+    print(f"Batch time: {time.time() - t0:.2f}s")
 
-    # Trim prompts off and decode
-    trimmed = []
-    for in_ids, out_ids in zip(inputs.input_ids, generated_ids):
-        trimmed.append(out_ids[len(in_ids):])
+    # Trim prompts and decode
+    trimmed = [out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)]
     outputs = processor.batch_decode(
         trimmed,
         skip_special_tokens=True,
         clean_up_tokenization_spaces=False,
     )
 
-    # Store predictions back into the dataset
+    # Save back
     for (row_idx, _), pred in zip(batch_df.iterrows(), outputs):
         dataset.at[row_idx, 'prediction'] = pred.strip()
 
-# Save the results to a new CSV file
+# Save
 out_path = 'norhand/test_data/textlines_predictions.csv'
 dataset.to_csv(out_path, index=False)
 print(f"Saved predictions -> {out_path}")
