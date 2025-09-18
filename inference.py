@@ -5,7 +5,7 @@ import os
 import time
 import pandas as pd
 
-BATCH_SIZE = 1
+BATCH_SIZE = 4
 PROMPT = """You are a handwriting transcription assistant. Carefully read the handwritten text in the image and output only the exact transcription in Norwegian.
 - Do not add explanations, descriptions, or translations.
 - If a word or letter is unclear, transcribe it as best as possible without guessing additional words.
@@ -118,6 +118,6 @@ for start in range(0, len(dataset), BATCH_SIZE):
         dataset.at[row_idx, 'prediction'] = pred.strip()
 
 # Save
-out_path = 'norhand/test_data/textlines_predictions.csv'
+out_path = 'norhand/test_data/textlines_predictions_batch4.csv'
 dataset.to_csv(out_path, index=False)
 print(f"Saved predictions -> {out_path}")
