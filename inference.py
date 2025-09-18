@@ -5,7 +5,8 @@ import os
 import time
 import pandas as pd
 
-dataset = pd.read_csv('norhand/test/textlines_df.csv')
+# Load the dataset - has column file_name	text	line	bbox_coords
+dataset = pd.read_csv('norhand/test_data/textlines_df.csv')
 # Hard-disable FlashAttention2 so Transformers won't try to import it
 os.environ["TRANSFORMERS_ATTENTION_IMPLEMENTATION"] = "sdpa"
 
