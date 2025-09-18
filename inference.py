@@ -7,7 +7,7 @@ import pandas as pd
 
 #BATCH_SIZE = 1
 
-# Load the dataset - has column file_name	text	line	bbox_coords
+# Load the dataset - has column file	textline	bbox
 dataset_filename = 'norhand/test_data/textlines.csv'
 dataset = pd.read_csv(dataset_filename)
 dataset_path = 'norhand/test_data/textlines'
@@ -38,10 +38,9 @@ max_pixels = 1280*28*28
 processor = AutoProcessor.from_pretrained(model_name, min_pixels=min_pixels, max_pixels=max_pixels)
 # Make it ready for a reading all dataset textline 
 for idx in range(len(dataset)):
-    file_name = dataset.iloc[idx]['file_name']
-    text = dataset.iloc[idx]['text']
-    line = dataset.iloc[idx]['line']
-    #bbox_coords = dataset.iloc[idx]['bbox_coords']
+    file_name = dataset.iloc[idx]['file']
+    text = dataset.iloc[idx]['textline']
+    # bbox_coords = dataset.iloc[idx]['bbox']
     print(f"Processing idx {idx}, file_name: {file_name}, text: {text}, line: {line}, bbox_coords: {bbox_coords}")
     messages = [
         {
