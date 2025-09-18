@@ -23,7 +23,7 @@ PROMPT_SYSTEM = (
     "- If a word/letter is unclear, transcribe as faithfully as possible without inventing words."
 )
 PROMPT_USER = (
-    "Transcribe the handwritten text. Respond with exactly five lines separated by \\n, preserving the line breaks. "
+    "Transcribe the handwritten textin the image. Respond with exactly five transcribed lines separated by \\n, preserving the line breaks. "
     "Use empty lines for any missing lines."
 )
 
@@ -72,7 +72,7 @@ for start in tqdm(range(0, len(dataset), BATCH_SIZE), total=len(dataset)):
     for idx, row in batch_df.iterrows():
         file_name = row['file']
         file_path = os.path.join(dataset_main_path, file_name)
-        gt_text = row.get('textline', "")  # ground truth from CSV (may be single-line)
+        gt_text = row.get('textlines', "")  # ground truth from CSV (may be single-line)
 
         print(f"[{idx}] file: {file_name}")
         if isinstance(gt_text, str):
