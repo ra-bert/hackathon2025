@@ -68,14 +68,17 @@ for start in range(0, len(dataset), BATCH_SIZE):
     for idx, row in batch_df.iterrows():
         file_name = row['file']
         file_path = os.path.join(dataset_main_path, file_name)
+        gt_text = row.get('textline', "")  # ground truth from CSV
+
         print(f"[{idx}] file: {file_name}")
+        print(f"  GT: {gt_text}")  # <-- print ground truth here
 
         messages = [
             {"role": "system", "content": [{"type": "text", "text": PROMPT_SYSTEM}]},
             {
                 "role": "user",
                 "content": [
-                    {"type": "image", "image": file_path},  # already cropped line image
+                    {"type": "image", "image": file_path},
                     {"type": "text", "text": PROMPT_USER},
                 ],
             },
@@ -83,12 +86,11 @@ for start in range(0, len(dataset), BATCH_SIZE):
         messages_list.append(messages)
 
     # Prepare text + image batches (no videos at all)
-    texts = []
-    image_inputs_list = []
+    texts, image_inputs_list = [], []
     for messages in messages_list:
         t = processor.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
         texts.append(t)
-        imgs, vids = process_vision_info(messages)   # vids will be None
+        imgs, _ = process_vision_info(messages)
         image_inputs_list.append(imgs)
 
     inputs = processor(
@@ -98,42 +100,26 @@ for start in range(0, len(dataset), BATCH_SIZE):
         return_tensors="pt",
     ).to("cuda")
 
-    # Inference (beam search helps HTR over greedy)
-    print(f"Generating for rows {start}..{end-1} ...")
-    t0 = time.time()
+    # Inference
     with torch.inference_mode():
         generated_ids = model.generate(
             **inputs,
-            max_new_tokens=96,          # lines rarely need a lot
-            do_sample=False,            # deterministic
-            num_beams=5,                # better sequence than greedy
-            length_penalty=0.0,         # neutral
+            max_new_tokens=96,
+            do_sample=False,
+            num_beams=5,
             eos_token_id=processor.tokenizer.eos_token_id,
-            pad_token_id=processor.tokenizer.eos_token_id,  # avoid warnings
+            pad_token_id=processor.tokenizer.eos_token_id,
         )
-    print(f"Batch time: {time.time() - t0:.2f}s")
 
-    # Trim prompts and decode
     trimmed = [out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)]
-    outputs = processor.batch_decode(
-        trimmed,
-        skip_special_tokens=True,
-        clean_up_tokenization_spaces=False,
-    )
+    outputs = processor.batch_decode(trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False)
+    outputs = [o.strip().splitlines()[0] if "\n" in o else o.strip() for o in outputs]
 
-    # Keep a single line, no extras
-    clean = []
-    for o in outputs:
-        o = o.strip()
-        if "\n" in o:
-            o = o.splitlines()[0].strip()
-        clean.append(o)
-
-    print("Predictions:")
-    for o in clean:
-        print(f"  -> {o}")
-
-    for (row_idx, _), pred in zip(batch_df.iterrows(), clean):
+    # Print ground truth + prediction together
+    for (row_idx, row), pred in zip(batch_df.iterrows(), outputs):
+        gt = row.get('textline', "")
+        print(f"  PRED: {pred}")
+        print("----")
         dataset.at[row_idx, 'prediction'] = pred
 
 # Save
