@@ -6,6 +6,11 @@ import time
 import pandas as pd
 
 BATCH_SIZE = 2
+PROMPT = """You are a handwriting transcription assistant. Carefully read the handwritten text in the image and output only the exact transcription in Norwegian.
+- Do not add explanations, descriptions, or translations.
+- If a word or letter is unclear, transcribe it as best as possible without guessing additional words.
+- Keep original spelling, abbreviations, and punctuation as they appear in the handwriting.
+-Output only the plain text line(s) from the image."""
 
 # Load the dataset - has columns: file, textline, bbox
 dataset_filename = 'norhand/test_data/textlines.csv'
@@ -55,10 +60,7 @@ for start in range(0, len(dataset), BATCH_SIZE):
                     {"type": "image", "image": os.path.join(dataset_main_path, file_name)},
                     {
                         "type": "text",
-                        "text": (
-                            "Read the handwritten text in the image. "
-                            "The language is Norwegian. Only output the text without any other explanation."
-                        ),
+                        "text": PROMPT,
                     },
                 ],
             }
