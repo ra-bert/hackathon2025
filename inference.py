@@ -5,15 +5,10 @@ import os
 import time
 import pandas as pd
 
-# ------------------ config ------------------
-BATCH_SIZE = 2
-model_name = "Qwen/Qwen2.5-VL-7B-Instruct"
+BATCH_SIZE = 1
 
-dataset_filename = 'norhand/test_data/textlines.csv'   # columns: file, textline, bbox
-dataset_main_path = 'norhand/test_data/textlines'
-
-# Prompts
-SYSTEM_PROMPT = (
+# ---- Prompts ----
+PROMPT_SYSTEM = (
     "Du er en assistent for transkripsjon av håndskrift (HTR). Les nøye den håndskrevne "
     "teksten i bildet og lever kun den nøyaktige transkripsjonen på norsk.\n"
     "Regler:\n"
@@ -22,17 +17,21 @@ SYSTEM_PROMPT = (
     "- Behold original staving, forkortelser og tegnsetting slik de står i håndskriften.\n"
     "- Ikke bruk anførselstegn, markdown eller etiketter. Svar kun med teksten."
 )
-USER_PROMPT = "Transkriber håndskriften i bildet. Svar kun med teksten (norsk)."
+PROMPT_USER = "Transkriber håndskriften i bildet. Svar kun med teksten (norsk)."
 
-# Disable FlashAttention2 (stick to SDPA to avoid nvcc/wheel issues)
-os.environ["TRANSFORMERS_ATTENTION_IMPLEMENTATION"] = "sdpa"
-
-# ------------------ load data ------------------
+# Load the dataset - has columns: file, textline, bbox
+dataset_filename = 'norhand/test_data/textlines.csv'
 dataset = pd.read_csv(dataset_filename)
+dataset_main_path = 'norhand/test_data/textlines'
+
+# Ensure column for predictions exists
 if 'prediction' not in dataset.columns:
     dataset['prediction'] = ""
 
-# ------------------ load model & processor ------------------
+# Disable FlashAttention2
+os.environ["TRANSFORMERS_ATTENTION_IMPLEMENTATION"] = "sdpa"
+
+model_name = "Qwen/Qwen2.5-VL-7B-Instruct"
 model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
     model_name,
     dtype=torch.bfloat16,
@@ -40,7 +39,7 @@ model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
     device_map="auto",
 )
 
-# Optionally bound visual tokens for VRAM
+# Processor (keep min/max pixels if you need them)
 min_pixels = 256 * 28 * 28
 max_pixels = 1280 * 28 * 28
 processor = AutoProcessor.from_pretrained(
@@ -49,55 +48,58 @@ processor = AutoProcessor.from_pretrained(
 
 print(f"Total rows: {len(dataset)} | Batch size: {BATCH_SIZE}")
 
-# ------------------ batching loop ------------------
 for start in range(0, len(dataset), BATCH_SIZE):
     end = min(start + BATCH_SIZE, len(dataset))
     batch_df = dataset.iloc[start:end]
 
-    # Build messages per sample (system + user[image,text])
+    # Build conversations and collect vision inputs
     messages_list = []
     for idx, row in batch_df.iterrows():
-        file_path = os.path.join(dataset_main_path, row['file'])
+        file_name = row['file']
+        textline = row.get('textline', "")
+        bbox_coords = row.get('bbox', "")
+        print(f"[{idx}] file: {file_name} | textline: {textline} | bbox: {bbox_coords}")
+
         messages = [
             {
                 "role": "system",
-                "content": [{"type": "text", "text": SYSTEM_PROMPT}],
+                "content": [{"type": "text", "text": PROMPT_SYSTEM}],
             },
             {
                 "role": "user",
                 "content": [
-                    {"type": "image", "image": file_path},
-                    {"type": "text", "text": USER_PROMPT},
+                    {"type": "image", "image": os.path.join(dataset_main_path, file_name)},
+                    {"type": "text", "text": PROMPT_USER},
                 ],
             },
         ]
         messages_list.append(messages)
 
-    # Convert conversations to chat template + gather image inputs
+    # Prepare text + image/video batches
     texts = []
     image_inputs_list = []
-    video_inputs_list = []  # images-only, but we’ll keep the list to check presence
+    video_inputs_list = []
     for messages in messages_list:
         t = processor.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
         texts.append(t)
         imgs, vids = process_vision_info(messages)
         image_inputs_list.append(imgs)
-        video_inputs_list.append(vids)  # will be None for pure images
+        video_inputs_list.append(vids)  # will be None for images-only
 
-    # Only pass videos if any are present
+    # ---- only include `videos` if present ----
     has_any_video = any(v is not None and v != [] for v in video_inputs_list)
-    proc_kwargs = dict(
+    processor_kwargs = dict(
         text=texts,
         images=image_inputs_list,
         padding=True,
         return_tensors="pt",
     )
     if has_any_video:
-        proc_kwargs["videos"] = video_inputs_list
+        processor_kwargs["videos"] = video_inputs_list
 
-    inputs = processor(**proc_kwargs).to("cuda")
+    inputs = processor(**processor_kwargs).to("cuda")
 
-    # ------------------ inference ------------------
+    # Inference
     print(f"Generating for rows {start}..{end-1} ...")
     t0 = time.time()
     with torch.inference_mode():
@@ -109,19 +111,22 @@ for start in range(0, len(dataset), BATCH_SIZE):
         )
     print(f"Batch time: {time.time() - t0:.2f}s")
 
-    # Trim prompts off and decode
+    # Trim prompts and decode
     trimmed = [out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)]
     outputs = processor.batch_decode(
         trimmed,
         skip_special_tokens=True,
         clean_up_tokenization_spaces=False,
     )
+    print("Predictions:")
+    for o in outputs:
+        print(f"  -> {o.strip()}")
 
-    # Save predictions
+    # Save back
     for (row_idx, _), pred in zip(batch_df.iterrows(), outputs):
         dataset.at[row_idx, 'prediction'] = pred.strip()
 
-# ------------------ save ------------------
-out_path = 'norhand/test_data/textlines_predictions.csv'
+# Save
+out_path = 'norhand/test_data/textlines_predictions_batch4.csv'
 dataset.to_csv(out_path, index=False)
 print(f"Saved predictions -> {out_path}")
