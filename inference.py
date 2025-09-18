@@ -23,13 +23,12 @@ if 'prediction' not in dataset.columns:
     dataset['prediction'] = ""
 
 # Disable FlashAttention2
-os.environ["TRANSFORMERS_ATTENTION_IMPLEMENTATION"] = "sdpa"
+#os.environ["TRANSFORMERS_ATTENTION_IMPLEMENTATION"] = "sdpa"
 
 model_name = "Qwen/Qwen2.5-VL-7B-Instruct"
 model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
     model_name,
     dtype=torch.bfloat16,
-    attn_implementation="sdpa",
     device_map="auto",
 )
 
