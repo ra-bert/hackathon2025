@@ -1,21 +1,25 @@
 from transformers import Qwen2_5_VLForConditionalGeneration, AutoTokenizer, AutoProcessor
 from qwen_vl_utils import process_vision_info
 import torch
+import os
+
+# Hard-disable FlashAttention2 so Transformers won't try to import it
+os.environ["TRANSFORMERS_ATTENTION_IMPLEMENTATION"] = "sdpa"
 
 # default: Load the model on the available device(s)
 # model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
-#     "Qwen/Qwen2.5-VL-32B-Instruct", torch_dtype="auto", device_map="auto"
+#     "Qwen/Qwen2.5-VL-32B-Instruct", dtype="auto", device_map="auto"
 # )
 
-# We recommend enabling flash_attention_2 for better acceleration and memory saving, especially in multi-image and video scenarios.
+# Use SDPA instead of FlashAttention2 and rename torch_dtype -> dtype
 model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
     "Qwen/Qwen2.5-VL-32B-Instruct",
-    torch_dtype=torch.bfloat16,
-    attn_implementation="flash_attention_2",
+    dtype=torch.bfloat16,                 # <— was torch_dtype
+    attn_implementation="sdpa",           # <— force SDPA
     device_map="auto",
 )
 
-# default processer
+# default processor
 processor = AutoProcessor.from_pretrained("Qwen/Qwen2.5-VL-32B-Instruct")
 
 # The default range for the number of visual tokens per image in the model is 4-16384.
@@ -28,19 +32,14 @@ messages = [
     {
         "role": "user",
         "content": [
-            {
-                "type": "image",
-                "image": "norhand/test/textlines/no-nb_digimanus_16320_0001_0.jpg",
-            },
+            {"type": "image", "image": "norhand/test/textlines/no-nb_digimanus_16320_0001_0.jpg"},
             {"type": "text", "text": "Read the handwritten text in the image. The language is Norwegian."},
         ],
     }
 ]
 
 # Preparation for inference
-text = processor.apply_chat_template(
-    messages, tokenize=False, add_generation_prompt=True
-)
+text = processor.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
 image_inputs, video_inputs = process_vision_info(messages)
 inputs = processor(
     text=[text],
@@ -53,10 +52,6 @@ inputs = inputs.to("cuda")
 
 # Inference: Generation of the output
 generated_ids = model.generate(**inputs, max_new_tokens=128)
-generated_ids_trimmed = [
-    out_ids[len(in_ids) :] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
-]
-output_text = processor.batch_decode(
-    generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False
-)
+generated_ids_trimmed = [out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)]
+output_text = processor.batch_decode(generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False)
 print(output_text)
