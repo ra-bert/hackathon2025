@@ -28,8 +28,8 @@ PROMPT_USER = (
 )
 
 # Data (images already cropped)
-dataset_filename = 'norhand/test_data/textlines.csv'   # columns: file, textline, bbox (bbox is unused)
-dataset_main_path = 'norhand/test_data/textlines'
+dataset_filename = 'norhand/test_data/5_lines.csv'   # columns: file, textline, bbox (bbox is unused)
+dataset_main_path = 'norhand/test_data/5_lines'
 
 # ---------------- load data ----------------
 dataset = pd.read_csv(dataset_filename)
