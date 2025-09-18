@@ -110,7 +110,9 @@ for start in range(0, len(dataset), BATCH_SIZE):
         skip_special_tokens=True,
         clean_up_tokenization_spaces=False,
     )
-
+    print("Predictions:")
+    for o in outputs:
+        print(f"  -> {o.strip()}")
     # Save back
     for (row_idx, _), pred in zip(batch_df.iterrows(), outputs):
         dataset.at[row_idx, 'prediction'] = pred.strip()
