@@ -7,11 +7,18 @@ import pandas as pd
 
 BATCH_SIZE = 1
 PROMPT = """You are a handwriting transcription assistant. Carefully read the handwritten text in the image and output only the exact transcription.
-The language should be Norwegian, but maybe not present time Norwegian.
+The language should be Norwegian
 - Do not add explanations, descriptions, or translations.
 - If a word or letter is unclear, transcribe it as best as possible without guessing additional words.
 - Keep original spelling, abbreviations, and punctuation as they appear in the handwriting.
--Output only the plain text line(s) from the image."""
+- Output only the plain text line(s) from the image."""
+PROMPT = """
+Du er en assistent for transkripsjon av håndskrift. Les nøye den håndskrevne teksten i bildet og skriv ut kun den nøyaktige transkripsjonen.
+Språket skal være norsk.
+Ikke legg til forklaringer, beskrivelser eller oversettelser.
+Hvis et ord eller en bokstav er uklar, transkriber det så godt som mulig uten å gjette ekstra ord.
+Behold original staving, forkortelser og tegnsetting slik de står i håndskriften.
+Skriv kun ut selve tekstlinjen(e) fra bildet."""
 
 # Load the dataset - has columns: file, textline, bbox
 dataset_filename = 'norhand/test_data/textlines.csv'
